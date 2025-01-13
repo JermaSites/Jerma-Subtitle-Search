@@ -1,0 +1,16 @@
+.venv/
+*.info.json
+*.m4a
+*.mp4
+*.opus
+*.part
+*.webm
+/artifacts/
+/dist/
+/node_modules/
+/src/assets/processed/
+/src/downloader/output.srt
+cookies.*
+tempCodeRunnerFile.*
+test.*
+venv/
