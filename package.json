@@ -1,0 +1,24 @@
+{
+    "name": "jerma-subtitle-search",
+    "private": true,
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "lite-youtube-embed": "^0.3.3",
+        "minisearch": "^7.1.1",
+        "mithril": "^2.2.12",
+        "pako": "^2.1.0"
+    },
+    "devDependencies": {
+        "@types/mithril": "^2.2.7",
+        "@types/pako": "^2.0.3",
+        "sass": "^1.83.1",
+        "typescript": "^5.7.2",
+        "vite": "^4.5.5"
+    }
+}
