@@ -152,7 +152,7 @@ def rename_files(subs_path: str):
     seperator_pattern = re.compile(r'[-+_]+')
     suffix_pattern = re.compile(r'(?:_with_Chat)?(?:_v\d+)?(?=\.)', flags=re.IGNORECASE)
     year_pattern = re.compile(r'(?=\d)0_s')
-    _s_fix_pattern = re.compile(r'(Assassin|Asura|Barker|Bugleberry|Cabela|Children|Clancy|Dante|Demon|Devil|Director|Dragon|Farmer|Freddy|Hawk|It|Jerma|Let|Ludlum|Mario|Marvel|Papa|Raven|Sanity|Shop|Spooky|STAR|Unknown|Who|Youtuber)_s', flags=re.IGNORECASE)
+    _s_fix_pattern = re.compile(r'\b(Assassin|Asura|Barker|Bugleberry|Cabela|Children|Clancy|Dante|Demon|Devil|Director|Dragon|Farmer|Freddy|Hawk|It|Jerma|Let|Ludlum|Mario|Marvel|Papa|Raven|Sanity|Shop|Spooky|STAR|Unknown|Who|Youtuber)_s\b', flags=re.IGNORECASE)
     
     for filename in os.listdir(subs_path):
         new_filename = prefix_pattern.sub('', filename)
