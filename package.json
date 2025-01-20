@@ -3,6 +3,10 @@
     "private": true,
     "version": "1.0.1",
     "type": "module",
+    "engines": {
+        "npm": ">=10"
+    },
+    "homepage": "https://jerma-search.bergbok.party",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
