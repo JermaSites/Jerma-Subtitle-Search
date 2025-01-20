@@ -1,0 +1,60 @@
+@use './_variables.scss' as *;
+
+form#search-bar {
+    accent-color: var(--form-accent-color);
+    caret-color: var(--form-caret-color);
+    display: flex;
+    justify-content: center;
+    margin: 2rem auto;
+    width: 100%;
+    
+    input {
+        background-color: var(--input-background-color);
+        border-radius: 0.25rem 0 0 0.25rem;
+        border-right: none;
+        border: 1px solid var(--form-border-color);
+        color: var(--input-text-color);
+        flex: 1;
+        font-family: inherit;
+        font-size: 1rem;
+        min-width: 0;
+        padding: 0.5rem;
+    
+        &:focus {
+            box-shadow: inset 0 0 0 0.2rem var(--form-accent-color);
+            outline: none;
+        }
+
+        &:focus,
+        &:hover {
+            background-color: var(--input-hover-background-color);
+        }
+    }
+
+    input::placeholder {
+        font-family: var(--fonts);
+    }
+
+    button {
+        background-color: var(--button-background-color);
+        border-left: none;
+        border-radius: 0 0.25rem 0.25rem 0;
+        border: 1px solid var(--form-border-color);
+        color: transparent;
+        cursor: pointer;
+        font-size: 1rem;
+        padding: 0.5rem 1rem;
+
+        &:hover {
+            background-color: var(--button-hover-background-color);
+
+            svg.icon {
+                fill: var(--icon-hover-color);
+            }
+        }
+
+        svg.icon {
+            height: 1.4rem;
+        }
+    }
+}

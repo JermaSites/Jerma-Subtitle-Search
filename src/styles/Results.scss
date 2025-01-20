@@ -1,0 +1,130 @@
+@use './_variables.scss' as *;
+
+#results {
+    color: var(--result-text-color);
+    display: block;
+
+    h1 {
+        margin-top: 0;
+    }
+
+    h2 {
+        margin-bottom: 2rem;
+    }
+
+    #results-list {
+        column-gap: 1.6rem;
+        columns: 21rem 4;
+        margin: 0;
+        padding: 0 0 1rem 0;
+
+        .result-item {
+            background-color: var(--result-item-background-color);
+            border-radius: 0.25rem;
+            border: 1px solid var(--result-item-border-color);
+            margin-bottom: 1.6rem;
+            overflow: hidden;
+            padding: 1px;
+
+            .video-embed {
+                aspect-ratio: 16 / 9;
+                width: 100%;
+
+                .lty-playbtn {
+                    background-image: var(--embed-icon);
+                }
+
+                &::before {
+                    content: none;
+                }
+            }
+
+            .video-info {
+                padding: 0.5rem;
+
+                #title {
+                    background-color: var(--result-title-background-color);
+                    font-weight: bold;
+                    margin: -0.5rem;
+                    padding: 0.6rem;
+                    text-align: center;
+                }
+            }
+
+            .subtitle-matches {
+                line-height: 1.6rem;
+                list-style-type: none;
+                margin: 0 0.25rem 0 0.25rem;
+                padding: 0;
+
+                .match {
+                    border-radius: 3px;
+                    padding: 0.2rem;
+
+                    .line {
+                        padding: 0 0 0.2rem 0;
+                    }
+
+                    button.seek {
+                        background-color: var(--button-background-color);
+                        border-radius: 0.42rem;
+                        border: none;
+                        color: var(--button-text-color);
+                        cursor: pointer;
+                        font-family: inherit;
+                        font-size: 1rem;
+                        margin-right: 0.3rem;
+                        padding: 0.42rem;
+
+                        &:hover {
+                            background-color: var(--button-hover-background-color);
+                        }
+                    }
+    
+                    mark {
+                        background: var(--highlight-background-color);
+                        border-radius: 2px;
+                        color: var(--highlight-text-color);
+                        padding: 0.1rem;
+                    }
+
+                    hr {
+                        background-image: linear-gradient(to right, transparent 0%, var(--match-seperator-color) 5%,  var(--match-seperator-color) 95%,  transparent 100%);
+                        border: none;
+                        height: 0.125rem;
+                        opacity: 0.25;
+                    }
+                }
+
+                .match:last-child {
+                    margin: 0 0 0.5rem 0;
+
+                    hr {
+                        display: none;
+                    }
+                }
+            }
+
+            button.show-more {
+                align-items: center;
+                background: transparent;
+                border: none;
+                color: var(--button-text-color);
+                cursor: pointer;
+                display: flex;
+                font-family: inherit;
+                font-size: 1rem;
+                height: 3rem;
+                justify-content: center;
+                padding: 0.5rem;
+                text-align: center;
+                width: 100%;
+
+                svg.icon {
+                    margin-left: 0.5rem;
+                    width: 1.6rem;
+                }
+            }
+        }
+    }
+}

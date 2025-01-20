@@ -1,0 +1,76 @@
+@use './_animations.scss' as *;
+@use './_variables.scss' as *;
+
+#loading-indicator {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    #loading-graphic-container {
+        display: inline-flex;
+        padding: 0.25rem;
+        position: relative;
+        z-index: 1;
+
+        &.done {
+            opacity: 0
+        }
+
+        &.parse,
+        &.download {
+            &::after,
+            &::before {
+                animation: 3.33s border-spin linear infinite;
+                border-radius: 0.2rem;
+                content: '';
+                height: 100%;
+                left: 50%;
+                position: absolute;
+                top: 50%;
+                transform: translate(-50%, -50%);
+                width: 100%;
+                z-index: -1;
+            }
+        }
+
+        &.parse {
+            &::after {
+                background-image: conic-gradient(from var(--angle), transparent 90%, var(--loading-parse-color));
+            }
+            &::before  {
+                background-image: conic-gradient(from calc(var(--angle) + 180deg), transparent 90%, var(--loading-parse-color));
+            }
+        }
+        
+        &.download {
+            &::after {
+                background-image: conic-gradient(from var(--angle), transparent 90%, var(--loading-download-color));
+            }
+
+            &::before {
+                background-image: conic-gradient(from calc(var(--angle) + 180deg), transparent 90%, var(--loading-download-color));
+            }
+        }
+
+        #loading-graphic {
+            animation: fade-in 1s ease-in-out;
+            border-radius: 0.125rem;
+            margin: 0;
+            width: clamp(8rem, 20vw, 10rem);
+        }
+    }
+
+    #loading-graphic-container.done + p {
+        animation: none;
+        opacity: 0;
+    }
+
+    p {
+        animation: fade-in 1s ease-in-out;
+        color: var(--text-color);
+        font-size: 1.2em;
+        margin-top: 20px;
+    }
+}
