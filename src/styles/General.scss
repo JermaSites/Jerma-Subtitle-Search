@@ -1,0 +1,70 @@
+@use './_fonts.scss';
+@use './_variables.scss' as *;
+
+:root {
+    background-color: var(--background-color);
+    font-family: var(--fonts);
+    font-size: #{$font-size};
+}
+
+body {
+    height: 100dvh;
+    margin: 0;
+}
+
+#page-container {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 95%;
+
+    @media screen and (min-width: 768px) {
+        width: 80%;
+    }
+
+    #page-info {
+        background-color: var(--page-info-background-color);
+        border-radius: 0.69rem;
+        box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+        color: var(--page-info-text-color);
+        font-size: 1.3rem;
+        margin: 0 auto 1.5rem;
+        padding: 1rem;
+        text-align: center;
+        width: 88%;
+        
+        @media screen and (min-width: 768px) {
+            font-size: 1.1rem;
+            margin: 1rem auto 0 auto;
+            width: 75%;
+        }
+    }
+}
+
+.full-page {
+    height: 100dvh;
+    left: 0;
+    object-fit: fill;
+    position: fixed;
+    top: 0;
+    width: 100dvw;
+}
+
+svg.icon {
+    fill: var(--icon-color);
+
+    &:hover {
+        fill: var(--icon-hover-color);
+    }
+}
+
+a {
+    color: var(--hyperlink-color);
+    text-decoration: wavy underline;
+}
+
+// *,
+// *::before,
+// *::after {
+//     box-sizing: border-box;
+// }
