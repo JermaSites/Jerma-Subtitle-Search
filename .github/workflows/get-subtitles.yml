@@ -1,0 +1,97 @@
+name: Run get_subtitles.py
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: 'subtitle-acquisition'
+  cancel-in-progress: true
+
+jobs:
+  get-subtitles:
+    runs-on: self-hosted
+    defaults:
+      run:
+        working-directory: ./src/scripts
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.2.2
+
+      - name: Checkout Subtitles.json (LFS)
+        run: |
+          git lfs install
+          git lfs pull -I src/assets/Subtitles.json -X /
+
+      - name: Setup FFmpeg
+        uses: federicocarboni/setup-ffmpeg@v3.1
+
+      - name: Setup Python
+        uses: actions/setup-python@v5.3.0
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+        continue-on-error: true
+
+      - name: Install Python packages
+        run: |
+          cd get_subtitles
+          python -m venv venv
+          source venv/bin/activate
+          pip install -r requirements.txt
+
+      - name: Write cookie file
+        run: echo "${{ secrets.COOKIES }}" > cookies.txt
+
+      - name: Run get_subtitles.py
+        run: |
+          set +e
+          cd get_subtitles
+          source venv/bin/activate
+          while true; do
+            echo 'Running get_subtitles.py...'
+            python get_subtitles.py
+
+            EXIT_CODE=$?
+
+            if [ $EXIT_CODE -eq 0 ]; then
+              echo 'Script completed successfully.'
+              break
+            else
+              echo "Script crashed with exit code $EXIT_CODE. Restarting in 10 seconds..."
+              sleep 10
+            fi
+          done
+
+      - name: Commit
+        run: |
+          cd ../../
+
+          new_entries=()
+
+          for file in $(git ls-files --others --exclude-standard src/assets/subtitles/*.lrc); do
+            new_entry="$(basename "$file" .en.lrc)"
+            new_entry="${new_entry//_/ }"
+            new_entries+=("$new_entry")
+            git add "$file"
+            git commit -m "chore: add subtitles for $new_entry"
+          done
+
+          git add src/scripts/get_subtitles/downloaded.txt
+          git add src/scripts/get_subtitles/unavailable_videos.txt
+          if [ -f src/scripts/get_subtitles/videos_with_no_subs.txt ]; then
+            git add src/scripts/get_subtitles/videos_with_no_subs.txt
+          fi
+
+          git commit -m 'chore: update downloader logs'
+
+          git add src/assets/Subtitles.json
+
+          description='new entries:'
+          for entry in "${new_entries[@]}"; do
+            description+="\n- $entry"
+          done
+          
+          git commit -m 'chore: update subtitles.json' -m "$(printf "$description")"
+      
+      - name: Push
+        run: git push

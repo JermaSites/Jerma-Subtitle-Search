@@ -1,0 +1,81 @@
+name: Update subtitles
+
+on:
+  push:
+    branches: [ 'main' ]
+    paths: ['src/assets/subtitles/**']
+  workflow_dispatch:
+
+concurrency:
+  group: 'subtitle-indexing'
+  cancel-in-progress: true
+
+jobs:
+  update-subtitles:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout
+          uses: actions/checkout@v4.2.2
+
+        - name: Checkout Subtitles.json (LFS)
+          run: |
+            git lfs install
+            git lfs pull -I src/assets/Subtitles.json -X /
+
+        - name: Setup Python
+          uses: actions/setup-python@v5.3.0
+          with:
+            python-version: 3
+            check-latest: true
+
+        - name: Run update_stats.py
+          run: |
+            cd src/scripts
+            python update_stats.py
+            git add ../../README.md
+          
+        - name: Commit
+          uses: qoomon/actions--create-commit@v1.2.3
+          with:
+            message: 'chore: update statistics'
+          continue-on-error: true
+
+        - name: Install Node
+          uses: actions/setup-node@v4.1.0
+          with:
+            node-version: '*'
+
+        - name: Install MiniSearch
+          run: npm install minisearch
+
+        - name: Create subtitle index
+          run: |
+            node src/scripts/index-subtitles.js
+            git add public/assets/SubtitleIndex.json.gzip
+
+        - name: Commit
+          uses: qoomon/actions--create-commit@v1.2.3
+          with:
+            message: 'chore: update subtitles index'
+          continue-on-error: true
+
+        - name: Bump package.json patch version
+          id: bump_version
+          run: |
+            npm version patch --git-tag-version false
+            VERSION=$(node -p "require('./package.json').version")
+            echo "VERSION=${VERSION}" >> $GITHUB_OUTPUT
+            git add package.json
+
+        - name: Update service-worker.js cache version
+          run: |
+            sed -i "1s/^.*$/const cacheName = 'cache-${{ steps.bump_version.outputs.VERSION }}';/" public/service-worker.js
+            git add public/service-worker.js
+
+        - name: Commit
+          uses: qoomon/actions--create-commit@v1.2.3
+          with:
+            message: 'chore: bump version to ${{ steps.bump_version.outputs.VERSION }}'
+
+        - name: Push
+          run: git push

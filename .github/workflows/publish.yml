@@ -1,0 +1,84 @@
+name: Build and deploy
+
+on:
+  push:
+    branches: ['main']
+    paths: ['index.html', 'public/**', 'src/index.ts', 'src/scripts/create-subtitle-index.js', 'src/assets/**', 'src/components/**', 'src/styles/**']
+  workflow_dispatch:
+
+concurrency:
+  group: 'dist'
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.2.2
+
+      - name: Install Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Run build
+        run: bun run build
+
+      - name: Push
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: dist
+          FOLDER: dist
+          COMMIT_NAME: github-actions[bot]
+          COMMIT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SQUASH_HISTORY: true
+
+      - name: Checkout dist branch
+        uses: actions/checkout@v4.2.2
+        with:
+          ref: dist
+          fetch-depth: 0
+
+      - name: Add CNAME
+        run: echo 'jerma-search.bergbok.party' > CNAME
+
+      - name: Cleanup dist branch
+        run: |
+          rm -rf src # idk why this folder is being created
+          git add src
+          git commit -m ':3'
+          git push origin dist
+  deploy:
+    needs: build
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: 'dist' 
+          lfs: true
+            
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
