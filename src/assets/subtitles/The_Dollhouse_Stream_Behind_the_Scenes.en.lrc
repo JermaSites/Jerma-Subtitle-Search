@@ -1,0 +1,2925 @@
+[re:Lavf60.16.100]
+[ve:60.16.100]
+
+[01:55.47]Hello!
+[01:56.53]What's up?
+[01:57.77]How are you?
+[02:01.98]I'm good.
+[02:02.22]That was pretty cool.
+[02:02.98]That's the first time I've seen that.
+[02:05.36]Yeah, it was fun, right?
+[02:06.12]Vinny put that together for us.
+[02:08.70]I haven't seen any of these.
+[02:10.12]I've seen a few.
+[02:12.06]Hi, guys.
+[02:12.94]Welcome.
+[02:15.00]That was awesome.
+[02:17.00]My heart is beating out of my chest.
+[02:20.99]That was unbelievable.
+[02:22.55]First time I've seen that.
+[02:24.75]Introduce yourselves.
+[02:26.29]This is two very important people.
+[02:28.03]Yeah, so I'm Jake.
+[02:30.37]I'm the owner of JK Productions and Community Jake, as you may know me, Jeremy's manager.
+[02:37.66]And yeah, I put together this show, Jeremy's incredible idea.
+[02:44.40]And I have Alex here, my right-hand man, who was in charge of all the tech.
+[02:47.61]So if you want to say hi.
+[02:49.49]Hi, my name's Alex.
+[02:50.37]Yeah, I was the director for the dollhouse, so any of the technology that wasn't from the extension was something that my group was working on and that we'll talk about tonight.
+[03:01.88]Also, these two guys were responsible for more than just this.
+[03:06.40]Archaeology, thank these two.
+[03:09.52]Bugleberry's hot tub, these guys.
+[03:13.05]Even before that, the Halloween stream, these guys.
+[03:17.00]They've been around for a long time.
+[03:18.16]And of course the carnival.
+[03:19.08]Oh yeah, absolutely, the carnival.
+[03:21.62]I can't hardly forget that.
+[03:23.42]But they've been... These are the people behind the shit that you see.
+[03:29.55]In the flesh here.
+[03:30.73]Yeah, and I'm really excited.
+[03:31.67]Tonight we're segmenting the show into three parts.
+[03:35.23]So the first part of the show is about the pre-production of Dollhouse, sort of how it came to be.
+[03:42.69]And then the second part of the show is about what the Dollhouse production was like, so while it was happening, what was it like sort of behind the scenes.
+[03:51.50]And then the third part of the show is with our talent, where we talk about the content and how we came up with things, like different segments on the show, and how a lot of it, most of it, sort of happened on the fly as chat made their decisions and that sort of thing.
+[04:07.82]and how we developed our beats and all that sort of stuff.
+[04:10.78]So I'm pretty excited.
+[04:11.94]We have a ton.
+[04:13.10]We have way more footage than we could possibly show.
+[04:14.90]There's a lot of clips.
+[04:17.12]There's like hundreds.
+[04:19.42]We've cut down well over 100 hours of footage down to, I don't know, maybe 90 minutes or so, and we're probably not even going to get to show all of it tonight.
+[04:28.29]We don't usually get to talk about this side too, so this will be fun for people to see.
+[04:33.31]Also, on the second channel,
+[04:37.88]It's going to be like a cut-down documentary, essentially, right?
+[04:41.40]Yeah, so we're doing the... Even if you don't see it today, you'll see some of it later.
+[04:46.18]Yeah, we're doing the normal second Jerma cuts of each episode, and then we'll be doing a behind-the-scenes cut, too, that's like this super cut of all of this stuff together.
+[04:56.22]So even if there's stuff we don't get to show today, hopefully it'll show up there.
+[05:00.78]Release the cut.
+[05:02.18]Release the cut.
+[05:02.97]No, not yet.
+[05:04.51]Not yet.
+[05:04.87]Not until I get my hands on it.
+[05:09.56]With us today, in the first part of the show here, we have Nick Lawrence from Animark.
+[05:19.15]We've got Nick Lawrence from Animark.
+[05:21.10]If you want to say hi, Nick.
+[05:22.34]Hey, everybody.
+[05:24.44]My name is Nick Lawrence.
+[05:26.18]I usually work for Animark as a mechanical engineering person, but also in
+[05:30.89]a small group of people that get to do really fun super special projects like the dollhouse um and it was a it was a blast one of one of the coolest things I've ever ever ever worked on yeah and also carnival stuff too so all the robots that's that's these guys they did that too so they were responsible for so much stuff and I I cannot say I could say it a million times but
+[05:58.48]You guys are worth going to a million times over.
+[06:03.29]I would rather use the Andy Mark people over the highest quality studio in Los Angeles a hundred times.
+[06:13.17]You guys are unbelievable.
+[06:14.11]There's no way we'd be able to find.
+[06:17.77]I just want to say in front of everybody that we super appreciate the opportunity and we had a blast doing it for sure.
+[06:24.64]We look forward to more.
+[06:26.75]Yeah, oh yeah.
+[06:28.43]There will be plenty more, that's for sure.
+[06:31.62]So I think to start us off... There's a cat.
+[06:34.84]Oh yeah, there's a cat.
+[06:35.99]Cat sighting!
+[06:37.81]Simon's finding a place to sit for the stream.
+[06:42.66]I think to start off this section, I'm going to show a few renders, photos, real quick.
+[06:48.28]And then we're going to jump into a tour that I gave to our BTS op, Vinny.
+[06:54.90]And we can kind of skip through that and see what it was like on set there.
+[06:59.22]But to get us started, this was like a super early render of what the space looked like in the mind of the engineers over at Andy Mark.
+[07:11.87]And as you can see, we had this idea about we want this dollhouse to be two floors.
+[07:21.42]It needs to be more than just a bunch of sets.
+[07:23.98]And we talked about having disconnected sets, where it was like, OK, well, we can pretend that they're upstairs.
+[07:29.14]We can use some camera magic to superimpose them upstairs or whatever.
+[07:32.48]And at least I was pretty insistent that it needed to be a house.
+[07:37.20]It needed to be a two-story house for us to have the effect that we wanted it to have.
+[07:41.52]And so as much as it annoyed everyone, I think, to be insistent on that, this is sort of what we came up with.
+[07:53.46]And so looking at it, these are some renders that we had of where inside the warehouse, because the roof in the warehouse isn't really that tall.
+[08:02.42]And so we had some issues with like how high the trust can be and where the lights needed to be and all that sort of thing.
+[08:06.54]But, you know, you could see like an overhead here.
+[08:09.43]We have the upper rooms and the forward rooms are actually set back.
+[08:13.99]The upper rooms are set back, which is why when you see that full house view, the upper rooms look smaller because they're 20 feet back from those lower rooms.
+[08:22.43]But it really is necessary in order to shoot.
+[08:25.02]shoot that way and to light the space right to be able to light something without having a floor on top of it and you're talking about a building where like at some at some points in this building the roof is only 23 or 24 feet and the set itself is 18 feet so there was a lot of kind of camera tricks and light tricks to make the items look correct and to have the force perspective for the walls because you really need to feel like you can see what's on a wall right you can't build a 90 degree wall or you wouldn't be able to tell what you were placing yeah they're like they're like this right like that yeah essentially they're like right up yeah
+[08:55.93]Originally, I was going to go out the top floor window.
+[08:58.23]That was the first idea.
+[09:00.89]I want to go out the second floor window, not the bottom floor.
+[09:04.47]That was the plan.
+[09:05.19]How the fuck are we going to have you go out of the second floor window?
+[09:08.57]I was like, I don't know, figure it out!
+[09:10.50]And then I dropped out of the room.
+[09:13.92]Yeah, Nick, I don't know if you want to say anything about those forced perspective rooms, because that idea was the genius, I think, behind how we were able to shoot this, and that totally came from your group.
+[09:23.74]Yeah, definitely.
+[09:25.00]There's a lot of people.
+[09:26.48]I mean, I'm just one of the team.
+[09:28.22]I mean, Liz and Rin and Brett, really the other core people on our team that all have a lot of artsy theater perspective.
+[09:35.16]And they really kind of drove the shapes of the rooms from our end.
+[09:39.85]And they were like, yeah, like every set ever, they got the rooms open so you can see the stuff on the walls.
+[09:44.53]which makes it so much easier to shoot and see grandma spoons on the walls.
+[09:47.67]You can actually see them instead of having to bring cameras way around and see the detail, the doors opening and the window openings, all of that.
+[09:57.01]Yeah, it's funny that when the project was pitched to us, we were like, you want two stories, right?
+[10:01.59]OK, so we're going to fake this, right?
+[10:02.73]And you're like, no, it's got to be two stories.
+[10:04.56]And we're like, OK, so it's two stories.
+[10:06.76]We got it.
+[10:09.04]Yeah, you can actually see the real life one here.
+[10:13.04]The walls of the kitchen room and the bathroom room were kind of tapered together here.
+[10:21.34]that you can see the walls tapering open, which is pretty neat.
+[10:26.14]One of the things we had to be super careful of, you can see in this, is the tops of all the alleyways are just fabric.
+[10:32.91]They just needed to be black.
+[10:34.63]And we had to be super careful to remind people to not step on them because it wasn't a flooring surface.
+[10:40.75]It definitely caught me off guard a bit while I was doing painting.
+[10:43.82]Yeah, I almost fell and died actually once during the setup of the show.
+[10:50.43]Yeah.
+[10:52.25]One of the things that we super had to care about was safety, right?
+[10:57.45]And we way, way, way overbuilt that upper level because
+[11:02.16]When we were planning the show, at one point, we thought that there might be as many as 15, 20, even 30 people in one room.
+[11:08.96]Plus, Jack could have placed all the furniture in one room, so we had to deal with thousands of pounds of payload and make sure it was safe.
+[11:16.93]All the structure underneath is way, way, way overbuilt for your average house.
+[11:20.47]Yeah, let's get the tour video started.
+[11:22.07]We could pause it along the way to point out some of that stuff, I think.
+[11:25.19]Yeah, that sounds like a good idea.
+[11:26.87]Yeah, so this is set and it's six rooms.
+[11:31.61]There's two upstairs and four downstairs.
+[11:33.82]This is the yard.
+[11:34.58]We consider the yard to be a room because it's a place where Jack can put things and it's on camera.
+[11:41.30]People can interact there and stuff.
+[11:43.96]But on day one, we just have rooms four and five.
+[11:48.20]They're number one, two, three, four, five, six.
+[11:50.81]So rooms four and five are the yellow room.
+[11:52.65]I think this is probably five or six days before air.
+[12:02.30]When did you guys finish it?
+[12:04.34]Like when was it ready to go?
+[12:06.02]How far before the stream?
+[12:07.14]What time did the stream start?
+[12:09.75]Three o'clock on Wednesday?
+[12:15.22]I mean... I remember when I walked in, I was like, holy shit, this is ready.
+[12:20.18]And I think that you had just barely finished.
+[12:21.98]People don't realize that all this was potentially finished
+[12:27.25]Not even a week before the stream started.
+[12:29.41]Yeah, one week before the stream started is the day that we got the delivery of our tech rental.
+[12:34.78]So all that trust work and lighting and stuff that you see was one week before stream.
+[12:38.60]And so actually, I think six days before stream.
+[12:41.74]All of the tech got built, and then all the finishing... I mean, you'll see in this tour the state of the rooms.
+[12:46.37]This is still probably three days before... Like the bulk of them were there, the colors and the doors and all that.
+[12:50.75]There'll be the bedroom, I guess.
+[12:55.33]So Chad will have a little bit of a challenge trying to figure out how to...
+[12:58.75]make it work.
+[12:59.63]Room 5 here is the bathroom.
+[13:04.56]And the bathroom is smaller than every other room in the house, but it's still quite large for a bathroom, which Chad seemed to notice on the Sims 3 stream that we did.
+[13:17.79]at earlier this month and so yeah we've got like a shower and toilet a little vanity and stuff but there's so much room in here that on that first day uh we won't we wouldn't be surprised to see a bed in here or some other furniture in here because there's not a ton of room in that other room and we think that's kind of funny over here this is um
+[13:39.39]Probably a bedroom.
+[13:40.57]I think we're calling it a bedroom in the software.
+[13:43.55]But again, you know, Jack can kind of do what they want.
+[13:47.42]So now the yellow room becomes...
+[13:51.19]I don't know if you go, I haven't seen this video yet, so I don't know if you go into further detail, but you can see one of the monitors that's behind the window to make the background there.
+[13:59.07]Do you show that a little later in this video?
+[14:00.91]Yeah, I think we see the back of them a little bit later.
+[14:02.73]But yeah, there were, in total, I think we bought over 20 TVs between the small ones and the big ones to make this set a reality.
+[14:11.33]So I think that the windows, the TVs in the windows was just an amazing effect that it was such a small touch.
+[14:19.49]I was hoping people caught it.
+[14:20.77]It brought it all together, yeah.
+[14:22.43]The rain, the fire, the day and night.
+[14:25.21]Someone sitting there controlling the weather to make it correspond with the graphic of the house and what's going on with the day-night cycle, right?
+[14:32.19]One of those details.
+[14:32.89]I'll skip forward a little bit here.
+[14:35.81]We're talking about these windows.
+[14:37.55]Let's see.
+[14:38.95]And there's also that window in the front.
+[14:41.65]So if we go and take a look at that window.
+[14:43.91]And so this is where the burglar is going to come through.
+[14:48.83]But because all these walls are double walls in order to create the forced perspective, it's a little awkward because the burglar is going to have to open the outer window, step inside here, open the inner window.
+[14:58.32]And then have to climb out the other, yeah.
+[15:00.30]Exactly.
+[15:01.06]But I think it's also kind of funny.
+[15:03.04]Like, I'm not bothered by it.
+[15:05.80]That'll work.
+[15:06.84]And then on day three, we add rooms one and two.
+[15:11.10]Room one becomes the bedroom, which is that kind of maroon room up there.
+[15:16.50]And room six, which was that blue room, now becomes the living room.
+[15:20.79]So this is really just the kitchen.
+[15:22.99]And then room two is that unfinished room up there with that closet wall in the back.
+[15:31.17]And so the storyline goes that at the end of day two,
+[15:36.11]The house burns down, and Jeremy collects the insurance money for it, and he gets to buy a bigger house.
+[15:42.41]So he buys this bigger house, but it has this room that was never finished.
+[15:45.75]And so he wants to finish the room, to turn it into an office or something like that.
+[15:51.40]And so he goes up there and cleans all the junk out of it, and he starts working on it and accidentally kills his neighbor's power in the process of doing that.
+[15:59.28]And the neighbor comes over and says, what the hell's going on here?
+[16:02.46]And offers to help him finish the room.
+[16:04.76]And the other change for day three is in the yard in room three here.
+[16:08.74]What's that?
+[16:10.34]It said scripted Saul, somebody said.
+[16:12.51]Yeah.
+[16:13.15]Well, the thing is, we had, yeah, you can take this one, because we had a few things that were actually absolutely going to happen.
+[16:20.17]Yeah, so it was important for us to understand how we were going to get from one day to the next, because the idea was that we wanted the house to get bigger from day one to day two, and then we wanted to blow everybody's minds by making the house two stories for the third day.
+[16:34.09]And so we had to come up with a storyline that made sense to get us from day one to day two to day three.
+[16:40.17]And we had a few of these technical things that we wanted to happen that we needed to know how they were going to happen in order for them to work.
+[16:48.52]And a great example of that is the fire at the end of day two.
+[16:52.22]We knew we wanted to have a house fire.
+[16:53.86]We knew that we wanted, that's like a very Sims thing, have a house fire.
+[16:57.58]We knew we wanted to have a house fire.
+[16:58.84]And we also knew that Jeremy wanted to go out a window.
+[17:02.73]And so coupling those two things together actually didn't happen until Jeremy was on site.
+[17:09.07]We knew that Jeremy was going to go out the window, but we didn't know how or why he was going to go out the window until it was like pretty much the day before the shoot.
+[17:15.47]And it was like, OK, why is Jeremy going out the window?
+[17:17.97]How is he going out the window?
+[17:18.84]And that's when we talked about the fire and rehearsed the fire and blocked the fire out in order to make that happen.
+[17:23.84]And so the fire was the natural storyline about you get insurance money.
+[17:28.45]buy a bigger house or you rebuild your house or whatever it is to get to get that that huge house on day three um what we didn't know for example is we didn't the call for what came from chat for when he would make the food that started the sequence or the fire so we didn't know where the fire would happen we knew it would be related to making food but ultimately we had to place it somewhere when chat had decided to make food where it was the right time for it to catch on fire so chat was still involved in that decision right of like the food decision was was made and that started the sequence
+[17:55.44]Yeah, and there's so many decisions.
+[17:57.90]There's so many different pathways of things that we had thought about where it's like, well, yeah, what are the different things that they could choose?
+[18:06.67]And we kind of planned for all three different options.
+[18:08.91]And then it's like, well, if they pick this one, then what are some more things that they could choose?
+[18:11.85]And so there's like dozens of storylines that did not play out because of how chat chose them.
+[18:18.00]But as you'll see as we kind of go through this, the reality of the situation is that you have to...
+[18:23.32]You have to have some pre-planning and have some of these more complicated things are executed in order for them to work.
+[18:28.58]And a great example is the window shatter, right?
+[18:30.72]So, yeah.
+[18:33.49]Which was something that had to happen.
+[18:36.07]For sure.
+[18:36.43]People say my mic is fucked up.
+[18:38.67]Does it sound bad?
+[18:39.17]Sounds good to me.
+[18:40.05]Is it pulling my webcam mic?
+[18:40.65]Yeah, it sounds right to me.
+[18:42.91]Sounds OK.
+[18:43.21]Sound weird?
+[18:43.69]Oh.
+[18:44.83]Let me see.
+[18:47.13]So this is prop storage.
+[18:49.63]And it's kind of laid out by room.
+[18:52.51]So there's like kitchen stuff over here, couches over here, bed stuff over there, chairs over here.
+[18:59.57]So as chat purchases things, the people in the morph suit movers will come back here, pick the item, and then we'll go through the front door and install the item inside the house, wherever chat said to put it, or as close to it as possible.
+[19:16.51]And this is where Nick was talking about those trusses overhead.
+[19:20.52]Yeah, those are those are on like 12 inch spacing, which is kind of absurd for floor trussing.
+[19:26.71]You can see it was I mean, the rooms are like 16 foot square and there's two of them upstairs.
+[19:30.31]So there's this very long unsupported span that we had to deal with.
+[19:34.67]So we ran crap tons of these engineered wooden I-beams to support the weight of that.
+[19:39.31]But it also created this nice cavity where we could put prop storage.
+[19:43.90]And the size of the upstairs was driven by the building more than anything.
+[19:48.68]Because of the spans between the vertical columns in the building we were shooting in, we wanted to tie into those to help support the floor.
+[19:56.80]And did a pretty good job of hiding the beams, especially you guys with all the curtains you hung to hide the beams on set.
+[20:06.30]But they were baked in, and they were part of actually holding the set together.
+[20:10.32]And here's one of your TVs behind the windows.
+[20:13.32]Yeah, TVs, and you can see the hose manifold there of the hose coming in to feed the sink and the toilet feature.
+[20:22.38]OSHA Andy.
+[20:25.14]Yeah.
+[20:26.50]We were super enthusiastic about making sure that little detail of actual running water was available on set, because we already knew we needed running water for one of the toilet gags, where the toilets broke in as one of the potential storylines.
+[20:39.82]We needed the toilet bill to spray water.
+[20:41.24]We're like, well, we're already going to run water here.
+[20:42.80]Why don't we just have the sinks be functional?
+[20:45.22]It actually ended up being useful, because we could use the running sinks on set to clean between days.
+[20:53.19]I just had that realistic touch, right?
+[20:56.33]Yeah.
+[20:57.35]And this is the kind of stuff that you guys would just do.
+[20:59.69]It'd be like, oh, we can do running water.
+[21:02.76]How?
+[21:03.90]How are you going to do running water?
+[21:06.04]It makes no sense.
+[21:07.60]It's pretty funny.
+[21:09.56]You can see in the go back, it's actually all garden hoses and adapters.
+[21:15.27]See if you can see it.
+[21:15.93]Yeah, so there's the manifold.
+[21:17.81]So that's actually all residential garden hose manifold stuff in two locations, one in the bathroom and one near the, this is behind the kitchen area.
+[21:29.05]And we went to Menards and just found all of the little bits and doodads to go from garden hose to kitchen sink.
+[21:36.81]And I don't think you can see it here, but there's a little black hose to the bottom right of those two yellow hoses running on the wall.
+[21:42.38]That's actually running into a five gallon bucket.
+[21:44.84]Because drainage is its own level of difficulty.
+[21:47.90]So we just had five gallon buckets to drain the sinks to.
+[21:51.68]And we just emptied them whenever they were needed.
+[21:54.48]We couldn't use it for too long.
+[21:57.58]I have a clip of the oven, yeah.
+[22:00.04]I think there was a time, I was running the sink, and I think there was a time where I got in my ear, it was like, hey, turn the sink off, you're gonna fill the fucking bucket, it's gonna overflow.
+[22:10.12]Because I was using the sink too much one of the days, so somebody had to scramble back there and dump the bucket quick, because he's gonna flood it.
+[22:21.01]This is the handiwork here.
+[22:23.32]Was it you that worked on this?
+[22:25.79]It's me and a couple of people who worked on the oven part.
+[22:29.21]I did mostly the dressing of it, whereas another Animark person cut the back of it off, and that Brett really made the hole in the wall work with our contractor.
+[22:39.29]So yeah, this is really cool.
+[22:40.53]This is so that behind the scenes, we could have the cookie dough thing work, where you put in the bowl of cookie dough, and out comes a whole package of cookies without ever having to break camera on that.
+[22:54.95]on that room.
+[22:55.87]Same with the mac and cheese, right?
+[22:57.75]The mac and cheese did it once too, yeah.
+[22:59.46]Yeah, mac and cheese was done the same way.
+[23:02.00]And I was the one who was doing the oven management, and I had to be super quiet, because I knew the shotgun mics were on and right over the oven.
+[23:09.16]So I'm super carefully pulling it out of the oven, trying not to make too much noise inside that oven.
+[23:14.45]I thought somebody was just pissing into that.
+[23:15.73]I was like, oh, that's not, what's that?
+[23:18.35]I was like, why are we looking at this?
+[23:22.66]Yeah, that's something that Nick just mentioned there too.
+[23:24.86]Every room had a microphone in it in addition to the ones that the characters were wearing, which is kind of a small thing, but it makes a big difference in the end because that's how you were able to hear things like the moving crew, right?
+[23:36.10]Who are not individually, like they don't have microphones on because they don't have lines.
+[23:39.78]But that's how we would get some of that ambient noise of them running into things or kicking things or whatever, or a scene with a lot of characters like in the party and whatnot.
+[23:46.97]We can pick up little bits of conversation, even though not every single person has a microphone.
+[23:50.83]So
+[23:51.34]But it also, the flip side, right, is that everybody working around that set or backstage has to be super careful because there's just, like, these ears that are just over every single room for everything you're doing.
+[24:01.77]Yeah.
+[24:03.59]I see Jeremy laughing in the chat here.
+[24:04.93]Yeah, because I've got my fucking, like, gamer neck.
+[24:09.25]It actually works.
+[24:10.83]It does?
+[24:11.25]So water's not on right now, but it does work.
+[24:12.67]This is the first time that Jeremy saw it.
+[24:13.97]This is the first time that Jeremy saw the house, yeah.
+[24:15.73]Is the sprayer on?
+[24:19.47]Very good, very good.
+[24:20.99]This is unbelievable.
+[24:24.17]When we were sitting around and just talking about this and going over what was going to happen.
+[24:30.49]This is what I wanted, but it was like, holy shit, there's no way this is going to happen.
+[24:34.59]There's no way this is ever going to happen.
+[24:36.09]This is unbelievable, like un-fucking-believable.
+[24:39.33]So this room gets added on day two.
+[24:42.16]So on day two, this becomes the bedroom.
+[24:46.56]It's like a... Mount Fiji?
+[24:48.25]What is this?
+[24:48.77]That's just, like, the built-in Alexa screensaver thing.
+[24:52.15]But we have custom, like, daytime, nighttime... Oh, my God.
+[24:56.45]This shit was so cool.
+[24:57.75]It really was.
+[24:58.49]You know in, like, those Sims simulation games you play?
+[25:04.36]Like, when you see something for the first time, I was actually walking around, like, clapping at all this shit.
+[25:09.36]Yeah.
+[25:10.74]Like, it was just insane.
+[25:11.52]Is this, uh...
+[25:18.55]I guess we can wait to talk about the glass window.
+[25:21.21]Oh, yeah, going up the stairs.
+[25:22.33]And this is so much stuff.
+[25:27.26]This is an insane amount of stuff, by the way.
+[25:30.14]You guys had so many options to buy things.
+[25:32.68]Everything on that list, none of that was not there.
+[25:36.10]How many items were back here for potential?
+[25:38.07]At least 120, 130 at least of the larger items.
+[25:46.25]so every night they counted the items to know where they were too so it was like they were constantly being checked to make sure that the list of what was available they all they knew where every item was they knew you know where how to get to it because that time is so fast once they select right nick and I went to goodwill uh one day and we basically cleaned him out of furniture and they said that it was the largest the largest like order that they had ever had and then he and I went back three more days after that and just cleaned them out every single day it was like
+[26:13.94]There's box trucks of Goodwill stuff.
+[26:15.98]Yeah, literal just box truck after box truck after box truck.
+[26:20.97]And the original idea was potentially that we were just going to bring it back.
+[26:25.85]Right?
+[26:26.35]Like, we might just bring it all back.
+[26:28.40]I don't know.
+[26:28.86]Yeah, I don't know what you guys are doing with that stuff.
+[26:33.62]Still there.
+[26:35.44]Still figuring it out.
+[26:37.17]Some of it was claimed by crew, but I assume that anything that's left over will just get donated again.
+[26:41.85]I mean, some of it was pretty cool.
+[26:43.57]Just donate it again.
+[26:45.37]I want to make this a point, too.
+[26:47.20]Pretty much one of the things we wanted to make sure was happening here was, so a lot of the stuff that we got from some of these
+[26:53.58]like thrift stores and stuff, was to either get it back there, donate it again, donate it to where it belonged, and a lot of this wood, too.
+[27:01.03]A lot of this stuff is going to be reused and repurposed from the construction manager.
+[27:05.83]It was all built to code, so it could be used to build houses.
+[27:10.09]Yeah, a lot of this is actually going to get potentially repurposed.
+[27:12.31]So that's really good because we essentially put all this stuff here and essentially built a half a house.
+[27:20.64]So I definitely wanted it to go back as much as we could and kind of repurpose and recycle it if we could.
+[27:26.19]I see chat asking about the stools.
+[27:28.97]So the stools, there was one stool.
+[27:31.87]It was just like, oh, we should probably have a footstool as a thing that they could buy.
+[27:35.48]and chat loved the stools.
+[27:37.35]And so that night we'd send somebody out and said, buy as many stools, that model stool that you can find and just cleaned them out.
+[27:43.47]Yeah.
+[27:43.77]It was like, we went to every store in the area that sold that sort of stool and just bought them out.
+[27:48.86]So we then just used them whenever we could.
+[27:51.56]We used them in the mystery boxes.
+[27:52.68]We put them back in the store.
+[27:54.02]They were in the cabinets upstairs.
+[27:55.10]They were in the cabinets.
+[27:56.04]Yeah.
+[27:56.66]The mystery cabinets or whatever they were called.
+[27:58.18]Yeah.
+[27:59.78]Yeah.
+[28:00.00]You get mystery boxes with just stools in them.
+[28:06.01]This is case storage back here.
+[28:07.38]Yeah, we had the delivery of all the stuff, the technology that loaded in here was the equivalent of a whole semi-truck worth.
+[28:15.40]It was like several hours to unload and set it all up.
+[28:19.54]A lot of equipment.
+[28:20.32]That's the very back wall, yeah.
+[28:22.03]I think we have a picture too of kind of the layout plan for all the motors and everything.
+[28:26.97]Yeah.
+[28:27.41]We had a lot of stuff suspended in the air to support all the lights.
+[28:29.99]I got to clean up some stuff in there and then...
+[28:34.17]This is back where everybody was hanging out.
+[28:35.39]There was a monitor here back there.
+[28:37.66]It was a screen, so all the actors, all the people that were kind of waiting on the wings, they were all hanging out back here, just watching a screen, just waiting for somebody to pump in their ear or somebody to run back here and be like, all right, we need a climb!
+[28:50.62]And then just they would get ready and come out.
+[28:52.84]Yeah, I think I might have a clip of that somewhere.
+[28:57.33]Yeah, here.
+[28:58.01]This one's called Green Room Chillin'.
+[28:59.47]There they are.
+[29:01.79]There's our actors back in that group.
+[29:03.55]Moving crew at the ready.
+[29:08.55]Based on the chat decisions, we didn't know how fast it might be between bicycles or between different scenes and gags, right?
+[29:14.73]So everybody kind of had to be armed all the time.
+[29:18.32]That couch is so freaking comfortable, by the way.
+[29:20.44]You could fall asleep on that couch.
+[29:22.82]Just people in morph suits just hanging out, like, what's up?
+[29:26.42]You got used to that for a while.
+[29:31.13]on their phone, everyone's watching, just waiting.
+[29:35.05]That's a great image.
+[29:36.97]Here's some of the documents that Alex was talking about.
+[29:41.35]In this case, we had 16 points where in this building we had to suspend things like truss for lights or for cameras.
+[29:49.90]The camera shots you saw where you could place things in a room
+[29:53.10]or when you see them flashing and you're picking a room all those shots are cameras that had to be suspended so that we could cut between them without getting crew in them and worrying about where the wireless operators were walking so we had 16 points where we hung things or curtains right like we had that whole upper floor curtain with big heavy drapes that you couldn't see that it was there so it would be a surprise for the last day so this kind of we make these these different drawings that lay out where things go so that as local crew comes in or or hired crew and whatnot they all kind of have the same thing to work off of
+[30:21.22]And we kind of write all of our changes on them as we go.
+[30:23.68]There's lights and video, and each one kind of has their own to keep track of.
+[30:27.54]I think we have a video, too, of the lighting.
+[30:30.92]When we design the lighting for something like this, it all gets put into a simulation program where it actually shows all the different types of lights that are going to be available.
+[30:40.05]And this little recording kind of shows it.
+[30:43.43]But you can kind of see this is the party sequences designed in this simulator program.
+[30:49.14]So we can actually, you can see kind of the rough layout of how the rooms are.
+[30:51.64]It's somewhat representative.
+[30:53.40]And the lights are laid out where they would be on the different points that are hanging in the air.
+[30:57.60]And so then we can design these sequences and get an idea of what they look like.
+[31:00.96]You can see a human analog in one of the rooms as well and kind of see what we'd be working with and know where to lay things out before you're on site.
+[31:08.28]Because once you're on site and you put something in place, it's a lot harder to move it.
+[31:11.72]So we try to simulate a lot of that as best we can.
+[31:15.41]And I think I mentioned this to you guys on the actual set, but I'll say it to you guys here.
+[31:20.97]When this idea was just kind of floating around like years ago, just for fun, you know when you close your eyes and you see, like you see the thing that you, let's say you're working on like a project or you're writing something or you're making like content or whatever.
+[31:34.90]When you close your eyes and you see this like movie in your head, right?
+[31:38.78]I saw this set is what I saw.
+[31:42.24]And it's crazy to actually see it happen.
+[31:44.76]your like imagination your like actual visual of exactly what you see in your head it's bizarre to see it like actually play out like when you when I play the people are doing the question marks to me but you guys don't play movies in your head who doesn't do that you don't like clo you can't like just see like a movie right now like play it right now yeah am I insane what's happening yeah they're saying you're you hallucinate yeah that's not hallucinating I'm imagining the set
+[32:13.07]How about hallucination?
+[32:14.73]It's a vision.
+[32:19.52]Anyways, so when I closed my eyes and I saw this set, this is like what they built is what I was seeing.
+[32:26.43]And that's incredibly rare.
+[32:28.15]That never happens.
+[32:31.38]Where is this?
+[32:32.52]This is at the airport.
+[32:33.56]Oh, it's at, like, the airport.
+[32:34.92]Yeah.
+[32:35.20]I was like, where the fuck are we?
+[32:36.68]Yeah, this is not... The airlines aren't very happy with the amount of stuff we move.
+[32:40.32]Yeah, we'll move 20 or 30 road cases at a time, just, like, through the luggage system.
+[32:45.97]Sometimes it'll show up on a second plane, because they couldn't get it to hit wait on the first plane.
+[32:49.47]But it's part of the deal.
+[32:52.83]It's how it works.
+[32:53.47]This is the rest of the set.
+[32:55.20]Yeah, imagine...
+[32:58.25]Do you have the render from the day one, two, three, the color render?
+[33:03.01]Yeah, I see if chat noticed one thing about the day one render to the one with the horse in it.
+[33:16.30]The horse is not in day one.
+[33:17.40]No, but this one, yeah.
+[33:19.40]Somebody said chat can't rotate a cube in their head.
+[33:23.42]I was going to point out, too, in these renderings,
+[33:27.64]couple things here that are interesting right so the giant TVs are there they were placed in a specific spot so that no matter where the characters are moving in the house they can always see chat so those giant monitors one of them was chat and the other one was what was going out on the feed so they could always see no matter which character and where they were there was always a view from each room but the other thing here that's kind of interesting is this was supposed to be the model for day one with just the middle rooms
+[33:51.86]And the yard actually wasn't part of it, and that was added later.
+[33:54.56]That was an on-site change based on the logistics of how would things get into the house and what were we interacting with.
+[34:01.23]So that's an example of something that those kind of things just happen on.
+[34:04.85]It doesn't matter how much you plan in advance.
+[34:06.51]We needed that logistically.
+[34:07.59]So these pieces moved around, and we had the yard accessible in the first day.
+[34:11.35]I think that was the night before change.
+[34:13.23]Yeah, I think it was.
+[34:14.32]I think those curtains were already up there or being tied on at the point that it was like, nope, we want the yard visible, right?
+[34:19.22]Yeah.
+[34:21.32]Well, because there was a visual with, I mean, seeing the whole, that side view with the kind of cutaway view.
+[34:26.95]And we sat there, we were just kind of staring at it like, if I'm coming in through the left side of the door, it kind of has to, we can't just like have it be, oh, look, it's just outside.
+[34:36.78]And like, I just appear in the door, right?
+[34:38.78]Into the kitchen, into the living room.
+[34:41.08]So it's good that we actually had a solution to it.
+[34:44.64]I guess one last little pre-production thing that we'll talk about before we move into the next segment.
+[34:51.60]are these gobos that we had made these are kind of cool so cool they're a little hard to see you may not have seen them on the stream but you can see them here we took nice photos of them but yeah these are they're metal discs that are um punched and laser cut basically to show an image in this case we have the germ and the logo here you can actually see a good amount of detail on it and then those moving lights that we have we could position them to color and location and all that so we could actually light coinbase with their blue and twitch with their purple and then
+[35:19.74]Jeremy's logo with the green and blue.
+[35:21.62]And so at various points, we didn't show the corner camera a lot because of the context of the rooms we were showing.
+[35:26.95]But there was a few occasions or like the monologue when Jeremy talks about Coinbase and whatnot, where you could kind of see their logo and their color.
+[35:34.27]And it adds a lot of character to the house and what you're seeing too.
+[35:38.78]That was awesome.
+[35:42.17]Nick, is there anything else you want to talk about in pre-production before we move on?
+[35:46.47]Maybe the glass a little bit.
+[35:47.55]That would be about it for the window.
+[35:50.39]Oh, yeah.
+[35:51.03]If you want to talk about that.
+[35:52.39]Sure.
+[35:52.67]That's like one of my favorite gags the whole week.
+[35:57.48]Let me queue up a video here.
+[35:59.08]So those of you who watch the stream, which hopefully everyone.
+[36:06.55]Jeremy going out the glass is real 100%.
+[36:09.58]And we're going to show you some footage.
+[36:12.02]We got proof.
+[36:13.04]We have real proof that it's really real.
+[36:15.30]Not a stunt double, not pre-recorded, that happened live.
+[36:19.64]Absolutely live.
+[36:20.38]So first I'm going to show you, we had a sheet of the glass show up broken to our set.
+[36:27.25]And so we had a piece to test with because we had this broken piece.
+[36:30.61]And...
+[36:32.15]So here's a short clip of Nick testing what it's like to punch through this glass.
+[36:36.45]By the way, at least, Nick, I think you were terrified to do this because none of us had interacted with the glass at this point.
+[36:44.13]Yeah, I had no idea.
+[36:44.74]This is not real glass.
+[36:46.04]Don't do this at home.
+[36:46.94]It's not real glass.
+[36:47.86]Don't punch your glass.
+[36:48.80]This is Hollywood glass made by a studio in Culver City that this is all that they do.
+[36:55.34]They're the only manufacturer of this glass for television.
+[36:58.16]It's very expensive.
+[36:59.52]Don't do this at home.
+[37:01.52]Yeah, I was not certain how it was going to go, but it explodes with any real energy put into it.
+[37:10.98]You can break it, and it breaks into large pieces.
+[37:13.92]But with any real energy, it just explodes out.
+[37:17.47]But it explodes safely.
+[37:18.77]All the edges are pretty dull.
+[37:20.41]The worst thing that happens is you get a little bit of dust on your fingers that looks kind of like glitter.
+[37:26.03]But before I punched that, I did not know how it was going to break.
+[37:31.72]so which was kind of worrisome but we had info we could actually tell jeremy like yep it's safe it's good like uh and actually the the fact that the gloves were picked on the second day I remember sitting there thinking I put on like big rubber yeah like you guys didn't even know but you like protected my hands which was like important right hands forearms wrists that whole thing so before you go ahead I just said before you show the clip I have some clips of jeremy
+[38:00.71]Practicing this is the the very first time that he practiced.
+[38:04.03]There's no glass in the window.
+[38:05.09]This is just him flying through the window No, yeah, let's do it There's only one rule don't jump too far Yeah foreshadowing yeah
+[38:31.04]So it actually isn't super fancy.
+[38:32.92]You can see some of the construction here.
+[38:34.24]There's actually just some scrap trim pieces that is used with some spacer trim to hold the glass.
+[38:40.95]The big thing about this is when we thought about logistics of the show, we didn't want the glass to be broken before he gets to it, right?
+[38:49.43]But we also knew that it takes a period of time to install this glass.
+[38:53.90]And we didn't want it to be held in with brackets or anything that would be disturbing.
+[38:56.90]So the two pieces slotted in in those wood pieces of trim.
+[39:01.19]You can actually see a great view here of the different glass things.
+[39:05.03]But we knew it took about 20 minutes to install it.
+[39:09.11]And we didn't want to interrupt the stream whatsoever.
+[39:10.84]So it had to survive the whole stream.
+[39:12.72]um so like the whole time I'm like is it gonna survive and I was like nobody can touch this wall like nobody can slam that door while the glass is in um I was I was kind of a jerk about it because like it would be kind of catastrophic to have a piece of glass like fall out before it was supposed to right
+[39:29.68]That was the gag of the second day.
+[39:31.76]So if we went into that room and the window was already broken, it'd be like, oh, well, I guess I'm getting thrown out at any rate.
+[39:38.71]Every time someone went into this room, the radio call was like, careful with the door, careful with the door.
+[39:42.13]Don't touch it.
+[39:43.51]Be careful.
+[39:44.07]Be slow.
+[39:45.99]So we did a lot to make sure that this was safe.
+[39:49.41]So obviously the Hollywood glass itself that breaks into dull pieces, but all of the trim is actually painted balsa wood so that when his face inevitably goes through one of them, it just breaks into his dust.
+[40:01.68]It's not like an actual piece of lumber that would harm him as he goes through it.
+[40:06.42]The top panel is actually not.
+[40:10.00]This Hollywood glass, it's a piece of very, very thin polycarbonate that would flex and, like, blow out if he ended up, you know, if Jeremy jumped too high and ended up going through that top piece, it would just leave.
+[40:21.95]But incredibly, he didn't.
+[40:25.46]He completely cleared the second, like, his body, the entirety of his body.
+[40:30.37]Yeah, we'll see in a second.
+[40:32.93]Let's play the clip.
+[40:34.11]I mean, you're dealing with a professional.
+[40:40.09]I'm sorry, I thought I had it here.
+[40:41.25]Here we go.
+[40:43.01]Well, I guess first we'll show the front ways, how you saw it at home.
+[40:47.49]So this guy is huge.
+[40:50.71]He's like scary in real life.
+[40:52.17]Yeah, he's an artist.
+[40:53.21]Yeah.
+[40:58.23]I'll play it back one more time.
+[41:02.39]He was a big guy.
+[41:05.16]No, no, no, no, no, no, no!
+[41:09.30]That fire in the window was such a great touch.
+[41:13.31]You hit that perfectly.
+[41:14.37]Like, super perfectly.
+[41:16.28]Now here's the proof.
+[41:17.08]This is it right here.
+[41:18.14]I took this footage because we started the scene and I realized that nobody was back there and I was like, we have to have this.
+[41:23.95]So here we go.
+[41:26.23]No, no, no, no, no, no, no!
+[41:40.08]Brutal.
+[41:43.06]You can hear me say, you good?
+[41:45.20]And he gives me the thumbs up.
+[41:46.46]Here, let me see if I can... Just play the end of it.
+[41:48.96]Yeah, I'll just play the end of it again one more time.
+[41:50.81]Remember, the rule is don't overshoot the mattress.
+[41:53.95]It makes such a great sound, too.
+[41:55.71]That's not like sound effects, either.
+[41:57.17]That's not Foley.
+[41:57.83]Oh, wow, what a great sound effect.
+[42:04.47]I did have, I did get like a few small abrasions here and like maybe like here and here, like down like on the forearm, but nothing, nothing that would, you know, that wasn't bleeding or anything.
+[42:16.00]I was fine.
+[42:17.02]Right.
+[42:17.60]Scraped, a little scrape.
+[42:20.66]All right.
+[42:21.02]Unbelievable.
+[42:21.52]I remember when you showed that to me, you were like, hey, what do you think about like this concept?
+[42:26.24]And like, I was going to put the balsa on and I'm just like, I think I just started clapping.
+[42:30.48]I was like, this is the greatest thing ever.
+[42:33.70]By the way, I don't think Chad knows what they started with.
+[42:36.84]Well, so this is, he can't tie his own shoes because he's wearing the gloves, but if you go to this one too, on the day that... I demanded it.
+[42:43.05]On the day that Chad chose the cargo shorts, Jeremy, you want to talk about the cargo shorts?
+[42:49.77]Oh, the cargo shorts!
+[42:50.91]I don't think people realize what they did by picking cargo shorts.
+[42:54.37]Yes, so here's the deal.
+[42:57.47]So those are not the cargo shorts that you guys actually picked.
+[43:01.41]There was cargo pants and cargo shorts.
+[43:03.81]Now the problem was the cargo shorts were like a size 28 waist, and I could not fit in them.
+[43:10.65]It was inappropriate, like actually inappropriate.
+[43:13.57]It was not cool.
+[43:15.47]So the hope was that there's no way you guys are going to pick cargo shorts because that's boring.
+[43:19.92]You're going to pick the flamingo.
+[43:21.14]You're going to pick the duckies.
+[43:23.34]It was a boring choice that you were never going to pick.
+[43:26.20]But when you picked it, it was like, what do we do?
+[43:29.10]Because I can't stream like this.
+[43:31.52]This is actually not OK.
+[43:33.60]It was like skin airtight to my body.
+[43:38.90]We had to, right when I was told, somebody ran backstage and was like, hey, it's the cargo shorts.
+[43:44.16]We're just like, shit.
+[43:46.25]Get the cargo pants, cut the cargo pants into shorts.
+[43:49.99]Because I'm not wearing those for like four or five hours.
+[43:52.37]No way.
+[43:53.51]So if you look at the bottom of the shorts, they're like all frayed up and like very, very clearly cut with a pair of scissors.
+[44:01.96]Almost inappropriate.
+[44:03.24]Almost like TOS inappropriate.
+[44:06.16]I'm glad we avoided that.
+[44:07.58]Yeah, so I run backstage, I have a belt pack that I would put on that has his ears so he can hear us talking, and it has the microphone that he was using, and what I see is two production assistants on the ground with scissors just going crazy on the cargo pants, trying to turn him into shorts, so...
+[44:22.77]We might actually have a picture of that.
+[44:24.30]I think somebody took a picture of the two next to each other for fun.
+[44:27.30]I'll see if I can find that over the break.
+[44:29.18]So at this point, we're going to take a quick break.
+[44:35.26]Sorry, chat, it's going to be an ad break.
+[44:36.93]And we can talk a little bit about ads and sponsors a little bit later, because they were the only reason that we could do this show.
+[44:43.88]But we're going to go to ad break.
+[44:45.38]And when we come back, we're going to talk production with our video director, Bobby, with Criken, our game director, and with everybody's fan favorite, Art Mark.
+[44:57.07]Art Mark is joining us tonight.
+[44:59.13]So look forward to that.
+[45:02.25]But yeah, we'll see you in just a few minutes after these short messages.
+[45:06.66]Thanks, chat.
+[48:23.42]So our company Ghost Commander's role on this production was not only building and designing the extension itself and the different interactive modes like buy mode and placement mode and the different polls of live mode that played out throughout the stream, but we also ran the thing live.
+[48:41.54]So on set we would basically
+[48:44.86]push each poll via our computers to everyone watching.
+[48:49.03]We compile the results and then display the results as well, and then relay what won and what should happen at what time to the rest of the crew.
+[48:57.17]So things like, you know, how Jerma should react in a given situation.
+[49:02.66]We would then turn into different poll events and different options.
+[49:06.28]Some of those we build on the fly based on what viewers liked and wanted.
+[49:09.42]And then we push that out to everyone and then, you know,
+[49:11.76]gather the 30,000 replies, and then relate to the rest of the team what needs to happen on stage.
+[49:19.11]Wait, a professional fartographer?
+[49:20.37]Fartographer, yes.
+[49:22.47]I am operating all the microphones, so any audio you hear on screen comes from this console and this laptop.
+[49:29.42]Wireless microphones are all set for all the actors, and I have this wonderful soundboard with a variety of fart selections to fit the scenario, so I can do...
+[49:39.06]I can do one of those, I can do one of those.
+[49:41.36]If I want something a little wetter, I can kind of go in that direction.
+[49:45.39]So I am making the sound magic happen here.
+[50:03.54]So this is our video production trailer.
+[50:06.22]So we're taking all the camera feeds into this trailer and distributing them out throughout the entire set.
+[50:13.42]We're feeding different TVs, monitors, the live stream.
+[50:16.82]We've got some graphics computers doing a bunch of stuff to create this awesome game.
+[50:21.77]And this is where all the video stuff happens.
+[50:24.71]Nine, you're working right now.
+[50:25.79]Can you push it slower to his face?
+[50:26.77]They want to be free.
+[50:29.84]Alright!
+[50:30.06]I think that's a great intro for our next guest!
+[50:32.08]We've got... How are we?
+[50:32.74]Hi.
+[50:58.68]We're good, I think.
+[51:00.02]Is this working?
+[51:00.88]Yeah, it's working.
+[51:01.63]We can hear you, Kraken.
+[51:02.97]Cool, cool.
+[51:03.51]Hi, everybody.
+[51:05.31]Bobby, how's it going?
+[51:07.91]How we doing?
+[51:09.59]Wait, Bob, are you still on set?
+[51:10.75]He's still there.
+[51:13.69]I'm stuck in the trailer.
+[51:15.45]What the hell?
+[51:17.53]Let him leave, Jake.
+[51:20.69]He's been there so long.
+[51:21.91]Yeah, what the?
+[51:24.41]He's slowly pulling up the mic to talk.
+[51:29.42]And we got Mark.
+[51:30.48]Fart Mark.
+[51:32.94]Yes, I don't have any farts queued up right now, but I can work on that.
+[51:37.42]Oh, what an opportunity.
+[51:40.06]Where's the emoji instead?
+[51:41.21]I got a natural fart.
+[51:42.45]Yeah, I got the emoji.
+[51:43.47]This is something Bobby insisted I leave set with.
+[51:46.59]We had tried to hide this in his trailer, but he found it before he pulled out.
+[51:49.67]So he was like, no, this is going to the fart guy.
+[51:51.69]So I thank you immensely for that.
+[51:53.61]Well deserved.
+[51:54.29]Well deserved.
+[51:58.67]So where do you want to start?
+[52:00.17]Yeah, well, why don't we talk a little bit about... Cricut, let's start with you and talk about Ghost Commander and the extension.
+[52:09.30]I have some clips of us ruminating on that stuff a few months ago when we did the Onsite in Indiana, if you want to hear some of that, or if you just want to give an intro and then we can play some of that.
+[52:21.41]Yeah, yeah, I'll start with that.
+[52:24.09]So we, I'm Kraken, I'm a streamer, I've been doing so for like a decade now.
+[52:30.01]And started out, you know, doing the usual streaming stuff, and then decided over the last three years that I wanted to make interactive streams more possible, not only for, you know, my own content, but for other content creators that I respect.
+[52:44.04]And so I started a company with my co founder, Lauren,
+[52:47.20]who is pictured in a lot of these as well behind the computers with me.
+[52:51.98]And we basically built a production company that builds interactive live stream experiences and the tools that can run them.
+[52:58.96]And so I remember talking with Jeremy back at TwitchCon, whenever that last one happened in San Diego.
+[53:05.13]2017, 2016 maybe?
+[53:06.55]It feels like it, yeah.
+[53:08.11]It's a long time ago.
+[53:12.77]the concept of a show like this, and we both got really excited about it.
+[53:16.93]And back then, it was kind of like, oh, it would be nice, but we need a lot of money and a lot of other people to make it work.
+[53:23.46]And then fast forward however many years, and you guys bring me back up, and you're like, well, we have the money.
+[53:31.34]We have the opportunity.
+[53:33.22]Would you guys like to build an interactive show with us?
+[53:35.72]And I was like, you know what?
+[53:38.89]Why not?
+[53:39.41]And so we flew out all the way to Indiana with you guys without signing anything yet.
+[53:44.95]We're just like, we're going to trust it's going to work out.
+[53:48.19]No documents.
+[53:50.06]No signatures.
+[53:51.32]Just get there.
+[53:51.98]And that's what happened to me.
+[53:54.80]The live phase is just anything that's happening that's not any of these other things.
+[54:02.66]It's like the... So we talked about potentially people being able to click on stuff or being able to like...
+[54:09.30]what what I'm thinking is because we can either have them click on actual objects and be like do this or we can have like a drop down menu of all the things that are available you know like oh actions that are available right let's say you have get behind the seat he's getting behind the scenes perfect you mean oh right right
+[54:33.86]So what I think, I think this is okay, but I would probably consider redoing the whole thing.
+[54:42.49]It's not funny.
+[54:44.79]Oh yeah, we had the bid going where you're just going to be a... Awful.
+[54:49.73]Oh yeah, I forgot.
+[54:51.70]I completely forgot.
+[54:52.62]We were gonna do a routine where... No, that didn't make this at all.
+[54:55.96]I'm realizing, like, I'm being a dick here.
+[54:57.60]Let's go out of place.
+[54:58.50]We were gonna have the behind-the-scenes show be me being an asshole to everybody for an entire, like, three months.
+[55:05.52]We didn't even use it.
+[55:06.68]This is the only footage we took of me doing that.
+[55:08.86]I was watching your face as you're watching this right now going, why the fuck?
+[55:12.78]What?
+[55:13.02]That's me?
+[55:14.52]What's wrong with me?
+[55:18.27]That's so funny.
+[55:20.93]Yeah, so basically what happened here is a pretty good example.
+[55:23.97]You can see on the whiteboard, we just had a big brainstorm where Jeremy would be like, here are the sort of touch points I want.
+[55:30.99]I want the moment where the movers come out and deliver the item that chat picked for.
+[55:34.81]I want the moment where chat picks for me to go to the bathroom 80 times, and I have to keep doing it.
+[55:42.19]from there we kind of extrapolated this show format and the different stages of like going to sleep and then buy mode happening uh live mode being whenever he's awake you know placement mode happening after that where they can pick where in the room and then we also work backwards from how many days we wanted to shoot and how we wanted the the set to kind of evolve over those so you know the the small house the buy upgrade how much money we think that should cost um how we can incentivize chat to then spend that money to upgrade the house um all these things were
+[56:12.57]you know, discussed and thought out ahead of time.
+[56:14.35]And we were basically given this big list of would be nice, like this is what we want.
+[56:18.76]And then we went and built the extension over the remaining couple months and then came back and ran the thing live with everyone.
+[56:26.02]So, yeah, it's crazy how much of this original brainstorm made it in.
+[56:31.05]Now that I think about it, you know, there was so much we had.
+[56:34.35]And I think it was pretty much all there.
+[56:38.19]Yeah.
+[56:38.77]It's actually shocking.
+[56:41.19]It really is.
+[56:41.87]And Chad's actually picking out some pieces from this image that I put up that I probably should have looked at before I put it up.
+[56:48.61]No, we're good.
+[56:50.01]But I think it's a good time to actually talk about sort of sponsorship and how this whole thing came together.
+[56:57.30]And so Jeremy had this idea like two years ago.
+[56:59.84]I remember getting a phone call.
+[57:00.76]I actually remember exactly where I was when he called me because Jeremy calls me a lot, and he has a lot of ideas.
+[57:06.90]And a lot of those ideas are great, and a lot of those ideas are just like,
+[57:10.62]completely insane, but that's what makes it work, right?
+[57:13.50]And I remember him calling me with this idea, and my immediate reaction was, this is amazing, we have to do this.
+[57:20.21]And it was over a year that we were looking for money to do this, because we knew that we couldn't do it alone.
+[57:26.05]This is an extraordinarily expensive production, as you can imagine.
+[57:30.49]You saw there were well over 30 crew on site, plus all the pre-production, plus all the set, plus all the gear, plus all the travel.
+[57:37.27]I mean, it adds up really quickly.
+[57:40.71]And so finally, at the beginning of this year, Twitch became interested in the show and we started negotiating with them and we came to a deal which included a certain number of hours streamed as well as a certain number of minutes of ads run at an ad density, which is why we're running ads on today's show, for instance, because it's part of that package deal.
+[58:01.29]But Twitch really gave us an incredible amount of money to make this happen.
+[58:06.22]And we also were then shopping for additional sponsors because we knew that the amount that Twitch gave us was not going to be enough to cover the entire show.
+[58:13.35]It was a great start.
+[58:14.83]It was enough where if Jeremy had to do it out of pocket, I don't think it would bankrupt him, but it definitely... No, not really.
+[58:25.02]But it was a good start, but we definitely were looking for more.
+[58:27.46]And so we were shopping around, and some folks pointed out some potential sponsors that were there on the board at that time.
+[58:34.27]none of which panned out, but it really was the addition of Ludwig less than two weeks before the show and his idea about going to Coinbase and saying, hey, Coinbase, is there anything you can do to help these guys out?
+[58:51.11]And they were unbelievable, just completely phenomenal in the turnaround time, in the flexibility that they gave us.
+[58:56.89]I mean, they basically told us, you don't have to do anything.
+[58:58.63]Can you show our logo on screen and can you shout us out once?
+[59:01.17]And that's the only content
+[59:04.00]that we want to they really they honestly just wanted to have the show be good that was most that was incredibly surprising because there's been plenty of opportunities and uh community jake's been around for quite a while now last at least three years we've had potential opportunities in the past not just saying that you've been around in the community man
+[59:23.80]you know well I'm older than you I got like I got a lot of years on you don't worry uh but in the past there's been there's been opportunities to do stuff before but not at the level that they were involved coinbase and they just wanted us to have a good show it wasn't like well you've got hold on a minute you've got to have like 10 tweets uh I need to hear about this you need to do a full ad in the middle of we need to actually talk about like seven or eight ads no they just let us do whatever we wanted
+[59:49.98]And they just wanted to be part of it.
+[59:51.92]It was awesome.
+[59:52.58]It was the best experience with any type of sponsor I've ever had in 10 years.
+[59:58.74]And that's why you never see sponsors on this channel.
+[60:01.04]Ever.
+[60:01.74]Because I want to be able to do cool shows and not have to do something I don't want to do.
+[60:09.09]I have to be intrusive in the show.
+[60:10.75]I know that's a concern for a lot of people here too.
+[60:15.09]oh you're gonna get a sponsor but are they gonna up the whole show and now all of a sudden it's gonna be a shitty project now it's like it's taken over by a sponsor I that's that I'm never gonna let that happen I never want that to happen so finding people finding sponsors that actually will work with us and and care about the projects that we do that's how it's going to be and if if we can't make something happen if we can't work something out then
+[60:40.47]That's too bad, right?
+[60:41.69]We'll figure something else out.
+[60:43.28]But I want to like kind of squelch some of those concerns too, that people think that, oh, here come the sponsors.
+[60:48.70]It's over.
+[60:50.08]It's like, no, we're going to be fine.
+[60:52.24]No, they made it happen.
+[60:54.10]They really made it happen.
+[60:55.65]At least I'm super grateful.
+[60:59.89]Alright, now that we've gotten that piece out of the way... Also, one quick little thing, too.
+[61:04.57]Something very, very interesting to note is this was, at the very beginning, when this was in the concept stage, this was going to be one stream.
+[61:11.89]This was not going to be more than one stream, and we kind of had so much going on that it was like, maybe this should be two.
+[61:19.12]Maybe this should be three, and then with Twitch being involved, we kind of had to figure out what kind of show we wanted, but this was only supposed to be one stream in the initial phase.
+[61:28.78]Just thinking about that now, that's impossible.
+[61:32.33]so much stuff looking at some of these numbers and seeing like the estimation of oh we'll have two to three like live mode polls a day and like live mode it'll be like 10 to 30 minutes for each day and it's like that didn't happen we ended up doing like 12 every day and it was like rapid fire constantly things happening and so it's it's funny even our estimations here were like really modest as to what it actually ended up being um I don't know there's a lot of really cool stuff here I think like a time capsule of uh
+[62:01.10]the the evolution of of thinking through how the show could work yeah the other the other cool one that I have here is about the timeline about how this came together this is when we met we met in in indiana on site in the corner look at that it's such a great photo it looks like the beginning of may maybe this calendar says what's going on I was having a stroke yeah jesus what am I doing am I like asleep
+[62:28.30]chat did I fix did I fix jeremy's audio is are you happy with jeremy's audio I was an issue with people I think it was people here the same coming out of both ears yeah people that that had um like over on cell phones I have a single speaker we've seen this issue before I think I I think I solved it but yeah yeah people are happy now okay good um okay so yeah so so yeah we met um at annie mark I mean this is this is still months into the production but at this point now we're at a place where we've identified ghost commander and cracking his team as partners
+[62:57.27]and identified Animark as partners and all that.
+[63:00.35]And we came together for a site meeting at Animark in early May.
+[63:04.44]And you could see that the plan here was like, OK, week by week, here's the check-ins.
+[63:09.34]Here's what we're looking for on these days.
+[63:11.44]And here's our stream dates.
+[63:13.74]And here's what's going to happen that week.
+[63:14.94]And we pretty much stuck to this within a week, I would say.
+[63:19.56]Something in the middle there is really interesting.
+[63:23.07]There's one thing that I regret didn't happen.
+[63:25.03]I don't know if you want to talk about it, Jeremy.
+[63:27.67]I think you're about to say it.
+[63:30.52]We originally had planned to test out the live mode chat voting for different things for him to do on the Catboy stream, where he would be a cat.
+[63:40.52]And the concept was we would take the same tools we're already developing for the end, where we would be able to send him to do different cat things.
+[63:48.22]And it would be all done through chat and the extension.
+[63:51.98]But because of the timeline, it didn't quite line up.
+[63:54.55]We're going to get a big scratching post back here.
+[63:57.21]Oh, and actually, this is great behind-the-scenes stuff.
+[63:59.95]I wanted to have a litter box.
+[64:01.71]Remember, Jake, I told you this, and you were like, no, we're not doing a litter box.
+[64:04.97]He was so insistent on the litter box.
+[64:07.56]Constantly talking about it.
+[64:08.42]I was going to go, like, shit in the litter box.
+[64:11.94]It's like, I don't want to do the show if I can't shit in the litter box.
+[64:14.10]And we're like, please, Jeremy, we have so much other stuff we have to do.
+[64:17.06]Please don't get banned this early on the cat thing.
+[64:20.73]Oh, there we go.
+[64:23.27]We wound up swapping that with the hot tub stream.
+[64:27.19]We wound up doing the hot tub stream, which featured Catboy, I think, to placate chat a little bit.
+[64:31.86]Yeah.
+[64:33.96]Well, you know, the tools are now built, so the potential for a Catboy stream down the line using the same dollhouse stuff, you know, I'm not saying that's... They're there.
+[64:41.62]All the tools are there.
+[64:42.36]I think chat wants it.
+[64:44.29]I can't put a box on, I mean...
+[64:50.58]I was going to, like, you know those litter boxes with a dome?
+[64:52.98]Like, I wanted to just, like, go climb in one and, like, sit in it.
+[64:56.78]Like, your little head peeking out.
+[64:59.50]Yeah, just, like, stick my head, just stick it out.
+[65:01.27]Like, whatever.
+[65:02.07]Look, Jake, you guys tell me my ideas are good.
+[65:05.91]Sometimes the ideas are bad.
+[65:07.43]Maybe I get banned permanently from Twitch.
+[65:09.73]That would have been bad right before the show.
+[65:11.21]That would have been bad.
+[65:12.39]Hey, we could try it now if you want.
+[65:14.81]Now the show's over.
+[65:15.51]Not that the show's over, no.
+[65:19.56]All right, next up.
+[65:20.70]You're calling me a psycho.
+[65:22.66]I want to talk about the dream sequence.
+[65:26.80]And Jeremy and I had a heated discussion before the show, and we've decided not to show the original dream sequence.
+[65:34.77]The rehearsal one.
+[65:36.91]The rehearsal one for the risk of some TOS issues.
+[65:43.27]It was so fucked up.
+[65:44.76]It was just fucked up.
+[65:46.00]And I'm just like, I don't want to do this.
+[65:47.52]This is fucked up.
+[65:48.66]We're changing this.
+[65:49.70]This is too fucked up.
+[65:51.10]All right.
+[65:51.82]I was on the toilet.
+[65:53.45]Okay.
+[65:55.03]So let me paint the picture here.
+[65:56.49]I'm just going to describe it.
+[65:58.27]I don't want to show it.
+[65:59.45]It's weird and creepy.
+[66:00.49]I don't like it.
+[66:01.43]So originally, we were just going to have me on the toilet.
+[66:04.81]You can just mute it and play it.
+[66:07.42]All right.
+[66:07.84]So originally, I was going to be on the toilet for the whole dream.
+[66:13.83]And it was like, I'm just sitting there and I just hear like fart noises and like shit sounds.
+[66:18.62]And by the way, there was a shit sound that during that segment where it was a real shit.
+[66:26.98]It was real shit coming out of somebody's ass.
+[66:29.14]I swear to God.
+[66:30.38]And it was like so realistic sounding.
+[66:32.92]And I was like, I don't want this to play right now.
+[66:36.74]It was an extended.
+[66:38.06]Can we time out here for one second?
+[66:39.54]I have a clip of you talking about that shit sound.
+[66:42.40]He's gonna play the shitting sound.
+[66:46.56]That was awful.
+[66:48.24]Oh my god.
+[66:49.66]So the audio guy has a folder only for bodily functions.
+[66:54.63]And originally he was playing, when I was sitting down, like realistic foley of somebody shitting into water.
+[67:02.71]And I'm just like, we can't, that's not, that can't be.
+[67:10.55]It's super real.
+[67:11.71]It's awful.
+[67:12.39]Because I can't picture it.
+[67:30.36]You know what's funny to me, too, is that some of the bits that Jermer would do during the show would be to yell at the fart guy.
+[67:38.50]And I had a hard time telling when he was serious, if he was really not wanting as many farts, or if that was just part of the bit.
+[67:44.78]So maybe, Jermer, you can help hop in on that.
+[67:48.70]Well, I mean, I think by the third day, I think I walked over to the audio station, and I was like, all right, we got maybe like one an hour, maybe like two an hour.
+[67:57.14]I was like, maybe like three farts an hour.
+[67:59.82]And you're like, yeah, yeah, okay.
+[68:01.54]Yeah, sure.
+[68:01.80]You have rationing farts.
+[68:03.62]All right, so.
+[68:05.14]And he called out the fart quota numerous times.
+[68:08.10]Yeah.
+[68:08.36]Yeah.
+[68:11.38]when he was in the shower, and you're like, don't do it again, don't do it again, and he kept sneaking out, and he's like, I'm done, and you leave the shower.
+[68:19.35]By the end of the show, I mean, I don't want to skip ahead, but you could see Jerry was so, you were just testing us.
+[68:24.53]You were throwing random shit at the production team to see what they would deal with a wrench thrown in the plans.
+[68:30.74]I don't know what got into you during that, but we were like, what is he doing?
+[68:34.98]Let's just see what they can handle.
+[68:39.06]Every single fart, your bro character laughed.
+[68:41.91]The worst because because because I can hear it like I can hear that what you guys didn't know is a lot of the sound effects I Hear them like in my ear and like I can hear them did listening to them So I'm just sitting there like in the shower, and I just hear this loud just rip ass, and I'm just like I wouldn't do that So I just have to listen to it and react to it the worst thing that you did to us Jeremy And I didn't see probably time to talk to this is the the production side of things the worst thing that you did to us was during the party and
+[69:11.33]when you picked up the phone to call guests and you said I'm gonna call Edna and then you turn to the camera and say see how this fucks them up and then continue going because
+[69:25.27]Kit needed to be the police officer for the party to work.
+[69:29.04]The only way the party would work is if Kit was the police officer, and so you knew that you were just gonna fuck us up, and so that's why the party is paced, like, so weird, because Edna comes with all the guests, and then we have to somehow figure out a way to get Edna to leave, and then he has to go and do the hardest costume change on the entire, like, like, thing that we can do, and he'll talk about that a little bit later, but, like,
+[69:50.04]And Edna has a different voice.
+[69:52.04]So you have to prep her voice, because it's already been converted at that point back to being Kit's voice.
+[69:56.96]Yeah.
+[69:57.68]So, thanks, Jeremy.
+[69:59.08]That was fun.
+[69:59.78]That also gave way to a conspiracy thread on Reddit I saw of, like, is Edna dead?
+[70:05.07]Because the last we see her, she's in the pool, and, like, Death and the Clown are talking about Edna.
+[70:10.65]And then suddenly Edna disappears, and everyone's like, oh, my God, they fucking killed her off, off camera.
+[70:15.97]And, like, hey, you know, maybe.
+[70:17.31]It's a possibility now in canon.
+[70:20.26]I think another hard audio piece for Mark was the doorbell, because where he was positioned in front of the house, he couldn't see the doorbell.
+[70:27.16]So people, especially Germer, would sit there and poke the doorbell.
+[70:30.30]So I could see it on camera.
+[70:31.57]I'd be like, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, doorbell, door
+[70:46.70]So, like, I'm trying to watch your camera shots to see when I'm going to hit the doorbell button or when I'm going to hit the toilet flusher.
+[70:51.37]So, yeah, so you can see what this looks like here.
+[70:55.13]That was tough.
+[70:56.77]And then Jeremy starts fucking with me, and he's like, ah, I didn't press it.
+[71:01.13]Yep.
+[71:02.09]Well, because I'm starting to do, like, these incredibly animated movements before I flush, just to give you, like, a second or two to be able to cue it up.
+[71:09.36]You know, being like, oh, I'm going to flush the toilet.
+[71:11.22]Ah, no!
+[71:12.16]And I, like, reach down and touch it or whatever.
+[71:14.12]Showers was really nice.
+[71:17.60]Alright, so I do want to talk about the dream sequence, though.
+[71:23.29]I have a cool clip here of the dream sequence being incepted, and sort of the idea behind it, and then I have the clip of the dream sequence playing out, but with the crew audio in ear, and you'll hear Bobby calling that.
+[71:39.34]I think we just got Ray from Ludwig.
+[71:40.90]Ludwig, Ray, coming in!
+[71:45.94]Bloodwig is in the building.
+[71:48.58]Bloodwig is here.
+[71:50.16]Should I find an embarrassing clip of Bloodwig to play before we start here?
+[71:54.60]Where's the cowboy clip?
+[71:56.58]Yeah, I think I got one here.
+[71:57.42]There we go.
+[71:58.74]This is, I mean, it's not embarrassing.
+[72:00.36]It's just...
+[72:08.12]That was awesome.
+[72:10.36]I can only do it live.
+[72:11.50]Yeah, dude, you did it, like, flawlessly.
+[72:13.18]I can only do it live.
+[72:13.85]It literally sounded perfect.
+[72:15.45]We were sitting back there going, all I ever had to do was open it.
+[72:18.49]It was like, are you kidding me?
+[72:20.01]He's just doing this?
+[72:21.01]What?
+[72:35.11]There we go.
+[72:40.63]I can't believe he did that perfectly live.
+[72:43.27]Everyone's a musician.
+[72:44.73]Every single person that touched that thing knew how to play, and we were like, we didn't know how to deal with it as a production team.
+[72:49.85]We were like, I guess we stay on this for the next five minutes.
+[72:52.70]We also didn't know that one of our camera guys.
+[72:55.56]We didn't think it worked until we got it there.
+[72:57.02]Yeah, one of the camera guys hopped on and played too.
+[73:01.18]All right.
+[73:01.86]So let's go ahead and play this other clip.
+[73:03.22]This is the crew call clip?
+[73:06.22]This is... I'm going to play not the whole thing, but just a few seconds of the inception, and then we'll play the crew call clip.
+[73:15.62]Bad dream was to me, like, Gladiator versus, like, Warrior or something, like, fighting in the bedroom.
+[73:22.01]I see.
+[73:22.51]And, like, I could get up and be like...
+[73:30.21]It's just I'm seeing it.
+[73:37.47]So they'll just be doing something in the robe, and I'm just very happy about it.
+[73:43.18]So we were talking about a safe place to insert Kraken that's away from the rest of the attack.
+[73:49.90]So one thought that we had was around the dream scene, especially because if the idea is for them not to interact with you,
+[73:57.65]I don't know if that makes sense.
+[73:58.99]What color are the morph suits?
+[73:59.82]Black.
+[73:59.96]I was going to say, what if we had someone with a black morph suit moving his arms like, dude, what ice age are you?
+[74:20.03]That's right, go through the door now and go, yeah, what the fuck, I'm being controlled.
+[74:24.19]That actually is not a bad idea, it'd be a morph suit.
+[74:26.90]But the, I also, I want like a visual too, like something that's supposed to be there.
+[74:30.90]I want Ludwig as a cowboy.
+[74:32.54]I think that's good, because there's no confusion on whether this is just the sexy nurse at night actually character.
+[74:40.35]Babe, okay.
+[74:43.05]Sexy nurse.
+[74:44.67]He kept saying that, he kept saying sexy nurse.
+[74:46.51]He kept calling us sexy nurse.
+[74:50.44]So here's the clip.
+[74:53.57]That goes on.
+[74:54.21]And to give chat an idea, the idea of the dream sequence was not something that you chose to happen, right?
+[75:01.86]The dream sequence is just something that happened.
+[75:04.16]But then you got to choose whether it was a good dream or a bad dream.
+[75:08.18]And so if we let that clip play on a little bit longer, we talk about, well, what would a good dream be and what would a bad dream be because we need
+[75:16.67]We need both of those to work, even though we were about 99% sure that you would choose a bad dream, which of course you did.
+[75:23.13]So here, again, we're not gonna play the rehearsal one, but here's how it played out, and you can hear Bobby calling this as it plays out.
+[75:33.81]You wanna reset, Scott?
+[75:34.91]Give me another move.
+[75:35.95]Ready 13.
+[75:36.33]Kraken is ready.
+[75:38.34]And take 13.
+[75:43.54]Are we having a bunch of people in room four for the end of this bit?
+[75:49.38]Let me know when to send a Kraken.
+[75:52.72]My question is, are the multitude of people that we're having in room 4 for the end of the bit, are they ready?
+[75:58.50]I can get them ready right now.
+[75:59.62]Jib is working.
+[76:00.55]Are we going to sleep here?
+[76:01.71]Yep, go to sleep.
+[76:02.45]Alright, stand by to sleep.
+[76:08.11]3, 2, 1, go to sleep and kill his mic.
+[76:12.09]Go dream sequence.
+[76:16.02]The Kraken's coming your way, Jib.
+[76:19.86]Ready 13.
+[76:21.14]Dissolve 13.
+[76:21.88]Get ready for Krakens, Mike.
+[76:24.00]Open Krakens, Mike.
+[76:24.50]Once Krakens in the room, we slowly bring in lights.
+[76:29.25]Ready 12.
+[76:29.45]Get that shot on 11, 11, 11.
+[76:31.35]Ready 11, take 11.
+[76:33.27]Can we use the shotgun in the kitchen?
+[76:35.01]Ready 12, take 12.
+[76:36.73]Ready 8.
+[76:36.99]Yeah, okay.
+[76:37.49]Take 8, ready 12.
+[76:37.89]Ready jib, ready 12, take 12.
+[76:38.67]Ready jib, take jib.
+[76:47.75]Jimmy's working.
+[76:50.29]Bad dream.
+[76:50.89]Ready 8.
+[76:51.89]Take 8.
+[76:53.07]Ready 13 to follow through the next room.
+[76:54.53]Ready 13.
+[76:54.79]Take 13.
+[76:58.11]Can I start putting these people in the kitchen?
+[77:00.55]Oh yeah.
+[77:02.27]Have them come between rooms 3 and 4 into the kitchen.
+[77:04.99]Are we showing them right now?
+[77:06.77]Don't show the kitchen.
+[77:08.11]Do not show the kitchen.
+[77:10.75]They're just loading.
+[77:11.47]Ready 8.
+[77:12.05]We need to get that TV thing out of the way.
+[77:15.15]Get what?
+[77:15.75]Ask Kraken to move the TV stand.
+[77:17.12]Ready 8, take 8.
+[77:18.20]Ready 13.
+[77:19.88]Take 13.
+[77:21.20]Kraken's mic's a little hot.
+[77:28.36]The jib is working.
+[77:29.80]I don't know what needs moved out of the way.
+[77:31.98]Nope, that's good.
+[77:32.90]It's good.
+[77:33.77]Ready 8.
+[77:34.69]Go tight on him, 8.
+[77:35.37]Ready 8.
+[77:36.95]Take 8.
+[77:38.93]Ready 13.
+[77:40.41]Take 13.
+[77:41.41]Okay, is that it for the people going into the kitchen?
+[77:44.73]That's it, nobody else goes in the kitchen.
+[77:47.37]Ready room four.
+[77:48.39]Dissolve room four.
+[77:51.65]Ready ten.
+[77:57.76]I'm staying here on room four.
+[78:12.55]can we get out of here?
+[78:13.39]They put him back to sleep when you wake up in daytime.
+[78:15.87]Yep.
+[78:20.41]Ready ten.
+[78:22.47]Take ten.
+[78:25.22]Thirty-nine.
+[78:26.68]He's supposed to fall asleep here.
+[78:29.28]Kill the dream sequence.
+[78:30.80]He's supposed to go back to sleep, right?
+[78:33.18]I thought I was awake.
+[78:33.96]Yeah, he should sleep.
+[78:35.08]Put him to sleep.
+[78:35.68]In three, two, one, put him to sleep.
+[78:38.74]Thirty-seven.
+[78:43.51]Just go to sleep right there.
+[78:44.33]He's supposed to go to sleep right there.
+[78:45.21]Pass out.
+[78:45.51]Just pass out.
+[78:46.13]Oh.
+[78:47.25]Ready.
+[78:47.61]Seven.
+[78:48.57]Take seven.
+[78:48.95]He's just vlogging.
+[78:51.29]Take 13.
+[78:52.11]Take 13.
+[78:53.47]And stand by seven again.
+[78:54.81]In three, two, one.
+[78:55.95]Dissolve seven.
+[78:57.05]Kills Mike.
+[78:57.79]Mike's killed.
+[78:58.73]And we're going by mode here?
+[78:59.61]Nope.
+[78:59.75]We're going daytime.
+[79:01.07]Go daytime.
+[79:01.70]Wake him up.
+[79:02.86]What are we doing?
+[79:03.74]We go daytime.
+[79:04.40]Okay.
+[79:04.94]Stand by for daytime and camera 13.
+[79:07.20]In three, two, one.
+[79:08.86]Daytime.
+[79:10.42]And wake him up.
+[79:14.30]That little bit at the end there, when he calls for daytime and wake him up, it just feels like that moment in the Truman Show when Kristoff is like, okay, you know, ready daytime, everybody to their initial places or whatever.
+[79:31.66]It's just like so...
+[79:33.65]bizarre.
+[79:35.41]Originally, because we were trying to figure out, because Kraken was essentially back just handling a ton of shit during the whole show, and we were like, how do we get him on camera?
+[79:46.85]Because we wanted him on camera, obviously.
+[79:48.98]And one of the ideas was actually to have him be in a moon, just looking down inside of a moon, giving some commands or something.
+[79:57.92]But we didn't want to break the immersion, I guess, of the show.
+[80:03.14]Because it was like, oh, we're going to show everybody backstage and all the screens and stuff.
+[80:06.93]And I think I was like, I don't want that.
+[80:09.09]But originally, you were going to be in a moon.
+[80:11.68]Yeah, I'm glad it turned out this way.
+[80:12.73]I think crossing that fourth wall into the actual room as this disgusting Jesus rip-off character was a nice little transition.
+[80:26.13]And that still felt in the world, but also being an absolute fever dream.
+[80:30.84]Can we talk about how you had to wear that costume all day?
+[80:34.76]Yeah.
+[80:35.14]No, I didn't have time in the game to do that.
+[80:38.52]Yeah.
+[80:39.83]So since my duties had me, like, there until the final, like, 30 seconds before I appear on camera, the entire day I just shoot it in a toga with no, like, pants or shoes on.
+[80:50.56]His hair is sitting on the table next to him.
+[80:53.08]Yeah.
+[80:53.30]He looks like he just got out of the hospital.
+[80:55.99]Everyone was like, you're out.
+[80:58.89]He just got out of surgery.
+[80:59.93]And I'm like, shut up.
+[81:00.59]I'm supposed to be God.
+[81:01.55]And I, like, brought this wig around.
+[81:02.69]I'm like, I have to look like God.
+[81:06.25]You were telling us at dinner that you had to drive the car a certain way because of your outfit.
+[81:11.95]Oh, yeah, no, I, so, this is, like, I mean, I'm a larger than average man, and when I was in that little car, this toga was, like, way up to my waist, and I had, like, no pants on, so I was, like, I had to, like, hunch over, and then, like, I just, like, curved my back like an absolute, like, caveman gremlin on the way in, because I didn't want anyone to, like, upskirt me as I'm, like, riding in on this, like,
+[81:38.99]clown car.
+[81:39.95]It was a very surreal place to be, but I pretty much blacked out the entire time I was on stage.
+[81:45.41]I did not remember what I said or when.
+[81:47.71]I was just kind of feeling it out.
+[81:52.04]The audio that you hear in that clip is not specific to that clip that calls like that for every camera and the stuff that all the movers that have those headsets on, all of us that you've seen in these photos that have those headsets, we're hearing that the whole time.
+[82:03.96]Bobby's probably very tired by the end of the day, but
+[82:07.14]That's how those are called because it helps coordinate everybody that's moving.
+[82:10.74]That's why there's very few times where you actually see a camera person in another shot or the jib arm or something because Bobby coordinates that with having to get the jib out of the way and everything.
+[82:20.95]You can talk more about this, but that's how it goes the whole time.
+[82:26.18]Yeah, I mean, I'm pretty much talking for the entire stream, just kind of directing cameras, helping Mark out on the audio side for what, you know, because he's kind of looking down a lot at his audio console.
+[82:35.89]So any cues I can give anybody on the crew.
+[82:38.44]Oh, and this scene here was probably my personal favorite.
+[82:42.98]Take 8.
+[82:43.32]Ready 13.
+[82:43.58]Take 13.
+[82:43.86]Ready 8.
+[82:44.26]Take 8.
+[82:44.46]Ready 13.
+[82:44.62]Ready 8.
+[82:44.80]Take 8.
+[82:45.14]Ready 13.
+[82:45.28]Take 8.
+[82:45.41]All the way tight 13 if you can.
+[82:46.95]Ready 13.
+[83:00.37]Is that 13?
+[83:02.61]It's all 13.
+[83:04.59]So, like, as this was going on, I didn't know that Uncle Ted was going to make an appearance, and we kind of ended the day here.
+[83:10.63]None of us knew.
+[83:11.31]No, I'm saying... No, he just started doing this.
+[83:14.66]Yeah, Uncle Ted sits next to me, the person who played Uncle Ted, and he literally takes his headset off.
+[83:19.16]He's like, I've got an idea, and he just literally runs away from his desk that he's supposed to be at, and I was like, I don't know where he's going or what we're doing.
+[83:24.84]He told me.
+[83:26.40]Yeah, so right here I told Mark to kill all the mobs, we go to night mode, and also I see this motion on the 8, and I'm like, oh god, oh god, we gotta go back to this, we gotta go back.
+[83:35.13]Which one is it?
+[83:36.19]Which one is it?
+[83:38.61]I need the light clear, Josh, is Burglar ready?
+[83:42.81]Not quite yet, I need 30 seconds.
+[83:45.47]Okay, so we're not gonna go to buy mode.
+[83:48.05]Just let him do this.
+[83:50.11]The audio in the scene was weird, because Jarmo's mic wasn't active.
+[83:54.46]Are we not getting audio of this right now?
+[83:55.88]Are they all cleared?
+[83:57.84]Right, yeah, because Bobby told me to clear the mic, so... Milton had his mic on, and the camera setup was maybe 20 feet away from that blue bedroom.
+[84:10.35]And it was a direct feed from a camera into that TV, and the TV audio was on.
+[84:16.33]So the audio was coming from Milton's mic and the mic in that camera out of the TV into Jerma's mic.
+[84:21.23]So it created this weird echo effect that kind of worked for the scene.
+[84:25.13]It was sort of a happy accident how that worked out.
+[84:30.23]That was, by the way, that segment there,
+[84:33.02]That was done within, like, overnight.
+[84:36.52]After the second stream, we were talking about, like, oh, yeah, we could maybe have the TV there.
+[84:41.63]That might be funny.
+[84:42.61]They set up this entire, like, back studio, back where the furniture is.
+[84:46.99]They did it in, like, four hours.
+[84:48.87]It was like, what the fuck?
+[84:49.93]It's here?
+[84:50.37]It's already done this, like, elaborate thing back here?
+[84:53.69]How did you guys even remotely do that in less than, like, three or four hours?
+[84:57.52]That was Bobby.
+[84:58.10]That's Bobby.
+[84:58.58]That's old Bobby.
+[85:00.75]Jerma asked and we delivered.
+[85:02.07]Do you have any pictures?
+[85:02.83]Do you have any pictures of that?
+[85:04.75]It was kind of funny to me because I kept going to Jake and I was like, Jake, I'm just not happy with this setup.
+[85:12.90]It doesn't look the way I want it to look.
+[85:14.88]And then Jerma comes in and he's like, this is amazing!
+[85:17.42]And I was like, alright, I guess I'm done here.
+[85:19.66]And we went with it.
+[85:21.76]It was insane.
+[85:23.25]I don't know if this is going to work.
+[85:25.39]We're going to try it.
+[85:26.09]Hang on, let me... What are we...
+[85:31.19]That's the setup.
+[85:32.51]See if it'll focus.
+[85:33.29]Come on.
+[85:33.59]I need to probably get my face out of it.
+[85:38.99]Well, you get the idea.
+[85:40.11]There's like a stage, set up little stage under that deck and a camera, and so it would look, the video was piped from there onto the TV in that one room, so it would look like it was alive.
+[85:48.80]Yeah, and one of the things I definitely wanted to put back there was a monitor so they could see themselves and frame themselves appropriately so that they could see what they were going to look like on the TV.
+[85:59.02]And without that, that whole TED scene would have like, you know, they wouldn't have been able to see like where they were and whatnot, so it ended up working out really nicely.
+[86:07.10]And this picture, you can see Mark's perspective better too.
+[86:09.14]He was talking about what he can see and not see for the sound effects.
+[86:11.72]This is the picture from his station.
+[86:13.60]Yep.
+[86:16.92]And I was like, my focus was back and forth between that launch pad with all those buttons with the sound effects and the faders as people were coming and going.
+[86:24.47]Because I'd say probably 90 to 95% of that entire thing was improv.
+[86:29.86]So like normally with theater, you have a script you can follow as characters come and go and sound effects cues.
+[86:35.52]This was all happening in real time with no script.
+[86:39.13]So it was a lot of reactivity and doing things as they happened.
+[86:44.63]Mics were getting passed around.
+[86:45.65]I didn't know who had what mic.
+[86:47.45]Josh, the stage manager, did a fantastic job of saying, this mic is coming out on this character and trying to keep us all aloof.
+[86:53.77]Yeah, Josh totally killed it.
+[86:58.16]Not only were you having to worry about everybody's microphones, and we had everybody mic'd up in different rooms of the shotguns, but you're pumping sound effects through.
+[87:05.85]So you have to worry about that, you have to worry about the sounds, you have to worry about when to put a fart in, because that's incredibly important.
+[87:11.27]When to put in the real diarrhea sounds.
+[87:15.52]That's a lot to do.
+[87:18.90]He's also got a comm headset on, so he's really mixing in one ear with what ended up being eight, nine, ten mics, plus six more shotguns.
+[87:29.03]It's really impressive what Mark was able to do with the front of house situation.
+[87:34.31]There was a little bit of an audio discrepancy between what I heard in my board and what actually went on over the air.
+[87:39.39]Some of the mics were a little bit louder over the air than they were in my ear.
+[87:43.79]There's some game issues to work out between.
+[87:46.18]Because the video and audio passed through like eight different pieces of equipment before it went up to Twitch.
+[87:52.30]It was kind of crazy.
+[87:53.88]That's crazy.
+[87:54.90]Yeah, it was a lot of fun.
+[87:57.03]I've got a clue.
+[87:58.27]Oh, go ahead.
+[88:00.69]So after we wrapped the second show and we knew the party was coming, I remember like,
+[88:06.16]like talking to Mark and we kind of had, I think we were like driving home to the hotel and we were like, so you ready for that party?
+[88:12.36]And he's just like, ha ha.
+[88:14.68]Like we were aware of the amount of people that we had to focus on all with their own mics that you had to like cut between.
+[88:20.64]I think it turned out
+[88:22.06]amazing with, you know, what sort of information and all the, and Bobby for cutting between all those different shots in the party, like being able to see the cutaways of like Edna in the pool or the Grim Reaper and the clown talking in the corner and like have it all feel like a vibrant living, you know, party scene was fantastic to watch.
+[88:40.06]Well, also trying to keep the story coherent.
+[88:41.78]And that's where like Bobby and Alex and everybody were fantastic at saying, okay, let's, we got to listen to what Ludwig and Randy are saying right now.
+[88:49.33]So, you know, make sure their mics are hot.
+[88:52.73]So it was a, everybody on the team just kind of came together and having that communication, having those headsets was key to keeping everything focused and where it needed to be.
+[89:03.83]It was a logistic hell.
+[89:05.85]Yeah.
+[89:07.79]After the fire scene, I felt like it was kind of chaotic because the fire took place in pretty much all three rooms plus the front yard.
+[89:14.66]And then the fight was happening and then the other guys were still playing with their fire, doing their little gags in the other room and tosses Jerma out.
+[89:21.73]There's a thumbs up shot that we got that turned out to be great and
+[89:25.41]And then the next day I was like, okay, there's going to be 20 more people in the house.
+[89:28.63]Like, this is going to get crazy.
+[89:30.75]But it ended up working out great.
+[89:31.99]And just the communication for everybody on headset was just super key to making this show successful.
+[89:37.23]So I want to show this clip real quick.
+[89:40.01]This is the party scene.
+[89:41.03]From the table's perspective.
+[89:43.57]From the table's perspective.
+[89:44.56]So you're not going to hear the crew audio over the comms.
+[89:46.32]You're just going to hear what it sounds like in that room.
+[89:49.24]Because I think it's a pretty unique perspective.
+[89:52.47]That's wild to look at from his perspective after it's all over.
+[90:00.33]The lights look totally different too.
+[90:19.71]And I got to give a lot of props to the camera guys that we had.
+[90:21.92]They were really selling the main action as this whole party was going on between the JIT and the two wireless operators.
+[90:28.18]So we really didn't miss any of the little small gags here and there.
+[90:31.30]I'm sure there's a couple we missed, but there's a lot going on at one time in six different rooms.
+[90:37.45]Also, don't forget, anytime that Edna appears, the other fun part for camera and for audio is that people can't get near Kit with that microphone because then you hear the Edna voice on.
+[90:48.22]So when chat would vote for
+[90:49.72]You guys voted at one point to have Jeremy dance with Edna, I believe.
+[90:55.03]That's really hard to actually pull off for us because they can't talk when they're dancing easily because you would hear Edna's voice amplified with Jeremy's voice, right?
+[91:04.02]There's all these little pieces where a simple decision causes whatever the poor other things for us to watch.
+[91:08.96]I think there was a few times when I actually came through.
+[91:11.02]I came through Kit's mic a few times.
+[91:14.42]And it was just like, it sounded insane.
+[91:17.05]So I tried to react to just my face.
+[91:18.47]It was so hard to do.
+[91:23.56]This was so great.
+[91:24.34]That's an insane picture.
+[91:26.55]I love that.
+[91:26.99]For that piece, the Edna thing, I think typically when Kit's using that mic, it's, you know, a streamer mic, a mic that's really, you know, he's the only one in the room also.
+[91:36.19]So, like, when you put it onto a lapel and put that effect through it, you never know what you're going to get.
+[91:40.25]And so as he moved around, his voice level changes.
+[91:42.49]So you can kind of hear the level of Edna change throughout the scene.
+[91:46.13]But Mark did a really good job of riding that fader and riding those effects.
+[91:49.63]So shouts out to Mark on that.
+[91:53.53]So we're trying to get Ludwig connected right now.
+[91:55.31]He's having a little issue, but we're getting him sorted.
+[91:57.89]So in the meantime, I want to play one more crew audio clip, because it seems like Chat really likes those.
+[92:04.90]So we'll play another one.
+[92:05.54]Chat says album cover.
+[92:08.06]Oh, speaking of album covers, I have an exciting announcement.
+[92:11.30]I don't even think Jeremy knows this.
+[92:16.53]We submitted it today, and in about seven days' time, you should be able to listen to the Buy Mode soundtrack on Spotify.
+[92:26.22]Oh!
+[92:26.40]Yeah.
+[92:28.48]Nice!
+[92:29.46]That's original music.
+[92:30.52]People may not realize that.
+[92:34.26]I address myself to that every day.
+[92:37.38]The amount of times we heard that on set and while live is staggering.
+[92:41.95]I have to imagine how many people are playing it, too.
+[92:44.51]Yeah.
+[92:45.17]It's like being at a ride at Disney.
+[92:47.55]They play the same two-minute audio clip of like, it's you.
+[92:51.39]Oh, welcome.
+[92:52.13]We need to get you into that seat.
+[92:53.53]You've got to fight the rebels.
+[92:55.43]It just plays all day.
+[92:58.77]Yeah, people are asking about DMCA.
+[93:00.55]Yeah, that piece was commissioned for this stream.
+[93:03.92]All the rest of the music that was used was royalty-free music that is licensed through various regular royalty-free sort of sites.
+[93:12.40]But the main piece that's used during the buy mode, that's used during the character selector, that's used during the loading screen,
+[93:18.78]That piece was made custom for us.
+[93:20.98]And I don't think we have a single really good piece in any of the VODs, because it was all either custom or otherwise.
+[93:26.15]So that's why you get to see the whole thing.
+[93:27.45]That is remarkable.
+[93:29.15]Considering how many sound effects and little audio files were played, that's remarkable.
+[93:32.87]We paid for it all.
+[93:33.81]Jake gave me a week to find those.
+[93:35.07]He was like, hey, you have a week.
+[93:36.39]Find a bunch of sound effects and music.
+[93:37.71]We have 12 hours of stream to kill.
+[93:39.31]Find some music.
+[93:39.99]And I'm like, OK.
+[93:42.77]Good luck.
+[93:44.26]Yeah.
+[93:46.00]Was there one other?
+[93:46.87]Yeah, so we're going to go ahead and play this scene.
+[93:49.24]I love this scene.
+[93:50.00]The lawyers.
+[93:52.88]This is one of Jeremy's birth child scenes.
+[93:56.86]So, yeah, we talked about the scenes that were sort of set up ahead of time.
+[94:00.32]The DIY room, obviously, was something that we needed all the props in place for it to happen.
+[94:05.21]In terms of how it happened was totally up to Chat, how those walls got painted.
+[94:09.61]Whether or not he actually discovered the safe was up to you as well.
+[94:14.37]But in the end, that wall comes down, he finds a safe, and inside the safe is the money, and we needed an army of lawyers ready to make that happen, because his concept was, you know, he calls one lawyer to settle it, and then that lawyer calls another lawyer, and that lawyer doesn't know what to do, so he calls another lawyer, etc., etc.
+[94:29.52]So that's how that wound up.
+[94:32.02]There was an alternate storyline, too, I think, where Kit and Jeremy got married, and so we would have called the priest to have them get married in the middle of that scene, but that didn't wind up panning out.
+[94:42.95]So anyway...
+[94:43.82]I'll play back what you saw on stream and along with the crew audio.
+[94:47.67]To add to this too, add to this too, just this is important.
+[94:51.13]So when the call the bear,
+[94:54.31]Paul the Bear, I opened up this door here that you see to the kitchen, and there's just a guy with a bear head.
+[95:02.96]He wasn't in the whole costume.
+[95:05.40]So I'm just like, how the fuck are we going to get him in here?
+[95:07.72]He just has his head on?
+[95:09.09]So he's like, he was essentially, they weren't prepared for that at all.
+[95:13.79]So...
+[95:14.77]I was imagining he might have, like, come into the house and started, like, attacking people.
+[95:19.41]But it's just him with the hat.
+[95:21.13]He scared the shit out of me.
+[95:22.15]He's literally just sitting in the little cubby here.
+[95:26.01]And I was like, what the fuck?
+[95:27.99]Yeah, I want to speak to that real quick.
+[95:29.63]Yeah, it was just the feral fancy bear.
+[95:33.91]So Jeremy didn't know that was going to happen because originally this was meant to play out and the bear thing wasn't an option.
+[95:39.51]But as we're running all the polls and running the stream on our side, on the extension side, we see chat just blowing up with call bear.
+[95:48.04]They're sick of these lawyers.
+[95:49.40]They need a stabilizing violent force to return normalcy.
+[95:53.96]So they just wanted the bear in.
+[95:55.32]Because we already showed them that you can call bear for the gorilla.
+[95:58.06]So they know it's an option.
+[95:58.98]They know that they can call bear.
+[96:00.67]And so we're like...
+[96:02.78]We have to call Bear.
+[96:03.64]Give me five seconds.
+[96:09.49]I'm going to back it up.
+[96:11.07]The beginning call of this is, do we have the Bear ready?
+[96:14.49]And the Bear costume change is the hardest costume change of all because it takes almost 15 minutes to get in the costume.
+[96:20.47]It's ridiculous.
+[96:21.96]And, uh, so of course the bear's not ready.
+[96:23.86]So here's the call and Josh is desperately going, fuck you guys, right?
+[96:27.56]So here we go.
+[96:28.14]Who do we want us to call the bear?
+[96:29.62]Is there any way we can get... Can we get a bear just to peek in?
+[96:34.39]I can... Give me... Five seconds.
+[96:37.29]Okay.
+[96:37.77]It could even just be the head, right?
+[96:39.15]Yeah, tell him to call it.
+[96:41.83]Like, he could go in between the rooms and peek out the window or something.
+[96:44.27]Yeah, we can do that.
+[96:44.93]Alright, get him ready.
+[96:45.61]There's no...
+[96:53.43]I need 20 seconds.
+[96:55.27]What window do you want him in?
+[96:56.19]We're going to run the pool now.
+[96:59.11]Into the kitchen.
+[97:01.79]Not yet.
+[97:02.35]Oh, I got it.
+[97:04.40]This is going to be tight with the bear.
+[97:09.52]Bear coming into the window.
+[97:10.78]Be ready.
+[97:12.08]Not yet.
+[97:12.80]Do not bring them yet.
+[97:14.44]We're not going to go in yet.
+[97:15.28]We're just making sure we can fit.
+[97:16.71]Okay, he's going to call now.
+[97:18.09]Viewers voted for him to call bear.
+[97:19.15]Let him know.
+[97:19.97]Okay, I can't see.
+[97:20.93]Yeah, by the way, there was a huge concern.
+[97:22.29]That bear head is so big, we didn't think it would fit between the walls.
+[97:25.88]Like, for him to stick his head through the window.
+[97:27.74]So that's what that call was about.
+[97:28.72]Which would have been hilarious.
+[97:30.00]If he had gotten stuck, if he had gotten stuck in there, it would have been worth turning the camera and just showing it.
+[97:36.25]Like, if he actually got stuck there.
+[97:37.69]Bring Jed.
+[97:39.59]Go on the bear.
+[97:40.73]No, do not go on the bear.
+[97:41.77]Do not go on the bear.
+[97:42.69]He's the partner.
+[97:43.33]All right, send bear now.
+[97:44.35]Take 10.
+[97:45.17]10's up. 38.
+[97:49.85]Ready 11, tick 11.
+[97:51.57]He just paid seven grand for that.
+[97:52.77]Ready 10, tick 10.
+[97:53.11]What's the role in this?
+[97:57.37]Where's the bear coming to again?
+[97:58.39]He's through the window in the hole.
+[97:59.95]Ready 13, tick 13.
+[98:02.53]Bear noises.
+[98:03.43]Ready 8, tick 8.
+[98:04.65]I don't think so.
+[98:05.23]I think it's just his head.
+[98:06.63]It's his head only.
+[98:07.99]It's his head only, Blair.
+[98:11.01]He can't come inside.
+[98:13.21]Ready 8, tick 8.
+[98:15.73]Can we get the bear to poke through one more time?
+[98:17.19]Ready 10, tick 10.
+[98:20.01]You can just watch.
+[98:20.89]I need 15 seconds.
+[98:22.20]Yep.
+[98:22.62]Poor Josh.
+[98:27.15]We really wanted the fist bump.
+[98:28.47]Give him a fist bump, camera guy.
+[98:29.87]Give him a fist bump.
+[98:30.43]This was bare hands.
+[98:31.15]Give him the fist bump.
+[98:33.57]Yeah, we were just going to get the camera guy to stick his hand through.
+[98:37.97]Do we put the fist in the window now?
+[98:39.35]It's gone, it's gone, it's gone, it's gone.
+[98:42.51]Ready, three.
+[98:43.71]Take three.
+[98:44.81]We were trying to get you a fist somewhere.
+[98:50.58]All right.
+[98:52.44]I think that's going to... If it was a human hand, that would have been funny.
+[98:55.76]I was trying to tell him.
+[98:56.60]I was like, go now.
+[98:57.38]It doesn't matter.
+[98:57.98]Send someone.
+[98:58.56]But it was too late.
+[98:59.92]Also, wasn't he dressed...
+[99:03.48]Yeah, a little camera operation.
+[99:04.75]Didn't he have the Gladiator costume on?
+[99:07.95]Yes.
+[99:08.73]Because he was ready to be the Gladiator, right?
+[99:10.77]So it was like this bear head with a Gladiator.
+[99:13.05]It looked like a Fortnite skin.
+[99:14.11]Honestly, I think they should have sent him in anyway.
+[99:16.25]I think just a bear in a Gladiator outfit to defend you against the lawyers still would have been a very worthwhile scene.
+[99:23.26]The real payoff would have been if the bear wasn't the lawyer.
+[99:28.68]Yeah, Bear comes in as a lawyer.
+[99:30.00]He was asking if we needed the standing bear or the scary bear, because he claimed it took, like, 30 seconds longer for one or the other, so he just, we want standing bear or fancy bear, standing bear or fancy bear.
+[99:40.73]It was some great calls on comm.
+[99:42.51]Yeah.
+[99:43.29]It's so hard to see out of that suit that the first time when the guy that placed the bear came out to rummage through the trash, he left, but he was crawling, and he couldn't see, and we had to go get him out of the drapes, because he was crawling through the...
+[99:53.66]He was like stuck in the drapes that surround the set.
+[99:55.84]Because he can't see where he is.
+[99:57.28]So we had to go get him out because he's just in the drapes like lost.
+[99:59.97]Do you have any shots from...
+[100:03.48]When the bear mauls Kit as the car salesman and then tries to leave and trips over and his head starts falling off.
+[100:11.17]I think so.
+[100:11.99]Yeah, so what we're going to do now is we're going to take another ad break.
+[100:17.25]And when we come back, we have both Ludwig and Kit standing by for the third segment of our show.
+[100:22.80]Huge shout out to Bobby and Mark.
+[100:24.94]Thank you so much for joining us.
+[100:28.18]Thanks for having us.
+[100:28.70]Thank you, guys.
+[100:29.06]Thank you for this opportunity.
+[100:30.30]Super unique and super fun.
+[100:31.98]I appreciate it.
+[100:33.89]Awesome.
+[100:36.97]So after this break, we'll be back with Kit Boga, Ludwig, and Criken.
+[100:41.36]So thanks, everybody.
+[104:31.83]What the fuck is wrong with your eyes?
+[104:36.38]It's me, Fred!
+[104:43.14]What the fuck was that?
+[104:47.38]What?
+[104:48.00]We were looking for something.
+[104:48.94]You did a Fred reference?
+[104:51.46]What the fuck was that?
+[104:57.57]I don't know.
+[104:58.05]We had the leftover helium tank.
+[104:59.43]I needed something.
+[105:03.56]It was fucked.
+[105:04.46]Is my audio good?
+[105:05.72]Can you guys hear me?
+[105:06.60]Your audio is fantastic.
+[105:08.11]You sound great.
+[105:08.73]Yes.
+[105:09.03]I love that.
+[105:11.31]I downloaded Vmix.
+[105:12.39]What's going on?
+[105:12.77]I have an entire operation in front of me.
+[105:14.55]I have like seven different overlays.
+[105:18.37]But how much?
+[105:18.89]I'm doing good.
+[105:19.55]This is dope.
+[105:21.04]I didn't realize that you producers, you talked.
+[105:26.48]Like that I have lips?
+[105:27.50]The entire time.
+[105:28.52]Yeah.
+[105:28.70]Yeah.
+[105:29.59]They were talking and directing.
+[105:32.69]They were working.
+[105:33.63]I don't know.
+[105:35.15]Like a lot.
+[105:36.01]It just happened.
+[105:38.05]We had to talk the whole time.
+[105:39.07]I thought it just kind of happened.
+[105:40.43]I didn't know.
+[105:42.05]My apologies.
+[105:42.83]Yeah.
+[105:44.73]Apologies accepted.
+[105:50.49]What are we looking at here?
+[105:51.41]What is this?
+[105:52.69]Oh, you know, I don't know.
+[105:54.15]Let's play it.
+[105:54.99]Let's see.
+[105:55.55]I think...
+[105:57.71]This is a load of furniture coming in.
+[105:59.39]I don't know why this is what's queued up, but.
+[106:03.20]It's a random furniture.
+[106:09.18]Oh, this is fucking amazing.
+[106:11.10]Isn't that great?
+[106:12.04]There's Ted's couch.
+[106:17.64]There's the bar.
+[106:18.10]This looks like somebody's moving.
+[106:20.52]I mean, we basically did several times.
+[106:24.34]Yeah, there's the bar.
+[106:25.22]They put the bar in.
+[106:28.95]So, yeah, why don't we start with, I want to hear from Kit and from Ludwig and from Kraken about what your favorite scenes of the show were and why.
+[106:42.56]So let's start with you, Kit.
+[106:45.76]Favorite scenes, specifically.
+[106:50.44]I loved, although I don't think Jerma did, so I feel bad saying this,
+[106:58.12]I loved your love scene with death.
+[107:05.84]Partially because, if I remember correctly, you specifically said that you didn't really want it to go very long.
+[107:15.43]And it did go very long.
+[107:17.61]I have that clip.
+[107:18.23]Let me see if I can find it.
+[107:20.95]I just like awkward moments.
+[107:23.61]Well, the thing about that scene is they were supposed to cut away.
+[107:27.52]Yeah.
+[107:27.74]Am I echoing?
+[107:29.58]Is that me echoing?
+[107:30.52]No, you're good.
+[107:32.42]I hear you once.
+[107:32.98]You might hear yourself in vMix.
+[107:36.18]Why do I hear myself twice?
+[107:38.91]I hear you a second time.
+[107:41.27]Everybody has headphones on.
+[107:43.41]Ever had a stream open somewhere?
+[107:45.89]Wait, it might be me.
+[107:48.14]Hold on, is it resolved?
+[107:50.34]Hello?
+[107:50.90]Yes.
+[107:51.96]Yes.
+[107:53.50]It was me!
+[107:55.24]Sometimes I was like, do I have my screen open?
+[107:57.68]I like to throw in tech issues.
+[107:59.60]I like to throw in some tech issues so I can solve them, and then I can be a hero.
+[108:06.24]So here's the moment, Kit, when we discuss that.
+[108:08.45]You guys, do you want to be under the sheets or already up?
+[108:12.29]and adjusting your clothes.
+[108:14.71]Nice.
+[108:15.03]How dramatic is that?
+[108:17.09]Well, I was imagining being already up and in the room, not up.
+[108:24.73]Wow, that was exciting.
+[108:28.01]Wow, that was, I've never experienced that before.
+[108:33.39]I almost died like six times.
+[108:35.61]That was weird.
+[108:41.01]I think the idea was to shoot away from it and then just play the music, which makes sense.
+[108:44.41]And Amelia showing up is a great reason to cut away.
+[108:46.57]What are you doing?
+[108:47.19]What's going on here?
+[109:07.04]and you get a new house, and now, I'd be like, wouldn't you?
+[109:11.82]You got a chance here?
+[109:12.71]I'd be with this guy.
+[109:14.13]Dad, you would take it.
+[109:15.87]I'll remember the cat ears for you.
+[109:19.59]I'll just walk out and be like, don't call me, I'll call you.
+[109:25.07]That's a good one.
+[109:27.37]All right, let's go.
+[109:35.08]So they didn't cut away.
+[109:36.00]Yeah, I stayed under the covers.
+[109:38.30]In fact, I was in my ear.
+[109:41.09]I'm hearing, hey, we didn't cut away.
+[109:43.23]You got to stay under the covers.
+[109:44.17]And I'm just like, you cut away and you play the music.
+[109:47.67]You cut away and you play the music.
+[109:49.78]And they're like, there's no music.
+[109:50.90]We don't have it ready.
+[109:52.81]I think you got up a few times too because you didn't want to be in there.
+[109:56.37]They're like, go back to the bed, go back to the bed.
+[109:58.65]There wasn't a good moment to cut away because you guys were just laying on top of like, you're laying like this looking at the ceiling without interacting at all.
+[110:08.92]There was no covers involved.
+[110:10.18]It's just the most awkward like sitting, like lying side by side and then we're like, when are we supposed to cut away?
+[110:16.92]because it it was a small bed too wasn't it it was it was like a full right or like a twin it was a queen it was like a bed it wasn't a queen it didn't feel like it it was just like it was a it felt like a full I will say I have I have a confession to make I'm making this confession live on air um I've not told anybody this uh milton milton and I conspired um to not cut away
+[110:42.58]We talked about it beforehand.
+[110:44.08]He was like, so do you want me to get under the covers and move around?
+[110:47.47]Or are you just going to cut right away?
+[110:48.71]And I'm like, no, no, no.
+[110:50.31]Get down there.
+[110:51.03]Pull him down there if you have to.
+[110:52.59]I didn't know that.
+[110:53.43]The original idea was like,
+[110:58.66]I'm under there with them and like, oh, this is great.
+[111:00.92]This is fantastic.
+[111:01.90]Oh, yeah, me and death sharing a woohoo, right?
+[111:05.53]But I was under the impression that like I would hear like love, fun, like music, right?
+[111:11.65]And they would cut away.
+[111:12.57]So I'm just sitting there going like, this is great.
+[111:14.85]This is awesome.
+[111:15.63]I love lying here with death.
+[111:16.97]And it's like,
+[111:18.37]Cut the fucking camera.
+[111:19.53]Like, why is it still in the room?
+[111:20.89]Because I had a program monitor.
+[111:22.64]I'm sitting there looking over.
+[111:23.50]I'm like, why are we still here?
+[111:27.02]I want you to cut away.
+[111:27.70]I mean, the problem is... I just got up and I was like, all right, fuck this.
+[111:29.80]I'm out of here.
+[111:30.35]We had to watch Amelia walk through the whole house, which, I mean, that takes, like, 35, 40 seconds, you know?
+[111:35.29]And what?
+[111:35.55]We're just going to watch... We're just going to...
+[111:39.27]Because we can't show me woohooing somebody on stream.
+[111:43.42]That was my main problem.
+[111:46.38]We can't roll around in the bed together and S-word on stream.
+[111:53.82]We can't do that.
+[111:54.89]That was the whole point of the cut.
+[111:57.63]By the way, your usage of the S-word the next day when streaming, I think was just... None of us expected it.
+[112:04.95]That was up there in my favorite moments.
+[112:07.50]Because all the production team was listening, and we're all cutting normally.
+[112:10.52]And then you start doing that bit.
+[112:12.78]And I forget who it was.
+[112:13.74]One of us was like, did he just say sex?
+[112:16.15]And we're like, oh.
+[112:17.91]And then we're like, all right, lean into it.
+[112:19.27]Lean into it.
+[112:19.63]Play into it.
+[112:20.03]So we did alerts.
+[112:21.84]Like, you did what with death?
+[112:23.90]And your face went, like, beet red instantly.
+[112:26.43]And they, like, realized what you did and tried to backtrack.
+[112:31.09]I'm surprised constantly, Jerma, that I've been on Twitch a much shorter amount of time, but I have lost all sense of pride and shame and love for self-respect.
+[112:43.55]And I had learned that you still have many of those important qualities that humans have.
+[112:48.61]They hadn't been stripped away yet.
+[112:52.09]well I was just for terms of service I didn't want to like death on camera you know what I mean like oh yeah looks like yeah this is great we're gonna have sex on camera like we I was that's why that I was afraid of it all right love with what whole story why don't why why don't you tell us about your favorite moment on stream
+[113:11.92]On stream or specifically?
+[113:14.53]No, just of the show, I guess.
+[113:16.63]Okay, because I think the best moments were like sitting in the room and then just vamping on funny things that could happen, half of which never came to fruition.
+[113:27.45]But it felt like being in class with none of the work where you could just say shit out loud and then everyone will laugh.
+[113:33.28]And it was great.
+[113:35.18]Everyone kept flinging jokes.
+[113:36.60]There's so much laughter.
+[113:38.62]Uh, but the one I'm a, I mean, I'm a sucker for Amelia.
+[113:47.11]I'm going to be Amelia's fan favorite.
+[113:50.33]Yeah.
+[113:50.87]I'm a, I'm a sucker for Amelia as well.
+[113:53.20]Uh, cause it, all of it was, I mean, none of it was intended.
+[113:59.58]In my mind, like when we first talked about the maid character on rehearsal day, it was like, oh, you know, like maybe you'll come in and clean.
+[114:06.23]And like, I'll go to work.
+[114:07.49]Like, I might even be there.
+[114:09.19]And then it devolved quickly, rapidly.
+[114:13.01]And they became, you know, their own special character.
+[114:16.85]Yeah, in fact, the, let's see, I've got, I'll take this photo here.
+[114:24.16]One of the things that I love most about the Amelia character was that we went into that day two, your first day on screen, and it was just totally supposed to be a throwaway character that maybe would show up a couple of times.
+[114:35.89]And because of Chat's decisions and what they were saying in Chat, it totally devolved into this kind of romantic sort of thing.
+[114:42.87]Self-opera.
+[114:44.92]Well, Jeremy invited her on a date.
+[114:47.33]And then that became a whole thing, because then when the date was a stand-up, then that had to become a storyline for the next day.
+[114:52.03]And the date was a stand-up because of Chad's decision, right?
+[114:54.53]It was like they chose to make him do something that made him late for the date, and it didn't work.
+[114:59.84]And so when we all got in the room at the end of the day, because we were going live again in like, whatever, 16 hours, we were like, what's going to happen with this storyline?
+[115:09.76]Um, this idea of like, no, um, like Amelia is, is now part of this, this soap opera and also Amelia is Ludwig.
+[115:17.75]And the only difference between them two is the choker.
+[115:20.99]Right?
+[115:21.47]That choker.
+[115:22.37]Yeah.
+[115:24.25]Yeah.
+[115:24.67]I think it's funny that at one point you walk into the bathroom and I call you Ludwig because I just hear your voice.
+[115:30.39]So I'm just like, oh, Ludwig.
+[115:31.57]And you're just like, no, that's not who this is.
+[115:34.87]What I actually did, I went, yeah, I mean, no, this is Amelia.
+[115:38.79]Because I had forgotten, too, that I was Amelia in that moment.
+[115:41.44]I was like, oh, yeah, I'm Ludwig.
+[115:43.72]And I failed to be.
+[115:45.60]Yeah, it is funny how little responsibility chat would also take.
+[115:52.17]Because they are the reason that you bailed on the date.
+[115:54.89]But they were furious that they had caused that to happen.
+[115:58.70]They turn on each other real fast.
+[116:00.30]Yeah, it's like as soon as if anyone decided on something that someone personally had not picked, they'd just yell rigged and attack the other sub-faction of chat that wanted the other thing.
+[116:12.46]And it was pretty surreal to set up those dominoes and then let them go and just see how immediate it was.
+[116:20.65]Dogs fighting over a bone.
+[116:22.57]Everyone would just go at each other for each decision.
+[116:25.87]Any wrong move.
+[116:26.93]When I took off the choker, they went from loving Amelia to hating Ludwig.
+[116:31.63]If I never revealed that, it would have been fan favorite.
+[116:36.54]I left the villain.
+[116:37.18]I left the heel.
+[116:38.46]Yeah.
+[116:40.42]That's when we developed this thing.
+[116:42.70]Let me see if I can run it.
+[116:44.32]The Ludwig dollhouse.
+[116:46.80]And this concept behind how does the stream end?
+[116:50.64]How do we get out of this thing?
+[116:53.17]was not predetermined prior to the night before the last show.
+[116:57.13]Shout out to the graphics department.
+[116:58.62]Yeah, shout out to graphics for coming up with that stuff real quick.
+[117:01.30]And actually, for you, Ludwig, too, for doing the recording of your little head thing.
+[117:05.52]That was so clutch.
+[117:07.30]But the way that it all came together in the save file and Ludwig's takeover of the stream and then resetting the save file.
+[117:18.99]I actually have a clip.
+[117:19.63]That was funny.
+[117:20.83]I have a clip of that coming together.
+[117:22.29]Let me see.
+[117:36.99]That might be kind of fun to have us get in two different directions, but at this point, that's probably way too difficult.
+[117:44.38]It's like 14 hours there.
+[117:45.64]Is there a difference?
+[117:46.54]Yeah, like 14 hours there.
+[117:48.02]We'd have to reset the needs bar for the person, but then we could, like, if you had an animated face thing at the bottom left, then it's in a different
+[117:59.63]I get pumped for one of your IFBs and be like, give me that fucking microphone, this is my show.
+[118:08.17]We're roommates now.
+[118:09.86]No, no, no, we're not roommates.
+[118:28.85]You have a graphic pop-up that now shows the house and it says, like, German plus Ludwig.
+[118:34.91]This isn't plus him.
+[118:36.27]We have the needs bar in the corner.
+[118:37.99]We have the little face of Jeremy there.
+[118:43.02]We took it down, parted it through, and put the logo up just because there was a lot down there.
+[118:47.38]But I think if you clearly then show it, if we just recorded your heads so that we had your... And then I can make the same sort of overlay we did for that.
+[118:53.99]Yeah, exactly.
+[118:54.83]I would say, like, after they take control of him, it should probably be another...
+[118:59.42]maybe 10 to 20 minutes of total time to do a few actions to buy one or two things maybe.
+[119:05.48]So they get action tests and still during the party.
+[119:08.68]Oh, it'd be funny to spend all your money.
+[119:10.56]And that's where we go.
+[119:12.38]And you make a big point for you.
+[119:13.70]Like, hey, buy the most expensive shit.
+[119:15.34]And it's like, okay, let's go get the most expensive stuff for the party.
+[119:20.06]I'd find your cash reserves and buy something else right after.
+[119:23.79]Yeah, he's like, it's not my money.
+[119:25.13]Put it up again.
+[119:26.17]Yep.
+[119:29.07]That was the inception of the idea right there.
+[119:33.64]Yeah.
+[119:33.84]It came together way more naturally than I would have expected to.
+[119:37.42]Yeah.
+[119:37.56]And it was all done like 14 hours before the show.
+[119:39.98]Yeah.
+[119:40.64]Yeah.
+[119:41.00]Cause I remember going into like the shooting of this and we like didn't know how it was going to end on the final day.
+[119:46.73]It was just kind of a, you know, because the day two had the fire and that's like such a great moment.
+[119:53.03]Um, but day three, it's like, you know, it kind of came down to whatever chat decided, whatever they, you know, like,
+[119:58.97]they glomped onto and were like, we want to see this plot line play through.
+[120:03.16]And it just happened to be Amelia, I think, which felt really natural.
+[120:10.06]I'm looking for a clip I have of Kit backstage before the reset of the game.
+[120:17.88]I love Kit.
+[120:18.70]I have to say, I love Kit.
+[120:20.84]Kit is like the sweetest human.
+[120:23.60]And then in any interaction will always be so considerate to a fault on how you might've interpreted it in some negative fashion.
+[120:33.37]And I would always remember he'd like, you know, you'd like come back or something.
+[120:36.79]You'd be like, was that, was that like good?
+[120:37.99]Was that okay with the police officer?
+[120:39.35]Like that was good.
+[120:39.87]Right.
+[120:40.75]And I'd be like, yeah, man, I was fired.
+[120:41.91]We were dope together.
+[120:42.83]It's always good.
+[120:44.81]Yeah.
+[120:45.65]Yeah, you're the sweetest life force I could have imagined.
+[120:49.73]That's very kind of you to say.
+[120:50.97]And funny to boot.
+[120:52.37]Funny to boot.
+[120:52.95]Yeah.
+[120:53.83]Yeah, you're not allowed to be funny and nice, by the way, okay?
+[120:56.21]I already picked one very clearly.
+[120:58.29]Pick one.
+[120:58.63]And I'm kind of struggling at that one.
+[121:00.78]You're not allowed to be both, all right?
+[121:02.34]And better at both.
+[121:03.02]That's not allowed, okay?
+[121:03.90]That should be banned.
+[121:06.46]Oh, jeez.
+[121:09.26]I'm having a real tough time.
+[121:10.22]What video are you doing?
+[121:12.40]I still have all the cash you gave me, by the way.
+[121:15.00]You got the money?
+[121:17.14]I don't know where I put the... Did I give you the signed bill?
+[121:21.26]Uh, no.
+[121:22.28]No.
+[121:23.58]I think I lost just the signed bill.
+[121:26.04]The signed stuff?
+[121:27.38]It's play money, by the way.
+[121:29.54]Just to be clear.
+[121:30.20]Yeah, I stole all the cash from set.
+[121:32.76]I found out it was play money.
+[121:33.78]What an L. But I stole all the cash from set, and I had people sign one, and I lost just the signed bill.
+[121:39.45]I thought you had had it, but now it turns out you don't, so I...
+[121:43.46]It's gone.
+[121:45.15]If you want, I can sign one of these.
+[121:48.71]Send it to me.
+[121:49.91]The saddest signed bill in the mail.
+[121:52.17]I signed it for you, kid.
+[121:53.63]Yay.
+[121:53.75]You guys were...
+[122:02.54]You guys were an amazing addition to the show.
+[122:06.00]One of the things that I wanted to make sure is bringing on people that, you know, it's the German 985 dollhouse.
+[122:13.96]How do we make this happen for three days, right?
+[122:16.66]How do you possibly, how could I be up there for three days doing, oh, look at me.
+[122:21.24]There's only so many times I can do that for like 12 straight hours.
+[122:25.16]So bringing on, I'm just trying to, we were trying to think of early on who,
+[122:29.49]We could even, like, mesh with who would be fun, who would be interesting, who would be funny.
+[122:33.19]And we had some late additions, too, that came in and just knocked it out of the park, like Milton, Micah, Randy.
+[122:39.43]Milton was unbelievable.
+[122:40.29]Milton was a rock star.
+[122:41.91]He just showed up, and he was, like, literally the last second possible.
+[122:47.69]It was, like, four days before the show, five days before the show, right?
+[122:50.71]And it's just like, you want to fucking do this?
+[122:52.87]And he killed it.
+[122:53.75]He was amazing.
+[122:56.47]I loved it.
+[122:57.11]I loved every contribution.
+[123:01.19]And we've got technical problems.
+[123:03.79]No, I'm looking for a clip, and I just can't find the clip.
+[123:06.84]There's a clip of Kit and Milton and Micah backstage as we're about to start the reset sequence, and Kit goes, like, so I'm going to go out there and plead with chat to do this.
+[123:19.12]But I think he actually prefaces it.
+[123:20.66]He's like, on the off chance that they pick not to do it, like, I'm going to go out and do this, and then they're going to come out after me, right?
+[123:25.42]It was, like, just the perfect setup for it.
+[123:27.29]I unfortunately can't.
+[123:28.03]Oh, at the end?
+[123:28.94]At the very end.
+[123:30.46]Well, because you had said... I don't remember who thought of it, but we were talking about resetting the game.
+[123:35.89]And I think we all assumed that chat was going to reset the game.
+[123:40.27]And I remember thinking, what if they don't?
+[123:45.43]They might not do that.
+[123:46.73]And they did not do that for a very long time.
+[123:50.26]No, it was like five or six polls, I think.
+[123:55.70]I'm so glad that happened because you could have that opportunity of more and more people coming and begging.
+[124:01.00]It felt like this climax of building.
+[124:03.70]I don't know if you guys saw the percentages, but it was a matter of 1% to 3% difference every time.
+[124:10.31]It was down to the wire.
+[124:12.09]Chat was just ravenously battling each other to try to push it one way or another.
+[124:17.09]It felt like a real climax.
+[124:19.19]It was really cool.
+[124:20.09]Just to be clear, Craig, and you can talk about this a little bit too, we had no way to rig the
+[124:26.26]Because at some point during that sequence, I was like, can we
+[124:29.91]Can we just push it over the edge?
+[124:31.45]And Kraken's like, we physically don't have a mechanism to change.
+[124:34.96]The data comes in, and it goes into it, and that's it.
+[124:37.56]Yeah.
+[124:38.74]The only bug that people saw that I'm aware of was the sorting issue in the first day, where it would show a winner even though another thing had a bigger percentage.
+[124:49.92]And that was purely our UI pushing the wrong winner out of a sorting issue.
+[124:55.87]all the numbers were calculated and you could see that like the majority votes went to the right thing so none of that was padded in any way it was all literally what chat picked and we just had to like preempt kind of what we expected chat to go for but even then we had contingency plans for like literally everything which I think is the awesome part about the show is like
+[125:16.04]So just to segue, I guess it's like my favorite thing of the show was the whole Uncle Ted segment where, you know, Chad voted for him to check the mail.
+[125:24.33]That led to him getting a letter and we're like, we need him to get more money.
+[125:27.71]So I guess we'll do inheritance.
+[125:30.13]And so I pushed the notification of his uncle died, which then went to...
+[125:35.04]He made up the name uncle Ted when talking to his mom, which then went to chat, like lamenting the death of uncle Ted and how he was like weirdly happy about it, which then went into like day two.
+[125:44.48]We're like, well, we needed him to get more furniture, but he has 20 bucks in the bank.
+[125:47.54]And I was like, what if we made, you know, a set of furniture that was free?
+[125:51.11]Cause it was uncle Ted's inheritance set.
+[125:53.15]And so chat of course goes and buys that because it's free.
+[125:55.99]And so we were like kind of setting all these pieces and then, you know,
+[125:59.61]once they get that set that enables Blair to play Uncle Ted and come on set.
+[126:06.17]And then we even had the decision of whether or not to kill him.
+[126:09.40]And we thought Chat was going to kill him because you guys are psychopaths.
+[126:12.44]But there was an option of this where you don't kill Uncle Ted.
+[126:17.02]And he's a character for the rest of the show.
+[126:18.56]We were prepared for that.
+[126:20.69]And he could have been around for the party.
+[126:22.83]He could have been around.
+[126:23.39]He could have been a consistent guy.
+[126:25.67]But they're like, oh, he's a ghost.
+[126:27.37]Call the Grim Reaper.
+[126:29.47]And yeah, that whole bit was my favorite.
+[126:32.57]Yeah, because if you had called the priest, the priest would have probably showed up and been like, this person's alive.
+[126:38.55]Maybe do an exorcism on them, but this person's alive.
+[126:41.85]I don't need to... This is actually a clip of them waiting backstage to see which way Chad goes.
+[126:47.88]That's awesome.
+[126:51.30]Yeah, I don't know if you've shown too many moments like that yet where...
+[126:57.58]We sometimes had these trees where we knew every possible thing that Chat could vote on, and so all of us would be suiting up or getting ready for whatever character.
+[127:11.58]And then if it didn't get called, we'd just walk back.
+[127:14.92]Yeah, actually, I have a...
+[127:17.30]Go ahead.
+[127:18.82]It was the worst for Kit because he would be like Edna, the policeman.
+[127:22.89]He'd have to swap the most insane costumes.
+[127:26.29]Mia would be like, all right.
+[127:27.25]Not the bear though.
+[127:28.35]Yeah, that's true.
+[127:30.33]The bear actually was brutal.
+[127:32.61]Yeah.
+[127:33.93]I'm going to show my crib sheet.
+[127:35.94]So this is how the entire show was run off this piece of paper here.
+[127:39.26]A lot of lines.
+[127:41.12]Yeah.
+[127:43.21]Yeah, so this was not made months in advance.
+[127:47.17]In fact, this was made after the first stream, before the second stream, of here are all the events, here's who's involved with them, here are the chat options for them.
+[127:57.40]And then we had other notes about what all those different chat options entailed.
+[128:01.75]But then as we were going, I'd be making notes about, okay, how is this changing?
+[128:06.21]How is what transpired going to affect what's happening in the future?
+[128:10.26]Who's involved with what?
+[128:11.34]Who needs to be in what costume, when, and where?
+[128:13.16]And so this was kind of like the master sheet of what we had done already and what was left to do and what options we had left.
+[128:20.80]And you can see there's some things on here that we never did.
+[128:23.99]We never had the sleepover.
+[128:26.51]Yeah.
+[128:28.09]Sleepover.
+[128:29.38]Yeah, the sleepover, and the other one was the check.
+[128:31.91]It missed out.
+[128:33.65]The check.
+[128:34.21]Oh, I forgot about that.
+[128:36.03]Oh, yeah, the giant deck.
+[128:36.95]What is it called?
+[128:38.69]Publisher's Clearinghouse.
+[128:40.25]Yeah, I think we called it Editor's Sweepstakes.
+[128:44.60]Oh, you guys made it.
+[128:46.06]You made the whole check and everything too.
+[128:50.44]There's a beautiful check.
+[128:52.22]Yeah, there it is.
+[128:53.58]Yeah, and even when people showed up, because anytime that somebody knocked on the door, it was up to essentially you guys to send people like you chat, right?
+[129:02.81]But once they were in the house,
+[129:04.79]It was pretty much fair game to make up a random storyline with improv and just see where it went from there.
+[129:09.29]And doing the weird stuff with needing you guys adding like a variable, but like, oh, you're going to call the bear now.
+[129:16.27]Oh, go to the bathroom or go in the shower.
+[129:18.35]I just kind of created a bunch more dynamic and it gave for different storylines to just be made up on the fly, even stuff that wasn't even written down.
+[129:26.34]So it was really cool.
+[129:27.80]I really like I liked how inspired by Scooby Doo you were, Ludwig.
+[129:34.38]all those oh yeah you really you were really into the scooby-doo stuff uh obsessed I don't know I think it's so funny like the uh just happened to have missed him walked into a different door they walk out another door uh that physical comedy I I could be 75 and also think it's funny or the cabinets in the kitchen I I also battered my knee
+[129:57.42]You still have a bruise?
+[129:58.96]Oh, my God.
+[130:00.74]You see that?
+[130:01.32]That's from... Looks like you got hit by a softball.
+[130:04.85]It was from exiting the house as a robber through the window.
+[130:09.81]Yeah, I didn't even recognize until, like, the next day.
+[130:12.97]Dang.
+[130:16.38]That's bad.
+[130:17.88]That was quite the stunt.
+[130:20.40]We all signed waivers, right?
+[130:21.52]We signed waivers, didn't we?
+[130:24.28]Look, if I complain after you jumped out of a window in a glass, I think... But I guess I would see who won the house.
+[130:32.51]I can't complain.
+[130:33.55]That's right, that's right.
+[130:34.47]I have here the things we had at the door.
+[130:40.43]The disclaimers, where are they?
+[130:43.90]Was there a disclaimer?
+[130:45.48]Oh, yeah.
+[130:46.88]I'll go with one of my favorite things of the whole entire week.
+[130:51.22]Yeah, nobody asked you, huh?
+[130:52.93]I don't think he asked.
+[130:54.19]He didn't even ask me.
+[130:57.95]Kit, when you and I were in the DIY room...
+[131:00.66]The amount of times when I'm swinging the hammer around how you are actually not acting visibly scared of me People like hey dude like you know you came like pretty close like three or four times to hitting him like in the back and I'm like no I didn't I didn't know like I Didn't know that you hadn't done some of that stuff.
+[131:22.17]So yeah, I was a little bit afraid a few times I
+[131:27.04]I heard you on your channel the other day, and you were like, yeah, I didn't realize that Jeremy had never done anything before.
+[131:34.18]Like, he didn't know how to use a paint, he didn't know how to paint, he didn't know how to use a hammer.
+[131:39.55]I'm not trying to, like, shame you.
+[131:41.09]I just didn't know.
+[131:41.69]Like, soft, unused hands.
+[131:45.61]I just didn't know.
+[131:47.45]There's the signs.
+[131:48.63]That's so funny.
+[131:49.41]There's a part where you pick up the sledgehammer, and you just, like, kind of slowly, like, golf swing into the wall, just make little holes.
+[131:55.90]Yeah.
+[131:57.35]And then when you pull the painting down and it's just like you didn't get the painting.
+[132:01.25]And then the safe opens.
+[132:02.95]The safe actually opens.
+[132:04.39]Did Chad see that?
+[132:06.19]I think they did.
+[132:09.57]Oh, they didn't.
+[132:11.19]We hid the safe.
+[132:12.19]I didn't know about this.
+[132:13.55]So I left the safe not latched because in rehearsal, Ludwig, you got it open.
+[132:20.81]Chad says they saw it.
+[132:21.87]But I was worried about it, and I was like, what if you can't get it open, right?
+[132:27.92]So then I was like, OK, I'm going to leave it, but not completely latched.
+[132:31.19]But then I should have thought that they were going to try the handle on stream.
+[132:35.25]It just opened.
+[132:37.82]That was my bad, yeah.
+[132:41.65]Yeah, the fact that, that's because that kind of thing was supposed to come down, but part of me was kind of scared just to hit those poles.
+[132:48.42]I feel like I was like, I'm scared I'm going to take the whole second floor down.
+[132:50.78]It's not going anywhere.
+[132:52.54]That would be so bad.
+[132:53.28]Like, I'd take a giant swing, hit one of those podiums, and then all of a sudden, like, me and Kit just drop through the floor like Home Alone 2.
+[133:00.79]But you went during the party back up there with the sledgehammer to hit those actual connecting frames.
+[133:06.95]You were on some shit at that party, man.
+[133:08.71]You were like, this is the final scene.
+[133:11.51]I'm going to do whatever I want.
+[133:13.59]It was like the end of the stream.
+[133:15.29]It was the end of the whole week.
+[133:16.35]I was like, fuck it.
+[133:17.19]Let's just swing it.
+[133:18.01]Um...
+[133:24.25]We talked a few minutes ago about how things sort of came to happen as the show went on.
+[133:30.75]And we had a finite number of costumes and a finite number of props, but exactly what was going to happen with them wasn't predefined.
+[133:39.24]And so I have a cool little clip here of Kit coming with Milton, who's the prisoner, out onto stage.
+[133:48.36]And what I think is cool about this clip, nothing particularly exciting happens in it, but it kind of gives you the perspective of they leave the green room to come to the stage.
+[133:57.83]What is that process like?
+[133:59.29]So we're going to play that now.
+[134:06.07]Already in handcuffs.
+[134:12.05]Was it raining?
+[134:13.78]It was raining.
+[134:14.74]It was raining.
+[134:17.27]We could barely hear each other talking.
+[134:19.37]Yeah.
+[134:25.47]It was leaking too, right?
+[134:26.41]Have you guys talked about it yet?
+[134:28.55]No, we haven't.
+[134:29.45]Oh, yeah.
+[134:30.75]Yeah, I would pause it and talk about that for one second.
+[134:34.14]So during this portion here when it was actually, it was pouring like monsoon type rain.
+[134:39.42]And when they were inside Kitten Milton, we could barely even hear.
+[134:45.05]It was like talking over a vacuum cleaner.
+[134:47.15]and one of the things that was happening backstage was and there's a there's a point of the spring where I look up and I'm getting hit in the face by water and I don't know if you even if you got it it was right here what yeah it's like right at this point here I'm getting hit directly in the face by water and it was just real water coming from the ceiling and jake I don't know maybe you can logistically talk about where it was but it was like a transformer right 10 feet away the picture is the one that saw it right
+[135:11.74]Oh, it was Yuki, yeah.
+[135:13.70]It's like right next to us.
+[135:15.32]Yeah, it's right behind where we were.
+[135:18.27]We just heard water pouring.
+[135:21.29]Like, what is that?
+[135:24.45]And so he tells Josh, who's standing back there, and I wonder if it's even in this clip, actually, where he tells it.
+[135:29.83]I'll lower the audio here so it's not browning us out.
+[135:35.44]But yeah, so I get a call on the radio.
+[135:37.52]Josh is like, hey Jake, we got some leakage.
+[135:40.62]And a few people had mentioned, because we knew there were a couple spots on the set where water would come down.
+[135:45.23]We knew it wasn't going to be a problem or whatever.
+[135:47.27]And Josh is like, no, no, no, this is down by the transformer.
+[135:51.05]And I'm like, oh god, hang on one second.
+[135:54.19]So I come back there, and I don't know if we actually have any photos of the transformer setup, but...
+[136:01.86]Imagine electrical stuff.
+[136:02.96]Yeah, there's these two transformers that are the size of a car, like a small car, like a Beetle, and then maybe a large motorcycle next to each other.
+[136:11.82]And they take 480 volt service, and they step it down to what we need for all the lights and the motors and stuff.
+[136:20.37]And sure as shit, there's water coming down a foot away from one of these transformers.
+[136:26.59]And so I run to get a bucket, and Josh runs to get some towels or something to clean it up.
+[136:31.83]And we were fine.
+[136:33.59]Everything was cool.
+[136:34.41]And thankfully, the rain only lasted for 20 or 25 minutes.
+[136:37.27]It just kind of came, and then it went, and it was over with.
+[136:40.05]But it was just our luck.
+[136:43.21]And so while it was happening, we didn't know how much it was picking up on the mics.
+[136:46.85]Fortunately, it wasn't that much.
+[136:49.07]Mark did a good job with some noise suppression and stuff.
+[136:53.75]If you notice closely in those scenes, we set the TV monitors inside the rooms and the outside graphic to be raining.
+[137:02.56]So it looked like it's raining.
+[137:03.50]So if you did hear any rain noise, you would at least think, oh, they're adding rain noise.
+[137:07.80]And then the person that talks to Jeremy in his ear also made sure to have him say multiple times about how it's raining and look out the window and stuff.
+[137:14.18]So we try to cover that stuff.
+[137:16.40]And we did have the power outage thing, too.
+[137:19.47]So that was like, oh, rain and storms can happen.
+[137:21.83]Yeah.
+[137:23.48]When you told me it was raining and you held your hand out, I think it's around this scene.
+[137:27.84]I just ignored it and pretended you were crazy, but yeah, it was real rain.
+[137:33.74]Yeah.
+[137:35.56]Oh yeah, there's a part where I'm just like going like this in front of you and it's hitting my hand.
+[137:39.54]I think it's like right around here where you, this scene, but yeah.
+[137:44.90]It also gives you an idea of what they can see backstage, right?
+[137:47.00]You can see basically a security camera view of every room to get an idea of where people are for if you're planning improv ideas and whatnot, and they can see chat, they can see you guys going by, and they can see what you can see.
+[137:59.57]Yeah, Josh was a huge... What was that?
+[138:04.25]I was just saying that he had a beautiful moment with the rain hitting his head.
+[138:08.19]Is that what you were saying about Josh?
+[138:10.35]Oh, yeah.
+[138:12.00]I was going to say Joss was a huge asset for us.
+[138:17.46]In terms of coming out and queuing us up for what was going to happen.
+[138:22.70]That was me saying, can I go to the bathroom?
+[138:24.32]So he would clear us for going to the bathroom.
+[138:29.01]I remember that because then someone on comms was like, alright, queue Kit and Milton and Joss is like, he's in the bathroom.
+[138:36.97]Alright Jeremy, you need to vamp for 30 more seconds.
+[138:41.18]There was a point where I ran to the bathroom too.
+[138:45.96]He was a rock star.
+[138:48.68]There was a point where I ran away and peed in the urinal.
+[138:51.26]And I think I said over the mic, I was like, I hope you have my mics at zero because you can probably see me pissing.
+[138:58.48]Yeah, there was only one moment I can remember where we cut to the wide shot of the house when they're picking a room and you were not in bed because you were going to the bathroom.
+[139:07.49]And we're like...
+[139:09.59]Someone just finally said on the mics, like, could you hear it?
+[139:11.55]He's not there, is he?
+[139:12.81]No, no, we couldn't hear you.
+[139:13.55]We couldn't hear you.
+[139:14.17]We had the mics cut.
+[139:14.73]It was joking.
+[139:15.27]He just vanished overnight.
+[139:17.49]And chat slowly was like, wait, where is he?
+[139:20.91]Oh, no.
+[139:21.47]What happened to our streamer?
+[139:22.55]And then we cut back in.
+[139:27.50]This is a moment I have of when God enters the scene.
+[139:32.26]And this is actual behind-the-scenes footage as it happens as it plays out.
+[139:47.09]We should do a version of this with crew audio too, that'd be good.
+[139:52.00]I need you this way.
+[139:54.52]Quick, quick.
+[139:55.14]I'm gonna get his car ready.
+[139:58.80]Quick!
+[139:59.50]Go!
+[140:01.40]That's pretty much what he was like, but he was great.
+[140:04.56]There goes the car.
+[140:06.90]Oh yeah, those chutes, by the way, are about half the size of my feet.
+[140:21.97]But it's the real thing, you know?
+[140:24.16]There's, like, multiple moments that hit me while we were running this thing.
+[140:27.12]And this thing goes so slow.
+[140:30.04]Was this low on battery?
+[140:31.72]Because this thing goes so slow.
+[140:33.28]There was a faster option, but I was terrified of just running into the side of the set.
+[140:38.32]So I was like, I'll just go slowly towards it and give it time.
+[140:53.98]This scene has to be sacrilegious.
+[140:56.56]Yeah, I might be going to hell for this.
+[140:58.04]Oh, I'm sure it is.
+[140:58.68]I'm in a clown car.
+[141:04.54]Yeah, Pearly Gates is going to look at you, Greg, and he's going to be like, really?
+[141:08.03]The clown car?
+[141:10.47]Yeah.
+[141:10.85]There he goes.
+[141:16.81]He's so slow.
+[141:18.11]He's so slow.
+[141:24.64]It really is slow.
+[141:29.31]Oh my gosh.
+[141:30.87]I thought it was running out of batteries.
+[141:31.97]I was like, oh shit, I hope it doesn't run out of batteries.
+[141:33.75]It has to go like 80 feet.
+[141:37.64]That's like the size of most kids' yards.
+[141:41.09]I almost ate shit there, by the way.
+[141:42.25]I almost burped on the door.
+[141:43.47]He pooped his pants.
+[141:50.61]He pooped his pants.
+[141:52.37]Did you guys talk about the rehearsal version of this scene?
+[141:56.29]Oh, the realistic diarrhea going into a toilet real fully of a human shitting?
+[142:00.40]Yeah, we have.
+[142:02.94]I thought that I couldn't hear the effects like you did, but watching you guys spur the moment improv...
+[142:10.80]what it could have been was pretty wild.
+[142:13.28]It was pretty nuts.
+[142:16.07]Jeremy won't let us play the original clip.
+[142:18.89]Yeah.
+[142:19.57]He won't let you release the cut?
+[142:21.29]That's funny.
+[142:22.45]No, release the cut.
+[142:23.86]You're not releasing the cut.
+[142:25.72]I remember hearing the sounds where I was.
+[142:30.26]I don't know if I could hear the sounds.
+[142:31.70]Maybe it's worse with all of the effects.
+[142:35.38]It'll be on the DVD extras.
+[142:38.38]The DVD extra.
+[142:40.24]Maybe after Jeremy retires, we'll leak it.
+[142:44.97]That's when statute of limitations just goes away.
+[142:47.19]It was just fucked up.
+[142:48.41]It was just like a fucked up sequence.
+[142:50.25]I've sat in the toilet for four straight minutes because we didn't have all the other stuff.
+[142:55.95]It was a nightmare.
+[142:57.21]You said, guys, what are we going to do if they pick nightmare?
+[143:00.31]And then you, like, guys sort of improv'd this terrifying nightmare scene.
+[143:05.45]Yeah, and right afterwards you're like, I did not like that.
+[143:08.17]And we're like, that's the point.
+[143:09.45]And I was like, no, I didn't like that.
+[143:11.29]And you're like, we can't do that.
+[143:12.93]I was like, I really didn't like that.
+[143:15.35]Like, I don't want that in the show.
+[143:17.27]I didn't like it.
+[143:17.89]It was crazy.
+[143:26.81]What's your favorite moment?
+[143:28.13]My favorite moment?
+[143:32.33]I loved the dream sequence.
+[143:34.11]It was scary.
+[143:35.25]It was really scary.
+[143:38.95]Especially the rehearsal, but then after watching back the one that aired, it definitely was scarier than I realized in real time.
+[143:48.93]And so I think that was probably my favorite moment.
+[143:51.89]I think my second favorite moment was...
+[143:55.39]At the end, after they decide to reset, and we have one character after another come into the scene, and it's this callback to all these different characters throughout the show, and they're pleading with Chat.
+[144:11.10]It's like, come on guys, it's time.
+[144:15.72]We gotta do this.
+[144:16.88]Stop it now, we gotta end it.
+[144:18.50]Yeah, exactly.
+[144:19.60]And the fact that Chat really is the one that made it happen, and
+[144:25.41]complete the loop.
+[144:27.05]It's just a really neat moment for me.
+[144:30.53]I 100% agree.
+[144:33.09]I also really loved, because originally the Edna, Edna was, we weren't sure who it was going to be because could we get that actual audio to work and actually having you be able to be Edna with like the voice changer and actually have it work.
+[144:47.04]That was like one of my favorite things of the week too.
+[144:49.36]I love the cookies coming out.
+[144:51.65]I'm glad it worked because I
+[144:54.16]When I do her voice normally, I hear it in my headphones, and I didn't there.
+[145:02.53]And so I didn't know if it was sounding correctly the whole time.
+[145:06.17]I was afraid, like, what if this sounds terrible?
+[145:10.77]But yeah.
+[145:11.43]One of the things that Lauren and I were talking about behind the scenes and when we were planning all the different who should show up and when was your Edna character is so different from every other character we had on the show.
+[145:25.66]Just energy and the comedy and just the way the dynamic between Jerma and you in those scenes was so different.
+[145:34.24]It felt like an awesome breath of fresh air.
+[145:35.90]I really enjoyed it.
+[145:36.84]It was so funny.
+[145:38.14]Yeah.
+[145:38.48]Oh, that's great.
+[145:39.10]It was perfect.
+[145:41.06]awesome I love when you went to the bathroom I was like I was like waiting for that yeah I was hoping I don't know if you what what happened with the audio but I was hoping that uh you
+[145:55.54]You guys would do some goofy effects with the audio there.
+[145:58.52]Yeah, they got their chance.
+[145:59.30]I think everybody got their sound effect in the bathroom there.
+[146:01.69]Okay, good.
+[146:02.37]Everyone got at least one fart in.
+[146:04.73]Yeah, everybody got at least one bathroom gag.
+[146:09.01]So everyone got to fart or poop in the toilet, which is kind of gross, but, you know, whatever.
+[146:15.02]That's how it goes.
+[146:16.06]I don't know if anyone talked about it yet, but...
+[146:21.79]I don't think I'm the only one, but there was something, sorry if this sounds cliche or whatever, but there were a lot of moments where Jerma walked around like a giddy little school girl, like really excited about particularly jumping through the window.
+[146:38.46]But it was pretty cool to see, I don't know, just the way you were watching it all come together and just living it out.
+[146:50.18]It was pretty wild.
+[146:51.86]I actually, I had this clip of Jeremy seeing the house for the first time inside the trailer.
+[146:57.36]Oh, yeah.
+[146:58.47]Oh, the cut-up from the cutaway.
+[147:00.51]With the graphic overlay, yeah.
+[147:04.06]He's just like walking around in there.
+[147:07.34]It looks like... It looks like a fucking sign film.
+[147:09.30]You disappear between the rooms.
+[147:10.68]I'm just imagining like, I'm Jerry!
+[147:13.14]It's like Kramer's injury.
+[147:14.28]Yeah, like this is, that's ridiculous.
+[147:15.84]That's insane.
+[147:18.78]Pretty sweet.
+[147:21.10]Uh, well, I want to like do the stream now, you know what I mean?
+[147:23.86]I just want to like start it.
+[147:26.17]God, this is awesome.
+[147:27.37]It really did.
+[147:28.01]Yeah, you are so excited.
+[147:30.33]There's just so many props back there.
+[147:35.69]Well, it's just awesome to see something like this come together.
+[147:40.21]Never in my wildest dreams did I think that... I was making TF2 YouTube videos like 10 years ago, and we were able to put this together and do this now.
+[147:50.17]I never would have thought this was ever possible.
+[147:53.83]So being able to actually go and play with the giant toy that was made with the 30, 40-plus people that had an involvement in it, it was just... It was surreal.
+[148:03.74]It was a surreal experience.
+[148:05.00]And I will never forget it until the day I die.
+[148:07.66]Yeah.
+[148:09.40]Yeah.
+[148:09.60]I think it carried over for us too.
+[148:11.88]You had definitely an infectious energy and just, like Kit said, excitement.
+[148:16.50]Seeing you just kind of dive into every scene and just live it made it a lot easier for all of us to...
+[148:23.15]wrap around how your dynamic was.
+[148:25.77]And I think it, uh, it definitely showed, especially like, you know, it, the second and third day, I think like as first day being the test, I think by second and third day, we really hit our stride and it, and it really turned out great.
+[148:40.24]I literally couldn't be happier.
+[148:43.31]I asked you maybe 17 times after it ended what you thought about the ending.
+[148:46.51]Because I felt a lot of pressure because it involved a lot of me and Amelia.
+[148:50.67]So I was like, man, I hope he liked that.
+[148:52.45]Because you had planned day two ending so precisely.
+[148:55.49]Day three ending was like, I don't know what's going to happen.
+[148:58.04]We're going to figure it out.
+[149:00.42]And so I asked him, I think, like 17 times.
+[149:02.80]Like, what do you think?
+[149:03.76]Like, how was it?
+[149:04.68]You're like, oh, it was great.
+[149:05.72]Oh, it was perfect.
+[149:06.82]Oh, it couldn't have been better.
+[149:08.17]And I was like, oh, great.
+[149:09.85]And I kept asking because I just felt so self-conscious at all times.
+[149:14.93]You guys were unbelievable.
+[149:16.51]You guys were hilarious.
+[149:17.89]You were funny.
+[149:18.73]You could just implant yourself anywhere.
+[149:20.42]And that's why you were on the show to begin with.
+[149:23.34]That was part of it, right?
+[149:25.84]I've watched your streams, all of you guys here.
+[149:28.66]And you can do it.
+[149:32.15]I couldn't have asked for a better cast and crew.
+[149:35.21]It was unbelievable.
+[149:38.37]I don't want to get emotional.
+[149:40.09]I promised I wouldn't get emotional on the behind-the-scenes stream.
+[149:43.07]I promised I wouldn't.
+[149:45.15]But this is the kind of shit that I want to do more of.
+[149:48.23]I want to see more of this stuff.
+[149:50.11]And I think that over the coming years, let's keep doing them.
+[149:55.80]I think that there's a lot of potential to keep kind of trying to just do fun stuff and just try, right?
+[150:00.89]Because look, this could have been a fucking disaster.
+[150:04.45]This could have been the shittiest stream on Twitch.
+[150:07.27]It could have happened, right?
+[150:09.33]That's what I was thinking when I was hyperventilating in my car an hour before we started the stream on Wednesday.
+[150:16.60]This could have been just an absolute fucking train wreck, but you try.
+[150:20.86]You try to do something that you think is fun.
+[150:22.84]That's it.
+[150:25.46]Huge thanks to everybody who participated.
+[150:27.60]To Kit, to Ludwig, to Criken, to Milton, to Micah, to Randy, obviously to Ray.
+[150:35.93]Bearing that costume I...
+[150:38.69]So bad for him.
+[150:41.58]There were so many just superheroes of the week that it'd be impossible to kind of... It was everybody.
+[150:47.70]Everybody had this thing that they were doing.
+[150:49.44]This is like the thing that's really to know.
+[150:51.44]And why at the end of the stream it was like, get everybody on here.
+[150:53.97]Because if you were on set as, oh, I am a, uh, I'm a, you know, I'm a fuck, I'm the audio guy.
+[151:00.59]Like you did like three or four other things that were not just, I'm the audio guy.
+[151:04.45]If you were, oh, I was putting the, I was putting the tress up.
+[151:07.40]Did I say that right?
+[151:07.88]Tress?
+[151:10.74]Some of these people were actors.
+[151:11.86]Some of these people were like the shadow people.
+[151:14.10]People had like three or four different roles that weren't just the thing that they came to show up.
+[151:18.36]Vinny, the editor, he was supposed to just come and take video for the behind the scenes shit and he did like seven people's jobs.
+[151:25.94]It was ridiculous.
+[151:27.74]So it's impossible without all the people that got to do, hopefully had a lot of fun and got to do multiple things that they thought were interesting.
+[151:39.07]I think this is probably a good place to end it, unless... Jeremy, did you want to take one or two questions from chat for our guests?
+[151:46.50]I think we should take a couple, if we can.
+[151:48.54]Yeah, that'd be great.
+[151:49.68]So if you've got questions from the chat... Especially with Kit and Ludwig here.
+[151:52.36]Yeah, you should at Kit, at Ludwig, at Kraken, at Jeremy, if you have a specific question for one of them.
+[152:02.33]How hot was it on set?
+[152:03.99]How hot was it on set?
+[152:07.91]It was a perfect temperature.
+[152:09.43]It was fine.
+[152:10.59]Unless you wore, like, the bear costume.
+[152:13.69]Ludwig says it's hot.
+[152:15.75]He doesn't think so.
+[152:16.51]It got a bit toasty.
+[152:19.05]Well, I got to, like, get off.
+[152:21.06]I got to, like, relax in the green room.
+[152:23.12]But when I had to take over for a bit and, like, lie down there, especially when you're doing something physical and you start sweating, I don't know.
+[152:30.30]You were a trooper.
+[152:31.34]That was hot.
+[152:32.62]Oh, physically on, like, in the dollhouse was hot.
+[152:35.32]Yeah.
+[152:37.50]Being able to get out of that room, and I did a few times too.
+[152:40.22]A lot of times when it went to the transition sequence where it was buying something and here's an ad.
+[152:46.86]I got up and I was able to get out of there and just get some water, walk around.
+[152:50.40]I wasn't just stuck in there permanently, but it was pretty warm in there.
+[152:55.10]It was an air-conditioned facility, which makes a big difference too.
+[152:58.20]Even though it was hot in the set, it was that much cooler than it would have been because we were fortunate that the facility was
+[153:04.77]Somewhat air-conditioned.
+[153:05.61]We then put hundreds and hundreds of pounds of curtains in front of the air conditioner, but it was still air-conditioned.
+[153:12.68]I've got a question here for Kit and Jeremy.
+[153:15.48]Talk about the pank paint.
+[153:18.16]Pink, pank, paint.
+[153:21.28]Pank?
+[153:23.18]He was using an accent, right?
+[153:24.99]I mean, I think I was doing something like that, yeah.
+[153:29.47]I guess I must've said the word pink.
+[153:32.10]I must've said pink or something.
+[153:34.46]And then I heard that back in production and I was like, did you say pank?
+[153:38.98]And so I was like, I just made a notification of like minus 20 bucks for pink pank.
+[153:43.93]And then, uh, that was the location at the top.
+[153:50.21]I don't know if I was saying it for paint or pink.
+[153:52.37]Yeah.
+[153:52.59]Who knows?
+[153:53.36]I think you said pank paint.
+[153:55.38]Yeah.
+[153:55.95]Pank, pank, pank, pank.
+[153:58.68]And then I called it Pink Pank.
+[154:01.60]And then we're like, we're telling Blair to tell, like, Jeremy to bring up the pank thing.
+[154:06.80]And you must have been so confused why you were, like, being told to call it pank.
+[154:12.06]I had no idea what was going on.
+[154:13.61]I was like, hey, bring up pank.
+[154:14.93]And I'm like, what?
+[154:15.49]I was like, what is pank?
+[154:16.73]What are you talking about?
+[154:17.63]I didn't know what to say.
+[154:18.69]I thought it was like a bit that you, like, Jeb had.
+[154:23.57]Like, oh, he's going to do this pank thing.
+[154:25.53]Oh, no.
+[154:27.28]Not really.
+[154:27.80]I tried to like some of the voices and characters I did had a little bit of like lore from some of the scam calls, but I tried to just mostly focus on the dollhouse, you know, so I didn't really bring anything over.
+[154:43.37]Excuse me, Jeb.
+[154:45.65]I missed that.
+[154:46.93]I missed so many references.
+[154:48.77]You love saying Jeb.
+[154:52.23]Not a single time.
+[154:53.47]I hated Jeb.
+[154:56.28]I just kept doing it.
+[154:57.22]I just kept going, uh, Jeb, yeah, excuse me, Jeb, uh, Jeb is a mess.
+[155:01.30]Yeah, I, I, I, I honestly, I really think I said that probably 30 to 40 times, at least.
+[155:08.93]In hindsight, yeah.
+[155:12.03]Um, I saw someone ask about, oh, go ahead.
+[155:14.35]No, go ahead.
+[155:16.19]I just, someone asked about the, uh,
+[155:19.54]Jerma inviting Edna to the party, which you had mentioned previously in a different segment.
+[155:26.55]Which, I mean, yeah, the quick statement was just, I was suited up as the police officer because I think Ludwig was going to talk to me or something.
+[155:36.41]There was some storyline progression.
+[155:39.69]And then Jerma said, I want to invite Edna to the party.
+[155:43.54]And so...
+[155:45.30]I just had to switch.
+[155:47.34]I ran all the way back and at one point was like taking my clothes off in the green room.
+[155:54.02]I think you still had the lipstick on as the police officer.
+[155:56.69]Yeah, the cop had lipstick on when he came back out.
+[155:58.87]It was amazing.
+[155:59.39]You still had the lipstick.
+[156:02.73]Everyone told me to do that.
+[156:04.15]I was going to take it off.
+[156:05.03]I was like, no, it's funny.
+[156:05.87]I was like, okay.
+[156:08.34]Is there a video of the second floor?
+[156:10.22]Ludwig and Kraken, someone in chat wants to know about the good dream.
+[156:15.25]What would have happened with the good dream?
+[156:19.67]We brainstormed a couple things.
+[156:22.22]I don't think we...
+[156:25.13]I think it was, like, I was a cowboy, so some sort of, like, cool cowboy maybe fights, like, a gladiator, because we had a gladiator costume.
+[156:31.86]Yeah.
+[156:32.34]And just something, like, random, but, like, you know, maybe cool or badass or something.
+[156:36.66]We also played around with, like, kind of, like, a sexy dream where, like, you know, it was kind of, like, he was being puppeted around in, like... There's also a version of it, I think, where we had the same kitchen thing where everyone was, like, laughing at him, but they're instead, like, cheering for him.
+[156:51.48]So it's, like, a version of that dream, but, like, everyone's, you know...
+[156:55.86]I was like, you're the greatest.
+[156:57.20]You're so wonderful.
+[156:58.50]Weren't they congratulating him on a good poop?
+[157:01.94]Oh, yeah.
+[157:02.90]It was like the end of Evangelion scene where you just pooped and everyone was there and like, congratulations.
+[157:09.36]You're like, we're so proud of you.
+[157:10.97]I think that was great.
+[157:12.65]Because they told us when we were going in the kitchen that, yeah, whether it was good or bad, we would find out.
+[157:18.79]And we were either to cheer and say good job or bad.
+[157:22.29]Make fun of him?
+[157:23.51]Yeah.
+[157:26.59]Another question for Ludwig, but I guess probably also very applicable to Kit is, when did you get involved with the project?
+[157:36.11]How did that happen?
+[157:37.15]And are you open to further collaborations?
+[157:42.74]OK, you run it first.
+[157:47.82]I would never want to work with it, no.
+[157:51.67]I I we are done professional after this I will never speak to you um yeah I would be delighted to do anything with any of you it was a blast I will never forget it um tons of great improv moments and like ludwig you had mentioned um
+[158:13.53]Just being able to sort of vibe, is vibe a word that kids use?
+[158:18.01]Vibe off of each other and come up.
+[158:20.07]You're getting younger by the day.
+[158:22.57]Yeah.
+[158:23.67]Come up with ideas.
+[158:25.81]Seeing Ludwig's hair in real life.
+[158:27.75]There was lots of good moments.
+[158:28.89]But I think it was a couple, you gave me a couple months notice.
+[158:36.70]I think Jerma and Jake, you guys like DM'd me on.
+[158:42.07]discord and said hey we're thinking about a dollhouse thing would you be interested and he didn't give me a ton of detail I just said yeah I think I gave you a call in like maybe march or april because I saw your name on the whiteboard there from the meeting that we had in may um oh yeah and you were you were you were pretty well like it was a known you were a known quantity at that point so
+[159:07.63]Then you did give me quite a bit of notice.
+[159:09.43]We didn't really hash out or I didn't know exactly what it was, but you had mentioned.
+[159:17.60]What about you, Ludwig?
+[159:18.26]Do you want to tell the story of your involvement?
+[159:21.93]I don't know.
+[159:22.29]I forget exactly when I weaseled my way out of Jerma's life and forced him out of his Twitch cavern that he hides in.
+[159:29.55]But I think it was some time because like the battleship thing we did and then the tournament.
+[159:35.84]I think it was right around then that you asked.
+[159:40.04]And it was like twofold.
+[159:41.16]It was like...
+[159:44.59]One, you were like, hey, that was great.
+[159:46.31]Like, that was fun.
+[159:47.63]Like, hey, totally random.
+[159:49.37]I have this thing going on.
+[159:51.05]And then I was like, yeah, it sounds great.
+[159:52.39]And then, like, a day later, you were like, by the way, for, like, you happen to have a sponsor, too.
+[159:57.64]And I'm like, this mother.
+[160:01.36]All right, let him show why I call him Logan Lewis.
+[160:03.48]I was just curious.
+[160:04.90]I was just curious.
+[160:05.96]I was just curious.
+[160:07.52]Yeah, yeah.
+[160:09.30]And I was like...
+[160:12.07]yeah I was instantly uh down because uh and I think you're surprised were you surprised well because I think it's because it was yeah it was it was such short notice because it was like I think two or three weeks out from the show and I'm like he's probably got a lot of going on you probably I look I understand you have to treat this travel involved I if you don't I understand you're just like no I'm game I'm like game all right that's perfect cool yeah
+[160:40.37]When you mentioned Ludwig, I at first assumed it was like a different Ludwig that I didn't know of.
+[160:46.65]I was like, oh.
+[160:49.07]Oh, it's a different one?
+[160:50.13]I don't know.
+[160:51.57]We got like a celebrity impersonator.
+[160:55.12]We got a composer.
+[160:55.70]Celebrity impersonator Ludwig.
+[160:59.80]That's moving pretty funny, though.
+[161:01.68]Get like an impersonator.
+[161:04.09]Just like a different streamer.
+[161:05.75]Doctor Disrespect, but it's not actually the doc.
+[161:09.43]Just the hair and the mustache.
+[161:13.17]But honestly, it was after we did the battleship stuff.
+[161:16.96]When you and I did the battleship thing back and forth with the shirt that maybe one day I'll do that.
+[161:23.04]Probably not, though.
+[161:25.24]Hopefully not.
+[161:27.32]We had a blast.
+[161:29.82]The thing with collabing with people and stuff and
+[161:33.47]I have to like mesh with somebody, you know what I mean?
+[161:36.85]And during those streams, I was like,
+[161:40.00]This is fun.
+[161:40.64]We're bouncing back and forth.
+[161:42.86]He's a funny motherfucker.
+[161:44.42]I like this dude a lot.
+[161:45.84]So it was really, really simple to reach out to you.
+[161:49.26]Because it was just like, oh, that was great.
+[161:50.36]Because you never want to have a scenario where you... It's tricky to... Oh, let's ask this person if they want to be involved.
+[161:58.62]I've never talked to them.
+[162:00.10]Don't know what their deal is.
+[162:01.44]I have no idea how they are, how they are off camera.
+[162:04.38]Are they somebody I would mesh with?
+[162:05.62]And then you get in the same room, we get on camera, it's like...
+[162:08.51]all right are you ready you're gonna do like the show that you know a guy that I don't know that I've never talked to do I have any chemistry with it I don't like doing that yeah so yeah crikey do you want to talk it's very simple do you want to talk for a quick second about ghost commander and your involvement and how that kind of went down
+[162:24.21]Maybe plug your stuff.
+[162:25.05]I mean, as I mentioned earlier, I've known Jeremy for a few years now since we did role play stuff in games every once in a while.
+[162:36.46]And then at one of the Twitch cons, we started talking about ambitious projects we had.
+[162:42.00]At that point, I had started Ghost Commander with Lauren.
+[162:45.62]It's basically our interactive
+[162:48.96]Twitch production company.
+[162:49.88]So we build both technology and shows that are viewer integrated.
+[162:56.54]And so I was telling him about some of the stuff that we were working on.
+[162:58.72]And he was like, oh, I had this idea for a dollhouse show where I play basically a sim in a house.
+[163:04.86]And so we started shooting the shit.
+[163:06.32]And like, oh, this sounds really fun.
+[163:07.42]We'd love to collaborate on this should it ever happen.
+[163:09.66]But then two years later, you guys managed to secure the money.
+[163:14.13]And you called me back up.
+[163:15.33]And you're like, all right, I think
+[163:16.87]We want to actually explore how we could do this.
+[163:20.05]And so we hopped on a plane and went out to see what we could do.
+[163:25.10]And that's kind of how the whole brainstorm happened and then built the whole thing over the next couple of months.
+[163:29.28]And here we are.
+[163:32.31]and make no mistake about it the without the ghost commander team and without the extension we can't do the stream the stream doesn't even work we like can't even physically go live without having that so it was the catalyst to even be able to do it in the first place so forever grateful
+[163:50.42]Thank you.
+[163:50.90]Yeah, I mean, if you want any other time, the cool thing about what we're building is every one of these shows we do, our code base gets stronger, and we have more learned knowledge.
+[164:02.67]So now that we've done this, we know how to balance an economy for 100,000 people, which, by the way, I don't know if you've shared any of.
+[164:13.03]I mean, we've been looking at some of the records of the extension usage, and we broke Twitch records.
+[164:20.22]There were more people using the extension than chatting.
+[164:23.48]And we, yeah, it was north of 65% of the viewership was using the extension to click on stuff, which is not a thing.
+[164:37.85]Yeah, so we're overjoyed that it went so well.
+[164:42.11]And it's also put us in a cool position to be able to work on
+[164:47.51]more stuff like this, you know, both with you and with other streamers and whoever really wants to.
+[164:54.09]Yeah, it was the scariest thing.
+[164:55.97]I think a week before the show, we were in a call and you guys were showing the extension.
+[165:01.46]It was done, but there was still a couple more things you had left to do.
+[165:05.30]I think I asked a hundred times, I was like, is this going to work?
+[165:09.96]What if this happens?
+[165:10.90]Is it going to break?
+[165:11.78]What if it breaks?
+[165:12.55]If we do this, what happens if it breaks?
+[165:14.51]And you're like, no, it's going to be good, man.
+[165:16.73]It's not going to break.
+[165:18.29]And I was like, shit, what if it breaks?
+[165:19.89]It's gonna break on stream!
+[165:21.09]I was having these panic attacks a week before the stream, but then after that first day, it was just like, holy shit, this thing worked pretty much without a hitch at all.
+[165:30.95]There was a minor, that small problem with the sorting thing, but how in the name of God you guys were able to handle 30,000, 40,000 inputs in a second.
+[165:44.27]I can't believe it.
+[165:44.73]I can't believe it.
+[165:46.11]I actually showed some.
+[165:47.65]I'm actually traveling right now, so I don't have the pictures on me.
+[165:50.57]But I showed some of the heat maps of the placements because people thought the placements might have been rigged because we didn't show exactly where they placed it.
+[165:58.26]But that's because we had 30,000 inputs to sort and visualize.
+[166:02.74]And so what we got was this disgusting rash
+[166:06.56]of different clips on its screen.
+[166:09.56]And we had to interpret that as, oh, they want to block the door, right?
+[166:13.60]And then we would try to position.
+[166:15.08]We'd tell the production team to put the spotlight at the door to put the item there.
+[166:20.27]But yeah, it was insane.
+[166:21.65]And I can share those pictures with you later, Jake, if you want it.
+[166:25.23]Yeah, that'd be great.
+[166:28.29]We're doing a BTS reel for YouTube.
+[166:32.17]And so I'd love to get some of that stuff in there too.
+[166:34.45]Sure thing.
+[166:35.89]Thanks.
+[166:37.31]I was asking about the stairs, if you wanted to show that real quick, too.
+[166:39.91]Oh, sure, yeah.
+[166:40.73]So yeah, Chad was asking about the access in the back, because you can't see that from the camera side.
+[166:45.98]The original plan was actually to put these stairs in that space between the bathroom and the bedroom, between the pink and the blue room there.
+[166:55.03]But we realized if you put stairs there, you couldn't get furniture up the stairs.
+[166:59.39]So we had to put the stairs in the back here to have access for the furniture up.
+[167:02.93]But this is what it looks like without the drain.
+[167:06.26]And it's the kind of thing, too, where the stairs had to be built oversized in order to accommodate wide furniture.
+[167:10.70]It's the kind of thing you don't think about without having to build a set.
+[167:13.10]So they had to be built oversized staircase so extra wide they could get a couch up if that was picked.
+[167:17.83]And then every stair also gets marked with a tape that glows in the dark because they would be interacting in the dark.
+[167:27.63]It's actually pretty funny because this, up the stairs... Jake, I don't know if you remember, like, two or three years ago when we first, like, even floated the idea, I was like, the only reason why I want to start process on this stream is because I just, I keep seeing this image in my head of two or three people in spandex suits just trying to carry a couch upstairs, like, into a bedroom, like, being controlled by chat.
+[167:49.66]And it's like, that was the reason to do it.
+[167:51.24]That was the only reason why I wanted to do it.
+[167:53.42]And you guys, we made it happen.
+[167:57.49]There they are.
+[167:59.33]Going up the stairs, like, watching guys with, like... Yeah, and you saw earlier the stream.
+[168:04.34]That's Nick right there.
+[168:05.38]He was here earlier.
+[168:07.98]They were unbelievable.
+[168:08.92]These guys are so funny.
+[168:10.50]They're so talented.
+[168:11.49]They're, like, 700 IQ engineer brains, and they're funny, and they're talented.
+[168:16.93]It's, like... They're, like, perfectly rounded humans.
+[168:21.13]It's why we keep working with them.
+[168:23.24]They're unbelievable.
+[168:27.49]Well, I think this is probably a good point for us to wrap our show.
+[168:34.63]A huge, big thank you to, oh yeah, Kit, what's up?
+[168:39.71]I don't want to totally interrupt, but do you happen to have a shot of at the very end, after we ended stream, and for like 15 minutes, everyone just stood there and chat was saying thanks and clapping for like,
+[168:55.73]That shot does exist.
+[168:57.25]That was a very surreal moment for me.
+[169:03.86]The whole crew was just sitting there and chat was going crazy.
+[169:08.92]I think he told us that there was something like I don't know how many tens of thousands of people there after it was over too.
+[169:18.53]I got a text from someone at Twitch that was like
+[169:22.40]You know you've had a good show when you've finished, and you're on your end credits, and you still have 90,000 people in chat.
+[169:31.87]It was such a cool feeling to have been off screen for 10 minutes and still have 90,000 people there.
+[169:36.47]That was surreal.
+[169:37.17]Yeah, I just kept going back and looking at the screen, and Chet was still like, thanks, Clem.
+[169:42.19]It was nuts.
+[169:43.19]Yeah, a lot of the production team ran for the onstage fridge and just grabbed beers out of there.
+[169:50.16]We're like, we did it, and then we just look.
+[169:52.82]It's time.
+[169:53.44]That's all clapping.
+[169:54.40]Yeah, it was a very surreal and euphoric kind of experience.
+[169:58.40]I think there's a clip of that in the outro that we're going to be playing.
+[170:00.44]We had this idea.
+[170:02.04]We had this original idea where it was like, how many people did we get on the archaeology stream?
+[170:10.73]It was like 47,000 people, 50,000 people.
+[170:13.27]Holy shit.
+[170:14.09]Imagine if we got like 40,000 people again and we looked over at some point.
+[170:18.73]At the last moment, the last 45 minutes of the stream, it was over 100,000 people there.
+[170:23.96]And I remember, Ludwig, I think you were backstage at one point.
+[170:26.74]You were like, yeah, just broke 100K.
+[170:27.96]And I was like, wait, what happened?
+[170:29.92]And I looked over and I'm like, holy shit.
+[170:32.84]So, yeah, that was more than we ever thought we were ever going to get on this stream.
+[170:37.45]I remember keeping an eye on it because everybody was really excited about hitting that number, you know?
+[170:41.63]And I was like, yeah, that'd be dope.
+[170:44.53]We did it.
+[170:45.77]It was.
+[170:46.21]It was dope.
+[170:47.99]It was a cool number to hit.
+[170:48.98]That's what the kids say.
+[170:50.74]Dope.
+[170:52.18]That is bussin', if you want to use that one, too.
+[170:57.70]I'm going to pull the next dollhouse stream.
+[171:00.96]The dollhouse stream 2 when we have like 8 bedrooms.
+[171:04.04]Don't say that.
+[171:04.82]Stop.
+[171:05.50]I'm going to give you a heart attack.
+[171:07.85]It's a month long stream and it doesn't end.
+[171:11.09]And there's a roof pool.
+[171:13.41]A roof pool.
+[171:15.45]With water in it.
+[171:16.97]Did you talk about the almost water pool that happened?
+[171:20.13]No, we didn't.
+[171:22.52]That pool was going to be full with water.
+[171:24.90]Until the day before.
+[171:25.89]I think you talked about it while the stream was happening, right?
+[171:29.21]Yeah.
+[171:30.83]Live, I remember you talking about, like, hey, this is supposed to have water in it, but we thought against that.
+[171:36.65]Yeah.
+[171:37.25]It's not going to happen.
+[171:40.16]I remember, Jeremy, you were like, yeah, it's going to be like 100 pounds of water, right?
+[171:44.56]And Jacob, you're like, no, that's thousands of pounds of water.
+[171:48.52]Yeah, it's 9,000 pounds of water.
+[171:50.30]It's a 1,200-gallon pool and a gallon of water is 8 pounds.
+[171:55.21]We don't really need it to be full of water.
+[171:57.23]I mean, we're using it for like...
+[171:59.23]It's one day.
+[172:00.61]We don't need that much.
+[172:01.73]We don't need a pool in here.
+[172:02.75]Because logistically, when the stream was done, somebody has to get rid of that.
+[172:07.56]Somebody has to take that somewhere.
+[172:08.94]What do you do with it?
+[172:10.06]So it was like, just don't even put water in it.
+[172:11.52]There's no reason to.
+[172:12.14]I don't know why Cam froze.
+[172:15.86]This is stuck.
+[172:17.36]Oh, you're still here, though.
+[172:18.60]We can hear you.
+[172:19.04]I want to take a moment to plug our merch site.
+[172:28.80]A little bit of backstory on the merch because we've seen it on Reddit and stuff.
+[172:34.37]So the plan for the merch came together before Ludwig's involvement and Coinbase's involvement because we were flat broke.
+[172:44.02]I mean, we were in the hole a lot of money and we were like, oh my god, how are we going to pay for this?
+[172:50.50]We're going to have bills due and we're not going to be able to pay them.
+[172:53.30]And so we decided to launch a merch line and that's
+[172:59.14]what we did.
+[172:59.66]And so we did some kind of generic merch, the t-shirts and the sweatshirts, which are pretty cool.
+[173:04.63]We did the special edition, the green one, and commissioned that poster, but obviously we didn't have any content yet from the show.
+[173:10.83]But we were like, we have to put something out there.
+[173:12.89]And then we kind of came up with this idea of, okay, after the show airs, we can sell a bunch of the stuff that were props on the show.
+[173:20.51]So if you go over to the site, Jerma985.com, there's a link out to our eBay store where we have a whole bunch of props for sale that were used on the show.
+[173:28.49]And we also have worked with some community artists, and we are now selling some fan art posters and stickers.
+[173:37.28]So you can go and check those out and order those.
+[173:40.76]Support the community, support the artists in the community, and help support the show.
+[173:45.96]So that's my plug.
+[173:47.58]I'm sorry I had to do it, but it's part of my job.
+[173:49.70]So Jerma985.com, go check it out.
+[173:55.73]Do it.
+[173:57.46]Only if you want to.
+[173:58.00]Do it now.
+[173:58.60]But you could.
+[174:00.22]And the auctions, when do the auctions end?
+[174:02.57]The auctions end tomorrow night, basically.
+[174:07.01]Tomorrow night, like Pacific time?
+[174:08.65]Like, is there a certain time?
+[174:10.11]Yeah, Alex, what's the... I think they end at 1 a.m.
+[174:13.20]Eastern on the 2nd.
+[174:15.06]So I would say by, yeah, that's 10 p.m.
+[174:17.22]Pacific tomorrow night.
+[174:18.14]They say it.
+[174:19.77]Oh, they say out of stock, but they're not actually out of stock.
+[174:23.33]You've got to go to eBay.
+[174:28.03]There's too many layers of friction, I will tell you.
+[174:30.09]I think the eBay should just bring you to the seller.
+[174:33.50]If you link it directly to the seller.
+[174:35.24]Well, when we built the store, we had a problem because it was a new eBay account.
+[174:38.52]And when you list things on a new eBay account, the seller page won't display the eBay auction items.
+[174:44.48]Now that we have hundreds of bids, that does work.
+[174:46.98]But we would have to go back and change the infrastructure on the... Dang!
+[174:52.26]Battleship's going for a penny, bro!
+[174:54.52]How much is it going for?
+[174:56.62]It's at 426... or 425.69.
+[174:58.53]Why are you showing... Why is this on screen?
+[175:08.05]These were the options for your bed, remember?
+[175:10.39]I sent you a text... I sent you a text, which sheet set do you want, and you picked the gamer ones.
+[175:19.02]I like that there's uh the glass on sale because that is going to be the most fun thing to ship is well it's hollywood glass it just shows up it's like a bunch of pieces I think we have a disclaimer we don't we don't insure it oh man that's a sick item site is dead uh well there's probably 20 000 people clicking right now
+[175:48.74]Serviced, whatever it is.
+[175:49.62]The eBay seller name.
+[175:52.32]Go to the eBay seller.
+[175:53.34]Yeah, the eBay seller is Elbertson and Sons.
+[175:57.78]Can we link it in chat?
+[175:58.94]The highest priced item is the signed costume package, which includes the taped watch and the drinking hat.
+[176:08.79]And your signature looks great on that one, I'll add.
+[176:11.07]I think I have a clip of him signing that.
+[176:12.61]Maybe that'll add some value if I play that.
+[176:15.09]Are you serious?
+[176:19.15]Just so you know that we didn't sign it once and we just printed it.
+[176:21.55]How the fuck are you going to... Okay, whoever gets the mailbox, it's a real huge mailbox.
+[176:29.77]Are you going to put it in front of your house?
+[176:31.70]That's definitely an interesting item.
+[176:36.50]This is real.
+[176:37.48]Did you guys enjoy signing all the posters?
+[176:39.22]Yeah, it was kind of fun.
+[176:41.78]Work your way through.
+[176:42.44]Yeah.
+[176:47.39]I know I have a clip of him signing.
+[176:49.13]If you win the helmet, message me, and I'll get you the clip of him signing the helmet, because I know I have that one somewhere.
+[176:56.53]Oh, that's cool.
+[176:57.41]Not fake.
+[176:58.57]Not fake.
+[176:59.73]Yeah, but where do you put the mailbox?
+[177:01.21]Are you going to put that in front of your house?
+[177:03.31]Or, like, what do you do with it?
+[177:04.79]It's a real mailbox.
+[177:06.52]You, like, petition the town to change your house number to 985 so you can use the mailbox.
+[177:11.36]1, 2, 3, 985.
+[177:12.08]It's a plaque.
+[177:16.85]One, two, three.
+[177:17.45]Yeah, just put it right here.
+[177:19.55]Didn't someone find a dollhouse lane in one of the videos?
+[177:24.10]Wait, is there actually a dollhouse lane?
+[177:26.86]Is there really?
+[177:28.58]I think so.
+[177:29.93]I didn't want to say a real place, so I'm like, 985, 985 Dollhouse Way.
+[177:33.99]I'm just like, that can't be a real fucking place.
+[177:36.55]I don't know if people saw, too, Jeremy, on your plaque.
+[177:39.09]I don't know if people saw.
+[177:40.23]There's a little detail kind of hidden on that plaque.
+[177:42.77]Oh, there is.
+[177:43.31]There is.
+[177:43.75]Hold on.
+[177:45.76]Look, I was doing waist up today, so I didn't think I was going to have to.
+[177:48.44]I was like, look, I look like I have a good shirt on.
+[177:51.68]I have a nice V-neck on.
+[177:53.38]Just stay low.
+[177:53.86]I don't care.
+[177:54.14]I'm wearing fine.
+[177:59.55]I'm not looking.
+[178:00.43]I don't think you can see me from the waist down.
+[178:02.87]I was staring.
+[178:03.63]I couldn't see it.
+[178:04.75]The folks at Andy Mark built a little piece into that for you.
+[178:07.91]You can probably see it on the top there for chat.
+[178:10.40]Yeah, that's cool.
+[178:11.94]The logo is engraved on the top.
+[178:14.66]The logo is engraved.
+[178:16.24]You can see it when it shines.
+[178:20.00]I'll try to... I'll bring it back.
+[178:25.49]It's weird because my camera is delayed.
+[178:30.92]Yeah, you can see it there.
+[178:31.88]Yeah, yeah, you got it.
+[178:33.36]That's it right there.
+[178:34.26]Yeah.
+[178:35.16]Yeah, it's awesome.
+[178:38.24]Very, very lovely stuff.
+[178:39.28]It was a nice touch.
+[178:39.90]I remember, like, Nick, like, showed me this and, like, handed it.
+[178:44.32]He was like, yeah, look at that.
+[178:45.94]And I was like... I was so touched.
+[178:51.32]I was just like, hold it together.
+[178:53.28]Hold it together.
+[178:54.26]Hold it together.
+[178:54.90]I can't, like... You know how many times I, like, try to not, like, cry?
+[178:59.69]Like, the last day, especially, I was like... Thanks for coming!
+[179:05.50]It was, like, so difficult.
+[179:08.18]And then the day after, when we were tearing down, and you came by the set, you, like, came by the set for, like, a minute, and then you just, like, went to the office, because I think you were just so upset about the whole thing coming down.
+[179:18.57]It was just... It was sad, watching it come down.
+[179:20.99]Everybody was, like, taking cords down, was dropping stuff, and I was just like... It's sad, but it was fun.
+[179:27.70]Now, on to the next one, right?
+[179:29.15]Absolutely.
+[179:29.63]I think if we're cool, we'll leave it here.
+[179:39.55]This has been it for the Dollhouse and the Dollhouse crew.
+[179:44.60]Thank you so much to our wonderful talent that's here with us, our fantastic crew.
+[179:49.26]Craig's camera.
+[179:52.16]At least he's smiling.
+[179:53.68]I'm doing what I can.
+[179:54.82]Whoa, what?
+[179:55.09]It just moved.
+[179:57.71]He's shaking it when he talks.
+[179:59.37]I'm moving it when I talk.
+[180:00.43]What?
+[180:01.61]Oh, I thought, like, okay, that was freaking me out.
+[180:03.47]I was like, why is it moving?
+[180:06.27]Everybody's talking, Ludwig.
+[180:07.33]I appreciate you, Ludwig.
+[180:10.42]I got you.
+[180:10.94]Hold on.
+[180:12.69]Although I'm out of focus.
+[180:13.88]Incredible.
+[180:14.26]There we go.
+[180:14.90]There we go.
+[180:15.78]Yeah.
+[180:16.82]Good.
+[180:17.72]We got to go to that corner.
+[180:22.16]Yeah.
+[180:22.46]Can we, is there a way we can do that?
+[180:25.76]I think we can do that.
+[180:30.77]He's going to get on his knees.
+[180:32.73]I can't.
+[180:35.65]I have to shake my camera by actually shaking my desk.
+[180:41.44]Oh no, the immersion.
+[180:42.88]We're in these squares.
+[180:43.62]What the hell?
+[180:46.29]This is adorable.
+[180:47.35]Thank you.
+[180:48.19]I can't move this.
+[180:48.79]We're stuck in the chairs.
+[180:53.33]All right, Chad, vote end BTS stream.
+[180:56.06]Vote end BTS.
+[180:57.36]Please, we need to go home.
+[181:00.18]Wait, before we end the stream, I got to say this, too.
+[181:02.24]I'm going to be live tomorrow.
+[181:04.90]Like, we're going back to kind of normal.
+[181:06.62]So I'll be live tomorrow.
+[181:08.03]I'm going to play Hard Time, that, like, prison game where you're, like, in prison.
+[181:12.89]It's M. Dickie, the wrestling game guy.
+[181:16.81]Yeah.
+[181:17.69]Yeah, it looks like fucking, it looks insane.
+[181:21.18]So I'll be back tomorrow.
+[181:22.54]Well, I'll just check the sus.
+[181:23.70]I want to make sure I got that out so people knew that I was coming back tomorrow.
+[181:26.84]And we're back this weekend on probably Friday or Saturday.
+[181:31.93]Probably starting No More Heroes 3.
+[181:33.29]It's going to be a fun one.
+[181:35.59]Been waiting for that one.
+[181:38.47]Can we plug everybody?
+[181:39.51]I mean, everybody knows who these guys are.
+[181:40.66]They're fucking, they're absolute lads.
+[181:46.16]I'm going to do some plugs.
+[181:48.50]You know me and Kit be doing our thing.
+[181:50.06]Twitch.tv forward slash Kit Bogey.
+[181:51.36]You know where to find us at.
+[181:55.67]Thanks for involving us.
+[181:57.53]Thanks for inviting me.
+[181:58.81]It was a blast.
+[182:00.37]It was great working with all you guys.
+[182:02.15]You too, Ludwig.
+[182:03.19]Hey, and when you invited me to that sleepover the first night and you had that little milk carton, the warmed milk for me,
+[182:12.80]Yeah, you know, I do what I can, man.
+[182:15.11]I do what I can.
+[182:15.81]I was a little hurt when you said you wouldn't stay the night, but it is what it is.
+[182:21.87]I'm lost on that one.
+[182:24.43]I'm joking.
+[182:25.45]I do have to say thank you for getting me a way nicer room than Jerma for no reason.
+[182:35.20]People don't know about that, but they hooked me up.
+[182:38.12]They hooked me up with the room, the ride and the flight.
+[182:41.02]I was...
+[182:42.83]I was making a joke the whole time.
+[182:44.71]I was like, oh, hey, by the way, I'm in the presidential suite.
+[182:47.16]I've got three bedrooms.
+[182:48.24]I'm in the presidential.
+[182:49.46]I wasn't at all.
+[182:50.08]I was just in a regular room.
+[182:51.40]And then he was like, wait, that's the room I'm in.
+[182:53.98]I'm like, no, what are you talking about?
+[182:55.52]He's like, yeah, I'm in the fucking suite, dude.
+[182:58.10]And I'm like, you got a suite?
+[183:00.46]And I didn't.
+[183:01.40]And I actually talked to Jake.
+[183:02.44]I thought you were making the joke.
+[183:03.50]You made the joke every night.
+[183:05.20]I thought you knew because you didn't have a suite at all.
+[183:08.24]I went into your room.
+[183:08.88]I was like, how do you live like this?
+[183:11.24]I didn't think anybody had a suite, so I was, like, making the joke that, like, oh, I get the suite, right?
+[183:15.47]But I just didn't.
+[183:16.41]But you did.
+[183:17.23]I mean, Jerma called me and said, uh, Legwood's coming.
+[183:21.00]He's coming, like, you know, make arrangements.
+[183:23.70]And I'm like, fuck, I don't know what that means.
+[183:25.53]Like...
+[183:26.48]What do I have to do?
+[183:27.34]And so he's like, yeah, first class limousine.
+[183:31.37]We'll get him the presidential suite, like whatever.
+[183:33.75]I don't live all the way.
+[183:35.21]And I'm pretty sure German had to ask like three wise men, which direction the hotel was at.
+[183:41.75]It was beautiful.
+[183:42.85]I didn't say presidential suite.
+[183:45.57]I just said, oh, it's like, take care of him.
+[183:47.11]You know, it's like, I don't know.
+[183:48.86]It's like, he's a fucking big guy.
+[183:51.06]He's like an important guy.
+[183:52.14]If it's not presidential, I don't show up.
+[183:56.69]Make note.
+[183:58.96]Make arrangements for him.
+[184:01.48]God.
+[184:01.90]Make arrangements.
+[184:03.52]Long story short, yeah, I did not have that Sweden he did, and I was very surprised to hear about it.
+[184:10.37]It was like the last night, too, at the last possible minute.
+[184:14.19]Yeah.
+[184:15.79]Kraken, you got a plug?
+[184:18.28]Yeah, you can catch me on Twitch at twitch.tv slash Kraken.
+[184:22.73]I'm actually currently on vacation after Dollhouse.
+[184:25.39]I need a little bit of time off.
+[184:26.39]So I'm... Deserved, I think.
+[184:29.59]Yeah, I'm not going to be streaming that frequently for the next two weeks.
+[184:33.17]But then when I get back, we're doing more interactive streams like Dollhouse, stuff like that.
+[184:37.82]We do that all the time on my show, as well as some other stuff.
+[184:41.72]So yeah.
+[184:44.96]I'm going to plug Jerma985.com.
+[184:46.91]Go buy some merch so I can pay my mortgage.
+[184:51.37]You just tore down a perfectly good house.
+[184:58.67]I'll see you guys tomorrow.
+[185:00.03]I'll be live tomorrow.
+[185:01.75]Thanks, everybody.
+[185:04.09]Thanks, guys.
+[185:05.21]Unbelievable experience.
+[185:08.33]I'll cherish it forever.
+[185:10.13]Thanks for your support, chat.
+[185:12.21]It means a lot.
+[185:13.96]Bye.
+[185:14.60]Bye.
+[187:14.65]Thank you.
+[187:50.70]Thank you.
+[188:15.17]you
+[188:45.74]Thank you.

@@ -1,0 +1,1468 @@
+[re:Lavf60.16.100]
+[ve:60.16.100]
+
+[00:36.16]I'm on time.
+[00:36.84]I'm on time.
+[00:38.52]It's 7 o'clock.
+[00:40.76]I have my watch.
+[00:42.40]I have my computer watch.
+[00:45.38]Synchronized.
+[00:47.62]This is synchronized to the internet.
+[00:50.78]You know what I mean?
+[00:52.10]And that's 7 on 1 right now.
+[00:54.04]I've been live for one minute now.
+[00:56.32]Exactly.
+[00:59.12]Don't try to tell me that this was not a synchronized clock stream.
+[01:01.72]I mean, come on.
+[01:04.54]Late by a minute.
+[01:06.12]You didn't refresh fast enough.
+[01:09.78]Anyways, hi.
+[01:11.74]Welcome to Friday night's stream.
+[01:15.07]Hope everyone's having a dandy day.
+[01:17.73]Dandy day.
+[01:18.77]We've got a dandy day ahead of us here.
+[01:20.51]You can't hear this music, but it's like making me talk like this.
+[01:25.01]You'll see in a minute.
+[01:26.86]Steve Lucas made this game.
+[01:27.94]George Lucas made this game.
+[01:30.10]Steven Spielberg is what I was going to say, but then I changed it.
+[01:32.14]So George Lucas made the game.
+[01:34.24]Look, you know what?
+[01:35.54]Listen.
+[01:37.74]How am I supposed to talk over this?
+[01:40.44]This is absolutely a George Lucas game.
+[01:41.86]Let's watch that again.
+[01:45.62]Once that comes up again, then you'll see what I'm talking about.
+[01:50.12]Why did I want to say Steven Seagal?
+[01:51.51]I don't know.
+[01:54.54]This, like, if you didn't... Okay, let's... We're going to close this out here for a second.
+[01:58.86]Hold on.
+[02:02.12]Good old George Lucas.
+[02:03.58]And LucasArts, that fucking company crumbled.
+[02:07.04]Didn't they get bought by somebody?
+[02:09.18]And then immediately sold to somebody else?
+[02:11.89]And then they just, like, stripped all the assets?
+[02:15.11]What happened with that?
+[02:15.71]What happened?
+[02:19.07]Everything okay?
+[02:24.22]This is not Red Faction.
+[02:26.10]Here we go, here we go.
+[02:27.66]Previously on Fracture.
+[02:30.48]Fuck, I hit the button.
+[02:31.54]Shit.
+[02:32.30]Now, hold on, I'm gonna do that again.
+[02:33.14]That joke is ruined.
+[02:35.24]I, like, I put the controller down and it hit L2 accidentally.
+[02:38.00]That was gonna be fucking funny.
+[02:42.33]Whatever.
+[02:42.81]I can't, now we gotta wait again.
+[02:43.79]Forget it.
+[02:48.41]Ah, that, like, angers me.
+[02:56.31]What's my favorite YouTube video?
+[02:57.47]The one where the dog goes like this.
+[02:58.77]Yip!
+[02:59.17]It's, like, wicked funny.
+[02:59.81]Alright, let's, uh, let's just go.
+[03:04.93]We don't need an intro for this one.
+[03:06.41]You don't need to see the intro anymore.
+[03:07.55]Except for, hold on.
+[03:11.41]How does it break down?
+[03:16.24]Previously on Fracture... Commander Davidson found his way into the planet of Mars!
+[03:24.07]After finding out that his sister had fallen ill, he needed to find the secret in the building.
+[03:30.49]But no.
+[03:31.65]Unfortunately for him, the demon Gal Gadot blew him up.
+[03:36.30]And now he's dead.
+[03:37.40]And then the San Francisco Bridge just collapsed.
+[03:40.46]And then a time shift guy shot... I'm not very good at this.
+[03:51.87]I'm not very good at this.
+[03:53.07]That's why I don't do voiceover.
+[03:54.97]Hold on.
+[03:55.53]Voiceover guys get a script.
+[03:56.59]Somebody give me a script.
+[04:02.11]Let's go.
+[04:03.17]Welcome to the stream.
+[04:03.75]Hope you're having a good day.
+[04:05.88]My day is going good.
+[04:07.22]We already did this.
+[04:08.62]Hey, say hi to your friend Jaden.
+[04:09.88]Hey, Jaden.
+[04:11.24]Jaden, this stream is for you.
+[04:14.34]And only you.
+[04:16.64]Casual, standard, and hardcore.
+[04:17.80]We're going to play it.
+[04:18.32]We're going to play it.
+[04:22.94]Am I feeling better today?
+[04:24.03]Not really.
+[04:24.53]I kind of still have stomach issues, but it's okay.
+[04:29.01]We will be fine.
+[04:32.05]Everybody else has to go.
+[04:33.44]You just need to ask Twitch for a script.
+[04:40.46]Oh god, this game... Yeah, so if you don't know, this game is a terraform game.
+[04:46.27]This is not, like, Red Faction.
+[04:50.29]I mean, I guess you could say that, but I guess you get a weapon in this game where you can... You know, like... What's the word I'm looking for here?
+[04:59.86]Like in Planet Coaster or Roller Coaster Tycoon, you can make the land, you can terraform the earth, you can make giant holes, you can mold the... You know what I'm trying to say here, right?
+[05:10.81]Like, you get terraformed.
+[05:12.46]I can't explain.
+[05:13.08]I'm not feeling that well.
+[05:14.80]So it's hard for me to explain, like, these words.
+[05:17.84]I don't have very many words today.
+[05:20.28]I'm not feeling well.
+[05:22.58]But you guys know what I'm trying to say.
+[05:24.46]Previously on Fracture.
+[05:27.84]General Davidson found his way to Mars.
+[05:31.16]Except this time, it was not what he expected.
+[05:35.43]Treachery, debauchery, and a secret formula later.
+[05:40.56]General Golgotha took him on.
+[05:42.60]And will we see the end of our hero?
+[05:44.62]I'm not sure.
+[05:46.08]In San Francisco!
+[05:48.18]Nailed it.
+[05:51.52]Let's go.
+[05:51.78]What do I do?
+[05:57.72]Crush it.
+[05:58.26]Wait, wait, wait.
+[05:58.84]I'm getting like a tutorial.
+[06:00.06]Hold on.
+[06:05.57]Use your catapult launch.
+[06:06.63]See, you could like terraform the earth.
+[06:09.77]You can raise and lower the ground.
+[06:11.56]It's just like fucking Rollercoaster Tycoon, except it's a shooter.
+[06:17.67]Move it on hills, we don't even need to- Alright, that's fine.
+[06:20.79]This is live.
+[06:21.19]Ah, climate change!
+[06:22.09]Oh shit.
+[06:43.19]The people of the East and the West sought two distinct paths of evolution.
+[06:47.76]And they started, like, infecting our food.
+[06:48.74]Our definition of what it meant to be human changed.
+[06:51.82]And along with it, what it meant to be an American.
+[06:55.51]Tensions rose, nations turned silent, and people stopped asking.
+[06:59.93]Apparently we all turned into spores.
+[07:03.49]How could it not?
+[07:07.14]Fracture!
+[07:09.67]Frack is the Republican and the Chur are the Democrats.
+[07:13.35]It's official.
+[07:14.17]The president has signed the Defense of Humanity Act, which designates substantial human genetic alteration a federal offense.
+[07:22.44]In a dramatic response, leaders from the western states have announced their secession, making threats from their new capital of San Francisco.
+[07:31.37]General Sheridan, the self-appointed military commander of the so-called Republic of Pacifica, had this to say.
+[07:38.27]We will be second-class citizens no longer.
+[07:41.10]Genetic modification stays alive, making mankind stronger, better.
+[07:46.64]You can't stand the way of progress.
+[07:48.70]The president assures the American people as well as our economic partners in the Atlantic Alliance that steps are being taken at this moment to confront... What about Massachusetts?
+[07:57.88]Where do I stand?
+[07:59.18]...is a dangerous threat and must be captured at all costs.
+[08:04.40]Okay, I'm on the blue team apparently.
+[08:08.24]They're never-ending red versus blue, guys.
+[08:09.80]Why do you think they make all, in video games, red team and blue teams?
+[08:14.36]It's just an alliteration to politics.
+[08:17.58]It's always red versus blue.
+[08:19.28]Always.
+[08:19.56]I feel like we keep playing as the same protagonist in every PlayStation 3 game.
+[08:38.11]Understood.
+[08:39.24]What are we expecting?
+[08:40.50]Anything and everything.
+[08:42.08]We're going in guns hot, but our primary objective is investigation.
+[08:44.96]I don't think this is an alliteration.
+[08:45.92]That freighter had no identification, but tracked to a Pacifican supply house in Kyoto.
+[08:50.28]You can bet that if we know about it, Sheridan has already sent a cleanup team.
+[08:54.38]There's a few toys in your new suit.
+[08:56.10]Toys?
+[08:56.24]I'm going to give you a quick brief.
+[08:57.84]Take a look at your heads-up display.
+[09:00.56]Okay, we got a HUD.
+[09:04.88]Weapons and crates, got it.
+[09:05.86]Wait, there's friendly people?
+[09:06.56]I thought I could just jump off, that'd be so funny.
+[09:07.98]Yeah, you have a recharging health.
+[09:08.98]I wonder if there's a slow motion mechanic.
+[09:34.42]Those trees are enemies the ones before So we're the Alliance and they're the Pacifica All right, I'm gonna get control of the player character Edward what his name?
+[10:03.18]Oh boy, this runs like shit.
+[10:05.81]R to look around.
+[10:06.47]This is like blurry.
+[10:08.15]Okay.
+[10:08.61]Oh, I can only use it on dirt?
+[10:10.33]Use R1 to raise terrain with the Entrencher.
+[10:31.93]Okay.
+[10:32.99]Lower the terrain.
+[10:36.69]See?
+[10:37.05]It's just like Rollercoaster Tycoon.
+[10:39.81]We can make a rollercoaster go underground here.
+[10:45.28]Alright, what else do I need to do?
+[10:50.66]Anything else?
+[10:53.18]How high can it go?
+[10:55.58]This is as high as it can go.
+[10:56.32]You can make like an anthill.
+[10:57.32]Okay, that's cool.
+[11:00.30]L3's crouch.
+[11:04.01]L3 to stand, X to jump, yeah.
+[11:07.11]Oh no, the path is blocked.
+[11:08.85]We can use the entrencher!
+[11:14.07]This is dumb, but I like it.
+[11:16.69]Lower this terrain too.
+[11:19.65]Guys, we have to give this a chance.
+[11:20.84]George Lucas made this game.
+[11:29.64]This is great.
+[11:30.78]How can you not like this?
+[11:39.47]We just have to investigate the dead bodies with our fucking new toy gun.
+[11:43.63]Throw a grenade at the pile of crates.
+[11:46.73]Why?
+[11:48.13]What?
+[11:48.39]Throw a grenade at the crates.
+[11:56.11]Wait, is this the crates?
+[11:58.53]What is he talking about here?
+[11:59.59]I just did that.
+[12:00.11]Okay, well, I mean, why is the arrow pointing here?
+[12:09.69]What's this point for?
+[12:10.39]Why are you pointing this here?
+[12:17.83]I need, like, a key.
+[12:22.74]Wait, is it audio delay?
+[12:24.30]I don't know what it is with the PS3 and audio delays lately.
+[12:30.62]Are you hearing this, like, as it comes out or before?
+[12:32.56]Are you hearing it, like, ping, ping, ping?
+[12:36.09]It should be happening, like, it's not delayed for me.
+[12:44.28]It's fine.
+[12:44.74]It's fine.
+[12:46.05]It's fine.
+[12:46.67]No delay.
+[12:47.71]I just saw two people scream at me.
+[12:49.01]Watch this.
+[12:49.39]Fucking first try.
+[12:55.85]Second try.
+[12:57.23]He got it on his... Whoa!
+[12:59.13]Terraforming!
+[13:00.29]Red Faction Gorilla!
+[13:01.59]Alright, let's go.
+[13:07.59]Another weapon, Colonel.
+[13:09.63]Bangalore.
+[13:10.61]That sounds... Bangalore?
+[13:15.73]Pull R2 to fire weapon.
+[13:18.47]Okay.
+[13:19.57]Cool.
+[13:20.47]Gonna blow up some guy's shed.
+[13:22.29]No, that's a... I'm trying to aim down sights.
+[13:26.66]Hey, come on.
+[13:27.16]Shoot the guy's, like, random tool shed.
+[13:29.10]You want me to shoot this water tower?
+[13:33.48]Alright, that's it.
+[13:47.69]I feel like that could have been much cooler.
+[13:53.25]Yes, sir!
+[13:58.68]The way he said that was very, very... Like, submissive.
+[14:01.78]Yes, sir!
+[14:02.20]Sticky bomb launcher, alright.
+[14:04.32]Take out the support beams on the landing pad.
+[14:06.36]Sure.
+[14:18.93]Press for the hint camera.
+[14:23.01]Okay.
+[14:26.27]One sticky.
+[14:27.97]Two stickies.
+[14:29.15]Explode.
+[14:34.68]Okay.
+[14:36.14]That was fun.
+[14:41.40]Spike grenades.
+[14:42.78]Look, this is just a tutorial.
+[14:43.86]Everybody just calm down.
+[14:45.09]Raise the ground with a spike.
+[14:48.46]What do you mean, raise the ground with a spike?
+[14:56.40]Oh.
+[14:57.88]Okay.
+[14:59.24]I guess that makes sense now.
+[15:00.80]I guess I understand.
+[15:05.31]Okay, that was a little wonky.
+[15:08.97]I don't think I need to jump.
+[15:09.85]I think I just need to walk.
+[15:12.31]Yeah, let's just go.
+[15:14.89]Subsonic grenade.
+[15:18.58]Alright.
+[15:19.00]What?
+[15:19.22]You're throwing too many weapons at me at the same time.
+[15:24.24]I don't want to play.
+[15:25.34]Who cares about this?
+[15:25.88]In a game where you terraform, a sniper rifle seems pretty boring.
+[15:45.10]Alright, let's go.
+[15:54.50]Let's go meet him.
+[15:55.40]Immediately.
+[15:56.08]Yeah, give me every weapon in the tutorial.
+[16:01.13]Seems... Seems like they didn't have to do it like that.
+[16:05.35]How do I get up there?
+[16:07.93]Oh, that way.
+[16:08.65]Open up this crate.
+[16:10.37]No, don't take anything.
+[16:11.31]Just go.
+[16:19.68]You can't... Guys, don't you know the PlayStation 3 rule?
+[16:23.77]We have to give each game at least 40 to 5 minutes to an hour.
+[16:28.42]We don't skip, we don't next immediately.
+[16:32.42]Colonel, any intel on what killed those Pacificans in the crater?
+[16:36.10]Just because we're in the tutorial?
+[16:38.79]That stuff doesn't always work as planned.
+[16:40.53]We'll need to be ready for anything.
+[16:42.51]Come on, what's with this goldfish patience lately?
+[16:45.23]Come on, guys.
+[16:45.97]By order of the Alliance Army, General Marcus Kelly commanding, you are hereby relieved.
+[16:51.54]You and the men under your command are ordered to stand down and surrender your weapons immediately.
+[16:56.88]What's it been, Colonel?
+[16:59.08]I thought I had subtitles on.
+[17:02.08]Where are my fish flames?
+[17:02.92]Uh oh, first test of if we can do it or not.
+[17:05.05]Alright.
+[17:05.25]Let's get him.
+[17:05.59]Right now.
+[17:05.93]Alright, so we're all dead.
+[17:07.39]No, I dodged it.
+[17:08.13]Here we go.
+[17:29.09]This does sound like Star Wars music.
+[17:31.77]It's like TIE fighters chasing each other in fucking space.
+[17:46.00]Why is he running like that?
+[17:53.58]This is a Lucas game, isn't it?
+[17:55.14]This is a fucking Lucas game.
+[17:56.46]Alright, break it!
+[18:00.40]What?
+[18:01.62]Oh shit, they're throwing tectonic grenades!
+[18:10.43]Watch out for the sand raiders!
+[18:16.75]I just wanted to see what was gonna happen.
+[18:18.70]No!
+[18:20.66]I refuse!
+[18:22.38]I refuse.
+[18:28.11]You can always tell when it's a George Lucas-involved project when it's gonna go like this.
+[18:31.16]Here, it's gonna go like this.
+[18:31.90]It's gonna go like... Ready?
+[18:36.78]The nun-nun is what you're listening for.
+[18:39.87]Listen for the nun-nun.
+[18:40.67]You'll hear it.
+[18:41.45]Here it comes.
+[18:45.72]There it is!
+[18:48.81]Here it comes.
+[18:50.83]Here it comes.
+[18:53.31]Do it.
+[18:55.65]New machine gun, cool.
+[18:56.82]Attention, forces of Pacifica.
+[19:19.41]Where are we going?
+[19:19.99]Oh, I got a terror bomb.
+[19:24.53]Even higher.
+[19:24.81]I'm gonna get up on the balcony.
+[19:29.93]Also, that's it.
+[19:30.53]Another thing that you're listening for is... I'm gonna build him cover.
+[19:38.81]Okay.
+[19:41.37]How's he supposed to shoot anybody?
+[19:44.07]They're just gonna drop him.
+[19:45.04]I don't understand.
+[19:49.32]I would buy this soundtrack.
+[19:51.86]Soundtrack.
+[19:55.56]Alright, okay, alright, alright.
+[19:56.96]I agree.
+[19:57.32]This game isn't very good.
+[19:58.32]But hold on a minute.
+[20:00.22]Wait, I gotta turn it down.
+[20:01.02]It's way too loud.
+[20:06.31]Oh, I gotta make cover.
+[20:15.21]Alright, I just locked myself in.
+[20:18.95]Where am I going?
+[20:19.49]Up there?
+[20:19.81]I need to put it, like, in front of him.
+[20:23.50]There we go.
+[20:23.90]Take out the gunner to stop the turret.
+[20:26.60]There's a guy on the gun.
+[20:40.53]Why don't we throw a tactician grenade at him?
+[20:48.52]Got him.
+[20:53.96]I forgot.
+[20:54.52]You know, sometimes I forget what it's like to play a game at like 720p, 30 FPS.
+[21:00.12]Sometimes I forget.
+[21:01.54]But, you know, not this time.
+[21:02.90]I'm going to get up there.
+[21:04.34]Here it comes.
+[21:10.75]Alliance threat in sector 2.
+[21:13.29]Neutralize all trespassers.
+[21:16.34]You're outmatched here, boy.
+[21:17.58]He didn't need to slide.
+[21:22.61]I know that feeling.
+[21:27.05]Oh, I can't, like, raise the ground?
+[21:28.35]There's, like, another guy here.
+[21:31.33]Just shoot these, right?
+[21:32.97]Nice.
+[21:41.85]I hope these are bad guys.
+[21:43.05]Just throw grenades.
+[21:44.11]It's the best thing in the game.
+[21:45.31]Just smoke them out with the terraformer.
+[21:48.85]There we go.
+[21:49.25]Are these good guys?
+[21:53.14]Alright, just wedge them up against the building.
+[22:01.38]Where am I?
+[22:03.65]Where am I?
+[22:04.21]What's going on?
+[22:12.32]No, wait, wait, hide.
+[22:13.41]Hide.
+[22:13.67]Just be tactical about this.
+[22:15.15]Don't die right now.
+[22:24.03]That should kill them.
+[22:25.08]It really should.
+[22:30.22]Oh my lord.
+[22:31.96]Next, dear god.
+[22:33.58]We have to get out of the first mission.
+[22:37.11]Come on.
+[22:37.67]If we're going to talk about money per hour here...
+[22:42.77]We're talking about... This game costed... This game cost like... I don't know.
+[22:49.48]I bought it on Amazon.
+[22:51.28]This is at least a $7 or $8 game, I think.
+[22:55.50]Oh, wow, great.
+[22:56.74]Good job.
+[22:58.50]Make the giant chocolate hill in front of you.
+[23:03.74]We gotta get at least like... We gotta get at least like 60 cents an hour, right?
+[23:07.02]Out of this.
+[23:10.24]It's so mediocre, it hurts.
+[23:14.10]Alright, we're gonna drop this.
+[23:16.37]We can sneak through the tunnel.
+[23:17.71]Alright, good.
+[23:20.39]Is this bigger than you?
+[23:24.87]But we gotta get to the first boss.
+[23:26.45]There's gonna be some dumb gimmick with the first boss, right?
+[23:28.52]Alright, we gotta get this guy.
+[23:33.14]He's gonna try to get in the helicopter.
+[23:40.02]Get him!
+[23:46.00]What?
+[23:47.69]Why can I not raise and lower the ground?
+[23:49.95]What is this?
+[23:50.37]Thanks.
+[23:53.93]And the gears of war sprint.
+[23:55.43]Oh, there we go.
+[23:57.73]That worked.
+[24:04.42]Are we having fun yet?
+[24:06.14]How much fun are we having playing like jump rope with this guy?
+[24:17.95]I would laugh so hard if I pulled out like a fucking lightsaber.
+[24:23.79]I missed him.
+[24:24.61]But that's a good guy.
+[24:30.84]Has George Lucas like... Besides Star Wars... George Lucas did Indiana Jones too, right?
+[24:39.54]Wait, George Lucas was like in the room when Indiana Jones was made, right?
+[24:48.22]Please play a good game for once?
+[24:50.90]We played Darkest Dungeon for like two streams in a row.
+[24:53.30]That game's fantastic.
+[24:54.96]Come on.
+[25:01.84]Was that not a good game?
+[25:06.58]Bad game?
+[25:08.02]What?
+[25:08.26]That is not true at all.
+[25:11.15]And you know it.
+[25:14.31]Why do these guys have Star Wars creature screams?
+[25:16.37]It doesn't make any sense.
+[25:17.01]These are fucking humans.
+[25:20.47]They shouldn't be screaming like that.
+[25:33.73]What?
+[25:33.95]What's the problem with fracture?
+[25:37.11]Guys, just because George Lucas made like one good product, doesn't mean he could do it again.
+[25:42.43]This is proof.
+[25:47.10]Somebody wrote like a script and showed it to George Lucas.
+[25:51.02]And he went, yeah.
+[25:53.40]And then they put his name on it.
+[25:54.48]And then some guy made songs that sound just like Star Wars songs, and it was a smash hit.
+[26:05.64]I do like launching people, though.
+[26:07.56]It is not fun.
+[26:11.66]Don't encourage him.
+[26:13.34]Oh, God.
+[26:15.58]Someone gave $100.
+[26:16.24]Hold on, there's a fight going on right here.
+[26:31.02]I have to get to the end of the tutorial, I refuse.
+[26:32.44]Why don't I play Rest in Peace Department?
+[26:36.68]Because I already played it!
+[26:40.44]That game is already done!
+[26:41.46]You know there's only one level in that whole game?
+[26:51.83]Nice.
+[26:56.88]How does that not kill him?
+[26:58.50]You're taking the fun all out of the game for me.
+[27:10.13]Alright, fine.
+[27:10.97]Okay, there you go.
+[27:12.39]I took the CD out.
+[27:14.29]There it is.
+[27:14.81]It's out.
+[27:22.01]Jesus Christ.
+[27:25.17]Took out the CD.
+[27:31.54]I ain't breaking it.
+[27:36.92]Yeah.
+[27:37.38]By the way, this is like, okay, by the way, this is a, this is all you're gonna get.
+[27:41.72]Like, you guys have one, okay, if we're in like a battle right now, you guys, your cooldown for like your immediate next, you already used it.
+[27:48.20]Good luck for the rest of the stream.
+[27:52.78]You already used it.
+[27:53.92]You guys used your one stream cooldown on next.
+[27:57.22]Good luck.
+[28:05.03]There you go.
+[28:08.93]You guys are out of fucking moves.
+[28:14.43]Now we're playing Never Read D. How long is the cooldown?
+[28:21.92]Per stream.
+[28:22.96]There it is.
+[28:28.24]No, I ain't gonna... Wait, did that just do like a fucking Mortal Kombat?
+[28:32.62]Wait, go back.
+[28:35.46]Go back, go back, go back, go back.
+[28:36.88]Can I do that again?
+[28:37.52]That guy did like a Mortal Kombat Resident Evil intro press start thing.
+[28:49.78]Alright, anyways.
+[28:52.86]You refuse to acknowledge my cooldown?
+[28:55.16]Well, that doesn't matter.
+[28:56.04]Because I'm the one that makes the cooldown.
+[28:58.00]I'm the one that you learn the moves from.
+[29:00.46]I'm the trainer in the fucking town.
+[29:03.91]I ain't gonna give you two uses.
+[29:06.03]One use, cooldown, 24 hours.
+[29:11.12]Anyways, thank you so much to Following Snail for the $100.
+[29:18.34]10,000 bits, thanks a lot, dude.
+[29:20.54]Thank you so much.
+[29:21.90]Finally managed to catch one of your streams, so here, take my bits.
+[29:25.07]Also, many people have probably already asked, but did you consider to open a Patreon to finance your projects?
+[29:31.41]Yes.
+[29:32.21]I'm not sure if you saw the last video, but I talked about this a lot in the video I made on the main channel last week.
+[29:41.35]It's absolutely something I'm thinking about.
+[29:42.97]You might see it.
+[29:44.21]I have to talk to a few people and find out exactly the course of action I want to take.
+[29:49.35]But, yeah.
+[29:50.28]That's, um... That's definitely something I'm thinking of.
+[29:52.88]Thank you so much, though.
+[29:54.18]Following Snail for the hundred bucks.
+[29:56.46]Also, on top of that... Let's just... Let's just get, like, the... I'm gonna play on normal.
+[30:03.83]What else do I want to do?
+[30:05.31]I missed a couple more bits here.
+[30:06.19]Let me just... Give me one second, guys.
+[30:08.77]Scroll down...
+[30:10.49]Sorry, I was in the middle of, like, dealing with, like, cooldowns.
+[30:13.91]Uh, thank you, Huff, for the five dollars.
+[30:15.23]Hufflepagus, thanks for five bucks.
+[30:17.17]Jeremiah, I once played this game when I was, like, seven years old.
+[30:19.53]Please don't ruin this good nostalgia I have.
+[30:21.50]It wasn't me!
+[30:21.92]It wasn't me.
+[30:22.98]It was the chitchatters.
+[30:24.98]It was the chitchatters in this chitchat room.
+[30:28.42]I just couldn't be contained.
+[30:30.30]You guys were like an animal in a cage.
+[30:32.26]And I was the zookeeper.
+[30:34.12]And you were just screaming, like, snarling at me for the meat.
+[30:38.59]Hardcore?
+[30:39.15]No.
+[30:41.45]Shit chatters.
+[30:42.87]But thank you, though.
+[30:43.77]Official Shockey, thanks for the $20.
+[30:45.85]I've always wondered what Roller Coaster Tycoon would be like if it was a shooter.
+[30:49.81]Right?
+[30:50.11]And we'll never know.
+[30:52.67]The audio clip just... They didn't loop it correctly.
+[30:55.72]It just cut off right there and they put it back.
+[30:58.10]It's just terrible audio design.
+[31:00.38]Anyways, thank you so much, Official Sharky, for the $20.
+[31:03.37]Cheese Riot, Spritech.
+[31:05.97]Spritech, again, thanks for the bits.
+[31:08.57]I wanted you to continue that game.
+[31:10.41]You know, maybe before the stream ends, I'm going to go back and play Fracture for four hours.
+[31:14.60]No, fuck, don't say that.
+[31:15.72]That was a mistake.
+[31:16.30]I shouldn't have said that.
+[31:17.62]Thank you, Quarter Dime, for the five bucks.
+[31:19.52]Jeremy, will you please play PUBG again?
+[31:21.20]You were hilarious and better at it than you remember.
+[31:25.10]You know, Minotauks have talked about PUBG.
+[31:28.74]So it's something that we might do for fun.
+[31:33.38]But I don't know.
+[31:34.44]I don't know.
+[31:34.74]I don't even know what I'm going to have for breakfast today.
+[31:37.84]But today already happened.
+[31:39.44]See what I'm talking about?
+[31:43.74]Hope you guys are ready to never be able to use your cool down on the rest of the stream.
+[31:47.26]Let's watch the cutscene.
+[32:04.20]Watch this game be like fucking fantastic.
+[32:11.32]I already like it.
+[32:12.00]Am I playing as this character?
+[32:17.65]I don't think so.
+[32:21.17]Nice.
+[32:24.57]Look at all those shells.
+[32:25.71]You know she just like expanded a whole magazine.
+[32:30.84]What?
+[32:33.52]What the fuck?
+[32:33.92]What the fuck is happening right now?
+[32:35.79]Okay.
+[32:35.95]That's not... What a stupid ringtone.
+[32:37.63]That's not how those work.
+[32:41.81]That was like a 1930s telephone.
+[32:46.01]Oh, hello.
+[32:46.21]Yeah, it's me.
+[32:46.69]Thanks for calling my landline.
+[33:04.28]What was the point of that cutscene?
+[33:05.10]Is that me?
+[33:11.64]For my own honor and that of my family's name, I will reduce you to dust.
+[33:20.66]What the fuck?
+[33:23.21]Your arrogant words are dripping with pride and overconfidence.
+[33:27.15]This is like... Oh my god.
+[33:28.49]This looks like... This looks like a WWE 2K14 creator character.
+[33:42.43]This is like fucking create a character from WWE that's it God
+[33:59.38]Frogman gone wrong.
+[34:01.02]What do I play as here?
+[34:02.50]Am I gonna play?
+[34:04.94]I'm playing, okay.
+[34:05.74]What?
+[34:05.94]How do I play?
+[34:06.46]Okay.
+[34:06.64]L and R to move the camera.
+[34:29.41]And there's this fucking obnoxious metal music.
+[34:33.72]L1 and R1 to fire weapons.
+[34:39.78]What?
+[34:41.20]What's going on right now?
+[34:42.14]Why is it slow motion?
+[34:44.62]What the fuck is happening?
+[34:54.20]Why does it keep going into slow motion randomly?
+[34:56.32]There's a combat dodge roll.
+[34:59.83]Why do I feel like this is some guy on the development team's band?
+[35:02.19]This guy has blue blood.
+[35:11.58]He's just doing like a back- alright, I don't like the random slow-mo.
+[35:14.22]He just farted in my- he farted on me and killed me.
+[35:20.65]That stupid fucking goal.
+[35:23.61]I don't even have anything to say, man.
+[35:29.35]I have a Keyblade as well.
+[35:30.73]Do you see that on my back?
+[35:36.61]He's like flying, squirreling.
+[35:37.79]Is he dead?
+[35:38.14]I think I got him.
+[35:40.66]No.
+[35:42.46]And from this grave we go and die.
+[35:45.52]What the hell is this fucking music?
+[35:48.90]Okay, somebody has to know who this is, right?
+[35:53.94]You're gonna feed on your blood.
+[35:57.73]Your emptiness.
+[35:59.33]Okay.
+[36:09.04]It's Megadeth.
+[36:09.80]I know who it is.
+[36:10.64]I was making a joke.
+[36:13.95]I know who that is.
+[36:14.63]They're a good band.
+[36:15.65]I've heard them before.
+[36:16.45]Can't she just let me sleep?
+[36:35.39]Damage control?
+[36:36.53]Is that me in the future?
+[36:45.06]Yeah, why would you be sleeping in fingerless gloves?
+[36:46.80]You'd think you'd take those off and put them in the laundry.
+[36:50.44]Hey!
+[36:52.38]Fuck those CSGO sound effects.
+[36:57.90]How cute.
+[36:59.45]Just like a happy couple.
+[37:01.79]I'm happy to do favors for my loved ones, up to a point.
+[37:05.71]Yeah, like shooting at them?
+[37:07.69]Makes no sense to me.
+[37:09.83]Aw, I gave you a wake-up call beforehand, Snookums.
+[37:12.45]That makes sense to me.
+[37:13.93]Yeah, man is always cranky in the morning, sweet cheeks.
+[37:17.21]Get used to it.
+[37:18.17]That's not true.
+[37:18.65]You're not a man anymore, Bryce.
+[37:20.13]There's no place for your silly human habits.
+[37:22.45]That's why we pay you.
+[37:23.83]Well, I haven't seen a paycheck from the last job.
+[37:26.98]So, until then...
+[37:29.51]Bryce Boltzmann.
+[37:30.55]We've got work to do.
+[37:31.63]Bryce Boltzmann.
+[37:34.03]That's his name.
+[37:35.59]We've got a code three at the mental asylum on the outskirts of the city.
+[37:38.81]Looks like we might have a sword pig on our hands.
+[37:41.33]You're the closest DH from there.
+[37:42.77]Yeah, riveting.
+[37:44.87]So getting back to what I was saying, when the hell am I going to get paid?
+[37:47.96]Sword pig.
+[37:48.24]I was acting in the line of duty, just trying to earn my bread and butter.
+[37:57.10]Uh huh.
+[37:57.36]Okay.
+[38:16.46]When a girl says something snarky, their chin goes up.
+[38:24.22]It's always a close-up.
+[38:26.20]Pay attention to this from now on.
+[38:28.08]Sometimes when a girl says something snarky in a video game, in like a cutscene, their chin goes up, their face leans forward, and they lean forward and they pull back.
+[38:35.80]And their chin goes up, face leans forward.
+[38:38.67]Look for it.
+[38:39.07]You'll see it.
+[38:42.57]You haven't noticed?
+[38:44.43]You haven't noticed it?
+[38:50.64]Okay, where's the video game here?
+[38:52.38]What's going on?
+[38:55.30]Oh boy, this is ugly.
+[38:56.24]Alright, I understand.
+[39:00.76]If you have a video game and you're developing it, and you need to save as much space as you can as possible for graphics, turn your foliage down.
+[39:11.41]You don't have to have this much grass and shit.
+[39:13.83]Who are you trying to impress?
+[39:16.93]You don't need max foliage.
+[39:21.27]Alright, let's go.
+[39:29.03]Find a way into the asylum.
+[39:33.88]You should turn down the graphics.
+[39:35.58]Not turn them up.
+[39:36.32]Not put max distance on foliage.
+[39:39.20]And grass and shit.
+[39:42.47]Look, there's even grass growing on the concrete here.
+[39:46.23]I didn't need to do this.
+[39:49.99]You're an immortal and she's not.
+[39:51.33]You'll have to look after her.
+[39:54.40]There's gonna be a monster behind this door.
+[40:02.54]Oh, well.
+[40:04.26]We tried it.
+[40:05.08]I knew everyone was going to want me to do it, so we go up here.
+[40:07.00]Arcadia, Bryce.
+[40:10.78]I apologize for having you two work so early.
+[40:13.49]I apologize for YouTube.
+[40:15.47]Chief, it's no problem whatsoever, sir.
+[40:19.03]An obstacle?
+[40:19.57]How do I get through this?
+[40:21.09]I can't expect my people to be out working an hour without some support.
+[40:25.90]Well, I'm not one of your people.
+[40:32.16]Okay.
+[40:32.62]It's kind of funny.
+[40:33.48]Why is the whole building collapsing?
+[40:46.39]I hope that's a frog.
+[40:47.29]I really hope that's like a race of frog people.
+[40:50.46]XP collectibles.
+[40:51.40]Collectibles give XP bonuses which allow new abilities to be unlocked.
+[40:54.20]Okay.
+[40:58.66]And?
+[41:04.08]Keep out.
+[41:06.14]Well, it tells me to keep out, so I have to keep out.
+[41:10.02]What am I, like, looking for here?
+[41:11.42]Don't I need to, like, open a door?
+[41:14.11]I can't believe there's XP in this game.
+[41:18.03]Alright, open the panel.
+[41:23.35]Hit the alarm.
+[41:26.50]This is promising.
+[41:27.12]It is fairly promising.
+[41:28.60]We'll figure that out once we get into combat.
+[41:35.70]Okay.
+[41:37.08]Some interactive objects that might kill mortals will only dismember you.
+[41:40.92]Use them to open otherwise inaccessible routes.
+[41:45.57]Are you fucking kidding me?
+[41:47.59]How can I put it back on?
+[41:48.91]Is this just Plock, but with a mature rating?
+[41:53.59]If you lose a limb, use the combat roll to pick it up.
+[41:58.39]So I have to combat roll over this.
+[41:59.91]Okay, I got my limbs back.
+[42:05.30]Alright.
+[42:07.44]So how do I open the door?
+[42:11.99]When I'm only left with a head.
+[42:13.37]Oh, she's coming in here.
+[42:17.05]Okay.
+[42:20.59]Good game.
+[42:22.67]Don't... Hold on there.
+[42:24.43]Hold on there.
+[42:25.03]We're not sure about that yet.
+[42:26.26]Alright, now where do you want to go?
+[42:28.80]Puppies.
+[42:40.30]Okay, the more demons you fight and kill, the more experience you'll get.
+[42:44.03]Regeneration.
+[42:44.49]You can also regenerate.
+[42:45.39]Standard regeneration takes five seconds for each limb lost.
+[42:48.59]Hold L3 to regenerate.
+[42:50.05]You can only do this when the eye insignia is yellow.
+[43:00.06]What?
+[43:03.50]Hold on, I can just play the game as a head?
+[43:07.63]How- What am I- How do I fight him?
+[43:10.77]Can I like jump into him?
+[43:13.53]Okay, this is fucking stupid.
+[43:18.76]Alright, follow me!
+[43:19.62]I'll take us to victory.
+[43:24.78]I guess I can just go roll over my body, right?
+[43:30.22]Regenerate.
+[43:32.64]Oh!
+[43:34.66]Alright, well.
+[43:36.75]That works.
+[43:39.73]Some doors are chained shut.
+[43:40.71]You can break these chains with your butterfly blade.
+[43:42.81]Press triangle to equip your... Blah, blah, blah.
+[43:44.89]L1 is lock on.
+[43:45.21]Yeah, no shit.
+[43:46.19]Do it.
+[43:46.35]Swing.
+[43:46.47]What the hell was swing?
+[43:47.09]L1 is lock on.
+[43:49.17]What the fuck is swing?
+[44:10.08]What a swing!
+[44:13.89]How do you swing the sword?
+[44:16.29]Right stick?
+[44:19.77]What the- what the fuck?
+[44:25.91]Wait, hold on a second.
+[44:39.65]Press the swing button.
+[44:42.01]I legit, like, just... I didn't think it was going to be that difficult.
+[44:44.89]I don't even know what the button is.
+[44:50.70]Okay.
+[44:56.04]Yeah, and... Thanks for the tip.
+[45:03.52]That's a good tip.
+[45:06.86]What?
+[45:10.25]What is happening?
+[45:11.99]Why would it do it?
+[45:22.88]Sorry, we got fucking half-life monsters now.
+[45:29.46]Hardest puzzle in the game.
+[45:30.92]Let's fucking snipe them.
+[45:33.52]Yeah, yeah, yeah.
+[45:34.50]Just like fucking Dark Souls.
+[45:39.31]Time strikes.
+[45:40.03]Repetitive fast strikes deliver less damage than normal, more controlled strikes.
+[45:43.98]Yes, sure.
+[45:45.54]Sure thing.
+[45:46.06]But you already killed it.
+[45:51.30]Alright, let's go.
+[45:57.27]Why?
+[45:57.65]I had, like, guns earlier.
+[46:02.89]They turned this into, like, a really shitty Dark Souls game.
+[46:07.54]with music that I don't want to hear.
+[46:13.88]Access your abilities.
+[46:15.64]Blade power, aim snap.
+[46:17.14]They're just haphazardly listed here, aren't they?
+[46:22.01]What do I have?
+[46:22.49]How much do I have?
+[46:24.25]4,500?
+[46:26.05]Debris damage.
+[46:29.79]Aim snap.
+[46:33.55]Power crawl.
+[46:36.77]Sprint.
+[46:37.71]Alright, I want sprint.
+[46:42.85]And I want aim snap.
+[46:44.41]No.
+[46:45.89]Super jump or gun power?
+[46:48.61]Aim snap.
+[46:49.40]No.
+[46:50.18]Aim snap.
+[46:56.54]Put him on, I guess.
+[46:59.60]I have aim snap and sprint on.
+[47:08.93]I will say that this music is a little overbearing.
+[47:12.53]I don't have an issue with this kind of music, but when it's just blasting in the background, maybe it wasn't the greatest decision to have this as your soundtrack.
+[47:33.48]Alright, there's all kinds of explosives here.
+[47:37.38]Take out the gun.
+[47:39.02]I lost a hand.
+[47:43.13]Oh god.
+[47:45.21]How do I switch back to the fucking gun?
+[47:47.59]Triangle?
+[47:49.33]Alright, here we go.
+[47:57.61]I don't have any arms anymore.
+[47:59.01]I can just dive.
+[48:14.24]Oh my goodness gracious.
+[48:23.31]Oh boy.
+[48:25.43]You guys thought this was gonna be a good game?
+[48:31.42]Turn this music off!
+[48:33.54]Why is the music still on?
+[48:34.88]Alright, press the button.
+[48:41.70]What do you want me to even do here?
+[48:44.68]Oh, watch out.
+[48:45.34]Watch out for the monster!
+[48:57.94]Ayayay.
+[48:58.54]Did I lose a little leg?
+[49:06.10]I still have no leg.
+[49:08.90]I'll get it back.
+[49:13.99]Okay, can we move on to the next thing?
+[49:21.58]Bad game, worse streamer.
+[49:23.62]Wait, why am I a worse streamer?
+[49:25.14]Is she dead?
+[49:28.88]Her name is Arcadia.
+[49:31.30]I'm just reviving.
+[49:32.18]I'm realizing this.
+[49:37.60]Reviving buddies.
+[49:38.50]Arcadia is badly wounded.
+[49:39.77]You need to revive her.
+[49:40.71]Okay.
+[49:41.53]Sure, come on up.
+[49:45.08]Because you only play bad games.
+[49:46.86]That's not true!
+[49:48.86]That's a misleading statement.
+[49:54.89]Whoops.
+[49:58.11]That's a misleading statement.
+[50:05.67]Okay, hold it.
+[50:06.21]Block attacks with your blade.
+[50:07.37]Alright.
+[50:13.49]So this is blocking.
+[50:17.31]Alright, cool.
+[50:18.57]Why would you ever block at this point?
+[50:23.27]What's the point of ever blocking?
+[50:24.45]Still have my limbs, right?
+[50:29.66]Yeah.
+[50:33.46]Big monster?
+[50:34.76]Incoming, maybe?
+[50:36.32]Possibly?
+[50:38.62]I want to get up there.
+[50:41.02]I think I need jump power.
+[50:45.19]Uh, face the next objective.
+[50:46.87]Okay.
+[50:49.37]I'm gonna lose my hand.
+[50:51.67]I'm gonna lose both hands.
+[50:53.71]Okay, no, I just lost everything.
+[50:58.24]Imagine getting electrocuted and literally every appendage falls off.
+[51:06.28]That'd be pretty fucking insane.
+[51:07.28]Uh, okay.
+[51:11.82]What the fuck did that even do?
+[51:13.06]Just crawl under here?
+[51:21.83]Okay.
+[51:23.81]No, don't get electrocuted again.
+[51:24.97]What are you doing?
+[51:26.59]No.
+[51:26.95]Okay, okay.
+[51:33.63]Stop collecting fucking arms.
+[51:35.23]Oh god.
+[51:38.61]I've become a dead space monster.
+[51:42.79]Can I punch?
+[51:43.55]I kind of want to just be like this for the rest of the game and just whack people.
+[51:54.14]Well, let's regenerate.
+[52:00.32]What is this?
+[52:00.70]I have no idea.
+[52:03.12]A cobra.
+[52:04.34]Something to do with poison.
+[52:06.82]I'm not sure.
+[52:07.32]Alright, we'll back up.
+[52:08.44]Don't get hit by this.
+[52:13.78]What did I lose?
+[52:14.48]What did I lose?
+[52:16.93]What am I missing?
+[52:17.41]Oh, one of my legs.
+[52:19.15]Okay.
+[52:19.77]Get it back.
+[52:20.11]I got it.
+[52:22.69]Okay.
+[52:23.45]Open that door.
+[52:27.70]Holy shit, if I wasn't convicted of next already.
+[52:30.16]If you weren't convicted of next, convinced.
+[52:43.47]It's so funny because we still have, like, Demon's Souls to play.
+[52:47.77]We're getting through all the trash first, don't worry.
+[52:54.04]This just makes me want to play Demon's Souls.
+[53:03.42]Reload the guns, please.
+[53:06.04]Why am I not playing that?
+[53:07.22]Because everyone voted for shitty PS3 games.
+[53:11.63]I did a straw poll before the stream started.
+[53:15.17]There was good PS3 games and then shitty PS3 games.
+[53:19.85]And everyone voted for the shitty ones.
+[53:28.64]What is going on?
+[53:29.46]Why is the world exploding around us?
+[53:32.68]There's a guy here.
+[53:35.10]Get him.
+[53:35.54]Get him.
+[53:36.56]Get him, please.
+[53:39.54]Thank you.
+[53:39.93]I beg you, turn this off.
+[53:44.51]Remember when Bill Gates invented Microsoft?
+[53:50.37]Actually, I do.
+[53:51.96]I remember that.
+[53:53.08]I do.
+[53:54.80]There's a lot of explosives in this room.
+[54:02.90]Right before our boss?
+[54:03.60]Oh, are we gonna get to see a boss?
+[54:05.40]Dude, the best part of this game was the weird frog fat prince guy.
+[54:08.03]In the very beginning.
+[54:12.27]That was at least, like, worth putting the disc into the tray.
+[54:14.69]Alright, well, I think... Was I supposed to do that?
+[54:26.02]Apparently, I was.
+[54:33.07]I can't go that way.
+[54:34.02]Gotta go through the meat locker.
+[54:39.66]What do you want me to do here?
+[54:45.62]Gee, I wonder what I need to interact with.
+[54:47.33]Wait, what do you mean?
+[54:48.59]You mean like the electricity chamber again?
+[54:55.17]What is even here?
+[54:59.79]What?
+[55:04.09]I really must be blind.
+[55:06.31]And now I fucking have no... Get over here.
+[55:10.51]Give me my fucking legs back.
+[55:13.81]There's a shiny thing on the wall?
+[55:23.95]Is there a shiny thing on the wall?
+[55:26.09]That I am not seeing?
+[55:51.34]There's nothing that doesn't have to do in here.
+[55:52.88]She just said let's head back.
+[55:55.58]Oh Let me just like sloppily get all my shit together.
+[55:57.62]How am I supposed to put myself back together like this?
+[56:02.38]Okay, I have every limb, but I don't have my torso I'm just like a starfish, but of a person I
+[56:12.47]Can I not get back together again?
+[56:13.83]Shit.
+[56:16.09]Here we go.
+[56:24.28]She just said, let's head back.
+[56:25.48]I'm not sure if I should believe her or not.
+[56:35.78]I don't think we're supposed to do anything in this room.
+[56:37.28]No, we're not.
+[56:41.11]Or are we?
+[56:43.93]I don't... I have no idea.
+[56:45.20]Now it wants me to go back this way.
+[56:47.08]Okay.
+[56:47.46]I guess we are going back.
+[56:51.30]Sure.
+[56:51.56]Alright.
+[56:54.34]No.
+[56:54.92]It wants me to go back.
+[56:55.92]There was nothing on the wall.
+[56:57.97]Everybody was yelling at me for no reason.
+[57:04.67]Okay.
+[57:07.73]Do I need her too?
+[57:11.60]Yes.
+[57:12.12]Let's do the Resident Evil 5 thing.
+[57:18.51]Come on.
+[57:21.65]Let's go.
+[57:22.35]Dude, that's a sword pig.
+[57:28.55]Here comes like a boss apparently.
+[57:29.83]Oh no, it's blocked by demons.
+[57:46.60]Demon seals.
+[57:47.72]Demon seals are generated by demonic energy growing over eggs to trap victims.
+[57:52.75]So it's just doom.
+[57:53.85]I have to kill all the enemies.
+[57:56.33]And we're gonna play more soundtrack.
+[57:58.22]Oh god.
+[58:00.74]Okay.
+[58:03.92]Destruction.
+[58:06.12]Destroy the environment.
+[58:07.28]Okay.
+[58:07.90]Okay, that could do- I could destroy that.
+[58:15.37]What about this tree and this bed?
+[58:20.63]Nope.
+[58:21.45]That was just a bed.
+[58:22.77]That was in fact just a bed.
+[58:24.53]No big deal.
+[58:29.38]Unfortunately.
+[58:31.10]Give me my hand back.
+[58:37.19]There's a hole in the wall over there.
+[58:38.29]Alright, we're not gonna next until we see the sword pick.
+[58:42.85]Once we see the sword pick, then I will move on.
+[58:55.11]So what, pig?
+[58:57.15]No, that's an armadillo.
+[58:58.13]Oh well.
+[59:01.39]What is this?
+[59:02.75]Wombs.
+[59:03.25]Demons sometimes arrive into the world through wombs.
+[59:06.15]Destroy the womb to cut off their link to the demon plant.
+[59:11.19]What?
+[59:12.83]The fuck are you talking about?
+[59:16.27]Gotta go destroy the womb.
+[59:22.68]Where's the demon womb?
+[59:32.34]I've had enough of that as I can take.
+[59:35.55]If I'm going to be real.
+[59:43.77]Thank you, somebody said.
+[59:45.63]You know, this just reminds me.
+[59:57.22]Games like this always remind me.
+[59:59.42]Video games are hard to make.
+[60:01.60]You ever think about that?
+[60:03.50]Video games are really fucking hard to make.
+[60:05.72]Even this is an astonishing achievement.
+[60:10.16]Think about the amount of skill that it takes to make this game.
+[60:15.14]This is a real achievement.
+[60:17.70]Like the programming, like the design, like making it run, making it open, the code.
+[60:24.27]This is a very, very deep, long process, and it's fucking hard to do.
+[60:32.17]Video games are fucking hard to make?
+[60:34.33]I thought that was my leg.
+[60:40.61]Whose legs are those?
+[60:41.57]What?
+[60:45.17]Maybe destroy the womb.
+[60:46.33]You know, that's probably a good idea.
+[60:49.58]I guess we have to destroy the womb.
+[60:52.40]Let me pick up, let me collect some stuff first.
+[60:54.16]Hold on.
+[60:58.00]Kill the womb.
+[61:04.51]Okay.
+[61:11.68]Look, this is an achievement, okay?
+[61:18.64]In video game history.
+[61:23.10]What other game can you roll around as a head?
+[61:26.22]Holy shit, that was a framerate.
+[61:35.82]Oh, there it is.
+[61:41.84]What?
+[61:43.12]Kill it!
+[61:44.24]God, I have fucking... I'm using one hand... God damn it.
+[61:50.12]There's too many people.
+[61:50.92]I gotta regenerate.
+[61:52.62]Give my leg back.
+[61:57.59]Give me the arm back.
+[61:58.57]Thank you.
+[62:04.42]Oh my god.
+[62:06.58]This achievement... Okay, this might be not... God fucking dammit.
+[62:11.66]This might not be the greatest achievement, considering this game runs at like 19 frames a second.
+[62:17.34]But it's an achievement.
+[62:22.20]Oh my god, this is a fucking mess.
+[62:27.06]Oh god.
+[62:33.92]Did somebody cut my head off?
+[62:35.40]Oh, come on.
+[62:37.09]Give me a break.
+[62:37.85]Don't eat my head, please.
+[62:40.91]Can I, like, stealth over here?
+[62:42.37]Oh, fuck.
+[62:44.17]Don't do it.
+[62:46.09]Don't do it.
+[62:48.44]Don't do it.
+[62:49.24]Give me my body.
+[62:49.88]I'm gonna get fucking overrun by these stupid little dogs.
+[63:02.86]Dammit.
+[63:08.36]I can't even fucking tell what's going on.
+[63:10.50]Get rid of the last little, like, puss ball.
+[63:14.37]Holy shit.
+[63:17.55]What the- Ah.
+[63:27.28]Cool, interesting concept, I will say.
+[63:30.50]You had me at the frog prince, like I said.
+[63:41.90]Oh my god, delete the foliage.
+[63:45.71]You don't need that much foliage.
+[63:47.59]There doesn't need to be a thousand leaves.
+[63:50.79]The reason why this game runs at like eight frames a second is because there's too many trees and bushes and fucking gardens.
+[63:58.17]Oh, fuck me.
+[64:02.11]Get out of here.
+[64:11.43]There's nothing else to destroy!
+[64:14.67]Die!
+[64:15.17]Come on, fucking die!
+[64:26.23]Die already!
+[64:26.93]Alright, got it.
+[64:36.68]Please end this suffering.
+[64:40.74]I don't think I want to because I know what's next.
+[64:43.46]See, you guys don't know what's next.
+[64:44.76]I do.
+[64:46.50]I know what the next game is.
+[64:48.62]I'm looking at it right now and I don't want to play it.
+[64:51.40]I don't know why I bought it.
+[64:53.10]For some reason, I purchased this game.
+[64:56.29]And I said to myself, why did I buy that?
+[64:58.11]And it's sitting right there just staring at me, just taunting me.
+[65:01.51]Telling me it's time to play it.
+[65:04.55]It's not Demon's Souls.
+[65:06.25]No, Demon's Souls is going to be a game we play and try to beat it.
+[65:17.14]Alright, fine.
+[65:18.56]Alright, you know what?
+[65:20.04]The gimmick is over.
+[65:20.94]It was funny how it lasted.
+[65:21.98]Let's see if I can get swallowed.
+[65:27.78]Come on, eat me.
+[65:28.38]Eat my head.
+[65:28.78]Eat it.
+[65:32.02]Just fucking stuffed his head down your throat, please.
+[65:34.76]So we can see the ending death animation.
+[65:38.92]Dude, can you die in this game?
+[65:42.14]Oh.
+[65:43.65]Wait a minute, the game's called Never Dead.
+[65:45.51]I don't think you can die in Never Dead.
+[65:51.54]You can't die.
+[65:52.56]There's no death.
+[65:53.22]There's no escape.
+[65:55.16]All I can do is just stare at the ceiling in my bed.
+[65:57.18]I love how she's over there doing all this work.
+[66:04.65]I just can't die.
+[66:05.59]It doesn't mess up my hair!
+[66:19.11]Okay.
+[66:22.37]I have no reason to be afraid.
+[66:23.77]I just never die.
+[66:26.47]There's no escape.
+[66:31.22]I can't leave.
+[66:32.70]I can't lose.
+[66:33.28]There's no losing.
+[66:36.02]God damn it.
+[66:40.96]Alright.
+[66:52.19]I can't believe I'm about to put this game in.
+[66:55.75]Are you guys ready for this game?
+[66:58.21]No one's gonna like this.
+[67:00.12]In fact, I'm gonna block the screen.
+[67:04.00]Because this game is so bad.
+[67:07.68]And it was a notoriously mediocre, shitty game.
+[67:12.36]And here it comes.
+[67:19.15]It can't be worse than the last one.
+[67:20.71]Are you sure about that?
+[67:23.01]Don't say that just yet.
+[67:31.04]I can make sure that's off.
+[67:31.80]It is off.
+[67:35.78]Yeah, this title supports an autosave system.
+[67:40.01]Here you go.
+[67:42.11]I hope you guys are ready for this.
+[67:43.31]It's Lair.
+[67:45.83]Fucking Lair.
+[67:48.48]We'll be in here for five minutes.
+[67:51.16]Aw, cool, Super Mario!
+[67:54.12]Like fat Santa Super Mario Brothers.
+[68:01.44]THX.
+[68:04.12]Time to leave the stream, because we're gonna play Lair.
+[68:07.26]Nice.
+[68:11.98]Just like in the movie theater.
+[68:17.49]At least it's got good sound.
+[68:18.93]That's true.
+[68:22.58]Studio 5 presents a Factor 5 studio video game.
+[68:31.24]Are they still making games?
+[68:38.00]This is your fault, chat.
+[68:39.84]Lair is genuinely good.
+[68:42.39]I've never played it.
+[68:50.91]Here we go.
+[68:51.47]We're not going to waste any time.
+[68:52.53]We're just going to go.
+[68:55.77]Looks like a Unity tutorial game.
+[69:00.39]This one's empty.
+[69:02.21]Just like myself.
+[69:05.68]Select chapter.
+[69:06.52]The prologue.
+[69:08.98]Well, that's the only one we can do.
+[69:12.48]I'm ready for the lair.
+[69:14.98]It's a dragon-riding, fire-breathing video game.
+[69:27.85]Dark souls, but faster Oh God somebody gave 50 I've got to pay attention Like 10 minutes ago somebody get 50 fucking dollars pay attention Jeremy Jesus Christ Chubby's chubbiest thread.
+[69:47.62]Thank you for 50 bucks.
+[69:48.34]Oh
+[69:49.62]Buy yourself something nice or don't.
+[69:51.92]It's your money now.
+[69:52.84]The fuck do I care?
+[69:54.53]Well, thank you for the $50, dude.
+[69:59.71]Very much appreciated.
+[70:02.47]I hope this $50 was worth Lair.
+[70:05.83]I got a fucking draw full of games, by the way.
+[70:07.57]We are not stopping here.
+[70:10.03]You understand that, guys?
+[70:11.55]I got a fucking draw of games.
+[70:14.36]Full of them.
+[70:15.76]Ranging from decent ones to terrible ones.
+[70:18.76]That's what we're doing.
+[70:20.18]And fucking that was the bat symbol.
+[70:22.26]Tell me that wasn't.
+[70:23.26]Thank you so much, dude.
+[70:38.01]What an interesting sto... Do you have a better accent in that draw?
+[70:43.61]You're making fun of my accent?
+[70:46.73]I've lost my accent entirely.
+[70:49.65]I have an alphabet as well.
+[70:51.35]Hmm.
+[70:51.89]Okay.
+[70:52.01]We're done.
+[70:52.61]We're done with this fucking game.
+[71:07.42]God dammit, what a stu- No, no, no, no, that was... Wait, maybe it'll load again.
+[71:15.13]I just, what if I put the disc back in?
+[71:16.49]Will it, like, catch up to itself and come back?
+[71:21.57]We're good!
+[71:21.87]Everyone calm down!
+[71:34.67]I think I might have fucked it up.
+[71:35.57]Definitely broke the cutscene.
+[71:36.69]That makes sense.
+[71:37.81]Take a look at the fucking airline companies.
+[72:01.29]JetBlue, American Airlines, United, they own, they own the skies.
+[72:05.07]And they own the land.
+[72:05.77]Okay, here we go.
+[72:12.87]I can't, come on, I can't jump off the cliff.
+[72:15.20]By the way, this is stupid.
+[72:28.14]Alright, never mind.
+[72:28.82]Alright, we're good.
+[72:29.68]Got on the... You have to do a backflip, apparently.
+[72:33.92]Okay.
+[72:34.66]Let's go.
+[72:36.86]Tilt the le... Tilt the controller?
+[72:43.77]Huh?
+[72:45.15]Huh?
+[72:47.97]I... Okay, that's not working.
+[72:49.88]I don't have that.
+[72:53.76]X is flap.
+[72:54.72]We're gonna have to go left and... We're just gonna control it.
+[72:58.48]That's break.
+[73:00.02]Pitch up to do a 180.
+[73:00.98]I don't have... How do I do a 180 without the pitch up?
+[73:11.27]I don't have a DualShock 3 plugged in.
+[73:17.23]I don't think I can even complete the tutorial.
+[73:24.67]Forced motion controls.
+[73:26.75]Can I turn them off in the options?
+[73:36.64]Analog flight control off.
+[73:40.82]On.
+[73:43.48]There we go.
+[73:46.77]Better.
+[73:51.95]Still wants me to fucking flick the controller in the air.
+[73:54.33]There's got to be another way to pitch up, right?
+[74:03.11]How did I do that?
+[74:03.71]I don't know.
+[74:04.82]I have no idea.
+[74:07.26]Fly through the rings.
+[74:08.10]What did I do?
+[74:10.58]Hold the down button to activate Rage Vision?
+[74:17.58]Okay.
+[74:20.61]Superman 64 all over again.
+[74:24.27]First try.
+[74:25.03]We'll get it.
+[74:25.45]First fucking try.
+[74:26.19]Tutorial first try.
+[74:27.01]What do you think about that, guys?
+[74:27.93]Okay.
+[74:36.47]Again, I don't even need to hear another voice of fucking line of dialogue to know.
+[74:41.72]That's Robin Atkin Downs again.
+[74:44.50]That's him again.
+[74:45.18]The main character is Robin Atkin Downs.
+[74:47.14]He's in every PlayStation 3 game.
+[74:49.06]He's the Nolan North of PlayStation 3.
+[74:54.95]Don't even need to hear another fucking sound.
+[74:56.41]I know it's him.
+[75:06.14]Let's see.
+[75:15.37]Let's see.
+[75:16.53]Mm-hmm.
+[75:20.33]We've heard him in like four games.
+[75:23.64]So far.
+[75:26.96]Return to the Darklands.
+[75:28.42]Darklands training.
+[75:29.40]Any time for additional training.
+[75:30.58]Okay.
+[75:30.72]Okay.
+[75:34.08]really hard to hit these rings.
+[75:36.94]I told you it was him.
+[75:39.82]He needed to say one fucking word and I knew.
+[75:55.06]I want a new game.
+[75:55.72]This one sucks.
+[75:56.40]We haven't even gone through the fucking opening cutscene, man.
+[75:59.68]Give me at least a minute.
+[76:00.50]Fucking steam machines.
+[76:02.04]That's already just like a joke.
+[76:04.38]Stop snoring!
+[76:05.20]It's him.
+[76:05.80]It's actually him.
+[76:26.90]I'm so happy that's actually him.
+[76:33.39]Oh shit, we probably should have started selling steam machines.
+[76:38.53]Somebody go wake up Gabe Head from his ten year slumber.
+[76:43.37]You know, I think... I think that Gabe Newell has been cryogenically frozen.
+[76:50.91]I do.
+[76:52.62]What?
+[76:55.56]Gabe Newell was cryogenically frozen ten years ago.
+[76:58.46]And there is a Gabe Newell impersonator.
+[77:00.74]That's like pretending to be him at random places.
+[77:08.81]Think about it.
+[77:09.35]Think about that.
+[77:09.95]By the way, again, main character is the same character we've played in every game.
+[77:31.21]And by the way, can I ask a question?
+[77:35.87]What's the deal?
+[77:37.09]I don't know what it is.
+[77:40.57]Why does everybody have a whistle?
+[77:44.86]Everybody's got like a buzz cut.
+[77:47.08]Why?
+[77:48.92]Every single main character in every video game has a buzz cut.
+[77:53.90]Is that to save time?
+[77:54.88]What are we doing here?
+[78:03.21]We have to destroy the boats.
+[78:09.79]Can I get something besides a cutscene?
+[78:13.05]Hair is hard to code.
+[78:15.53]So just give him like a big thick like pompadour and just make it just plastic and keep it stay out of his head.
+[78:24.07]I'm gonna pretend I did that.
+[78:25.03]Okay.
+[78:33.71]Got it.
+[78:37.49]Hey, this is a George Lucas game.
+[78:38.82]Listen to the music.
+[78:41.04]Okay.
+[78:44.00]Take out those catapults while I will.
+[78:48.10]This was in an episode of Game of Thrones.
+[78:52.62]It's actually doing the same music.
+[78:54.28]Okay.
+[79:13.70]I did not do that that was just terrible I think my guy might be a little bit like a little bit on the fucking ill side Dracarys
+[79:28.86]Oh my god.
+[79:31.00]What do you want me to do here?
+[79:33.68]Kill the boats.
+[79:35.60]What do you think I'm trying to do?
+[79:36.58]Hit the brakes.
+[79:39.46]Breathe the fire.
+[79:40.46]Destroy them.
+[79:46.72]Okay.
+[79:48.10]I'll do it.
+[79:50.04]Sure.
+[79:50.22]Give me a sec.
+[79:58.61]We're gonna combine a couple of things here.
+[80:00.83]Does this exist?
+[80:01.45]It does.
+[80:04.56]Turn this down a little.
+[80:08.78]Somebody said play Flight of the Bumblebee.
+[80:12.60]This is Flight of the Bumblebee metal version.
+[80:15.76]I can't even hear it.
+[80:17.26]Is it funny?
+[80:17.72]Is this funny?
+[80:35.37]No?
+[80:38.59]I can't hear it.
+[80:40.91]Turn it up.
+[80:42.47]It's too quiet.
+[80:44.28]How about that?
+[80:45.10]Kinda.
+[80:45.78]What does it sound like?
+[80:49.16]I'm gonna target the boats.
+[81:06.42]Is this a boat?
+[81:07.68]Got it.
+[81:08.16]That's a bit of a rage boat.
+[81:10.69]Apparently not, I guess.
+[81:13.07]That was fun.
+[81:14.25]Okay.
+[81:14.55]That was fun.
+[81:34.40]This music is godlike.
+[81:35.66]So what, what was it, was it a guy just like, playing the fucking, was it just like, playing the guitar?
+[81:42.85]That was so shitty, I'm convinced that's a real game soundtrack.
+[81:45.59]Alright, what are you gonna do?
+[82:01.88]Oh, wow, it's like fighting mid-air battles, huh?
+[82:10.14]I guess.
+[82:12.55]Oh, this is kind of fun.
+[82:14.75]Fire versus ice.
+[82:20.09]This is so loud.
+[82:23.27]Whoops.
+[82:25.15]Play it again?
+[82:25.75]No, no.
+[82:26.53]I don't even know what that sounds like, so why would I play it again?
+[82:35.98]You know, I could see... This was a PlayStation 3 launch title, wasn't it, right?
+[82:42.95]Pretty good job.
+[82:44.17]Good job for, like, a PlayStation 3 launch title.
+[82:47.65]I would say so.
+[82:52.17]Like, look, we can all, like, make fun of, like, oh, the music, and, like, it's kind of dumb.
+[82:56.53]But, like, come on.
+[82:57.17]Like, this took a lot of effort to get this as a launch title.
+[83:01.36]And the graphics are actually fairly good for the time period, you know what I mean?
+[83:11.57]I mean, that isn't an excuse for how bad the game is.
+[83:15.37]The game isn't even that bad.
+[83:18.67]Looks like PS2, that's why.
+[83:20.01]I wish I could, like, lock onto someone.
+[83:30.74]No, they aren't.
+[83:33.36]Why does it keep turning my body?
+[83:34.96]Like, just hit the brakes and just spray fire at people.
+[83:46.58]I got one.
+[83:48.26]I got one.
+[83:52.62]We're good.
+[83:56.55]Flight of the Bumblebee.
+[83:58.59]Alright, we got a general.
+[84:02.61]First boss.
+[84:04.71]Next?
+[84:06.33]Next?
+[84:08.58]We got a lot to go through.
+[84:09.52]This is a 2007 console game.
+[84:13.88]Come on.
+[84:17.10]That voice is familiar because he's in every single... What's going on here?
+[84:22.26]Steer the dragon.
+[84:24.36]Well, I don't have movement control, so why would that happen?
+[84:33.03]Although, I'm going to be fair.
+[84:35.85]We're going to fight the giant eagle.
+[84:38.45]I'm going to be fair.
+[84:40.19]Like Starfox...
+[84:44.71]Star Fox, like, came out in, like, 1994, right?
+[84:51.11]Ow.
+[84:54.44]I'm, like, trying so desperately.
+[84:57.22]There are no tilt controls, so I don't know what it's trying to get me to do here.
+[85:01.94]I have no idea.
+[85:04.32]I don't know what the button combination is to do that.
+[85:08.22]What in the name of fucking God is happening?
+[85:14.17]Okay.
+[85:17.24]I have to kill the first tutorial boss.
+[85:19.58]Have to.
+[85:24.22]To strike.
+[85:25.08]It must be like to... Okay, it must be like to stab him.
+[85:26.88]Did I get it?
+[85:39.03]I...
+[85:40.91]It only has motion controls.
+[85:42.85]That's the only thing it says.
+[85:45.05]Hit left and right.
+[85:45.87]Move your left and right axis.
+[85:51.99]Alright.
+[85:55.22]I should play Infamous?
+[85:56.00]I actually, you know, funny you say that.
+[85:58.78]Funny you say Infamous.
+[85:59.88]Alright, strike him.
+[86:04.12]Okay, here comes the strike.
+[86:06.50]Strike.
+[86:06.74]Got it.
+[86:11.06]No, it keeps going to this, and there's no way for me to tell what to do with this.
+[86:17.95]I'm just standing next to him.
+[86:22.51]We just changed places.
+[86:31.64]Move into him?
+[86:32.28]What do you think I'm trying to do?
+[86:44.60]The CD's out.
+[86:46.32]The CD's actually, the disc is out.
+[86:49.35]I can't get, I gotta play it.
+[86:51.09]The CD is out of the game.
+[86:53.87]There's no CD in the PlayStation 3.
+[86:56.13]It's out.
+[87:00.51]Burn it.
+[87:01.80]He's on fire.
+[87:07.22]I can't do this.
+[87:08.60]Why is it still playing?
+[87:12.59]break it while playing the game?
+[87:18.47]What happened?
+[87:18.91]Uh-oh.
+[87:30.90]Oh.
+[87:34.06]Okay.
+[87:44.05]That didn't work.
+[87:44.67]That's not working out so well for me at the moment.
+[87:46.79]Hold on.
+[87:50.02]I got a fucking game for you.
+[87:51.80]We're going to put it in right now and see what happens.
+[87:55.48]I'm going to pee.
+[87:56.04]We're going to put this in.
+[87:56.64]I'm going to pee.
+[88:00.20]Hold on a second.
+[88:01.44]My fucking, like, my leftover noodles are almost done in the microwave.
+[88:05.36]There it is.
+[88:05.88]Okay, what do you think happens?
+[88:10.57]Is it going to be like Monster Hunter?
+[88:13.79]uh remember monster hunter 3 when you put a disc into the game you put a disc into the console when it like read the disc data and gave you like a fucking monster like a fake monster I wonder what happens when we put in ladies and gentlemen john woo stranglehold is the next game we're gonna be I got a feeling we're gonna be on this one for like at least an hour
+[88:47.83]That's right.
+[88:50.55]Well, hold on.
+[88:51.59]Let me be right back.
+[89:13.35]My PlayStation 3 will not turn off.
+[89:16.31]I have to rip the cord out of the back.
+[89:19.22]Alright, you're gonna have to give me like a few minutes for this one.

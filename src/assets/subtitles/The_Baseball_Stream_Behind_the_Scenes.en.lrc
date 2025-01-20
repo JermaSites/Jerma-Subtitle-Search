@@ -1,0 +1,2464 @@
+[re:Lavf60.16.100]
+[ve:60.16.100]
+
+[00:01.35]Hello.
+[00:01.59]How you doing?
+[00:04.77]Welcome back.
+[00:10.17]It's been about a week.
+[00:11.71]It's been almost exactly one full week since the stream was last live.
+[00:18.09]There's a lot to talk about.
+[00:19.35]There's quite a few things to discuss.
+[00:23.31]Hope you had a good time on that show.
+[00:26.91]It was a ton of fun to do.
+[00:31.26]And before we get started, just right off the bat, every time there's a show that happens, every time, oh, I'm going to do this big thing, whatever, and get a bunch of people together and do a bunch of stuff.
+[00:42.73]I almost get that, like, it's over.
+[00:44.93]No, it can't be, right?
+[00:46.25]Like, we're going to do another, we got to do like five more games.
+[00:49.66]It's just, right?
+[00:50.64]It's just like, oh, that was awesome.
+[00:52.24]I had so much fun.
+[00:53.10]Oh, well.
+[00:54.83]On to the next one, right?
+[00:57.39]So I'm in one of those places right now where it's like, wow, that was so much fucking fun.
+[01:02.99]God, all right.
+[01:03.69]Well, that was cool.
+[01:04.45]We'll do another one.
+[01:05.79]We'll do another one at some point.
+[01:12.22]But yeah, no, it was a ton of fun.
+[01:13.88]I had a blast.
+[01:15.02]Hopefully everybody else did too.
+[01:18.36]We had some technical problems in the middle of the stream.
+[01:21.62]Which, weirdly enough, when we changed Twitch ingest servers, it fixed it.
+[01:28.89]Something about the encoder, I have no idea.
+[01:31.45]We'll have to figure that out.
+[01:35.41]And speaking of internet problems and streaming to Twitch right now, apparently I'm dropping more frames.
+[01:41.47]Why?
+[01:41.75]I don't know.
+[01:47.06]I wish I could tell you.
+[01:53.73]But hey, we've got a really important first question.
+[01:56.19]Do you still have the mustache?
+[01:59.69]Well, you're going to have to find out.
+[02:06.55]You'll have to find out very soon.
+[02:12.19]But speaking of ingest servers, do I need to change now before I really get started?
+[02:16.35]Because it's not looking great.
+[02:22.15]It's not looking great right now.
+[02:27.55]I must stashed you a question.
+[02:32.15]As a non-American, I don't know baseball, so I was kind of lost.
+[02:35.03]Well, I kind of figured that was going to happen.
+[02:46.31]I might just restart the stream really quickly and change server.
+[02:49.88]Why do I have to keep doing this?
+[02:56.82]I feel like I'm playing whack-a-mole with Twitch NGS servers lately.
+[03:01.57]What is going on here?
+[03:02.39]That's what it feels like.
+[03:13.42]I'll give it another five seconds.
+[03:15.13]Five minutes.
+[03:17.80]He's leaving already.
+[03:18.88]No, I have to go and play... I have to go play Hopscotch to four or five different servers until I don't drop frames anymore.
+[03:28.68]What is going on, Twitch?
+[03:30.86]What is happening here?
+[03:33.81]This is a new problem over the last, like, four to five months.
+[03:39.21]I don't get it.
+[03:47.70]But anyways, yeah, it was a fantastic time.
+[03:50.78]Forget about the... I'm so glad that the first three or four innings were fine.
+[03:55.01]And then we had that... You should have seen what was going on up in the production truck.
+[04:02.73]Community Jake was assembling a new computer.
+[04:07.37]He was literally making a new computer.
+[04:09.77]He was building a computer up there.
+[04:12.19]Because he was like, is it the video processor?
+[04:14.11]Because we had three or four straight innings.
+[04:15.53]It was fine.
+[04:18.48]The stream was perfect.
+[04:19.48]No problems at all.
+[04:20.54]And then all of a sudden, it was just like, what's going on?
+[04:23.46]He built a whole computer up there.
+[04:25.04]And apparently, he switched ingest servers and he fixed it.
+[04:30.89]But I mean, I'm just happy it was only for like an inning and a half and not the whole thing.
+[04:38.15]We have something really cool here.
+[04:40.54]So as I'm going to just kind of talk about the day, talk about kind of leading up to it and everything.
+[04:44.50]I'll answer pretty much any questions you guys have.
+[04:48.22]And we'll go from here.
+[04:48.88]But there are about 300 photos that are going to be in a slideshow behind the scenes.
+[04:56.18]uh resident mod leather jacket took these photos is really cool and uh all right I'm gonna answer the burning question I'll answer it's time to answer do you still have the mustache what do you think place your bets do you think it's still there is it still there what do you think
+[05:27.21]Let's take a vote.
+[05:30.39]Let's take a vote.
+[05:30.89]Yeah, take a vote.
+[05:32.32]Run a poll here.
+[05:35.80]Do I still... I'm curious how many people think no or yes.
+[05:40.96]Let us gamble.
+[05:41.90]Well, not gamble, but just like, do you think it's still there?
+[05:44.38]Alright, I'll run a poll.
+[05:48.30]Okay, here we go.
+[05:50.90]Do you think it's still... Okay, yeah, you got it.
+[05:54.42]Do you think I still have it?
+[06:02.47]Were you wearing ass paddings?
+[06:04.37]No, that's my real ass.
+[06:07.83]Why would I?
+[06:08.23]Okay.
+[06:09.73]Why would I put in ass paddings?
+[06:14.11]Why would I do that?
+[06:14.93]That would be so strange.
+[06:16.19]You know, being in the umpire gear in the first place, having like the turtle armor on underneath is already kind of enough.
+[06:25.44]I had these huge leg pads that I was supposed to wear and I was like, no, no thanks.
+[06:30.76]No, thank you.
+[06:37.29]It was just too bulky.
+[06:39.13]I did have a cup on, though.
+[06:40.71]So all the people that were saying, holy shit, dude, you are so lucky.
+[06:43.49]What if you took one right into the balls?
+[06:45.73]I was wearing a cup.
+[06:47.21]There's a clip circulating around of me whacking myself with a bat in the balls.
+[06:53.16]Yeah, I'm fine.
+[06:54.22]I had a cup on.
+[06:55.30]I don't recommend you do that at home.
+[06:56.62]Don't try that at home, obviously.
+[07:01.58]no it's that you didn't why would I that's one thing I'm going to protect okay all what I told everybody that was in production I said make sure my face is good and make sure my balls are good well I didn't say that to them but like I was thinking that like I don't care about anything else I could take a ball to the I could take a ball to like the arm I could take a ball to the to the knee to the chest to the back I don't care
+[07:29.09]The face, we protect that.
+[07:31.57]And the balls, we protect those too, right?
+[07:33.96]Like, I protect those.
+[07:35.14]That's it.
+[07:35.70]Balls and face, that's all I care about.
+[07:38.02]That's it.
+[07:41.20]And I had them protected.
+[07:45.60]Anyways, alright, it's time to reveal.
+[07:48.50]Like, this is a big deal or not, but a lot of you think I still have it.
+[07:51.71]And you are absolutely incorrect.
+[07:53.97]It's still there.
+[07:55.85]It's not as dark, I guess.
+[08:02.63]It's still there!
+[08:03.39]What if that was pre-recorded?
+[08:11.16]Could've been.
+[08:11.46]Alright, I'll play the real video now.
+[08:15.88]It's still there.
+[08:19.84]So, um... There's gonna be kind of a little bit of a reveal here.
+[08:24.62]It's gonna be a little bit of a reveal.
+[08:28.36]Yes, I had a mustache.
+[08:30.35]during this show because I wanted one because that would be fun and interesting and funny.
+[08:33.82]Oh, he's got a big mustache.
+[08:35.10]He's the mustache guy.
+[08:39.08]It was filled in.
+[08:41.02]It was filled in.
+[08:42.42]The makeup artist filled it in, so it was darker.
+[08:44.91]I can't actually grow a real mustache like that.
+[08:47.21]This is what it looks like.
+[08:47.99]It's filled in.
+[08:51.81]Should I keep it?
+[08:52.55]I don't think I can keep it.
+[08:53.85]I really don't think so.
+[09:02.44]Don't keep it.
+[09:03.42]But yeah, so I'm just going to let this slideshow play and we'll talk.
+[09:07.06]If I see something interesting to bring up, I think it'd be fun to talk about.
+[09:09.54]But I can't stress this enough.
+[09:14.52]So anytime that a show like this happens where you're bringing in a bunch of people that don't understand like Twitch and streaming culture.
+[09:24.39]So a lot of them did, but a lot of them didn't.
+[09:26.65]And trying to explain to people like, hey, we're doing this live thing.
+[09:29.51]This is what's going to happen.
+[09:30.33]This is what we're doing.
+[09:31.19]And from top to bottom of the order here, every performer, every player, all the broadcasters in the broadcast booth.
+[09:44.30]Oh, my God, they fucking killed it.
+[09:48.75]It didn't matter what position you were in.
+[09:50.61]They were un-fucking-believable.
+[09:53.19]They were so funny and they were so good.
+[09:58.09]I mean, yeah, there was obviously the weeks of preparation and then we spent a few days talking to everybody and there was obviously a lot of direction, right?
+[10:06.91]But still, that was a lot of fun.
+[10:11.33]That was absolutely a huge blast, and I'm so happy that everybody had a great time.
+[10:14.85]And everybody did have a great time.
+[10:16.57]So I stamp it as that was a success.
+[10:19.73]I mean, would I have liked to have had the stream not turn off three or four times?
+[10:22.77]Absolutely.
+[10:23.25]And that's very frustrating.
+[10:24.69]But you have to take that out of the equation when everybody had so much fun.
+[10:33.34]that's like I had the time of my life like calling balls and strikes and just run around like so it at the end of the day I think it was a monumental success and I'm incredibly proud and happy of the entire team and every player all the all the coaches the two coaches they weren't baseball coaches those were actors they would we we actually told uh actually why am I not listening this has to play all right start playing so we told the coaches uh hey you're gonna be a baseball coach
+[11:02.33]And they're like, oh, that's really, really cool.
+[11:05.90]That's awesome.
+[11:09.60]I know a little bit about baseball, but not really that much about baseball.
+[11:14.22]Were they real teams?
+[11:15.05]Yes, those are real players.
+[11:17.53]Ranging from college players to some of them saw some professional baseballs.
+[11:24.07]I mean, those are real players.
+[11:25.13]Those weren't actors.
+[11:29.66]It's going too fast.
+[11:31.30]Yeah, look, hey, I'll pause.
+[11:32.70]I'll pause every so often.
+[11:33.60]Here you go.
+[11:35.75]I can hear the mustache move.
+[11:40.63]And yeah, that fans lander with the streaker.
+[11:45.26]I thought that was really funny.
+[11:46.82]I thought that was really funny.
+[11:47.60]And Fansly really came through hard.
+[11:50.79]Fansly was a huge supporter of this stream.
+[11:52.75]And I have to, I got to make it clear to everybody.
+[11:57.09]Stuff like this can't happen without support like that.
+[12:00.18]It just can't.
+[12:01.54]uh the price tags on some of these shows I don't think I don't really need to talk about them but you know they're they're astronomical sometimes so um I'm grateful and happy that sponsors actually wanted to come through and do some of this stuff um because it it's it's not that it's hard to sell a show like this to sponsors but at the end of the day it's like
+[12:24.36]Oh, yeah, we're going to do the circus and magicians baseball show where I'm like an umpire.
+[12:28.60]I don't know umpiring.
+[12:29.56]I don't know anything about that.
+[12:30.66]I mean, I watched baseball when I was 17.
+[12:34.38]It's like, oh.
+[12:37.17]How much money is this show?
+[12:38.33]I get it.
+[12:39.55]I do.
+[12:40.41]But at the end of the day, we get support from the places we get them.
+[12:43.33]And it's it was awesome.
+[12:45.95]I thought I thought it flowed really well.
+[12:54.68]Yeah, and everybody at Carshield Field in St.
+[12:58.08]Louis, they were fantastic.
+[13:00.10]They were so much fun to work with.
+[13:01.26]They were so awesome.
+[13:01.96]Like I said, from top to bottom, doesn't matter.
+[13:07.12]Even the food, the delivery and stuff, everything was just on point.
+[13:10.89]Everything was perfect.
+[13:12.13]Doesn't matter if you were a principal player or somebody on production or somebody that was working behind the scenes of behind the scenes.
+[13:20.15]Everybody.
+[13:20.51]Doesn't matter who it was.
+[13:22.52]Why are you so red?
+[13:23.24]Oh, because I have the action movie filter on from like two weeks ago.
+[13:32.01]Shave or I'm going to unsub.
+[13:35.31]Why don't you relax?
+[13:37.91]Look, you, you could, how about you, you can unsub if you feel like it.
+[13:40.59]You don't have to, because I have a fucking gross mustache.
+[13:44.52]Oh, they were just making fucking deals.
+[13:45.90]You know what I mean?
+[13:46.54]There he is, just making deals on the phone.
+[13:52.22]No, I was actually talking to Holly.
+[13:58.74]I love the mustache.
+[14:00.12]It does look good.
+[14:04.89]There you go.
+[14:05.29]Wait, wait, let's go back, back, back, back, back.
+[14:07.45]So everybody.
+[14:10.29]Everybody that was on the performance group.
+[14:14.07]this is a bunch of performers so people didn't realize that we it was not just baseball players it was baseball players and it was like real circus performers blended in a lot of these guys did not see a single uh a single time in the field they did not see a single ball there were I want to say we had 20
+[14:41.47]five baseball players and like 12 performers.
+[14:49.31]They were 12 like circus type performers, 25 baseball players, five other actors.
+[14:58.51]So yeah, there was a lot of moving parts here.
+[15:02.27]So anytime you saw something really interesting like circus wise or some magic tricks or whatever, that was not a baseball player.
+[15:13.12]And it flowed really, really well, like I said.
+[15:16.92]Who were the commentators?
+[15:17.66]They were the best part of the whole show.
+[15:19.34]Yeah, they were unbelievable.
+[15:21.36]And that, let me just go, they did all that based on, so I want to say probably like an hour or two.
+[15:28.75]An hour or two before the show is when I sat down with those two and really was like, this is kind of what I'm looking for.
+[15:36.24]This is kind of what the world that is here.
+[15:38.70]This is the kind of universe.
+[15:39.88]And here's what we're going to do.
+[15:40.88]Here's what we're going to do.
+[15:41.50]This is what you guys should talk about.
+[15:42.58]This is what you shouldn't talk about.
+[15:44.34]They got maybe one hour of direction, two hours of direction.
+[15:48.60]And they carried that whole entire broadcast.
+[15:53.81]Were they confused?
+[15:55.15]No.
+[15:56.33]No, they were on point.
+[15:57.49]They were ready to go.
+[15:58.61]They knew everything to say.
+[16:02.43]Absolute kings.
+[16:03.23]Oh, yeah.
+[16:05.99]There was a lot of sexual innuendo.
+[16:09.63]Well, you understand that we had a streaker with a fansly integration.
+[16:19.03]By the way, I need to confirm something right now.
+[16:22.29]Very important, most important time, most important thing of the entire show.
+[16:26.94]You might have seen it on Twitter.
+[16:29.26]You might have seen it posted somewhere in your mail.
+[16:32.26]Can I confirm that that's true?
+[16:33.30]Paul Fondler has officially been unbanned.
+[16:39.47]They are officially not banned from the channel.
+[16:42.25]They can post freely.
+[16:47.05]Probably just going to get banned again, if I'm honest.
+[16:50.13]I mean, look, when you get the get out of jail free card in Monopoly, you can get out of jail free, but that doesn't mean you can't go back to jail.
+[16:59.58]It's not a get out of jail forever.
+[17:02.22]So you could just go right back.
+[17:11.07]Wait, we're getting people who-ing Ball Fondler?
+[17:17.31]We're getting people actually omega-low who-ing Ball Fondler.
+[17:21.68]I can't believe that.
+[17:23.76]I'm actually surprised.
+[17:24.74]Yeah, they were practicing juggling and stuff.
+[17:31.36]Did you see the fire breather?
+[17:34.83]The fire breathing was fucking insane.
+[17:45.94]Yeah, there was a lot of... And people were asking about who were the people in the audience.
+[17:52.24]So we didn't, obviously, right?
+[17:54.45]Very obviously, we didn't want people to know kind of immediately where we were.
+[17:59.71]For very obvious reasons, right?
+[18:01.83]It's just like, wait a minute.
+[18:04.20]I live right down the street from Carshield Field.
+[18:07.25]Let's go.
+[18:08.64]And we obviously it's we're doing a show and we didn't want somebody to like, you know, come on in and be like, yeah, let's sit down.
+[18:14.42]And they throw a fucking large soda onto the field and then they run.
+[18:18.95]We didn't obviously want didn't have that to happen.
+[18:20.71]We had security at the event.
+[18:21.73]There was you had private security there.
+[18:24.45]So, I mean, they were obviously handling anything that would come about.
+[18:27.70]But they were like just random, I guess, kind of friends and family members of whoever was there, whoever we kind of cleared to be there, I guess you'd say.
+[18:38.68]So that people wonder, like, who the fuck are these people in the audience?
+[18:41.46]Like, how did they get there?
+[18:42.40]Why are they here?
+[18:43.83]It's because they were like a private invite from one of the players or one of the performers or whatever.
+[18:49.71]They were like friends and family.
+[18:51.81]That's what I figured.
+[18:52.41]Yeah.
+[18:57.92]That was fun.
+[18:58.32]It was cool.
+[18:59.52]Doing an event like this with an actual live audience would need a lot more control of I guess the environment.
+[19:10.38]Not this community, Jake.
+[19:12.16]You'll see in a few minutes the amount of times that me and Jake
+[19:16.33]had this like, because I was down here and he was up here.
+[19:19.74]The amount of times that in between innings, we both like came running down to each other, like to this weird cage that we were both separated by.
+[19:27.20]It was just like, hey, so what's going on?
+[19:28.90]How are we doing up there?
+[19:29.60]How are we doing?
+[19:30.22]You need anything down here?
+[19:31.76]Yeah, yeah, no, I need more balls to be supplemented down here.
+[19:34.44]How's the video going in the truck?
+[19:36.58]Like we literally just came down to like the blockage and then like, and then turn around and run.
+[19:43.66]That happened to almost every single in-between inning.
+[19:48.13]Somebody said, I tried to get in, but I was denied.
+[19:50.56]Well, yeah, dude.
+[19:51.56]Like, what do you want me to say?
+[19:53.10]We can't just have anybody just come into the, just show up and run on the field.
+[20:00.81]We already had a streaker.
+[20:01.75]I don't need two.
+[20:06.96]There's the performers practicing again.
+[20:08.24]And some of my favorite shots of this whole thing were when it would just randomly cut to one of the performers just standing on a ball in the outfield.
+[20:17.49]Just standing there, just kind of like going, balancing on it on like the unicycles.
+[20:24.72]It was so funny, like just randomly, like why would you be back there doing that?
+[20:32.69]like that laptop that was like glued to his hand the whole day of course they had to have been right so this is we were going over that so obviously I don't want to break anybody's immersion here but we're going to uh we're watching back the pre-recorded segment at the end of the show which those guys were so good too like those sports analyst guys at the desk
+[20:58.35]Everybody was so good.
+[20:59.57]It was so fun.
+[21:01.51]It wasn't live.
+[21:02.39]Well, it wasn't live.
+[21:03.09]Of course, it was a pre-recorded show.
+[21:05.92]The mime game wasn't currently a live broadcast.
+[21:09.46]It was from the previous earlier in the day or earlier in the week.
+[21:19.14]The stream was fake?
+[21:20.76]No, it was real.
+[21:21.62]It was real enough.
+[21:23.78]We were watching it back earlier in the day to make sure, like, okay, is it ready to go?
+[21:27.19]It's ready to go.
+[21:30.88]Yeah, we have like, I think the best part.
+[21:34.96]Oh, this is the makeup.
+[21:36.70]You wouldn't believe how long it takes.
+[21:39.59]It takes a long time to paint like 20 people's faces in clown makeup.
+[21:46.29]It actually takes a fairly long time.
+[21:49.13]So we had like two or three makeup artists just cycling people in.
+[21:52.79]All right, your turn, your turn, your turn.
+[21:54.45]It took about like two or three hours to do all this.
+[22:02.40]Just wait till I sit down.
+[22:07.19]And you see them fill in my mustache.
+[22:08.79]It was embarrassing.
+[22:12.47]Do you still like Bloons?
+[22:14.79]Like Bloons tower defense?
+[22:17.50]All right, so this is before the show.
+[22:18.94]We're just kind of preparing, because this is the first time we had really everybody together, which you can't see over here, but there's another probably 50 people sitting, or 60 people, whatever, total, sitting in these seats.
+[22:28.19]And we were just kind of doing a full kind of production meeting, right?
+[22:33.39]Okay, here we go.
+[22:34.17]Let's do it.
+[22:35.09]And I hadn't eaten pretty much all day because I'm obviously just running around like crazy.
+[22:38.36]So you're going to see a bunch of footage of me with this same salad in my hand for like two to three hours.
+[22:44.89]I don't know how many pictures there are of this, but it's a solid probably two to three hours I was walking around with this.
+[22:52.19]Because, you know, I'm just like, I'm just eating.
+[22:54.55]There's no time to eat, right?
+[22:55.76]There isn't.
+[22:57.06]Anybody that's ever, like some of you guys that know this, when you're like working on something and you're really in the zone and you don't want to take any breaks, you're just, I'm ready to fucking go.
+[23:06.90]Let's go, right?
+[23:09.44]Eating food sometimes is impossible.
+[23:11.23]Because it's like, oh yeah, yeah, yeah, yeah, yeah.
+[23:13.61]I got to eat food.
+[23:15.61]No, that's going to take like 30 minutes.
+[23:17.03]I don't have time.
+[23:17.71]Nope.
+[23:18.53]No, no time for that.
+[23:19.61]I'll do it later.
+[23:20.09]I'll eat later.
+[23:21.52]So this is the I'll eat later.
+[23:23.24]This is probably, I want to say, maybe an hour and 10 minutes before the show.
+[23:28.49]So I'm just kind of like, well, maybe like two hours or so.
+[23:31.59]I'm just like walking around with like the salad.
+[23:33.64]Like, yeah, okay, that looks good, that looks good.
+[23:36.01]We need you over here.
+[23:37.23]Like, just shoveling salad in my mouth.
+[23:38.49]Salads are really easy to eat on the go.
+[23:39.91]Here's the thing about a salad, and those of you that work on location and shit, like a chicken on salad, just like, you know, strips of chicken with a salad, cold as fuck.
+[23:51.60]Cold.
+[23:52.36]You could walk around with that for an hour or two.
+[23:55.18]It's not like, oh, no, no, no, I have to eat this hot sandwich or this hot bowl of
+[24:03.37]you know, quinoa and, like, meat and shit.
+[24:07.11]No, dude.
+[24:08.45]If you're ever on the go like that, get yourself, like, a barbecue chicken salad, a lot of greens in there, and you can walk around and eat that for two hours.
+[24:16.64]Like I did.
+[24:19.86]Yeah, and I presented with it.
+[24:23.36]Now, looking back at this, this looks fucking weird, now that I'm, like, seeing this.
+[24:26.50]This looks very strange.
+[24:28.20]This looks like, why am I...
+[24:30.71]This is actually kind of strange when I'm thinking, when I'm looking back at this meal, like, oh, like, okay, here's, let's, let's talk.
+[24:36.22]And it is like, is that a cut?
+[24:37.94]All right.
+[24:38.18]So I don't really like, let me explain.
+[24:41.28]I don't really like dressing on salads.
+[24:43.18]I think it like kind of ruins the salad.
+[24:44.64]It turns it into this weird mush.
+[24:49.28]Uh, so I don't usually use the salad dressing.
+[24:56.67]So I usually don't open the cup.
+[25:01.16]And when they put the cups in there, sometimes I just leave them in just in case.
+[25:12.13]What about croutons?
+[25:13.13]Croutons are fine.
+[25:18.03]Yeah, we still drop.
+[25:18.63]Yeah, we are.
+[25:19.13]I don't get it.
+[25:20.73]I don't get it.
+[25:21.16]I, you know, I got to talk to somebody at like Twitch at like data or something because I can't, I don't have any idea what's going on.
+[25:30.20]It doesn't make any sense across the board.
+[25:31.83]Like they just hate, like, like they just hate the traffic that's coming from my channels.
+[25:36.09]They just hate it.
+[25:38.39]I don't get it.
+[25:40.87]I literally have ran speed tests, like upload to upload servers for like 12 straight hours.
+[25:47.02]And it's a thousand, a thousand clean every time.
+[25:49.96]I don't understand.
+[25:51.74]I don't get it.
+[25:53.58]I have to like jump, jump, server, server, server switch, server switch, server switch, server switch, server switch.
+[25:59.09]All right, I got one.
+[25:59.71]This one works.
+[26:02.05]Conspiracy Andy.
+[26:03.97]I'm not saying it's a conspiracy.
+[26:05.91]I'm just saying like over the last six months, my traffic has been perfect on my end.
+[26:11.15]But some route that it takes to Twitch, it hates it.
+[26:15.17]It hates me.
+[26:17.43]It's not just you.
+[26:18.25]Well, what the heck?
+[26:24.65]Anyways, so get a big salad.
+[26:27.20]And I'm not a conspiracy.
+[26:29.40]I mean, look, I'm dropping frames.
+[26:33.00]All right, let's skip the like me eating food stuff.
+[26:35.22]All right.
+[26:36.58]So, yeah, we had everybody kind of lined up here, just hearing all the you know, the best part is home on a minute.
+[26:46.06]In character.
+[26:48.92]Like the sad, crying clown.
+[26:52.36]These guys were amazing.
+[26:57.99]And also doing OK, so this is a very serious meeting.
+[27:02.90]And there's something about a very serious meeting.
+[27:05.84]OK, guys, we're about two hours away from the show.
+[27:08.46]My name's my name's German.
+[27:09.88]I know I've talked to you guys a lot over the last few weeks, but here we are.
+[27:13.52]Kind of like a let's let's go kind of let's let's talk session.
+[27:19.02]And.
+[27:19.46]Oh, come on, man.
+[27:46.22]Did I change to the Mexico server again?
+[27:48.94]That's what fixed it the last time.
+[27:52.40]Should I stream to the Mexico Twitch server?
+[27:55.77]Is that what I have to do again?
+[27:56.71]He's fuming.
+[28:00.55]Oh, I am fuming.
+[28:05.65]This is fuming.
+[28:07.21]Why is he so red?
+[28:08.39]Do you understand how hot my blood is?
+[28:10.19]It's like 110 degrees.
+[28:17.64]But anyways, whatever.
+[28:19.10]I was going to deal with it before we play because there's like static imagery.
+[28:22.79]It's fine.
+[28:23.71]Before I play in the game today, I'll switch.
+[28:27.51]I don't fucking understand.
+[28:28.42]I don't get it.
+[28:34.01]All right.
+[28:34.37]Anyways, let's go.
+[28:35.95]So, yeah.
+[28:36.47]And, but what I was saying was doing a big meeting with your, I'm standing down here, like here, like off camera, looking up and describing to people.
+[28:46.34]Okay.
+[28:46.60]So then, uh, by the way, when the streaker comes out, uh, what we're going to have to do is everyone's going to still continue playing.
+[28:52.08]And, uh, this guy's going to get naked and what, and you're looking at a bunch of clown faces and a bunch of people that are just like, okay, it's just like, what the fuck's happening?
+[29:00.52]This is weird.
+[29:01.16]This is a very strange conversation.
+[29:04.91]But I live for that shit, though.
+[29:07.05]This is like one of my favorite parts of every show.
+[29:10.91]Is this.
+[29:13.73]Like, we're all actually here.
+[29:16.05]And we're all actually going to do this.
+[29:18.32]Is some of my favorite part of any show.
+[29:22.34]Is the mustache real?
+[29:23.52]Well, you'll see.
+[29:27.16]You'll see.
+[29:28.86]It was real enough.
+[29:31.85]Did I get to the end of the salad?
+[29:33.10]No, there's still some bread in there.
+[29:34.38]Was there bread in it?
+[29:35.04]I don't even remember.
+[29:43.06]Whatever is in there looks gross.
+[29:45.28]But you have to just kind of mix it together or whatever.
+[29:47.54]All right.
+[29:57.44]It was... I better not have any more fucking food in any of these photos.
+[30:07.57]That's so fucking funny.
+[30:11.25]yeah so from up here this is yeah this is me getting into my umpire and people people I mean umpire gear everyone's like what is he stupid why is he wearing his umpire gear under his clothes what is he dumb he's a he's a child that that's what you do you don't wear it over the clothes it's I'm not a I'm not a uh
+[30:34.76]Like, you wear the armor under the clothes.
+[30:37.38]You wear your football pad.
+[30:38.48]They don't wear the football pads over the jerseys.
+[30:41.92]No, you wear everything under the clothes.
+[30:47.01]Why do I look so... What am I doing?
+[30:51.57]Yeah, people are like, oh, yeah, dude.
+[30:53.37]Like, I can't believe you're so dumb.
+[30:54.71]You're just wearing the armor under the clothes.
+[30:57.92]Yeah, that's not where it goes.
+[31:00.86]It's a bulletproof vest.
+[31:02.54]It's...
+[31:08.62]Why are you so red?
+[31:09.50]I don't know, man.
+[31:10.36]Okay, so this is where I was getting my fake mustache filled in.
+[31:24.11]Oh yeah, I had to kick this guy out.
+[31:27.31]I felt really bad because I had to be done because they had to mic me up and I had to get into the production truck and be like, okay, because this is like 25 minutes before the show, 30 minutes before the show.
+[31:37.09]And I had to get this guy out of the chair.
+[31:39.52]So if you're wondering why he's got this ring, it's because it's like, I got to get my mustache done.
+[31:46.37]I got to get my mustache done and I've got to sit.
+[31:48.45]I'm sorry.
+[31:49.75]I'm sorry, man.
+[31:51.25]He's like, no, no, no, I get it.
+[31:52.23]I get it.
+[31:52.45]So I sit down and I must have such a weirdo.
+[31:55.96]So this guy's about to get his face filled in with clown makeup and he has to move because this egomaniac wants to make sure his mustache looks good filled in for the camera.
+[32:06.40]This is not a requirement.
+[32:07.82]This is.
+[32:08.91]This was not necessary.
+[32:10.85]This was.
+[32:13.38]So I kind of just was like, I need, I gotta get my mustache filled and I have to get it filled in.
+[32:21.26]Everyone's just like waiting their turn.
+[32:31.77]It was disgusting too.
+[32:34.33]I looked so, yeah, look at how gross that is.
+[32:38.46]It looks like there are wires coming out of my over here.
+[32:41.99]I can't grow a mustache.
+[32:44.33]I really can't.
+[32:46.65]Oh, by the way, this is when I was tweeting the go live tweet.
+[32:51.38]I forgot.
+[32:52.02]I was like, oh, shit.
+[32:53.72]I've got a tweet.
+[32:54.76]I've got a tweet right now.
+[32:56.98]So this is it.
+[32:58.16]This is like 10 minutes before the show.
+[33:00.66]I was like, crafting, crafting.
+[33:03.11]Okay, how do I say that?
+[33:04.09]Okay, no, no, we got coffee.
+[33:05.55]Okay, good.
+[33:05.87]How does it look?
+[33:06.45]Good.
+[33:07.61]Yeah, I'm not even paying attention to anything that's going on.
+[33:09.35]I'm not sunburned.
+[33:14.61]I have a stupid filter on.
+[33:15.93]I'm turning it off.
+[33:22.88]There.
+[33:23.14]I don't know why that was even on in the first place.
+[33:25.46]It looked stupid.
+[33:28.44]The stilt walkers were amazing.
+[33:31.26]You're browsing your iPad, kid.
+[33:33.72]You're playing an iPad game.
+[33:38.46]This shirt.
+[33:44.26]I'm not sunburned.
+[33:53.27]This was great, too.
+[33:54.23]The funny part is... Hold on, I'll go back.
+[33:57.53]So, he was just kind of chilling in the outfield for a long time.
+[34:02.87]When we would come back to, there are tons of clips of him just standing menacingly kind of over the fence in right field.
+[34:15.42]He kind of hung out there for a couple of innings.
+[34:17.10]He was there for like two innings.
+[34:19.16]So you'd see like a ball would go over there or like in the beginning of the show, he's just kind of in right field, he's hanging out, just kind of standing around, like looking around.
+[34:28.65]He was awesome.
+[34:29.17]The stillwalkers were fantastic.
+[34:32.87]I love these mascot outfits, too.
+[34:34.60]They're so...
+[34:40.50]And the names of the mascots, okay, people are wondering, oh, what were the names of the mascots?
+[34:47.74]I never told the broadcasters what the names of the mascots were.
+[34:52.22]So they actually had names.
+[34:54.65]Their names were, it was supposed to be Presto Majesto was the magician, but they called him Dumbledore and it was just better.
+[35:06.99]They kept calling him Dumbledore.
+[35:08.43]I just never told them their names.
+[35:10.51]I just kind of forgot to.
+[35:11.45]It's just one of the things that just fell out.
+[35:12.75]It was Presto Majesto and Kooky the Clown.
+[35:19.04]What were they calling the clown?
+[35:23.80]It's Dumbledore.
+[35:29.08]What were they saying the clown's name was?
+[35:32.82]Maybe they didn't.
+[35:34.22]They would just say the clown.
+[35:35.30]They called him the clown.
+[35:43.67]He was great, too.
+[35:44.53]The ball boy.
+[35:50.78]They were called the clown, yeah.
+[35:58.04]So, another thing that is important for you guys to understand.
+[36:01.42]The reason why we had so many balls come out and in... Don't tell anybody.
+[36:06.31]This is a secret.
+[36:08.53]So, obviously we had some dangerous shit that we were doing.
+[36:12.23]And...
+[36:13.74]When you have three pitchers on the mound and a guy with like three bats in his hand or somebody that can't see out of a mascot costume pitching to people, you got to be careful.
+[36:25.84]And what we did was we used real baseballs and tee balls, like little league tee balls.
+[36:35.51]So anytime somebody was going to get thrown at or anytime there was going to be, okay, we got, there's a guy in a mascot costume.
+[36:42.05]He might take a baseball to the fucking face.
+[36:44.33]He might take a baseball to like anywhere because they were not protected.
+[36:48.57]The people in the mascot outfits were not wearing fin guards and cups and they were in mascot outfits.
+[36:54.74]so we were using t-balls and it's a good thing we were because people were just kind of sliding around throwing them at each other hitting each other with them and stuff so uh we we had t-balls when we were doing the actual baseball routines just we were playing the game we were using the real balls so yeah come on you know you don't think I was thinking of this you don't think I thought of that
+[37:22.71]What's a tee ball?
+[37:24.11]A tee ball is designed, it's a softer baseball and it's designed for little kids to put on a tee.
+[37:31.79]So there's no pitching in tee ball.
+[37:33.19]It sits on a tee.
+[37:34.06]It's like a stand that stands up and you put the ball on it and the kids just whack it, right?
+[37:39.06]So these things are very soft because kids are not very smart and they're not very coordinated.
+[37:45.94]So a tee ball getting like hit in the chest or something from some kid is not a baseball.
+[37:51.68]And it would be, you know, obviously less potential harm.
+[37:56.62]Safety Andy.
+[37:59.00]Yeah.
+[38:00.08]Yeah.
+[38:01.40]Look, there's not a scenario where I'm going to have the mascot pitch a real baseball to one of these high-level athletes that hit a line drive directly into the mascot's balls and send the person to the hospital.
+[38:16.79]That's not going to happen.
+[38:22.29]So that is not happening.
+[38:25.72]We did have an EMT there, though, just in case anything weird happened.
+[38:30.88]Which there was plenty of opportunity considering, you know, the amount of weird shit that people were doing.
+[38:36.02]There's a couple of great shots of whatever.
+[38:48.71]Presto Majesto just standing there menacingly staring at the other bench.
+[38:54.96]There's a bunch of footage of the great video of the clown and the magician just both kind of staring at each other from across the bench.
+[39:06.09]They were into it, too.
+[39:07.91]They went all out.
+[39:11.10]Oof, another F. Don't yell at me.
+[39:15.38]It's not my fault.
+[39:16.54]There's nothing I'm doing.
+[39:19.02]I'm just sitting here streaming.
+[39:24.61]Oh, what a great call by Albertson.
+[39:30.11]Paul Fondler is here.
+[39:31.25]Paul Fondler is here and they are no longer banned from the channel.
+[39:36.69]If they're here, just be aware.
+[39:38.33]You will get banned again if you say anything.
+[39:40.01]Holy shit, Jesus.
+[39:44.35]You will get banned again if you don't follow the rules.
+[39:50.10]These are great photos.
+[39:57.53]And everyone's saying, why were you accentuating your ass so much?
+[40:01.65]I wasn't.
+[40:04.01]This is what you're supposed to do as an umpire.
+[40:06.13]I trained to be an umpire.
+[40:09.67]I watched videos.
+[40:10.79]I watched... Ball Fondula wants me to play Skyrim.
+[40:14.83]Oh, that's at least a fucking 30-minute ban.
+[40:17.48]Ban him again.
+[40:20.10]No, ban him for 30 minutes.
+[40:21.24]What a dumb thing to say.
+[40:25.35]Uh, um, okay.
+[40:26.51]But anyways, so as an umpire, you need to be able to see the whole strike zone and you need to keep your chin level with the catcher's head with your right knee in.
+[40:40.88]It's called getting into the spot, into the sort of back of the catcher, leaning in, head up, chin up, level.
+[40:48.38]That's what I was doing.
+[40:51.50]So I'm not like arching my back to be like, oh, yeah, I'm like, look at my ass.
+[40:55.34]No, I'm doing this is what is umpire stance.
+[40:59.49]You were definitely drunk.
+[41:01.53]You don't know anything.
+[41:02.19]I don't even know who this is for.
+[41:16.13]I think somebody at first base.
+[41:19.98]Yeah, that's somebody at first base.
+[41:21.80]I think, okay, the empty seats make this funnier to me because this is nobody here.
+[41:27.03]Like, wow, the German Baseball Association.
+[41:31.47]I've got this entire league of baseball.
+[41:34.41]Obviously, people have to be paid to be here and play, and there's a whole operation, and no one's here.
+[41:42.77]nobody gives a shit about this it's like part of it for me especially when we there was only friends and family that were allowed which is why you start to see some of the just you know the oh hold on we got an action shot here yeah having like the 10 people back here in the audience is just like wow look nobody really cares the jba is a money laundering scheme
+[42:14.26]That's so funny.
+[42:16.58]The power cards are something too.
+[42:19.08]So the power cards were not going to be in the show.
+[42:23.41]Because remember, a year or two ago, I wanted to do this.
+[42:26.69]And I said that we had some more time, so I got to add more stuff.
+[42:30.87]So in the course from 2021 to 2022, I was like, how do I make this weirder?
+[42:36.01]And it was, oh, the coaches have decks.
+[42:39.65]Of different rarities.
+[42:42.54]It's almost implied that these guys had to fucking buy a bunch of card packs in Hearthstone to get these.
+[42:50.82]You had to spend thousands of dollars in card packs.
+[42:55.62]And they get these decks and they can make them.
+[42:57.84]That was kind of what the implication was.
+[43:00.38]So playing the legendary card of the baby is supposed to be, oh wow, that's hard to get.
+[43:06.99]All the coaches don't have that.
+[43:11.31]And it's just like a pay to win.
+[43:14.96]Well, you got to have a good deck.
+[43:17.36]A golden legendary.
+[43:18.54]Yeah, I think there's a great space.
+[43:22.54]Look, I don't I'm not a baseball person, really.
+[43:25.52]I love the game.
+[43:26.34]I've loved it since I was a kid.
+[43:28.70]But I think that that adds a huge amount of value to the game.
+[43:31.92]I think that having decks that you have like a pool of cards, let's say there's like 50 cards that each coach can choose from before the game.
+[43:40.61]I think that would add a lot of value.
+[43:43.57]Right?
+[43:45.42]That would add comedy value.
+[43:46.68]Yeah, I mean, I don't know.
+[43:47.48]It would be fun.
+[43:49.94]Were there any unused power cards?
+[43:52.26]There might have been.
+[43:54.18]Let me look at the list.
+[43:55.40]The list I have.
+[43:56.78]Let me see which ones didn't get played.
+[43:59.78]It's so funny when the run through the bases backwards got played and only one person did it.
+[44:05.13]So the other person had to get called out.
+[44:10.38]Let me see.
+[44:10.86]Which ones maybe didn't get shown?
+[44:12.60]I have a list here.
+[44:20.82]Okay, so five strikes.
+[44:22.08]They used it on me.
+[44:22.86]I was allowed five strikes.
+[44:25.66]Pitcher must use a beach ball for the next at-bat.
+[44:27.56]I knew that was going to be messed up.
+[44:28.74]I knew that was never going to work.
+[44:30.68]I did that just purely because I wanted to see what would happen.
+[44:34.87]I knew that was impossible.
+[44:37.33]It's literally not fucking possible, so what happens?
+[44:41.41]Other coach must wear a bag on their head for the rest of the inning.
+[44:43.73]We did that one.
+[44:45.64]All runners must run backwards through the bases.
+[44:47.52]We did that one.
+[44:49.00]Opposing team's mascot must pitch for the rest of the inning.
+[44:52.62]All runs are worth three runs.
+[44:54.30]We did that.
+[44:56.31]I don't think we did this one.
+[44:57.29]For the next batter, the pitcher must pitch from 15 extra feet away from the plate.
+[45:03.59]I don't think that one came out.
+[45:06.15]Did it?
+[45:08.53]That's overpowered.
+[45:10.23]No, that definitely didn't come out.
+[45:12.69]Call in two more pitchers for this at-bat.
+[45:14.66]That one came out.
+[45:15.92]All opposing outfielders are removed for the next at-bat.
+[45:18.10]That one was a big one.
+[45:20.36]But so what I'm thinking, right, is... Ruckies, think about that.
+[45:24.72]If you have this deck of six cards, you can only play them once.
+[45:26.87]You can't play them for the rest.
+[45:27.83]You can only play them one time, and it is for whatever it says on the card.
+[45:31.71]Can you imagine if you had bases loaded, and you didn't play your power cards into, like, the seventh inning?
+[45:37.28]And you remove all the outfielders, and all runs are worth three runs?
+[45:44.64]That would be a big deal, right?
+[45:47.12]So what we... Giving the cards to the coaches, we told the players, because all the players obviously know the baseball much more than the coaches did.
+[45:56.78]Except I think one of the coaches knew a lot about the game, but these guys live and breathe baseball.
+[46:02.25]Some of them are pro players.
+[46:03.65]So it was like, look, help the coaches, right?
+[46:06.33]If you think there's a good situation, no, no, no.
+[46:08.27]Bring out the beach ball.
+[46:09.65]Bring out the beach ball.
+[46:10.27]Let's fuck them up.
+[46:10.83]Bring out the three pitchers and we'll get a walk.
+[46:13.89]It was kind of up to them to figure that out.
+[46:16.43]None of these were scripted at all.
+[46:17.87]They weren't.
+[46:19.05]It was just whenever you want to use them.
+[46:21.81]Whenever you feel like using them.
+[46:24.58]It just had to happen before and at that.
+[46:25.98]And you had to just tell me.
+[46:27.34]So we could obviously tell, you know, I could relay it to the truck and the truck could put the graphic on the screen so you guys could see it.
+[46:32.84]Are we going to get a power card tier list?
+[46:39.40]I feel like there's some really fun things you could do with a power card system.
+[46:45.02]In any sport.
+[46:45.58]Because I don't know, I always thought that as I got older, I would enjoy sports more, right?
+[46:53.94]Okay, I'm in my 40s.
+[46:56.30]Let's put on the game.
+[46:57.10]Let's put the big game on, right?
+[46:58.32]I kind of just don't care.
+[47:01.59]But if there was more stuff like this, and I know there is.
+[47:04.57]For those who don't know, have you ever heard of the Savannah Bananas?
+[47:07.17]They do fun stuff like this.
+[47:09.79]There's a whole league.
+[47:11.64]And I would love to see more stuff like that.
+[47:14.50]I would like to see it get more popular.
+[47:17.84]Bro, you're 37.
+[47:18.50]Yeah, that's what I'm saying.
+[47:20.02]But I always thought that I would want to be like, oh, yeah, you know, I don't know, get that cartoon shit out of here.
+[47:25.42]I want traditional baseball and I want traditional umpires.
+[47:29.42]But the more that I think about it, I would have more fun.
+[47:31.49]I would have way more fun if there were power cards in baseball or in the NFL or in hockey.
+[47:39.15]I feel like it would change everything for me and I'd actually care about it again.
+[47:42.21]ESPN was actually showing a Savannah Bananas game on the same night.
+[47:54.82]Really?
+[47:55.16]That's so funny.
+[47:56.62]Are you kidding me?
+[47:59.08]Yeah.
+[47:59.50]Cartoon baseball.
+[48:00.62]Take it over.
+[48:01.71]Take it over.
+[48:04.05]You heard it here.
+[48:05.03]Cartoon fucking fun baseball is coming.
+[48:08.01]We're coming.
+[48:11.98]You were watching both at the same time?
+[48:13.52]That's so fucking funny.
+[48:15.72]No, they're doing a lot of cool shit over there.
+[48:17.04]They really are.
+[48:20.79]I will definitely say that changing the rules of the game would bring me kind of back to the game.
+[48:28.77]When was the last time you watched a full NFL game?
+[48:31.95]It's been a long time.
+[48:33.13]It's been a very long time.
+[48:39.60]But can you imagine sitting there like at a bar?
+[48:42.65]I'm sitting, I'm thinking of like in a bar in fucking Boston.
+[48:46.15]You know what I mean?
+[48:46.57]Like a Boston fucking bar.
+[48:49.09]And all of a sudden, like, you know, you know that your team that you're rooting for has not used this power card yet.
+[48:54.84]And you're waiting like, come on, coach, pull the fucking, pull the fucking understudy, pull the understudy already.
+[49:00.62]And all of a sudden here comes the understudy.
+[49:02.26]Coaches would be, coaches would be ridiculed on when they use the cartoon power up.
+[49:10.31]Oh, my God.
+[49:11.55]Yeah, John Stevenson's a fucking idiot.
+[49:14.65]Can you believe that he played the understudy card in the fucking first inning?
+[49:19.73]They could have used that at the top of the eighth.
+[49:21.53]Literally worst coach.
+[49:22.35]I hope they replace him next season.
+[49:25.63]It would add another meta to the game.
+[49:30.14]And the bar goes crazy when this comes up.
+[49:34.18]Because they know that they've got to be on defense.
+[49:40.10]very upset at something I'm so glad that the pie they actually got the pie being filmed because I all right so there were two gags that I wanted to do in this kind of inning where I knew I was going to have to I was gonna I this was not I didn't know when this was going to happen but I knew we were going to do it I knew I was going to get pied in the face
+[50:06.13]I wanted someone in the audience to throw a full large soda, a full fountain drink and hit me directly in the forehead.
+[50:13.21]And we thought about it.
+[50:14.09]We were like, how do we make that?
+[50:14.99]How do we make that work?
+[50:17.59]Right.
+[50:17.71]Because this net was here.
+[50:19.28]But I wanted someone to stand up and I wanted them to like full on throw a full fountain soda.
+[50:25.16]And I wanted it to hit me right in the fucking mouth.
+[50:27.32]I wanted to be like explode in my face and like, boom.
+[50:30.60]And it would be unbearably awful to look at.
+[50:33.66]I wanted to get hit directly in the face um but we there was no way we could do it without it um why commitment commitment do you guys know that when me and stir did the he broke into my house and we argued over the money
+[50:56.68]There was going to be a routine where we were like talking and hanging out and being like, oh, yeah, I know.
+[51:02.37]OK, whatever, man.
+[51:03.15]Like, fuck you.
+[51:03.73]We were going to have another routine where I got up, I got us sodas.
+[51:10.07]And he was going to do a huge loogie while I got up into my soda and I was going to drink it.
+[51:21.14]I was going to drink it.
+[51:26.91]So, I'll do it.
+[51:29.43]If I think it was gonna be funny enough, I would've done it.
+[51:35.12]You guys are fucked.
+[51:36.94]Well, I mean, this is... We were just sitting there thinking, like, wouldn't that be funny if you, like, did, like, a huge... Like, oh, yeah, man, yeah, yeah.
+[51:44.10]No, dude, completely water under the bridge.
+[51:45.78]It's fine.
+[51:46.24]Oh, yeah, dude.
+[51:47.10]Thanks for the Coke.
+[51:47.93]Oh, yeah, I'll be right back.
+[51:49.03]And he's just like, boom!
+[51:52.41]And I fucking just... Oh, man, I love soda.
+[51:55.19]And just, like, fucking chugged the whole...
+[52:04.24]So yes, I wanted to take a full fountain soda to the face and have it hit me in the face and have it hurt.
+[52:10.99]Not that much, but like, you know, whatever.
+[52:13.15]So let me explain.
+[52:14.09]I didn't want it to hurt.
+[52:16.60]I want it like, you know, I wanted it to be, but I don't know.
+[52:19.20]I just, I don't know.
+[52:20.46]How can I describe this?
+[52:26.27]Pre-pandemic Andy.
+[52:28.99]Yeah, I mean, come on, man.
+[52:31.51]I want it to hurt.
+[52:32.41]I don't, look, okay.
+[52:34.28]I don't want it to hurt.
+[52:36.04]I want it to look like it did.
+[52:39.60]You're a masochist.
+[52:40.70]No, I'm not.
+[52:41.34]I just, I, look, if somebody threw a soda at me at a game, what would it look like?
+[52:45.42]If I got pied in the face, what would it look like?
+[52:48.38]It wouldn't be like, oops.
+[52:50.02]Oh, here it comes.
+[52:50.72]Oh, don't, no, wait, hold on.
+[52:52.06]I'm not ready.
+[52:53.04]No, that's not what, that's not what would happen.
+[52:56.69]If I got pied in the face, I'm getting pied in the face directly in the fucking face.
+[53:05.35]That's how it would happen.
+[53:07.27]If it were to happen.
+[53:11.30]So the funny thing to tell you about this was I was arguing with the coach.
+[53:18.78]There was a play going on in the field.
+[53:20.44]I was arguing with the coach, and he came over and full-on did it directly into my face, right into where my eyes are.
+[53:30.15]And I knew it was probably coming, but I was arguing with the coach, so I took it full blast, just full-on in the face.
+[53:36.48]And it's shaving cream.
+[53:38.92]And...
+[53:40.87]It started to burn my eyes.
+[53:43.52]And it blew out the microphone.
+[53:46.42]So doing the manscaped ad, the microphone was destroyed.
+[53:51.73]Here, yeah.
+[53:52.69]The microphone was destroyed from the shaving cream.
+[53:57.41]And right now, my eyes are burning.
+[54:01.98]They're on fire.
+[54:03.82]So doing the manscaped read turned out to be quite a disaster in regards to how I felt.
+[54:12.75]In between this inning and the next one, I was dumping water in my eyes.
+[54:18.25]And it was okay after a little while.
+[54:20.20]Shaving cream, thankfully, is not that harsh after a while.
+[54:25.20]But yeah, hold on, go back.
+[54:29.03]Yeah, I think it added to it.
+[54:30.85]I think it was funnier that the microphone got destroyed.
+[54:37.13]You could have had a clown do the flower squirt gag.
+[54:40.75]Yeah, or I mean, I could have taken a full pie to the face.
+[54:43.23]I happened to get at the end of the show, too.
+[54:45.19]It might have been the same the same actor just kind of looking for me.
+[54:49.54]You know what I mean?
+[54:50.66]But I did take a second one in the face at the end during the fight.
+[54:54.60]You had cue cards.
+[54:55.70]Yeah, I had cue cards.
+[55:00.72]I wanted to make sure I got it right because they were a big supporter of the stream.
+[55:06.38]And look, like Fansly, Manscaped, Surfshark, they were... I've told you guys this before a thousand times, and I will say it again.
+[55:16.00]Shows like this are really expensive.
+[55:17.98]They take a lot of time.
+[55:18.96]They take a lot of prep.
+[55:19.74]They take a lot of money.
+[55:21.52]And if there are companies that are into the idea and they think it's really fun and they want it to be a good show, that's what they want.
+[55:32.62]If it makes sense to do a thing that integrates it into the stream, that's better for me.
+[55:38.98]That's where you'll see those integrations.
+[55:42.02]And there were, we were talking to a lot of companies.
+[55:45.57]And it's like, okay, who can I actually have fun with?
+[55:51.37]I want it to be a fun thing.
+[55:52.83]I don't want it to be a thing that people are annoyed with.
+[55:55.71]And I think we did a pretty good job with it.
+[56:03.22]Yeah, I'm sorry about the F's.
+[56:04.70]I can't do anything about it.
+[56:09.25]Real Baseball is sponsored to hell and back anyways.
+[56:12.19]Yeah, it feels like more authentic that way.
+[56:15.58]Obviously, the show's expensive, so that helps.
+[56:19.62]But yeah, anytime that you see a sponsor on this stream...
+[56:26.68]It's a sponsor that I know that I've been able to go kind of back and forth with and understand and for me to be like, I want the show to be the show.
+[56:34.72]I want to be able to do something integrated in a fun way.
+[56:38.21]And that's what I want to do.
+[56:39.57]And the companies that want to play ball like that, no pun intended, those are the people that I want to work with.
+[56:45.25]And that's who I will continue to work with, right?
+[56:47.97]Stop leaning and sit straight.
+[56:51.32]Shut up.
+[56:52.74]You my mom?
+[56:56.37]Shut up.
+[56:58.77]Well, because I'm reading chat.
+[56:59.96]I'm reading chat over here.
+[57:04.52]Get a cigarette sponsorship.
+[57:05.86]Stop talking about cigarettes, you weird person.
+[57:11.12]Stop talking about me smoking cigarettes.
+[57:12.78]There's, okay, there's like a, there's a group of people in this community that like are cigarette andies and they think it's like wicked funny.
+[57:21.54]They're like, oh, hey dude, like say, like, you know, type, type like, hey, you should smoke a pack of cigarettes on screen today.
+[57:26.89]They're like the cigarette comedians.
+[57:30.89]There's a group of cigarette comedians that are in this community.
+[57:36.80]I mean, it's kind of funny.
+[57:38.76]But no, I would never have a cigarette sponsor.
+[57:42.04]I don't smoke cigarettes.
+[57:47.06]You know what?
+[57:48.24]Who fucking knows, right?
+[57:50.24]On the next one, who knows?
+[57:55.13]But I will tell you that, yes, there is a next one.
+[57:57.67]And the next one is going to be fucking crazy.
+[58:02.37]And I'm going to spoil it right now.
+[58:05.63]I'm going to spoil the next show right now.
+[58:08.33]You ready?
+[58:09.21]Baseball's over.
+[58:10.12]Baseball's over.
+[58:10.70]I can talk about this now.
+[58:11.96]I'm going to spoil this.
+[58:13.46]It's time for you to get fucking spoiled.
+[58:17.62]I'm just kidding.
+[58:21.76]It keeps freezing.
+[58:23.02]Yeah, it's this stupid...
+[58:25.81]server that I'm streaming.
+[58:31.85]I swallowed it.
+[58:32.29]I'm fine.
+[58:34.57]But anyways, the next one is coming.
+[58:36.99]The next one is going to be at the same scale as this.
+[58:41.61]It's probably bigger than this.
+[58:44.88]I just like, I, what?
+[58:47.12]I don't know, man.
+[58:50.16]It is not wrestling, but I will tell you it is.
+[58:53.42]Okay.
+[58:53.80]Here's a spoiler.
+[58:55.93]You want your spoiler?
+[58:56.99]Fine.
+[58:59.01]It's not going to be three years from now.
+[59:02.23]I'm hopeful that this can be a thing we're doing by the end of the year.
+[59:06.08]Or earlier, depending.
+[59:09.06]I will tell you who it is.
+[59:10.46]I'll tell you who is involved.
+[59:14.56]There's going to be a stream on this channel in the next so on months.
+[59:19.57]Whenever it is.
+[59:23.65]starring somebody who's become a pretty good friend of mine.
+[59:26.99]Although I'm not really a friend, I'd say more of an acquaintance.
+[59:30.90]You all know him as Mr. Brains.
+[59:35.06]He's working on something.
+[59:36.54]He wants some of my help promoting it and shouting it out, I guess.
+[59:42.71]So I don't want to give too many details away, but I've been contacted by Mr. Greens to help with promoting something.
+[59:53.09]And I haven't decided if I'm going to do it.
+[59:55.31]I haven't decided yet.
+[60:00.80]But this will be, according to what Mr. Greens has told me, this is going to be a fucking huge show.
+[60:07.62]Huge.
+[60:09.06]So, that's all I'm going to tell you.
+[60:11.84]It's the only thing you will know until it becomes a reality that I can actually really start to talk about.
+[60:28.29]Were there more technical problems than you expected?
+[60:31.30]Oh, yeah, because we because remember the prerecorded segments from that sports like the crunch time that show at the end.
+[60:42.52]We we did all that before this stream.
+[60:48.09]Everything was clean.
+[60:49.49]There was no video problems.
+[60:50.61]There was no video processing problems.
+[60:51.87]There was no encoding problems.
+[60:54.25]And the stream started the first three to four straight innings.
+[60:58.75]It was about an hour and a half.
+[61:01.90]was perfect.
+[61:02.60]There was not a single problem.
+[61:03.78]It just all of a sudden, in the fourth and fifth inning, it just kind of started to go haywire.
+[61:13.80]And they had no idea why it was happening.
+[61:18.20]And they tried different video processors.
+[61:20.66]The stream came down like two or three different times to try different video stuff and encoding stuff.
+[61:25.50]But I think they just switched ingest servers.
+[61:29.34]And it was fine after that, which is, I don't know.
+[61:32.70]We have no idea.
+[61:35.52]So it was weird how it was fine for the first three innings and then fine for the last five innings.
+[61:40.46]It was just weird.
+[61:41.95]We don't really know.
+[61:48.48]How did the Roadrunner joke happen?
+[61:51.08]Well, the magic of television.
+[61:55.82]I won't tell you that one.
+[61:56.56]When are you going to do the auto-treat review stream?
+[62:05.66]Where's Bugleberry?
+[62:06.88]Where's Bugleberry?
+[62:07.80]Bugleberry has... I've been talking to Bugleberry.
+[62:14.66]You might hear from Bugleberry at some point soon.
+[62:16.82]Oh, also, I want to bring this up.
+[62:18.56]I tweeted about it, but the merch for the show went so unbelievably quickly.
+[62:26.34]We did not expect it to go that fast.
+[62:28.78]So all the souvenir balls and some other game used stuff, we kind of replenished the store.
+[62:37.11]So the souvenir balls went so quickly that it was just like, oh, should we just do more of these?
+[62:43.82]So there are now we replenish the store with some items.
+[62:47.14]There are new you can buy a signed ball.
+[62:50.68]Not I think there's a limited supply of the in the stream stuff that was used in the stream.
+[62:57.12]But we're replenishing the souvenir balls that I'll sign because I don't know.
+[63:02.33]We have like limited quantity of stuff like that.
+[63:05.75]I want people that wanted one to be able to get one.
+[63:09.65]And so we're just going to put it back up.
+[63:13.19]So that's Jerma985.com.
+[63:16.99]Store is there.
+[63:17.55]Go take a look at what's available again.
+[63:18.91]And you're saying it.
+[63:22.46]We had the sign in the outfield.
+[63:25.26]So let's talk about it.
+[63:27.40]Grotto Beasts.
+[63:29.68]You know, the signs in the outfield.
+[63:31.32]Oh, this is a great picture.
+[63:33.76]The sign was in the outfield here.
+[63:36.59]And it's...
+[63:40.07]It's coming along.
+[63:41.73]I will reliably tell you, we... Okay, just want to make sure I didn't puke.
+[63:50.24]We are, I want to say, maybe two to three months away from taking pre-orders.
+[64:00.35]It is imminent.
+[64:04.79]There's been a lot of playtesting.
+[64:06.09]Apparently very fun.
+[64:10.35]It's a full game.
+[64:12.19]It's got a lot of cards.
+[64:14.73]And we're very hopeful that I can finally tell you that somewhere into holiday of this year is when you will actually be able to purchase this and own it.
+[64:33.66]Physical cards.
+[64:34.38]Yes.
+[64:35.16]Physical cards.
+[64:38.18]there are a lot of cards and as we get closer we'll start to talk about that more but I really want it to be kind of a holiday this year so we're it's it's it's coming along does it come in a loot crate no you buy the what are you talking about loot crate
+[65:06.64]They're physical NFTs.
+[65:09.44]It's a fucking card, man.
+[65:11.18]It's no, you stop saying that.
+[65:14.74]Physical NFT.
+[65:19.24]This part's so funny.
+[65:21.04]OK, so we asked if they could smoke.
+[65:26.39]like oh yeah is it okay to have like a cigarette like it's the you know the the circus you know I got my my guy sitting out there smoking we we were gonna do a routine where everyone on the bench on the circus team had a cigarette in their mouth and they were all smoking but um it turns out that was not gonna fly so we were allowed to have like one
+[65:52.15]But every single person, we wanted a shot of like 20 people in the dugout, just all having a cigarette in their mouth.
+[66:01.38]But we also wanted to respect the field too.
+[66:03.32]And that's, I don't want to, you know, disrespect somebody else's space.
+[66:09.73]If it's like, no, that's not fucking okay.
+[66:12.23]Then like, okay.
+[66:16.78]Forcing actors to smoke.
+[66:18.30]No, no, no, no, no.
+[66:19.16]It was like if they did smoke.
+[66:20.48]I don't know how many people smoked.
+[66:22.36]They could have had a fake one, right?
+[66:23.89]It would have been fake.
+[66:28.27]What a cigarette comedian that would be.
+[66:34.51]All right.
+[66:35.99]All right, you got me.
+[66:37.07]No, you got me.
+[66:38.69]No, that's fair.
+[66:40.17]That's fair.
+[66:40.87]That's fair.
+[66:42.63]Yeah.
+[66:43.45]Yeah, I'm a hypocrite.
+[66:44.17]That's fair.
+[66:46.19]All the cigarette comedians.
+[66:47.65]The community of like 40 cigarette comedians in this community.
+[66:52.82]Yeah, that's fair.
+[66:54.68]I'll take it.
+[66:55.86]I'll take the loss on that one.
+[66:59.06]Unban that person.
+[67:00.24]They're banned for five seconds.
+[67:14.31]What is going on here?
+[67:15.31]Am I about to get slapped?
+[67:18.35]Did I get slapped in the face?
+[67:23.03]I don't think so.
+[67:23.70]Oh, no.
+[67:29.68]Right.
+[67:29.86]This is when the mascots started fighting each other for the first time.
+[67:42.92]The mascots, I don't know anything.
+[67:49.91]This is so perfect.
+[67:51.85]I wonder if he went through more than one cigarette.
+[67:57.69]Who designed the mascots?
+[67:59.18]We just bought them from a mascot wholesaler or retailer.
+[68:06.96]Took a while to find the right ones, but we just bought them.
+[68:14.41]The mascots having... Dude, the part where the mascots are in the back fighting and with the trash can and the trash... He's like smashing him like down here with the trash can.
+[68:28.56]I remember seeing that and going...
+[68:38.23]I don't want to give too much away, but I, yes, that was whatever.
+[68:41.93]It was, uh, his neck.
+[68:47.63]Oh, well, the horns, they were people, they were actually people in the audience that had a, like a clown noisemaker and it was distracting.
+[68:59.58]It was like, no, no, no, no, no, no, no, no, no, no, no, no.
+[69:01.78]They did it ever after every other pitch.
+[69:03.60]It was distracting.
+[69:04.20]It really was.
+[69:15.87]Like the video processing.
+[69:19.51]So this is what it looked like up here.
+[69:22.87]This was a... This was like the video zone.
+[69:28.84]They were the production truck.
+[69:30.78]Which is why it was so weird when the video started having problems.
+[69:33.48]Because like... This is all broadcast equipment.
+[69:36.98]This is all... These guys do this for a living.
+[69:42.83]This is broadcast baseball level equipment.
+[69:47.38]So it was just so bizarre.
+[69:49.84]It was just like, why is this happening?
+[69:51.84]Why the fuck are we dropping frames?
+[69:55.72]And like, I could tell you right now, why the fuck am I dropping frames right now?
+[70:11.51]Who were you rooting for?
+[70:13.07]I was rooting for a good show.
+[70:18.49]Good answer!
+[70:18.95]Good answer!
+[70:19.19]Good answer!
+[70:19.51]Good answer!
+[70:19.75]Good answer!
+[70:20.17]Good answer!
+[70:20.44]Good answer!
+[70:20.74]Good answer!
+[70:21.04]Good answer!
+[70:21.28]Good answer!
+[70:21.52]Good answer!
+[70:21.80]Good answer!
+[70:22.04]Good answer!
+[70:23.14]Good answer!
+[70:23.60]Good answer!
+[70:24.18]Good answer!
+[70:24.46]Good answer!
+[70:24.70]Good answer!
+[70:24.94]Good answer!
+[70:25.18]Good answer!
+[70:25.44]Good answer!
+[70:25.70]Good answer!
+[70:26.54]Good answer!
+[70:27.56]Good answer!
+[70:28.24]Good answer!
+[70:28.76]Good answer!
+[70:29.52]Good answer!
+[70:30.16]Good answer!
+[70:31.16]Good answer!
+[70:31.62]Good answer!
+[70:31.90]Good answer!
+[70:32.20]Good answer!
+[70:32.45]Good answer!
+[70:32.71]Good answer!
+[70:32.99]Good answer!
+[70:33.37]Good answer!
+[70:33.61]Good answer!
+[70:33.85]Good answer!
+[70:34.09]Good answer!
+[70:34.33]Good answer!
+[70:34.61]Good answer!
+[70:35.61]Good answer!
+[70:36.31]Good answer!
+[70:36.57]Good answer!
+[70:36.81]Good answer!
+[70:37.05]Good answer!
+[70:37.33]Good answer!
+[70:37.59]Good answer!
+[70:37.83]Good answer!
+[70:38.13]Good answer!
+[70:38.39]Good answer!
+[70:38.63]Good answer!
+[70:39.19]Good answer!
+[70:39.47]Good answer!
+[70:39.73]Good answer!
+[70:39.97]Good answer!
+[70:40.21]Good answer!
+[70:40.45]Good answer!
+[70:40.77]Good answer!
+[70:41.99]Good answer!
+[70:42.23]Good answer!
+[70:42.51]Good answer!
+[70:42.79]Good answer!
+[70:43.07]Good answer!
+[70:43.31]Good answer!
+[70:43.63]Good answer!
+[70:44.29]Good answer!
+[70:45.12]Good answer!
+[70:45.62]Good answer!
+[70:45.90]Good answer!
+[70:46.14]Good answer!
+[70:46.38]Good answer!
+[70:46.62]Good answer!
+[70:46.92]Good answer!
+[70:47.28]Good answer
+[70:49.62]They had just so much random shit down here that they were just told.
+[70:52.36]So we told them, we were just like, oh yeah, just do whatever you want.
+[70:54.90]You guys can do whatever you want.
+[70:56.60]You want to like throw stuff at me?
+[70:57.82]You want to walk around and make balloon animals and shit?
+[70:59.82]Please do.
+[71:01.33]And that's what they were just doing in the dugout.
+[71:03.07]They were just having a grand old time.
+[71:05.59]They were having a grand old time.
+[71:13.79]Favorite player?
+[71:14.69]I can't tell you a favorite player.
+[71:16.33]So many of them were so funny and they were so good.
+[71:24.90]Like, how do you pick one of all these great performers and great players?
+[71:29.62]I can't.
+[71:32.96]Xavier McMagic.
+[71:36.79]Yeah, I mean, Schmidt Poppo is up there too.
+[71:44.55]Honk.
+[71:44.97]Honk was up there too.
+[71:45.99]Honk had the inside the park home run, which was hilarious.
+[71:52.83]Yeah, David Honk had it inside the part.
+[71:54.87]I thought that was gone, too.
+[71:56.69]It was so close.
+[72:02.13]What about the security?
+[72:02.83]The security guard was an actor.
+[72:04.13]That's another actor.
+[72:06.04]He was awesome.
+[72:07.80]Both the security guard and the streaker, they were both actors.
+[72:12.68]And they were great.
+[72:14.36]They were fantastic.
+[72:15.40]They did their roles very well.
+[72:18.04]Very believable.
+[72:21.49]Yeah, here he is.
+[72:22.65]He was just walking around, too.
+[72:25.23]He was just walking around out kind of on the field with his two-seater shirt on.
+[72:34.78]Oh, there's Schmidt Papa right there.
+[72:37.96]Schmidt Papa was... Oh, no, it's going back on.
+[72:49.64]How many people involved knew what your streams were beforehand?
+[72:53.88]There were a few people that knew the channel.
+[72:56.45]But we kept it really under wraps for a long time because obviously we didn't want the location to leak prematurely.
+[73:02.13]Because look, there's one thing about having your location leak
+[73:08.21]10 minutes into the show and you have security versus the location is leaked a month or two before the show and people know where it's going to be.
+[73:18.94]There's a huge difference.
+[73:21.04]So that was obviously part of the reason why we kept it really kind of tight, even to cast and crew.
+[73:29.11]But a few days before the show and like obviously during the show and the day before the show, people people did know.
+[73:40.39]How come the audio's not syncing?
+[73:41.67]Ah, because I keep dropping frames to the server.
+[73:47.18]You couldn't place Missouri on a map, by the way.
+[73:50.32]I can.
+[73:51.02]It's just not under pressure.
+[73:56.82]What was the thing that you needed this particular location for while you delayed it?
+[74:01.19]Well, there were a couple reasons why this show was changed a few times.
+[74:04.69]Here's the kind of long and short of it.
+[74:07.23]So back in 2020, when I wanted to do the show originally,
+[74:11.44]I mean, lockdown happened in March.
+[74:14.52]And we had, we, all these designs that you're seeing here, a lot of them were, we did, there was a lot of pre-work that was already done.
+[74:24.42]We were about to print the jerseys before we said, no, we can't do it.
+[74:29.15]So lockdown happened in March of 2020.
+[74:30.99]And then March, April, May, June, July, it was like July of 2020 when I wanted to do this show.
+[74:38.05]And
+[74:41.74]That was back when they were saying that having more than 10 people in a room was not allowed.
+[74:47.50]It was like you couldn't do it.
+[74:49.36]It was very, very ill-advised against.
+[74:51.90]There was no vaccines at that point.
+[74:54.59]There was no treatment at that point.
+[74:56.43]So we were just like, am I really going to put 60 people in the same area, in the same room, three or four months after lockdown?
+[75:06.39]No.
+[75:06.77]Testing was not even easy either.
+[75:10.71]It wasn't like you could go to CVS and go get 20 tests.
+[75:14.94]No, it wasn't like that.
+[75:16.72]So, I just said, you know what, whatever.
+[75:20.96]cancel all the shows I really wanted to do and we'll just come back to this later and then in 2021 we had we had a venue we we had a certain venue we were at a different stadium and we had to change it because there was something I don't want to speak completely wrong here but there was a venue problem that we couldn't really we had we couldn't overlook it and it was like you know what
+[75:47.96]It was right before baseball season was about to start, kind of around the same.
+[75:50.74]Because here's the thing.
+[75:52.34]Getting baseball players, they play baseball in the baseball season.
+[75:57.68]And trying to get a stadium like this or any of the other ones during the season where everyone's playing is almost impossible because there's games here.
+[76:08.60]There's games here every day.
+[76:10.16]There's games here every other day, right?
+[76:11.64]In a lot of these stadiums.
+[76:13.14]So minor league, semi-pro leagues, you can't just be like, hey, I want clowns and magicians to throw pies at each other.
+[76:20.50]It's like, well, we're in the middle of our fucking season, man.
+[76:22.34]You can't do that.
+[76:25.52]Yeah, these are real players.
+[76:26.34]These are real baseball players.
+[76:29.92]But this year, when we finally got it off the ground...
+[76:34.63]Something that a lot of people might not realize about a stadium is it's not really just baseball.
+[76:41.44]There's a lot of work that goes into a stadium on the field.
+[76:46.14]And from my understanding, a lot of stadiums do not want you to play ball on their field unless it is ready to play ball on.
+[76:56.13]There's liability problems, right?
+[76:57.97]Like, hey, the mound was fucked up and one of my guys fell off the rubber and broke his ankle.
+[77:03.50]There's a lot of stuff that they can kind of cancel shows for and can can events for.
+[77:10.99]The stream is falling apart.
+[77:13.11]Yeah, dude, I don't want to fucking restart and go play server hopping until I find one that works.
+[77:18.67]But I have to ping somebody at Twitch about this.
+[77:20.69]It's kind of fucking ridiculous, if I'm honest.
+[77:24.56]So I got to talk to somebody and be like, can you just see where my traffic is going and find out why the fuck this is happening?
+[77:31.08]Uh-uh.
+[77:33.20]But, I mean, it's fine, but I've dropped 10,000 frames streaming to a West Coast server.
+[77:43.01]Like, do I really have to go to, like, Mexico to have my stream stay on without problems?
+[77:52.74]Whatever.
+[77:55.54]But yeah, a lot goes into getting the ink dry on having this kind of location, which was a huge pain in the ass.
+[78:03.57]But thankfully, we finally got into agreement with Carshield, and they were completely on board with everything.
+[78:08.45]So it was like, yes, finally, we got the venue.
+[78:10.17]The venue was the hardest thing to get.
+[78:11.93]And then the players.
+[78:13.48]Two of the hardest things.
+[78:21.70]Mexico Arc.
+[78:24.00]Yeah, they have to make sure the dirt is soft.
+[78:25.96]They have to make... Yeah, because it's... There's liability problems with if a field is not ready to be used.
+[78:35.33]So that you have to be... Obviously, it's a lot of work.
+[78:37.39]A lot of time.
+[78:41.14]Oh, look at how happy he looks.
+[78:48.40]Isn't this the banner to the Discord right now?
+[78:52.38]Oh, the seventh inning stretch, or I think it was actually the eighth inning stretch.
+[78:56.28]I love this guy.
+[78:59.68]This face.
+[79:01.52]He had this face all night.
+[79:03.50]It didn't change once.
+[79:05.58]He came up to me with the balls and he had that face.
+[79:07.63]He was in character and he nailed it.
+[79:15.47]It's so good.
+[79:19.67]It's one of the qualifications to be able to ride a unicycle.
+[79:22.15]Well, that was the performance group.
+[79:25.53]So that was a group.
+[79:28.98]Were they real clowns?
+[79:30.38]Yes.
+[79:31.22]Well, they were performers.
+[79:32.58]They were a performance group based in St.
+[79:35.22]Louis.
+[79:37.62]Who came up with the players' names?
+[79:39.28]I wrote them all down.
+[79:40.96]Like four or five months ago.
+[79:44.92]I just wrote them all down.
+[79:45.90]I sat there and just was like, I'm going to come up with names.
+[79:53.02]how much was improv and how much was scripted.
+[79:55.90]So with an event like this, when you have a bunch of people, it's because it's not just me doing something.
+[80:05.16]And I saw a lot of people saying, man, you were just the umpire.
+[80:08.02]I really wish you were like a commentator or you did something else besides being the umpire.
+[80:14.49]But I didn't want to do that.
+[80:15.59]I wanted to be
+[80:18.00]this kind of umpire character of guy that didn't do that stuff I didn't want to read from a script in this show I wanted to be outrageous I wanted I wanted to get pied in the face and and not know when so before the show even happened and what I do with pretty much any of these things that you ever see is I've write like three pages or four pages just of stuff
+[80:45.31]I want to see this.
+[80:45.89]I want it to be like this.
+[80:46.57]I want their names to be this.
+[80:47.53]I want it to look like this.
+[80:49.17]I want... This is what... Inning by inning, I kind of gave what I was looking for.
+[80:56.32]And I would say, obviously, the Roadrunner bit was something we planned to do.
+[81:00.80]That's something I wanted to see.
+[81:02.54]The Streaker thing was planned.
+[81:04.00]It was that we want the Streaker to come out in the seventh inning.
+[81:06.36]That was going to happen.
+[81:06.98]That was planned.
+[81:08.16]But when they got out... When they got out... When the Streaker took his shirt off and came to the field...
+[81:14.43]They were directed to just do whatever they wanted.
+[81:19.15]It was an improv show.
+[81:20.05]It was up to them.
+[81:21.43]And obviously, I gave them guidelines of, here's what I would like to see you do.
+[81:24.94]Here's what I don't want to see you really do.
+[81:27.48]But everybody here was just like, hey, let's go do this.
+[81:30.86]That would be fun.
+[81:32.12]Hey, let's go do this.
+[81:32.86]That would be fun.
+[81:33.92]Hey, you know what?
+[81:34.46]I'm going to get on the unicycle this inning.
+[81:36.96]So if a ball gets hit to me, good luck.
+[81:43.75]What does the banner behind me say?
+[81:46.31]Something bugging you?
+[81:47.57]Should I add for something?
+[81:53.57]What did you not want the streaker to do?
+[81:55.84]Take his underwear off.
+[81:56.70]That's about it.
+[82:06.24]The casters were legit as well.
+[82:10.62]Yeah, I think the number one thing that
+[82:13.55]kind of reiterated to this actor was, hey, yeah, just make sure those underwear, those pants don't come off.
+[82:19.99]Just make sure that doesn't come off like this.
+[82:21.37]Just don't just make sure your underwear doesn't come off.
+[82:23.12]Keep your underwear on.
+[82:23.88]Keep this on.
+[82:24.32]Don't take this off.
+[82:25.54]They're not take that off for any reason.
+[82:30.52]Because I would be taking a pretty long vacation from streaming, I think, if that were the case.
+[82:43.72]Did you practice plate umpiring?
+[82:46.34]No, I watched a lot of videos.
+[82:48.72]And we spent the previous day, I was kind of going over, I was behind the plate, obviously, when we filmed a lot of the other scenes.
+[82:56.13]So I had a lot of time to figure out how to do it.
+[83:04.88]This was planned to, like, I want, okay, so one of the things that I wanted to do is I wanted to throw too many people out, so I had to play in the game.
+[83:11.50]One thing that I didn't get to do that I really wanted to do, so the joke was I was going to throw out too many people on the circus side, so then I would have to play in the game.
+[83:20.20]And I wanted to go into center field and still call balls and strikes from center field.
+[83:26.23]You were a trash umpire.
+[83:29.57]Okay, I got the whole field to look at here.
+[83:33.89]I wanted to be in center field and be like, but it just turned out we, they, they, we just didn't do it.
+[83:52.08]Did you know that the player, that player was stealing balls from you?
+[83:54.28]No, I didn't.
+[83:54.84]I didn't feel that at all.
+[83:56.51]Because remember, I have this big umpire turtle armor suit on.
+[84:01.99]So I have a bunch of shit here.
+[84:04.01]I had two mic packs.
+[84:07.58]I had this in-ear secret service ear.
+[84:11.88]I had this microphone that was here.
+[84:13.46]And they were all packed here.
+[84:15.02]So they had so much shit all over me, I couldn't tell.
+[84:18.34]He stole the ball from me.
+[84:19.84]And then he tagged me out with it.
+[84:20.82]And then I figured it out.
+[84:22.08]I was like, you got these two balls out here.
+[84:23.36]That's not the right ball.
+[84:24.22]I was safe.
+[84:25.01]I actually was safe.
+[84:29.45]That whole event was unironically the best thing I've ever seen on Twitch.
+[84:33.37]I'm really glad you think that.
+[84:35.05]I really am.
+[84:38.58]Every time I ever want to do something like this, I think the most important thing that I relay this to the people that are here too, is the whole entire goal is to try to have as much fun as possible.
+[84:50.26]That's all I fucking want, I promise.
+[84:52.78]And I think that when you have...
+[84:56.92]When you bring in people and everybody from this guy to this guy, to this guy, to the people in the stands, to the people that were running production, to all the people out here.
+[85:06.97]And when it's clear that people are having a good time,
+[85:10.87]It is a good time.
+[85:12.28]And that's undeniable that it was a fun time.
+[85:16.16]Forget about any of the technical problems that kind of drop the stream up and down a few times.
+[85:21.44]Every time a show happens, at the end of it, I sit down afterwards and I go, was that fun?
+[85:26.67]Did people have a good time?
+[85:27.55]That's all I care about.
+[85:28.19]And if the answer is yes, then all right.
+[85:29.65]Then that's great.
+[85:30.65]I'm glad we did it.
+[85:33.97]But there's never a moment where I'm
+[85:39.47]I'm not trying to have like one up
+[85:42.50]like Dollhouse, I think, right?
+[85:44.24]Because Dollhouse was so ridiculous and so much went into that.
+[85:48.02]That was a multi-stream, multi-day event.
+[85:52.12]I don't care about, you know, oh, I got to do something that's like Dollhouse.
+[85:55.06]It's got to be as big as Dollhouse.
+[85:56.28]It's got to be... Dollhouse was an unbelievable, astronomical amount of money.
+[86:01.74]Oh, okay, I've got to spend hundreds of thousands of dollars again on this one.
+[86:06.58]That's not what happens.
+[86:07.44]It's just I want to make something happen.
+[86:09.26]If I think it's fun, then I want to do it.
+[86:11.51]So there's never a comparison.
+[86:13.67]There's never like a, oh yeah, I mean, that was all right.
+[86:17.93]But like, it fucking wasn't as good as Dollhouse.
+[86:21.67]This next stream, I got to spend a million dollars on it to make sure it's better than Dollhouse.
+[86:28.45]No, that's not what I think about.
+[86:29.41]It just wasn't good.
+[86:31.31]Did I have a fun time?
+[86:32.47]Did everyone else there have a fun time?
+[86:33.97]And did people watching think it was fun?
+[86:38.37]Yes.
+[86:38.89]Good.
+[86:39.48]Okay, let's do the next one now.
+[86:44.38]The cost doesn't matter if it's a fun show.
+[86:47.06]Yeah, and I told... I did an interview.
+[86:51.89]Me and Jake kind of sat down with Kotaku, if you saw the article before the stream.
+[86:56.17]And one of the questions that the Kotaku editor or whatever asked was, you know, these big shows, right, when you do them, how do you feel about them?
+[87:04.73]Do you think it's like moving the platform to a new place?
+[87:08.94]But I'll kind of reiterate it again.
+[87:10.36]It's a lot of money.
+[87:11.96]And it's...
+[87:14.56]A lot of shit can go wrong.
+[87:17.68]So thinking that, oh, why don't more people do stuff like this?
+[87:22.72]How come more people aren't doing this?
+[87:25.56]I want to see that, do more.
+[87:27.19]But when you think about it, it's like, it's a lot of stress and it's a lot of money.
+[87:31.75]And some people don't fucking have that ability to do that.
+[87:35.81]Some people don't have hundreds of thousands of fucking dollars to throw at stuff like this.
+[87:40.76]They just don't.
+[87:41.64]And that's something that I think to understand is you try to do what you can with what you have.
+[87:48.42]And yeah, there's a lot of risk.
+[87:50.48]There's a ton of risk.
+[87:52.37]So I never want to put myself on some kind of pedestal because I know like how stressful and how scary and shit it is to try to put something like this on.
+[88:03.38]That's why I never want to be like up there on like a pedestal.
+[88:05.62]I don't like it.
+[88:12.99]Rich Randy.
+[88:19.50]They're not as rich as you.
+[88:25.91]You're a humble billionaire.
+[88:27.89]No, but the point is, I guess the whole point of this is when you see the price tags of some of these shows, maybe, and you hear about it.
+[88:37.60]If I have tens, if not hundreds of thousands of dollars for a show,
+[88:44.78]the show is going to be tens of thousands or hundreds of thousands of dollars for the show.
+[88:48.44]You know what I'm saying?
+[88:49.02]It's like, if I have this opportunity, which I'm lucky every fucking day to be here and sitting here doing this, if I'm given the opportunity to be able to have somebody like Bansley come in and support the show, manscaped, right?
+[89:01.38]Like I can take in this money, then yeah, let's do something fucking huge if I can.
+[89:06.02]And look, this could have just not been funny at all.
+[89:10.65]This could have been terrible.
+[89:13.02]This could have been so not funny and shit.
+[89:16.76]And it was like, well, you know what?
+[89:19.82]We tried, right?
+[89:20.88]We tried.
+[89:23.55]So there's a lot of risk that comes with this.
+[89:25.77]And like I said, I never want it to be thought of as like, oh, yeah, yeah, yeah.
+[89:33.01]Of course, this show isn't going to be.
+[89:34.73]I mean, yeah, German, you put on these huge money shows and they're so fun.
+[89:39.67]And I wish more people would do that.
+[89:43.15]I'm in a fucking crazy opportunity, and I don't want to forget it for any day of the week.
+[89:49.52]Ever.
+[89:54.50]It's a very unique, insane opportunity to be looking at these pictures.
+[90:01.13]Which is why I try to, I don't know,
+[90:04.46]I try to keep my brain grounded as much as I can.
+[90:06.52]And like I said, like before one of these shows goes off, I'll be like in my hotel room and just be sitting there going like, fuck, I hope this is fun.
+[90:18.03]I hope this is funny.
+[90:20.63]Well, this is hope this works.
+[90:24.47]The announcers were amazing.
+[90:25.31]They were.
+[90:26.53]And speaking of hotel rooms, I've got to talk about this.
+[90:28.90]This is important.
+[90:30.90]You want to know what I found out about a hotel room recently, staying in a hotel in St.
+[90:36.50]Louis?
+[90:39.73]You, you cannot watch a horror movie in a hotel room.
+[90:45.99]Nope.
+[90:48.33]You can't watch a horror movie in a hotel room.
+[90:52.27]I was watching, I, I, I look, I was watching, uh, the black phone.
+[91:00.56]And I'm sitting there watching it.
+[91:03.84]And every so often, there's just people screaming.
+[91:08.68]And I'm just sitting there like, fucking turn the volume down.
+[91:16.35]I swear to God, nobody's getting killed in here.
+[91:17.71]You know what I mean?
+[91:19.19]When you go to a hotel room, you are surrounded by complete strangers sleeping in other rooms near you.
+[91:27.60]you can't watch a horror movie in a hotel room you'd have to sit there and just go like all right let's put it this was a scary one let's put it on the second that you hear that scream and then you uh I can't now there's like something going on I can't even hear the dialogue because what do you what did they say
+[91:53.28]I can't watch this.
+[91:54.72]And then you turn it all the way down and you're missing dialogue.
+[91:58.22]So you're like, fuck, I got to turn it up, up, up, up, up.
+[91:59.90]I still can't hear it.
+[92:00.58]Up, up, up, up, up.
+[92:02.92]Another scream.
+[92:03.82]And it's even louder than the first one that you tried to correct with the volume decrease in the first place.
+[92:08.74]And I'm just imagining somebody walking down the hall, whether somebody from like a staff member of the hotel or somebody like getting out like, OK, kids, it's time to go to the water park.
+[92:18.42]And you just hear somebody screaming, fucking screaming for their life in this room.
+[92:28.50]I just can't.
+[92:29.32]I can't.
+[92:32.02]You can't watch a horror movie in a hotel room unless you turn it all the way down really low and put on subtitles.
+[92:43.12]And it sucks.
+[92:43.78]It's such a pain in the ass because you have to volume down, volume up, volume down, volume up.
+[92:47.86]But you're like this weird remote control quarterback of the whole.
+[92:51.03]And I just want to watch the movie.
+[92:57.61]You paid for the room.
+[92:58.43]Who cares?
+[93:02.47]Yeah, but like, dude, I don't know.
+[93:03.85]It's like I feel weird.
+[93:06.05]I feel weird sitting here just listening to somebody scream wicked loud in the hotel room.
+[93:11.75]It's just like, fuck, I don't want you to hear that.
+[93:18.03]Self-conscious Samuel.
+[93:24.35]It's just a movie.
+[93:25.31]Don't worry, we'll back you up.
+[93:28.20]But the people in the stands, actors, I think they were like friends and family.
+[93:37.97]These guys were wild.
+[93:40.01]They were having the time of their life.
+[93:41.37]That made me so happy.
+[93:43.61]Seeing how much fun all these guys were having was just like, alright, you're having a good time.
+[93:49.29]You're having a good time.
+[93:50.61]You just came up to the plate.
+[93:51.57]You're doing this funny routine.
+[93:53.23]You're loving it.
+[93:54.59]I'm loving it.
+[93:56.11]This is great.
+[93:56.75]I'm having a blast.
+[93:59.30]Bluetooth headphones exist.
+[94:02.73]I don't... I'm not... I've got kind of a Bluetooth headphone.
+[94:07.00]I don't have a Bluetooth headphone.
+[94:16.14]I doubt they would care.
+[94:17.07]People have fistfights in hotel rooms.
+[94:21.33]All I'm imagining is I'm sitting there watching and I'm like, you know what?
+[94:25.03]I don't give a shit.
+[94:26.15]I paid for this room.
+[94:27.49]I don't care.
+[94:28.73]We're watching.
+[94:30.21]I'm watching the Scream movies at full volume, right?
+[94:34.00]I don't even care anymore.
+[94:35.82]And then I get halfway through.
+[94:37.82]I'm 20 minutes into the movie and it's like there's a knock at the front door and I look out.
+[94:43.30]It's like a hotel staff person.
+[94:46.41]Yeah, we're getting a noise complaint here that somebody was screaming in here.
+[94:48.91]I'm just like, I knew it.
+[94:50.40]I knew it.
+[94:51.12]And one day it's going to happen and I'm just going to freak me out.
+[94:59.72]Why don't you have AirPods?
+[95:00.96]I don't have AirPods.
+[95:05.67]Yeah, this is the brawl.
+[95:07.95]They took the brawl seriously.
+[95:12.30]Yes, this was supposed to happen.
+[95:14.57]It just, I can tell you, I don't want to ruin the show, but it was really funny how this actually ended up.
+[95:20.73]This is behind the scenes shit.
+[95:22.35]Let's talk about it.
+[95:23.29]Okay.
+[95:24.25]So do you want to hear the behind the scenes of how fucked up the last like 20 minutes was?
+[95:31.71]If you don't want to have the magic of the show ruined, I would mute now and come back in 10 minutes.
+[95:38.72]Okay, so do you see the inning that we're in right now?
+[95:40.94]This is the top of the 10th inning.
+[95:42.48]No, this is the bottom of the 10th inning.
+[95:46.45]We went to extra innings.
+[95:49.19]We were not supposed to go to extra innings.
+[95:52.13]So what happened was the Magicians team was playing really well
+[95:58.39]And it got to a point where they were ahead by way too much because they had to be in their dugout for the crunch take routine because they charge out of their dugout in the footage that we had already recorded.
+[96:13.24]So we were like, oh shit, we can't end the game because the magicians have to be in their dugout.
+[96:20.87]They have to charge from their dugout.
+[96:25.10]So it was like, Hmm.
+[96:27.66]Okay.
+[96:27.99]I'm going to blow a bunch of shit calls and I'm going to make sure that the game gets tied.
+[96:33.25]So we go to extras.
+[96:36.73]There you go.
+[96:41.37]Now what happened in extras?
+[96:43.35]I was not, I couldn't control.
+[96:44.81]We just needed to make sure that they got another at bat so they could charge out to the field.
+[96:52.73]Of course, it's rigged, you dummies, LMAO.
+[96:57.23]But it wasn't, though.
+[96:58.25]Okay.
+[96:59.54]We just lost track of the... Okay, the entire game was not scripted.
+[97:04.95]Well, hold on a second.
+[97:07.19]Wait a minute.
+[97:08.11]If you have a problem with that, hold on a second.
+[97:11.43]Those of you that have a problem with the magicians getting that extra at bat, wait a minute.
+[97:16.74]Hold on here, though.
+[97:18.32]The California Circus got a free run that was predetermined because of the mascot fight.
+[97:27.34]Um, sorry.
+[97:29.49]That circus run was a predetermined run.
+[97:35.49]They both got something extra.
+[97:41.56]Double rigged.
+[97:47.91]Is every stream you've ever done scripted?
+[97:50.23]No, not this one.
+[97:52.29]This is the first one.
+[97:59.27]The fact that it ended with the magicians winning and then devolving into the funniest Jerma moment in a long time is the best thing about the baseball stream.
+[98:08.83]Yeah, I mean... It was just fun.
+[98:14.43]I knew it was going to be fun.
+[98:17.20]I think, like, Jake asked me this question.
+[98:19.64]Some people in production, some of the performers come up and then, like we just talked about.
+[98:24.24]So I get approached by some people on the crew and they're just like,
+[98:28.78]did you like do this what's the point of this is it are you like why why this why this and I have the same answer and the answer I'll give you too the same answer I'll give anybody I thought it would be funny that's it that's all it takes I saw in my head okay so before dollhouse
+[98:51.01]The only reason why I wanted to do Dollhouse is because I, in my head, I was like imagining, I was kind of watching in my head people in these black spandex suits moving furniture around in like a house that I was like frozen in because it's like the buy phase.
+[99:07.78]And that was the only reason why I wanted to do it.
+[99:10.02]That was like the sole reason to be like, I'm going to start writing it and I want to write the whole thing and I want to get the whole thing the way I want it.
+[99:15.74]It's like a one joke is what makes me want to do something.
+[99:20.32]And the one joke that I wanted to do here that made the whole thing happen was this end of the game thing.
+[99:28.31]The fact that it's this, not just this game.
+[99:31.51]Oh, look, hey, here we are at crunch time.
+[99:32.71]We're going to go over the other games to me was like,
+[99:35.96]That was why I wanted to do the show because that would be funny.
+[99:38.76]And that's it.
+[99:40.58]So after that one thing that I see in my head that I think is interesting or funny enough for me is when I go, okay, so now how do I make a whole thing out of this?
+[99:46.66]How do I do a whole show?
+[99:48.47]How would I do it?
+[99:51.10]And then I'm like, you know, I start like writing.
+[99:52.75]Okay, so the German Baseball Association, I guess that's what it is.
+[99:55.91]Okay, so here we are and blah, blah, blah.
+[99:57.15]And this is what's happening.
+[99:57.81]And this is a beautiful day and whatever.
+[100:00.49]And I just sort of write a bunch of jokes and a bunch of things that I want to do and see.
+[100:05.53]Then I get on the phone and I start talking to Community Jake, who is the production guy.
+[100:12.04]He's like the, yeah, let's try to make that happen.
+[100:14.38]I send him all the stuff that I write and we go back and forth for months.
+[100:20.12]Then it happens.
+[100:24.65]Admit it.
+[100:24.97]You just want to be Brewster's Millions IRL.
+[100:28.35]What a specific reference.
+[100:34.78]The baseballs are sold out again?
+[100:38.08]What?
+[100:39.06]Hold on.
+[100:39.36]The souvenir baseballs are gone.
+[100:41.10]What?
+[100:47.60]What?
+[100:56.52]What was the replacement?
+[100:58.04]What was the thing that started the who replaced me?
+[100:59.70]What joke was that that made that happen?
+[101:02.57]Very simple.
+[101:03.63]It was me sitting behind somebody with a clipboard and them pretending to be me while I coached them to be me.
+[101:10.01]That was it.
+[101:10.95]That was what started the rest of it.
+[101:13.69]I just saw me with a clipboard like, I'm sorry, you didn't do the look of me right.
+[101:17.83]That was enough.
+[101:19.25]It's usually one thing gets me going and then I just start writing stuff.
+[101:27.73]Remember, your entire stream was an American Dad episode.
+[101:30.05]I'm not kidding.
+[101:30.65]Yeah, it was also a Simpsons episode, too.
+[101:35.60]No, Futurama.
+[101:36.28]It was also in Futurama.
+[101:40.28]Only the game-used balls are sold out.
+[101:42.16]Okay, all right, all right.
+[101:52.46]I don't think that... Look, the idea of a cartoon baseball league with a bunch of jokey baseball is not a new idea.
+[101:58.17]But it's an idea that I wanted to do.
+[102:00.97]And to see if I could make it fun.
+[102:03.21]It's not a new idea.
+[102:07.23]Both are out of stock?
+[102:11.54]Really?
+[102:11.86]Oh, shit.
+[102:15.16]Okay, they both are out of stock.
+[102:17.94]Both are.
+[102:20.23]That's impossible.
+[102:21.95]That's impossible.
+[102:27.04]Should I do more?
+[102:29.12]We want more.
+[102:30.90]Did I just make that up?
+[102:32.40]Did somebody actually say that?
+[102:33.32]Did I just make that up?
+[102:35.16]Should I restock it again?
+[102:36.02]Get to signing.
+[102:43.94]Yes, please.
+[102:44.74]Please, please.
+[102:46.82]Jesus.
+[102:47.40]All right.
+[102:48.68]Let me...
+[102:50.48]Hold on.
+[102:51.86]Let me talk.
+[102:52.48]I got to talk to community Jake.
+[102:55.61]Because I can see if it's like, is it possible for me to do more?
+[103:09.97]How many?
+[103:10.71]I have to figure out how many that are going to be available.
+[103:13.23]All right.
+[103:14.39]I'll get back to you next stream.
+[103:15.91]We might do another restocking, so keep an eye out.
+[103:19.73]A third, a second time.
+[103:21.78]Or at least the balls.
+[103:25.28]What was the joke that started the archaeology stream?
+[103:27.74]Me and Holly breaking a geode outside.
+[103:31.16]It was just fun to do.
+[103:37.80]We got a geode one day.
+[103:40.01]I was like, oh, this is cool.
+[103:43.99]This sounds fun.
+[103:44.53]And it was like, all right, now let's make up this whole thing.
+[103:48.07]To FPS Andy, I can't fix it.
+[103:51.50]I can't fix it.
+[103:53.10]I can't fix it.
+[103:54.72]I can't fix it.
+[103:56.22]I'm sorry.
+[103:58.02]I'll find, look, on the next stream, I will make sure that I'm on the right server.
+[104:02.51]Whether that's, oh, you have to go to Dallas.
+[104:04.49]You're going to try this.
+[104:06.13]Try Dallas.
+[104:06.99]Try Chicago.
+[104:07.69]Try Mexico.
+[104:08.59]Try San Francisco.
+[104:10.35]Try San Jose.
+[104:11.55]Try Boston.
+[104:14.33]I'm going to jump around to every server again and just run an upload test and then try it again and we'll do it again.
+[104:31.24]Just fix it.
+[104:33.06]I wish it were that easy.
+[104:36.81]He only knows five cities.
+[104:39.05]Try harder.
+[104:46.22]Your favorite character Morty was added to multiverses.
+[104:48.44]Oh, we'll play it.
+[104:49.86]You bet your ass we will.
+[104:54.78]Alright, let's keep going.
+[104:56.74]But yeah, this was... We had to make sure the magicians were going to come out at the right time.
+[105:03.36]You know what's really funny about this, though?
+[105:06.10]I think there's a few clips of this when we've said, all right, that's it, we're out.
+[105:09.64]Like, that's it, that's it, that's it.
+[105:12.34]A lot of these guys knew each other.
+[105:14.96]And see, they're like kind of, you know, like hugging it out.
+[105:19.94]Like, that was a fun day.
+[105:21.94]It's really cool.
+[105:22.50]It was awesome to see it.
+[105:23.29]Like, once everybody, oh, wow, you can see, you can pie right in the face right here.
+[105:36.00]When are you going to do Mr. Satan?
+[105:40.40]Like a whole stream?
+[105:44.99]An entire stream?
+[105:45.99]An entire stream of Mr. Satan.
+[105:54.81]Oh, this is footage.
+[105:55.95]Let me show this.
+[105:57.83]Somebody has from the stands footage of the whole fight.
+[106:00.30]Hold on, give me one sec.
+[106:06.00]This guy was just spinning around with it.
+[106:09.84]Let me add this.
+[106:12.40]Oops.
+[106:13.43]This is We got a video from the stands here.
+[106:21.11]Make sure it's not too loud.
+[106:23.16]Hold on.
+[106:24.40]Where's the... There it is.
+[106:28.92]Who are the audience members?
+[106:30.06]The audience members were friends and family.
+[106:31.82]Although some people were And eventually it was like they were screened and they were like allowed to come in, I think is how it worked.
+[106:39.65]But for the most part, people were not allowed in.
+[106:40.87]But where, where are the, there it is.
+[106:44.45]Okay.
+[106:59.17]Okay.
+[107:03.63]This, sorry, there's a black screen.
+[107:10.10]That's my fault.
+[107:14.36]That Here it is.
+[107:16.66]Okay.
+[107:16.94]So here is from the stands.
+[107:26.12]That's insane
+[107:55.41]Yeah, I think at this point it was over.
+[107:57.51]I think they cut out already here Oh my god, he got all... Oh my god, I didn't even see that.
+[108:04.47]What?
+[108:04.91]Oh my god.
+[108:07.44]Holy shit, they're all taking their clothes off.
+[108:12.44]This wasn't even in the show.
+[108:14.46]He got stuck in there.
+[108:24.06]Yeah, see, I got pied again, see?
+[108:26.12]Look at me, I'm on, I'm on the left over there.
+[108:27.78]I got, I got another pie directly in the face.
+[108:34.74]That's so funny.
+[108:38.50]That's awesome.
+[108:42.52]Uncensored.
+[108:45.83]Shaving cream in the eyes.
+[108:47.11]Uh, I lost my place here.
+[108:55.20]Where was I?
+[108:56.10]Can you guys help me here?
+[109:01.30]We're much further than this.
+[109:02.42]– this is the beginning of the day.
+[109:05.84]Close your eyes for a second, because it's going to be annoying to look at.
+[109:16.30]That's kind of cool!
+[109:19.92]Yeah, close your eyes.
+[109:20.80]Like, I'm serious.
+[109:21.72]Like, I don't want to annoy anybody.
+[109:33.58]are awesome.
+[109:34.28]Leatherjacket took these, by the way.
+[109:37.85]It's cool to have Leatherjacket, who's a mod, was there.
+[109:40.65]I think we were around here.
+[109:44.65]It was after the cigarettes.
+[109:52.25]It was right at the fight, right?
+[110:00.89]Hold on.
+[110:02.59]And here we... And here we go.
+[110:08.49]Have you guys noticed that everybody that does a Joker impression now does like a bunch of mouth sounds?
+[110:14.76]And that's the impression?
+[110:17.28]So, let me tell you.
+[110:18.98]Nothing.
+[110:20.66]That's like, that's a Joker impression now.
+[110:21.90]Alright, we can let it play from here.
+[110:29.81]Yeah, if you want to do a Joker impression, lean in.
+[110:34.39]You see, we gotta kill the Batman.
+[110:40.96]And there's like, oh, he did it!
+[110:42.12]He did a Joker!
+[110:42.74]That's a good Joker!
+[110:54.01]I love your new stache.
+[110:55.29]It's probably not going to stay because it's really annoying.
+[110:57.87]This kind of like sucks to have on, if I'm honest.
+[111:00.75]Because my hair is not full enough to be able to do it.
+[111:03.92]So it's just these little spine wires just stabbing into every section of my lip.
+[111:10.40]Like above here.
+[111:11.40]I hate it.
+[111:17.86]Oh, so here, like I was saying, these pass by.
+[111:20.08]But again, here we are.
+[111:21.83]This is in between an inning.
+[111:23.81]This is while you guys are on commercial break or while you're away.
+[111:27.93]Here we are.
+[111:28.63]How's it looking?
+[111:30.41]How's this going?
+[111:31.07]Look good.
+[111:31.33]You got to start doing this.
+[111:32.27]All right, I'm going to start doing that now.
+[111:33.71]Okay, you do that now.
+[111:34.97]Okay, go, go, go, go.
+[111:39.21]Keep the whiskers.
+[111:39.79]You have to trim it.
+[111:40.43]I know, but it's kind of annoying.
+[111:42.39]I don't like it.
+[111:46.87]But yeah, let me figure out what the whole baseball stuff signing.
+[111:54.04]Here we go.
+[111:54.52]Okay, yeah, we'll go from here.
+[111:56.98]Because I did not expect they were going to go again that quickly.
+[112:00.22]So let me talk to Jake and see what he says.
+[112:05.88]Shave it off on stream?
+[112:06.90]Nah, nah, nah.
+[112:09.53]And I'm sorry that the internet is screwed up.
+[112:12.31]It's not my internet.
+[112:13.45]My internet is completely fine.
+[112:14.89]I promise you.
+[112:16.63]It's just this bounce around.
+[112:19.67]Yeah, I don't want to be a broken record.
+[112:21.49]I don't want to just run in circles.
+[112:23.21]But I'm sorry that it's annoying right now.
+[112:27.85]Nair it off?
+[112:29.09]Oh, no.
+[112:29.55]I already did the shaving bit.
+[112:33.91]Yeah.
+[112:37.74]Did I ever tell you about what didn't happen?
+[112:40.14]I think I probably talked about it.
+[112:42.66]Okay, the hot air balloon thing to go from Boston to Vegas.
+[112:46.49]I told you guys that I wanted to find found footage that somebody had from like a dash cam of a bunch of crazy shit that happened up in the air.
+[112:53.77]Did I ever tell you that?
+[113:01.38]Like, there was going to be a dash cam on the hot air balloon.
+[113:04.32]I was in front of a green screen, going to record a bunch of footage of just crazy shit happening up there.
+[113:10.17]Like, getting invaded by pirates.
+[113:12.11]Like, eating people and shit.
+[113:13.39]Like, it was going to be nuts.
+[113:14.83]And it was going to be, oh, dude, we, like, found this.
+[113:17.31]Like, this was some hot air balloon dash cam.
+[113:20.55]It's, like, lawless insanity up there.
+[113:22.71]But I never recorded it.
+[113:26.96]That never happened either.
+[113:27.86]Oh, no.
+[113:28.94]They got him.
+[113:30.40]They got him.
+[113:30.98]They got Ballboy with the big cartoon hammer.
+[113:41.67]Oh, my God.
+[113:42.01]What a mess.
+[113:44.63]This sucks.
+[113:45.47]No.
+[113:45.83]Yeah, that sucks.
+[113:47.25]Here's the best part.
+[113:49.67]Right now, he is going, oh, fuck, fuck, fuck.
+[113:54.21]And he's like, hold on, man.
+[113:54.93]Don't touch it.
+[113:55.33]Don't touch it, man.
+[113:55.89]Don't touch it, dude.
+[113:57.11]Don't touch it.
+[113:58.41]Don't touch it.
+[114:01.39]I know what that's like.
+[114:02.67]Yeah, I know what it's like.
+[114:03.71]It sucks.
+[114:08.53]And yeah, this is great.
+[114:12.19]Once it was like, hey, it's all good and done.
+[114:13.72]This is the coach for the magicians.
+[114:15.06]It was Joy Handsome.
+[114:21.56]No, it was a great time.
+[114:23.92]I didn't get to see these, so I'm really happy about this.
+[114:36.37]At this point, everyone's got their clothes off.
+[114:39.03]Everyone's clothes are all off.
+[114:46.01]The hair, like, pulled back.
+[114:53.90]These are fucking great.
+[114:55.66]Oh my god!
+[114:59.32]Holy shit!
+[115:04.86]Kooky the Clown!
+[115:07.62]The clown is fucking stacked.
+[115:12.90]Holy shit.
+[115:16.93]Whoa.
+[115:21.67]This photo is fucking crazy.
+[115:24.23]This photo is crazy.
+[115:26.05]This is an insane photo.
+[115:30.43]This is my favorite photo of the whole night.
+[115:37.01]No wonder he snapped Dumbledore's neck.
+[115:41.58]Awesome.
+[115:46.02]Yeah, but these are all, so these are all the performers and the players.
+[115:51.44]And if you go kind of, uh, like one by one here, you can kind of see, remember who they were.
+[115:56.12]It's such a great group.
+[116:00.09]Uh, truly a great group.
+[116:01.57]I'm just ecstatic about it.
+[116:03.81]They, they were so much fun.
+[116:06.99]God, I feel like it's like, oh, remember when?
+[116:08.57]Remember when that happened?
+[116:09.41]Oh, you remember?
+[116:10.03]This was like a week ago.
+[116:11.98]I'm like, oh, remember?
+[116:14.36]You remember?
+[116:14.78]It was like six days ago.
+[116:17.50]Oh, yeah.
+[116:24.95]There were a lot of like at the end of the night, like selfies and stuff.
+[116:36.93]And everyone's saying, dude, why do you make the same face in every photo?
+[116:41.47]I don't know.
+[116:43.63]You make different faces in your, if it's like, hey, let's get a picture.
+[116:46.77]It's like, I don't like make, I just like, that's my take a photo face.
+[116:51.33]It's just like, is that weird?
+[116:57.09]You saw the post?
+[116:57.81]Of course I saw the post.
+[117:01.85]I always make the same... Yeah, you make like this... Because you know why you make the same face in every single photo?
+[117:06.85]Because you know exactly what that face looks like.
+[117:09.83]If you change it up, right?
+[117:11.11]If you practice that take a photo face, like... Okay, you change that up.
+[117:17.13]I don't know what the fuck that looks like.
+[117:19.12]I have no idea what that looks like.
+[117:20.72]I'm not doing that.
+[117:21.56]I have no idea what I look like.
+[117:22.82]I might look like a crazy... I might look like a fucking weirdo.
+[117:25.82]I might be like... I might look crazed.
+[117:28.34]No, you have the one face that you know exactly what it looks like and you do it every time.
+[117:35.90]Too much teeth, yeah.
+[117:37.24]Too much teeth, it's like... Or too little teeth, it's like... No, I got it down.
+[117:43.24]It's... That's it.
+[117:51.13]Nice lifeless eyes.
+[117:52.89]It's a photo!
+[117:54.13]I'm sorry, I'm not like... What do you want?
+[117:57.81]It's just, I'm taking a picture.
+[118:01.37]And by the way, the fire breathing...
+[118:05.75]didn't think there was going to be a fire breather on that stream.
+[118:09.43]You didn't think there was going to be a legit guy breathing fucking flames out of his mouth for like five straight minutes.
+[118:18.90]But yeah, that's the photos.
+[118:20.44]It was awesome.
+[118:22.42]I'm glad I got to share that.
+[118:23.54]Special huge thanks to Leatherjacket.
+[118:26.98]Leatherjacket came out here and did all this.
+[118:31.64]So, big shout out to Leatherjacket for this.
+[118:39.80]And that was the show.
+[118:41.30]That was the baseball show.
+[118:51.48]Tell us about the guy whose pants caught on fire.
+[118:55.47]The guy whose pants caught on fire?
+[118:57.35]What do you mean?
+[119:00.87]Hold on, let me see.
+[119:08.03]Whose pants caught on fire?
+[119:15.40]Let me see.
+[119:15.86]I mean, that's a trained professional.
+[119:26.23]But, you know, sometimes you get... I mean, this is a trained professional.
+[119:45.96]You know what he's doing?
+[119:46.96]He's good.
+[119:52.53]He knows he's done.
+[119:53.05]We're good.
+[119:56.31]Multi-talented.
+[120:01.79]Yeah, when the fire breather was going, like, he was taking his fingers and splitting the fire, so the fire was just coming out of two different sides.
+[120:12.12]Just, boom!
+[120:13.68]Boom!
+[120:15.08]Boom!
+[120:18.81]Would you ever do director's commentary over one of your big streams?
+[120:23.06]Um... I think stuff like this is good.
+[120:26.48]Showing, like, some clips and pictures and stuff.
+[120:28.78]But I do... I really like the notion that you don't get to really know everything.
+[120:35.78]I'd rather you guys not know every single detail, because it's more fun that way.
+[120:39.54]So...
+[120:41.74]This kind of is that, yeah.
+[120:43.62]This is it right now.
+[120:45.18]But I don't want to, you know, line by line, after everything that happens, pause and be like, so this is how that happened.
+[120:51.42]I'd rather have at least a little bit of magic and mystery behind it, right?
+[121:00.93]How many people were not actually baseball players, but just performers?
+[121:05.04]Uh, I believe we had 11, no, 14 people that were not baseball players and 22 or 23 or 24.
+[121:15.00]I think there were 24 baseball players.
+[121:18.37]And we were just kind of putting them, cycling them in and out.
+[121:23.73]You told us it was rigged.
+[121:24.61]Yeah, but I didn't say how much of it was.
+[121:30.85]Did you do like a big party or anything after the event?
+[121:33.21]No.
+[121:34.63]I mean, the show ended on, um, the show went till what?
+[121:41.66]Like midnight Eastern, 1am Eastern is when it really turned off.
+[121:46.74]So it's not like, oh, hey guys, it's like midnight.
+[121:49.58]It's time to go to dinner.
+[121:50.86]And I was like, everyone was tired.
+[121:52.56]Like this, get some good rest.
+[121:55.31]Uh, take care of yourselves.
+[121:57.45]It wasn't really anything else really going on.
+[122:01.28]exhausted.
+[122:01.76]Yeah, probably exhausted.
+[122:05.43]Talk about the man on the ball.
+[122:07.49]It's a performer.
+[122:09.93]Every time you saw somebody do something like this, that was a performer that has a lot of experience in acrobatics, tricks, juggling, circus-type performances.
+[122:24.86]They can move around really quickly.
+[122:27.82]Very animated.
+[122:29.08]They were awesome.
+[122:30.25]Anytime that you saw something like that happen, it was one of these guys.
+[122:37.66]One of the magicians commented on my fan art.
+[122:39.72]That's awesome.
+[122:48.09]Yeah, I've seen on Twitter, they've been tweeting stuff out.
+[122:51.65]That makes me happy.
+[122:52.25]That means they had fun.
+[122:54.49]It'd be one thing if they were... Okay, so if nobody said anything after the show, if it was like, oh, thank you, that was so much fun, yeah, yeah, yeah, thanks, and then everyone was dead silent afterwards, nobody said anything, we never heard from any of the players ever again, it'd be like, oh, I hope they... That's a good sign that they were tweeting out pictures.
+[123:27.04]What about the bunny?
+[123:28.62]Oh, the bunny trick.
+[123:30.10]Yeah.
+[123:30.32]I didn't even know that.
+[123:31.04]I didn't even know that was going to happen.
+[123:33.49]He did like a, he did like a rabbit trick.
+[123:35.73]We pulled a rabbit out of a hat.
+[123:40.43]I was like, holy shit.
+[123:41.55]That's really happening.
+[123:46.44]It's too bad because that was right.
+[123:48.14]We were having the most kind of internet issues at that exact moment.
+[123:54.00]So he did a whole trick and we really only got to see kind of the end of it.
+[124:04.77]Did you know the commentators from somewhere?
+[124:06.19]They're amazing.
+[124:07.35]They were a connection to somebody on the production team.
+[124:10.16]So somebody on the production team had a contact to, because they do actual broadcast baseball.
+[124:16.58]They do, I think, college games and minor league games, I think.
+[124:25.05]They live and breathe that.
+[124:27.67]We got real broadcasters.
+[124:29.17]That's what they do.
+[124:34.46]Were you actually frustrated during the event or was it an act?
+[124:38.77]Yeah, it's part of the gig, right?
+[124:42.11]I mean, it's part of the fun.
+[124:48.17]I was actually, there was a point where I was genuinely upset.
+[124:51.87]And it was when I got in my ear for the first time that we were like dropping frames.
+[124:56.48]And I was just like,
+[125:00.44]Nowhere we can't be, right?
+[125:03.58]So I was a little pissed off at that point.
+[125:08.10]But after another inning went by, they turned it off, changed servers, went back to normal.
+[125:15.29]Not another problem the entire rest of the night.
+[125:18.41]I went from being annoyed to, oh, thank God.
+[125:24.49]Thank God the last two hours of the show is fine.
+[125:27.35]Thank goodness it's not.
+[125:28.43]Because one of the things I was really concerned about when we started actually having those internet ingest-whatever-they-were problems...
+[125:34.36]There was a loud fuck on stream at one point.
+[125:36.44]Oh, that was fake.
+[125:37.30]Yeah, that was early on.
+[125:40.40]Oh, the fuck.
+[125:41.94]The loud fuck.
+[125:42.94]I know exactly what you're talking about.
+[125:44.42]Do we have a clip?
+[125:49.34]Fuck.
+[125:49.82]Yeah.
+[125:50.40]Yep.
+[125:51.10]No, that was fake.
+[125:52.64]That was before we even started having problems.
+[125:58.33]That was, I remember trying to make it real.
+[125:59.85]And I think that, yeah, that was definitely not real.
+[126:03.67]That was like in the second inning.
+[126:07.29]I was only irritated from like the bottom of the fourth inning to like the top of the sixth inning.
+[126:14.10]Because I knew we were having a bunch of problems up in like the, in the truck.
+[126:20.30]But from what I have been told...
+[126:23.05]was okay right it was some points were kind of bad but it was it was watchable right for a lot of that like the fourth and fifth inning from what I've been told it was like okay it sounded authentic let me see
+[126:52.22]I say, that's out, that's out.
+[126:52.98]Right on top of it.
+[127:19.86]God, that was violent.
+[127:23.02]Why?
+[127:23.22]Oh, it's because I got the pie in the face.
+[127:25.98]It was from the because that I got hit with the pie and I'm irritated.
+[127:29.74]I'm like throwing some people out.
+[127:31.28]Oh, yeah.
+[127:32.74]And run another run scored.
+[127:34.18]I do believe so.
+[127:34.86]It should be five.
+[127:35.53]Nothing.
+[127:36.71]Run score.
+[127:37.57]Run scores.
+[127:38.25]Albertson confirms.
+[127:41.89]Right on top of it.
+[127:44.09]Polka dot.
+[127:45.01]Apologize for the language.
+[127:46.09]Our effects mic sometimes picks up some.
+[127:50.25]actually funny that's actually really funny no I was not actually mad I was I mean I guess I was supposed to be because this is right after the pie and this I threw out like three people explain what happens here so they're going to give second base to smith and run another run scored I do believe so it should be five nothing run score run scores albertson confirms right on top of it
+[128:24.34]Dude, the people in the stands must have thought I was insane.
+[128:27.60]Because I remember I was turned toward the audience and I screamed it out towards the audience.
+[128:38.27]All four of them.
+[128:40.19]Can you imagine?
+[128:49.01]Super aggressive.
+[128:51.67]Oh, it sounded like a stock sound effect.
+[128:54.89]Why did I do that?
+[128:56.35]I don't I don't know, because I figured it was appropriate to yell that because I'm I don't know.
+[129:05.03]I feel like it was appropriate.
+[129:11.05]Who is the fan you kicked out?
+[129:14.01]Oh, I forget what they were saying.
+[129:15.59]They were saying something.
+[129:16.61]It was... What were they saying?
+[129:19.91]Oh, it was something so specific and I can't remember it.
+[129:22.31]But it was... They said it like five or six times behind me.
+[129:27.20]And... Wasn't there a seven-year-old there?
+[129:30.96]I mean...
+[129:41.93]I mean, I don't know.
+[129:44.12]I don't think so.
+[129:51.69]Somebody said, you're closer to the ground than I am.
+[129:53.77]How could you have missed that?
+[129:54.67]That's probably what it was.
+[129:56.65]That's probably what it was.
+[129:59.93]family friendly well no we did tell okay we did tell everybody that was going to come that this was a comedy this was like a I like a potential r-rated comedy routine we did say that we did say this was a comedy show this is a comedy show and fansly was a sponsor you should have thrown out the seven-year-old this probably I don't know what do you want me to say
+[130:30.37]Did you have fun?
+[130:31.03]Yeah, it was fucking awesome.
+[130:33.19]You kicked out the seven-year-old.
+[130:34.45]No, I did not.
+[130:35.69]I did not kick out anybody that was, unless they were yelling things at me and I threw them out.
+[130:41.72]And the person that I threw out is, they knew it was a joke and they didn't think it was serious.
+[130:47.16]You're a bad influence.
+[130:50.31]When the mascot started fighting, the kid's dad picks him up.
+[131:13.62]It's real.
+[131:14.82]That's real.
+[131:17.64]No way.
+[131:19.50]No way.
+[131:22.43]Actually real.
+[131:23.45]Actually real.
+[131:33.90]So you're telling me there's a point where the mascots are fighting and a little kid gets picked up?
+[131:37.69]All right, well, whatever.
+[131:44.93]I got nothing to do with that.
+[131:54.10]Remember we were at PAX East 2018 and this little 10 year old with his dad approached you and said he was a big fan and I could just see the shock on your face because he definitely shouldn't have been watching you.
+[132:04.93]Yeah, I remember that.
+[132:18.10]Hey, Wendy, listen, when you come to this stream, you have to click a button.
+[132:25.45]You have to, you have to click a button.
+[132:28.08]That button says something very specific.
+[132:29.96]What does it say?
+[132:31.48]This broadcast is intended for mature audiences.
+[132:35.06]Okay?
+[132:35.94]You have to click that button.
+[132:38.18]And look, I can't, I cannot stop somebody from coming here.
+[132:45.28]If somebody is not like 18 and they're, oh, this is a mature stream, it's 18.
+[132:50.03]Oh, it's at least, you know, at least you gotta be at least a certain age.
+[132:55.54]I can't look into this screen and see fucking how old you are.
+[133:00.80]This broadcast is for clowns only.
+[133:10.61]Look, I will say this.
+[133:13.05]I hope it comes off this way.
+[133:18.09]Look.
+[133:18.39]Listen.
+[133:19.09]Listen to me.
+[133:19.69]Look.
+[133:19.99]Listen.
+[133:20.35]Listen.
+[133:20.63]Listen to me.
+[133:21.41]Okay.
+[133:21.65]Hear me out.
+[133:21.95]Listen to me.
+[133:23.01]That's how you know I'm about to start talking.
+[133:25.00]That's how.
+[133:25.34]Okay.
+[133:25.64]Oh.
+[133:25.82]Hey.
+[133:26.06]Hey.
+[133:26.24]Is Jeremy going to start talking?
+[133:27.78]Oh.
+[133:27.90]Hear me out.
+[133:28.24]Listen to me for a sec.
+[133:29.72]That's like before every sentence I've ever said.
+[133:33.02]Okay.
+[133:33.60]But listen to me.
+[133:34.30]For real.
+[133:35.54]I try to have the stream be a fun place.
+[133:37.76]I try to be like positive about shit.
+[133:40.11]I try not to be like doing anything too bad or fucked up.
+[133:43.27]You know what I mean?
+[133:43.77]Like I try to have it be like a decent moment.
+[133:45.83]I try to have it be fun.
+[133:48.85]It doesn't show the fight.
+[133:52.06]Oh, no, no, no.
+[133:53.96]No, no, no.
+[133:54.64]That's okay.
+[133:55.66]No, no, no.
+[133:59.38]You look like dad about to give me the talk.
+[134:01.26]All right, but listen.
+[134:03.44]I'm a little crass, but I genuinely want people to leave this stream with like, oh, I had fun, right?
+[134:12.73]That's it.
+[134:14.86]I cannot control who is here.
+[134:16.46]I can't.
+[134:17.99]All I can do is put the warnings up, right?
+[134:24.47]But whatever.
+[134:25.13]You know what?
+[134:26.03]Whatever.
+[134:26.45]What do you want me to say?
+[134:28.23]I'm wearing the JEC shirt because I feel fucking strong today.
+[134:35.43]How are babies made?
+[134:37.13]I don't know.
+[134:37.77]I don't know.
+[134:38.79]I don't know.
+[134:39.35]I've been trying to figure it out for years.
+[134:42.22]A bird flies in and drops it off like a big stork comes into your window.
+[134:45.39]I still don't know.
+[134:46.47]I still don't understand.
+[134:47.37]I don't know.
+[134:53.43]There's no more.
+[134:55.31]I've used it all.
+[134:57.17]I've used all of it.
+[135:07.94]Not just today.
+[135:08.94]All right.
+[135:10.31]So what other questions we got?
+[135:18.02]Any more questions for me?
+[135:19.13]We've been here for like two and a half hours.
+[135:20.31]Holy shit.
+[135:22.39]Do you do no more coke?
+[135:23.43]I don't do drugs.
+[135:24.77]Besides marijuana.
+[135:26.13]It's the only one.
+[135:26.73]And maybe alcohol.
+[135:28.11]Every four or five months.
+[135:36.26]Are you going to go to TwitchCon?
+[135:38.02]I don't think so.
+[135:39.62]I do not have a plan to go to TwitchCon.
+[135:49.34]Are you going to stream Spyro 2?
+[135:50.59]No.
+[135:58.48]No, I'm not.
+[136:03.64]Did you add anything to the Reddit shelf?
+[136:06.67]There is going to be something on the Reddit shelf.
+[136:08.57]There's a baseball up there now, but it's just there temporarily.
+[136:11.81]What is going to go up there is the umpire mask.
+[136:15.99]I've got to clean it up, though.
+[136:16.77]It's still kind of disgusting.
+[136:18.31]So the umpire mask is going to go up on the shelf somewhere.
+[136:21.91]That's going to be added to the Reddit shelf.
+[136:23.09]You're going to stream Slime Rancher 2?
+[136:28.33]Yes. 100%.
+[136:34.79]Are you on push to talk?
+[136:36.23]Nope.
+[136:40.84]Oh, yeah.
+[136:41.72]The the the new trophies came in for the streamer awards.
+[136:47.82]Can you see them?
+[136:48.86]You can see them right next to each other.
+[136:50.50]Look at how much bigger than they are.
+[136:53.98]Cutie sent out replacements for the ones.
+[136:56.08]They're awesome.
+[136:59.08]Yeah, those things are unbelievable.
+[137:01.55]They grew in size.
+[137:04.42]I gotta move some stuff around on the red shelf.
+[137:09.98]You gonna do another infomercial stream?
+[137:12.44]Oh, maybe.
+[137:20.97]Since all the game-used baseballs are gone, can you replace them with the ass-used ones?
+[137:25.63]Oh.
+[137:32.16]Can we see your next big show live?
+[137:35.18]I mean... Here's... Why is everybody omegaloing?
+[137:46.19]What happened?
+[137:48.57]What happened?
+[137:51.74]Why are people omegaloing?
+[137:53.56]What's going on?
+[137:58.82]There's a lot of omegalos and I don't know why.
+[138:00.42]What's happening?
+[138:04.55]Why did you read that?
+[138:05.27]Read what?
+[138:05.87]What did I read?
+[138:06.39]What did I do?
+[138:09.80]The asshole ball thing.
+[138:11.12]Oh.
+[138:12.94]Oh, I mean, that was a delayed omega lull reaction.
+[138:21.25]How much would that sell for?
+[138:24.25]I'm just thinking, remember, you clicked mature audience right when you fucking came here.
+[138:27.57]What would that sell for?
+[138:30.39]What would that actually sell for if it was a fucking open auction?
+[138:34.25]Open auction.
+[138:35.81]No.
+[138:36.53]It was open for like a month.
+[138:44.72]You think that that would go for more than... Do you think that would go for more than $10,000?
+[138:56.92]What is this?
+[138:57.58]What's in mod chat right now?
+[138:58.90]Germa F?
+[138:59.62]What is this?
+[139:01.48]What sound effect is this?
+[139:11.84]At most.
+[139:13.06]$60,000 minimum?
+[139:13.85]No, it would not.
+[139:17.77]I would pay $2,000 unironically.
+[139:21.79]Oh, really?
+[139:23.27]Really?
+[139:23.87]Jerma's Ass Baseball would pay $2,000 for this baseball.
+[139:30.35]Judging by that, the fact that that's your username, I would imagine that would be a lot higher.
+[139:40.54]So you're telling me that if I sold, like let's, you say I could get 50 fucking grand for each one of these?
+[139:49.13]Are you shitting me?
+[139:51.77]So if I just, if I sold 10 ass baseballs for half a million dollars, are you kidding me?
+[140:03.63]What an investment.
+[140:14.42]What the fuck?
+[140:19.06]Oh, man, I really need to find sponsors.
+[140:21.18]These shows are really expensive.
+[140:23.18]Oh, yeah, I got signed with Evolve.
+[140:24.90]They're going to be doing a bunch of sponsorships.
+[140:27.45]It's today's sponsor stream.
+[140:28.85]Oh, tomorrow.
+[140:29.41]Yeah, I got sponsored by this.
+[140:31.27]But
+[140:32.67]Put 10 baseballs up your ass and pay for every fucking show.
+[140:42.24]Really?
+[140:43.88]Really?
+[140:44.28]Do 10 to 20 baseballs and you have the budget for the next fucking year or two of shows.
+[140:53.19]Really, guys?
+[140:54.85]Are you kidding me?
+[140:55.51]Really?
+[140:55.83]Are you serious with me?
+[141:06.13]it's that easy can you imagine the articles oh e-clown live streamer jeremy elbertson decides to uh actually actually have a his uh fansly account uh where he's uh selling shoved baseballs up his ass to do what he loves and that's put on the next big stream uh and it's gonna cover everything
+[141:38.46]What the hell?
+[141:49.69]Ball Fondler was right.
+[141:51.15]No, that's never going to happen.
+[141:52.77]I'm just saying I'm just making the argument to.
+[141:55.25]I just have to put 10 baseballs near my ass like and I would have enough money to do anything like what the fuck?
+[142:08.59]Oh, we really got to figure out how we're going to pay for this show.
+[142:10.75]I get on the phone with community Jake.
+[142:12.47]Yep.
+[142:12.85]Okay.
+[142:13.49]It's going to cost this.
+[142:14.57]This is going to cost this.
+[142:15.91]Well, if we really want to get that, it's going to cost this.
+[142:17.57]That's a lot of fucking money.
+[142:18.57]Okay.
+[142:18.75]Yeah, it's going to go.
+[142:19.23]How are we going to avoid going to have to reach out to some sponsors?
+[142:21.47]That's going to take months.
+[142:22.59]It's going to take months.
+[142:23.67]It's going to take months of back and forth figuring it out.
+[142:26.63]Or put 10 baseballs up your ass, Jeremy.
+[142:30.91]I don't know what that is.
+[142:33.41]I actually don't know if that's been on the ground.
+[142:38.02]I actually, that may have, that actually may have fallen on the ground.
+[142:40.03]I don't know why I did that.
+[142:43.45]That was probably, I'm going to brush my, I'm going to brush my teeth.
+[142:46.09]I'll be back in a minute.
+[142:47.73]I'll be back in one minute.
+[142:48.39]I'm actually just going to wash my mouth.
+[145:35.35]Okay, I'm back.
+[145:36.72]That's kind of gross.
+[145:37.86]But I'm good.
+[145:40.02]That was gross.
+[145:41.94]But yeah.
+[145:43.18]What were we saying?
+[145:43.96]What were we talking about?
+[145:50.31]How much for that chapstick?
+[145:51.74]No, we're not doing this anymore.
+[145:53.06]I need to get away from this topic.
+[145:54.82]We're not doing this anymore.
+[145:55.80]Yeah, I should have just moved on.
+[145:57.48]I should have came back and moved on.
+[145:59.50]But isn't that insane to think about that?
+[146:02.23]All the meetings, the dozens of meetings, dozens of them figuring out how to pay for this show.
+[146:10.37]Dozens of them.
+[146:12.87]Trying to find the meetings and, okay, let's get down to business here.
+[146:18.34]It's like sometimes you think, you're just like, what the fuck, man?
+[146:24.59]Good salad.
+[146:25.53]All right.
+[146:27.19]I was going to maybe do something.
+[146:30.33]I think I'm probably going to call the stream here.
+[146:34.84]Because for a couple things.
+[146:37.53]One, I didn't think I was going to sit here for more than two or three hours.
+[146:41.71]So I'm here for two and a half hours.
+[146:43.73]There's a couple things with the baseball show in particular that I need.
+[146:46.55]There's some loose ends I want to tie up.
+[146:49.31]There's a couple things I need to do here to get prepared and kind of tie up with the show.
+[146:55.11]I know there was one stream a week, Andy.
+[146:58.22]I know it's been like that at least the last week since the show.
+[147:02.76]But I'm not quite ready to come back.
+[147:06.12]But I did want to do this.
+[147:09.64]Just another day or two.
+[147:10.77]That's not going to be long.
+[147:11.49]And then here's the thing.
+[147:13.37]This next show that I'm talking about is at least two or three months away.
+[147:19.19]So we're going to go back to normal to about the end of the year.
+[147:23.22]So we're just back to kind of normal, just chilling out, playing games, messing around.
+[147:27.52]Regular streams are going to come back.
+[147:30.76]We'll go back to normal.
+[147:31.93]And then another few months, we'll be back at it again, doing the same shit.
+[147:37.89]Only this one, I don't even know.
+[147:42.77]I genuinely don't even know what's going to happen.
+[147:44.75]Because I had an idea of what was going to happen with this show and even with Dollhouse, but this one coming up,
+[147:52.01]Guys, I have no fucking idea.
+[147:54.05]It's going to be fun, though.
+[147:55.57]I hope so.
+[147:57.43]But yeah, also keep an eye out for Grotto Beast.
+[147:59.91]Grotto Beast is coming very soon.
+[148:03.31]I want that to be available for the holiday season.
+[148:06.97]So keep an eye out.
+[148:08.23]Twitter, keep an eye out.
+[148:09.89]Here, keep an eye on the sus to find out when the next stream is going to be.
+[148:13.67]I'll tell you, it's probably going to be on Monday.
+[148:16.37]Monday, Tuesday, Wednesday.
+[148:18.69]We'll go three days in a row because I've been away for so long.
+[148:23.10]But yeah, thanks for watching.
+[148:27.43]I know that a lot of people, you put up with a lot of the technical issues kind of in the middle.
+[148:32.75]And thanks for sticking around.
+[148:34.83]I know it's really easy to leave a stream like that when there's problems.
+[148:38.90]But thanks for sticking with it.
+[148:40.94]And it was an incredible night.
+[148:42.36]It was a really fun day.
+[148:44.08]I'm just sad that it's over in a way.
+[148:46.50]I'm sad that it's like all these like kind of new friends and acquaintances that just
+[148:52.61]It was a great feeling, and I'm really happy that it went over well.
+[148:55.25]And I'm really happy that people had a good time.
+[148:57.11]So, thank you again for watching.
+[149:00.45]Thanks for the support.
+[149:02.40]And, yeah.
+[149:06.38]We'll see you on the next one.
+[149:07.38]I'll see you guys on Monday.
+[149:09.54]Monday, we're going back to regular streaming.
+[149:11.32]So, I'll put a poll in the chat of a game.
+[149:13.73]Pac-Man World Remake came out.
+[149:17.67]Very important.
+[149:20.61]Pac-Man Remake is out.
+[149:22.87]I think I have to check that out.
+[149:24.91]Cult of the Lamb.
+[149:26.32]I still want to play that.
+[149:27.76]Sorcery Part 3.
+[149:28.66]We still have to get through Part 3.
+[149:31.48]There's quite a bit to do.
+[149:32.92]I'm a little bit behind.
+[149:38.14]Yeah, Pac-Man World got a remaster of some kind.
+[149:40.58]It's on Steam now.
+[149:43.40]Multiverses.
+[149:44.22]I'm going back to Multiverses.
+[149:46.51]There's a lot to do.
+[149:50.58]So on Monday, you'll figure that out.
+[149:52.50]Probably we'll start at the same time, 2 o'clock.
+[149:53.92]I want to get back to this 2 p.m.
+[149:55.08]Pacific schedule.
+[149:58.31]And yeah.
+[150:01.69]We'll make a photos command, a link to the photo album.
+[150:03.63]Okay, cool, yeah.
+[150:04.87]So that Leather Jackets photo album, this will be available to go check out.
+[150:09.56]It'll be the exclamation point photos.
+[150:13.44]But yeah, I'll be back on Monday, 2 p.m.
+[150:17.41]Pacific.
+[150:19.07]Thanks a lot, guys.
+[150:20.49]Have a great rest of your day, great rest of your night.
+[150:23.55]And with that, I'm going to leave it.
+[150:29.33]Quick one, but I wanted just to kind of come and catch up.
+[150:32.56]I didn't want to wait too long.
+[150:33.90]I wanted to do a little bit of a debrief for the stream, too.
+[150:45.03]Get some more chapstick.
+[150:46.03]I got plenty.
+[150:46.97]I got a lot.
+[150:56.11]What about modded Skyrim?
+[150:58.49]Oh yeah, there was.
+[150:59.25]I was going to do the modded Skyrim and use a Ghost Commander's tool.
+[151:04.08]Yeah, I just got to get back into the saddle here.
+[151:07.62]I've been in baseball mode for the last like two weeks.
+[151:10.08]And I just kind of got over it two or three days ago.
+[151:12.87]So I kind of have to get back into it.
+[151:16.39]Baseball's are restocked.
+[151:19.77]Jerma985.com if you want one.
+[151:22.12]Keep an eye on it.
+[151:25.35]There might be a second restock available for those non-in-game but souvenir kind of balls.
+[151:33.64]I think we are probably fresh out of the... I'm imagining we're out of the game balls at this point.
+[151:47.51]Justice for Ball Fondler.
+[151:48.59]He didn't do anything wrong.
+[151:49.93]You must have missed the memo.
+[151:51.19]Ball Fondler has been unbanned.
+[151:52.97]He got unbanned at the end of this stream.
+[151:56.10]At the end of baseball, he was unbanned.
+[152:01.22]Ball Fondler is among us.
+[152:06.27]There's more game balls.
+[152:07.65]I know that when I talked to Jake about the merch last, they tracked down some other game balls that were used in the game that they didn't have inventory of on the website.
+[152:17.30]So I'll talk to him again.
+[152:18.24]I'll get some more answers here.
+[152:20.66]But keep an eye on the site.
+[152:33.60]And with that, I'll see you guys Monday.
+[152:34.68]Take care of yourselves.
+[152:37.90]Gonna be back.
+[152:44.85]Have a great night.
+[152:45.55]Have a great day.
+[152:47.23]See you soon.
+[152:47.69]See you real soon.
+[152:48.37]See you Monday.
+[152:51.45]Goodbye.
+[152:53.53]Good night.
+[153:19.39]you
+[153:49.91]you

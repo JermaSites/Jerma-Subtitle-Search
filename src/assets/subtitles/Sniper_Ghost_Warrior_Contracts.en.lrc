@@ -1,0 +1,1902 @@
+[re:Lavf60.16.100]
+[ve:60.16.100]
+
+[00:02.21]23 hours and 55 minutes early for tomorrow's stream.
+[00:10.91]Why?
+[00:11.11]Because this one didn't turn on before 2?
+[00:14.24]I see what you're saying.
+[00:16.00]So this is actually tomorrow's stream.
+[00:18.04]I didn't stream today.
+[00:19.92]This is tomorrow's stream.
+[00:28.07]Anyways, hello, how are you?
+[00:30.59]Welcome back.
+[00:33.00]I'm going to be playing some Sniper Ghost Warrior Contracts today.
+[00:40.44]I saw it pop up on Steam and I'm like, you know what?
+[00:44.64]We played the last Sniper game.
+[00:46.76]We played the last two Sniper games.
+[00:52.41]The last two.
+[00:53.03]Sniper Elite and then Sniper Ghost.
+[00:54.89]I'm pretty sure we played both of them when they came out.
+[00:58.64]So, there is a backup plan if I don't think this is fun.
+[01:02.26]If I'm just like, nah, I don't think so.
+[01:06.54]I got Dusk, which is just, everybody loves that game.
+[01:10.39]I've never played it personally, but... And we could also, we got like a bunch of other mystery games we could play, so who cares?
+[01:20.15]I probably shouldn't have even said Dusk, because now everyone's probably going to be like, just do that instead.
+[01:25.38]Just play Dusk instead.
+[01:27.62]But, no.
+[01:30.32]I am a AAA video gamer right now.
+[01:32.18]I want to play the new AAA video games, and the new AAA game that came out yesterday was Sniper Ghost Warrior Contracts 2.
+[01:40.21]It's not a AAA game, I know.
+[01:42.05]But, give me a second.
+[01:42.93]I'm going to get it over on the screen here, and we'll get started.
+[01:45.64]Give me one second.
+[02:20.48]Alright.
+[02:22.34]Let me just chill for a second here.
+[02:24.36]I've got to warn you.
+[02:26.38]You're about to get your eyes blown out.
+[02:29.90]So, just be ready.
+[02:33.14]Ready?
+[02:35.48]One, two, three.
+[02:38.76]It's bright as hell.
+[02:40.49]It's very bright.
+[02:41.39]I don't know why this screen is this bright, but it is.
+[02:48.68]so in sniper ghost warrior contracts it's your job as the hitman to I've no idea I didn't even guys I did not even read the description of this game greetings mercenary
+[03:11.57]I represent a third party who wishes to make use of your specialist skills.
+[03:16.99]Nice.
+[03:17.67]We are aware of your usual fees and are comfortable meeting the cost.
+[03:21.96]In fact, we have several contracts for you to execute.
+[03:27.46]All are in the newly formed Siberian Republic.
+[03:30.78]As you are aware, Siberia was once part of the Russian Federation.
+[03:36.06]Which used Siberia's huge natural resources to bolster Russian economic success.
+[03:44.78]But Siberia did not leave from this relationship.
+[03:48.10]In fact, it was mainly exploited and used.
+[03:51.70]A political movement was established.
+[03:55.29]the people for an independent Siberia.
+[03:59.57]Even the regional governor, Mergui Kurchatov, was swept up in the wave.
+[04:05.39]joining the movement and cutting off Siberia from the Kremlin.
+[04:09.49]The Siberian War of Independence followed.
+[04:11.71]Russia's armies contained many Siberians and defections were rife.
+[04:17.46]The war was over quickly.
+[04:19.66]Kurchatov became Siberia's first prime minister, governing his new country with his family and friends.
+[04:25.50]Dude, it even has, okay.
+[04:27.02]Just read the subtitles for a second.
+[04:31.21]It even has the, like, spreading out Hitman shit.
+[04:36.03]Like, the little wire frames and the white and the... Alright, let's keep our... ...declared war against their government.
+[04:43.62]They attacked oil fields and stole state assets.
+[04:48.32]Their leader, Nastya Surikova, has now become a hero to the people.
+[04:53.30]And Kurchatov's nemesis.
+[04:55.58]Our proposal comes with one requirement.
+[04:58.39]You will need to wear a new high-tech mask.
+[05:00.55]You have to wear a Halloween mask.
+[05:02.57]It will facilitate direct communication between us.
+[05:04.97]So nobody can tell who you are.
+[05:06.41]But there are other benefits for you, including combat enhancements.
+[05:10.39]My designation will be Handler.
+[05:13.28]Yours will be Seeker.
+[05:16.26]I look forward to working with you.
+[05:18.21]I gotta wear an Andross mask?
+[05:25.65]I think that thing's cold.
+[05:27.07]We're in Siberia, right?
+[05:30.21]That thing looked like it was made out of steel.
+[05:31.71]You want me to wear a steel mask on my face?
+[05:35.01]In like negative 12 degrees?
+[05:38.00]That thing's not coming off.
+[05:44.38]Alright, here we go.
+[05:48.84]Proving Grounds.
+[05:49.48]Complete the tutorial.
+[05:50.40]Let's take a look at the details just so I know what I'm working with here.
+[05:54.36]Alright, it's just a... top-down view.
+[05:59.39]Cool.
+[05:59.57]Let's drop the contract.
+[06:02.87]Uh... Marksman.
+[06:03.97]Game difficulty has decreased.
+[06:05.24]Enemies are less aware.
+[06:06.24]They see and hear the player only when he's near.
+[06:09.12]Enemy's weapon damage is reduced.
+[06:12.56]Standard game, right?
+[06:14.02]Enemies are aware of the player.
+[06:15.22]They see and hear the player from the standard distance.
+[06:18.18]Enemies' weapon damage is on a standard, normal, regular level.
+[06:21.88]Perfect for me.
+[06:23.38]Game is increased difficulty.
+[06:24.80]Enemies are much more aware of the player.
+[06:27.00]They spot the player easily in the open and hear him from the greater distance.
+[06:32.06]Enemies' weapon damage is increased.
+[06:33.80]That's not real.
+[06:34.44]Everyone that says play on the hard difficulty, that's not the real difficulty.
+[06:41.31]Enemy's weapon damage is increased.
+[06:43.48]What are they using for bullets?
+[06:44.94]What's the difference?
+[06:45.96]Why can they hear me from five miles away?
+[06:47.62]That's not real.
+[06:48.44]This is the real difficulty.
+[06:49.62]This is the realistic one.
+[06:55.87]Greetings, seeker.
+[06:58.23]You should have already received the mask.
+[07:01.03]It is a highly advanced prototype that enhances your capacity in the field and syncs with your equipment.
+[07:08.09]The mask allows you to upload contracts data to the client after each mission.
+[07:15.13]Before we drop you in the designated location, we want to make sure you understand the tech we've given you.
+[07:21.51]For this purpose, you'll be taken to a secure training facility hidden in a secluded mountain location.
+[07:27.27]We're going to perform a series of simple tasks to familiarize yourself with the mask and for us to make the necessary adjustments.
+[07:34.73]Report back when you're at the location, Seeker.
+[07:40.47]Alright, here we go.
+[07:42.41]It's time.
+[07:47.56]Do I need to know what lore is and shit?
+[07:50.30]I'm not just going to jump in without knowing anything.
+[07:52.22]I don't know anything about sniping.
+[07:54.06]Hopefully this is not realistic at all.
+[07:55.72]Because hopefully I just aim crosshair on guys' head.
+[07:58.80]I hope it's not one of those things where I have to do like the distance and then left and then... Because otherwise I'm just going to not play the game.
+[08:10.59]To turn the game down on your mic man Pick up the rifle Okay, hold on this is like the graphics are too good right now I need to like turn them down I'm not kidding
+[08:43.69]I don't know, I must be an old fucking man, I swear to God.
+[08:46.93]But I actually like it when games don't look like insanely incredible and shit.
+[08:50.93]I like it when they look kind of like crap.
+[08:53.51]Alright, wait, wait, wait, wait, wait.
+[08:58.75]Okay, approach the sniping spot.
+[09:00.11]What about these?
+[09:00.58]What is this?
+[09:02.34]Refill ammo.
+[09:03.94]Alright, ammo.
+[09:04.60]I got 525.
+[09:04.90]Alright, approach the sniping spot.
+[09:07.94]Hold C to go prone.
+[09:09.68]Press tab to open the tutorial.
+[09:11.46]You have to reading tutorial...
+[09:14.59]They still haven't figured out how to do tutorials in all video games, huh?
+[09:18.45]I know I just did an R instead of a W. I'm stupid.
+[09:22.79]This takes me out.
+[09:23.79]It does.
+[09:24.07]Have you guys noticed that?
+[09:27.18]That the tutorial always just takes you out.
+[09:30.48]Instead of being, like, telling me these things as a little robot in my ear, I have to, like, what am I, reading a book right now?
+[09:35.30]Okay, crouch stance.
+[09:42.51]Yeah.
+[09:43.29]Hold C to go prone.
+[09:46.03]Okay, changing stance to crouch.
+[09:47.83]Reduces weapon sway.
+[09:48.91]Alright.
+[09:50.19]And hold your breath.
+[09:50.85]You have this hold breath mechanic.
+[09:51.93]Cool.
+[09:52.19]Alright.
+[09:54.83]Note that only tall grass and bushes provide fall cover.
+[09:57.11]Good to know.
+[09:58.59]You got a stamina bar.
+[09:59.31]It'll increase when you perform physical actions like running and climbing, but it regenerates otherwise.
+[10:02.89]Your stamina level determines how long you can hold your breath.
+[10:04.67]Okay, so that's important.
+[10:06.21]Let's go.
+[10:08.03]First, switch your mask to binocular mode.
+[10:15.05]Why do I need, yeah, why do I need to use binoculars when I have a huge binocular on my arm?
+[10:27.28]Isn't this just a giant binocular?
+[10:46.83]Alright, I'll... Shoot the target, so... 8... So 117 meters, that means I have to go... Where do I have to aim?
+[10:50.95]That means I have to go up a little bit, right?
+[10:55.89]Below 100.
+[11:17.04]That's too far.
+[11:21.47]So, okay, so if I'm zoomed in, that 100 right there, I gotta go a little bit above that.
+[11:26.61]So, like, right here.
+[11:28.93]Higher than that.
+[11:29.95]Killed him.
+[11:30.92]Got it.
+[11:43.76]See, for me, it's just, just a guess.
+[11:46.38]For me.
+[11:47.78]You know what I'm saying?
+[11:49.42]Proceed to the next one.
+[11:51.76]Oh.
+[11:54.28]Let's try a greater distance.
+[11:56.26]Notice your mask's input on distance and wind.
+[11:59.09]It will help you aim.
+[12:01.53]So that's the wind.
+[12:02.73]Check target.
+[12:03.65]Aim along bullet drop curve.
+[12:05.41]Aim for a headshot.
+[12:08.13]Shit.
+[12:08.49]Okay, he's 150 away.
+[12:11.28]So I have to, like, drop this on his head.
+[12:14.78]So he's 150.
+[12:15.14]Your aim was off.
+[12:15.84]Yeah, I know.
+[12:21.25]Watch where the wind curve meets the distance reticle.
+[12:25.87]Got it.
+[12:26.83]Good.
+[12:27.67]You can move to the next one.
+[12:29.97]It's easier to aim with your scope calibrated according to the target's distance.
+[12:34.38]What do you mean scope calibrated?
+[12:35.60]I've marked the distance for you.
+[12:37.30]Set your scope elevation to 280.
+[12:40.04]By calibrating your scope properly, you won't have to manually adjust your aim
+[12:45.78]What?
+[12:46.84]Okay.
+[12:47.98]This is the mechanic I was talking about.
+[12:50.10]The elevation button.
+[12:53.04]280.
+[12:58.77]Like that?
+[13:04.69]Like that.
+[13:07.13]So that's 280, right?
+[13:12.65]That's correct, right?
+[13:19.35]That's a hundred.
+[13:19.95]What do you mean it's a hundred?
+[13:25.13]On the right, one hundred.
+[13:30.25]Alright, wait, hold on, hold on, I've got to ask a question.
+[13:32.59]Do the, this is where I always, anytime I play a sniper game, just listen to me, closely, I know, just please listen to me, hear me out.
+[13:38.60]Do the numbers on the middle of the screen, yellow, orange, mean fucking anything?
+[13:49.70]Yes.
+[13:50.18]No.
+[13:50.78]Yes.
+[13:51.32]Yeah, that's what I'm saying.
+[13:53.10]Okay, so this is at 280 right now.
+[13:58.26]So here's... This is... Who said no?
+[14:09.17]Wrong.
+[14:09.67]Aim... This is wrong.
+[14:12.39]This is not correct.
+[14:14.73]I have so much trouble with these.
+[14:16.33]I have so much trouble with these games.
+[14:18.10]I swear to God, I knew it.
+[14:19.42]I have so much trouble with this shit.
+[14:21.78]And I should know what I'm doing, but I don't.
+[14:24.44]Because I've changed the scope.
+[14:27.68]The wind.
+[14:28.20]I know the wind is going down, though.
+[14:29.92]I can't.
+[14:32.84]I can't do it.
+[14:33.44]I have to guess.
+[14:33.98]Got it.
+[14:36.72]I think that is a ruler.
+[14:41.89]What does the one on the top mean?
+[14:44.51]I'm gonna sit here until I get it.
+[14:45.51]I don't care if it takes five hours.
+[14:47.73]The top left, see, two, three, four, six, right?
+[14:51.77]What does that mean?
+[14:55.75]The top left is wind speed.
+[14:58.65]Okay, so that has nothing to do with this three, four, five, six shit.
+[15:09.52]Okay, I know the top one is wind.
+[15:11.28]I've played plenty of golf games.
+[15:12.44]I know how that works.
+[15:15.94]It's a scale so you can find the distance.
+[15:22.13]Bottom is distance in meters.
+[15:28.27]So this top left one is the wind direction.
+[15:31.63]See, 1, 2, 3, 4, 6.
+[15:33.11]That's wind direction.
+[15:35.29]Bottom is bullet drop.
+[15:39.27]People are just... Every time I've tried.
+[15:41.79]I've tried many times.
+[15:43.25]I thought I... You know what?
+[15:44.47]I'm fucking staying until I figure it out.
+[15:47.23]Just shoot him.
+[15:47.93]I'm just gonna... I'm just gonna shoot him.
+[15:52.87]I almost got him.
+[15:55.13]Just shoot him.
+[15:59.19]Get in Discord so somebody can explain this.
+[16:07.15]Now, how do I take this back?
+[16:12.72]How far away is this guy?
+[16:26.94]Everyone's flooding Discord.
+[16:28.04]You think I'm gonna be able to get explained to me on Discord?
+[16:38.07]Damn it.
+[16:38.59]It is.
+[16:39.05]It's like hard.
+[16:39.93]And you need to like know what you're doing.
+[16:41.65]All I know is wind.
+[16:43.75]And this thing.
+[16:45.33]The cascading particle effect.
+[16:47.65]Alright.
+[16:51.91]I'm going to slow down.
+[16:52.58]We're going to start at the very beginning.
+[16:56.48]Here we go.
+[16:59.18]Right now I am not.
+[17:00.22]I'm not zoomed in at all.
+[17:02.40]Okay.
+[17:03.86]Not zoomed in.
+[17:06.87]When I go one tick forward, the numbers change here.
+[17:12.76]Can someone just give me a basic explanation as to why, when I do one tick in at times eight, these numbers in front of me change?
+[17:19.20]Like they go down, like it's going down.
+[17:21.52]But that's just, no, they're not changing, I'm getting closer.
+[17:24.64]Okay, so I figured that out.
+[17:26.59]Just bear with me, I'm a koala for God's sake.
+[17:29.61]So right now, that number, that 100, means what?
+[17:37.12]That's distance.
+[17:40.70]The top left numbers are height scale.
+[17:44.68]So that means that this guy, but how do I know he's 100 meters away?
+[17:49.04]What are the lines in the middle mean?
+[17:51.46]It will hit at 100 meters if you compensate.
+[17:54.73]Thank you.
+[17:56.01]Thank you.
+[17:56.43]That's what I wanted.
+[17:59.43]So if I compensate, I'll hit this guy.
+[18:06.09]You have to mark him first.
+[18:07.49]Right.
+[18:07.77]Okay.
+[18:07.95]Let's mark and see how far away he is.
+[18:11.87]Okay.
+[18:12.31]Alright.
+[18:12.53]See, he's 114 meters away.
+[18:18.15]So, that, see, 200, that's how far away he is.
+[18:21.71]It'll hit him in the chest.
+[18:23.79]Right?
+[18:24.61]It'll hit him right in the chest if I compensate.
+[18:26.49]Right there.
+[18:26.89]Right?
+[18:31.91]So, right there.
+[18:33.53]So, this is gonna hit him right in the fucking head.
+[18:43.76]Okay, I get it.
+[18:44.42]I understand.
+[18:44.80]So what... Okay, this is where I got fucked up.
+[18:47.56]Always.
+[18:48.58]What do these numbers in the 2, 3, 4, 6... What's that mean?
+[18:52.72]What does the 2, 3, 4, 6 mean?
+[18:59.86]No clue.
+[19:00.50]Omega low.
+[19:01.46]Ignore those.
+[19:03.24]Well, I'm... Aren't I supposed to know?
+[19:07.64]Just ignore the top left.
+[19:09.18]See, I'm under the assumption that I have to make some fucking calculation with the stuff in the top left.
+[19:17.92]Alright, I get it.
+[19:18.56]Alright, this is a real tricky one for me here.
+[19:28.78]262.
+[19:29.08]You understand?
+[19:30.86]Check this out.
+[19:32.83]262.
+[19:32.87]Look at that.
+[19:33.69]That's a headshot right there.
+[19:34.89]I...
+[19:38.16]It only took me 20 minutes to figure out how to play the fucking game.
+[19:43.54]Now.
+[19:44.30]Now I can play any sniper game.
+[19:45.99]Because I always get to this part and quit.
+[19:55.16]That's not a joke.
+[19:56.16]Every sniper game that has this mechanic in it, I can't figure out this first part and then I just quit the game.
+[20:02.36]Alright, important.
+[20:03.34]I have something really important to ask.
+[20:05.45]Guys, what's this shit do?
+[20:08.07]This, like, 200, 240, like, 500.
+[20:13.33]That's just changing what?
+[20:16.32]That's to fine-tune it.
+[20:19.07]So if I wanted, let's say the guy's like 600 meters away.
+[20:22.77]Right?
+[20:22.99]And I'm just like, fuck, I can't.
+[20:24.07]How am I supposed to tell?
+[20:26.23]So there we go.
+[20:26.71]Like 600 meters that I hit him right in the head if I compensate for the wind.
+[20:31.59]Let's just say the guy's back there.
+[20:36.87]Alright, that was fucking ridiculous because I may as well just... That's not how... What?
+[20:44.01]It always seems like it's impossible.
+[20:49.64]Alright, no, wait, right, right, because I'm like, I'm zoomed the fuck in.
+[20:53.08]So how far away is this guy?
+[20:54.01]I don't know, who cares?
+[20:55.51]Shoot him right in the leg.
+[20:56.83]Alright, I'm ready.
+[20:57.71]I'm ready.
+[20:58.11]I think I understand.
+[20:59.31]That's how real guns work.
+[21:02.25]That's, alright, that's fine.
+[21:03.19]Alright, let's go.
+[21:08.25]Is there no scope?
+[21:09.95]No.
+[21:15.00]Oh, we got a live exercise here?
+[21:17.68]Short range.
+[21:21.66]Special bullets.
+[21:24.00]Ooh.
+[21:25.16]Test a turret or pick up a sniper rifle to test special bullets.
+[21:37.22]What's wrong with the one I have?
+[21:38.86]Explosive.
+[21:41.40]I just burped while I was talking and that's why it sounded like that.
+[21:43.78]Alright, let's do explosive.
+[21:51.28]Press it.
+[21:56.50]Oh, there we go.
+[22:02.72]Use explosive bullets to hit targets.
+[22:03.94]They detonate on impact.
+[22:06.17]How do I know how far away that is, though?
+[22:07.71]Let me find out.
+[22:08.53]How far away is this?
+[22:10.89]I can't, I don't know.
+[22:12.07]How can I, I can't tell how far away that is.
+[22:13.71]I'm fucking, I'm useless.
+[22:30.00]Those are just huge targets.
+[22:31.34]Okay.
+[22:31.84]Cool.
+[22:32.74]That's actually pretty fun.
+[22:34.42]Do it again?
+[22:35.42]Sure.
+[22:39.10]No, not the reload.
+[22:39.80]Alright, that's fun.
+[22:41.38]Pick up an ammo box.
+[22:47.19]What do we got here?
+[22:47.69]We got armor piercing?
+[22:50.35]What is DARPA?
+[22:52.87]EMP.
+[22:53.53]DARPA.
+[22:55.85]What does DARPA do?
+[23:00.05]Top left lets you see distance based on dude's heights.
+[23:08.34]So wait.
+[23:09.14]Hold on.
+[23:09.40]You're telling me that that guy's 200 meters away.
+[23:12.14]What if I go like this?
+[23:16.26]Can't I just trick myself?
+[23:18.70]No, that's not how it works.
+[23:25.56]Put it on their feet.
+[23:27.54]Put their feet on the line.
+[23:30.20]It's like that.
+[23:31.48]So this guy's 212.
+[23:32.06]15.
+[23:32.14]Yeah.
+[23:32.62]Alright.
+[23:32.78]I don't know.
+[23:39.12]I've never used this before in my life.
+[23:43.02]Alright.
+[23:43.25]DARPA bullets.
+[23:49.39]This is actually pretty good because now I won't rage quit every single sniper game I've ever played.
+[23:55.96]I don't have to compensate for gravity or wind.
+[24:02.10]How do I get a box of these?
+[24:08.60]Can I just have these?
+[24:09.62]This is just cheating bullets.
+[24:12.98]All right.
+[24:13.68]I'm just going to get a bunch of those.
+[24:17.82]All right.
+[24:18.10]I understand how it works.
+[24:20.02]But I want to see what this is.
+[24:21.94]Luring tagging.
+[24:26.92]Luring.
+[24:33.12]Why would there be ammo to... Luring.
+[24:41.33]Dude, this is sick.
+[24:42.17]Alright, so now you're telling me if I go... Just let me... Listen to me.
+[24:46.45]This... Here.
+[24:47.91]So you're telling me that this thing is a hundred meters away.
+[24:58.44]Dope.
+[25:01.31]Alright, well, we don't need to go that far, then.
+[25:02.93]Alright, tagging.
+[25:04.09]So, what am I supposed to do?
+[25:04.87]Tag it?
+[25:05.61]Or lure?
+[25:06.19]How do I... There's nobody even over here.
+[25:07.89]Just shoot the ground?
+[25:12.67]These guys can't even walk.
+[25:18.11]Are they supposed to be luring people?
+[25:20.47]Is it just making noise?
+[25:23.50]He's blind.
+[25:25.22]This is a luring bullet.
+[25:27.59]I mean, these guys aren't moving, though.
+[25:30.87]Cardboard people can't walk.
+[25:32.09]That's what I know about how targets can't walk.
+[25:34.13]Alright, well... No, I wasn't about to leave the game.
+[25:38.97]Switch to tagging bullets.
+[25:40.38]What do tagging bullets do?
+[25:41.46]Probably tag people.
+[25:45.42]Pick up turret.
+[25:48.24]Hold to open weapon wheel and select remote turret.
+[25:52.95]Am I going to snipe a turret?
+[25:55.49]Plus F to place turret.
+[25:57.56]Where?
+[25:58.78]Like, do I call in a turret call?
+[26:05.70]Press T and switch your mask to binocular mode.
+[26:10.28]Tag targets for remote turret.
+[26:14.77]What?
+[26:15.99]While in binocular, press H to tag up to two targets.
+[26:20.81]Press H.
+[26:23.90]Press G. Where the hell is this thing?
+[26:39.69]Press F to put the turret down first.
+[26:44.15]Okay, I'm gonna put the turret down.
+[26:48.33]Alright, I got my turret.
+[26:50.65]Let's see.
+[26:51.35]Tag these guys.
+[26:52.13]H.
+[26:53.90]Shoot these guys.
+[27:05.36]Huh?
+[27:06.58]From this far away?
+[27:10.80]I thought this- I thought this was like you put it down short range.
+[27:20.98]Uh, alright.
+[27:22.02]EMP.
+[27:22.86]I think I know what that does.
+[27:24.18]I know what that does.
+[27:24.82]It purses armor.
+[27:25.66]Alright.
+[27:26.12]I know what tagging does.
+[27:27.06]It tags people.
+[27:27.70]Let's just make sure I know what it does.
+[27:30.30]That's a hitscan weapon.
+[27:34.04]That's a little strange.
+[27:35.38]Alright, let's... Alright, here we go.
+[27:40.00]Let's just go like this.
+[27:41.90]Watch that wind.
+[27:42.83]Alright, he's tagged.
+[27:54.38]Alright, I'm ready.
+[27:56.48]I'm ready, I get it.
+[27:57.10]Alright, where do I go if I get it?
+[27:59.58]Although it is preferable for you to complete contracts discreetly, close combat is sometimes necessary.
+[28:20.96]Just gonna get the turret.
+[28:23.00]That's all I care about.
+[28:27.05]That thing is not even in line of sight!
+[28:29.01]That's really, really fun.
+[28:30.87]Okay, here we go.
+[28:31.65]Let's get- We got an AK, we got a pistol, we got bullets, we got grenade.
+[28:35.05]There's grenades in this game.
+[28:35.87]Automatic plus one letter grade.
+[28:40.95]Alright, press F to use selected gadget.
+[28:46.15]I hate when- I gotta change that.
+[28:55.73]Cool.
+[28:56.05]Alright, now let's go.
+[28:57.69]Boom.
+[29:01.59]AK.
+[29:05.64]Ooh, feels pretty good.
+[29:06.50]Really loud, though.
+[29:07.96]Let's fix that.
+[29:08.60]Alright, let's see if I can get them all.
+[29:30.73]Pretty good.
+[29:31.05]Alright, how do I leave?
+[29:32.13]Alright, if I hit the guy all the way in the back and he drops right now, I get $100.
+[29:42.03]Oh well.
+[29:54.70]You guys ready?
+[29:55.20]I am.
+[29:58.13]Okay, Altai Mountains.
+[30:01.47]Download Evenoski's plans, find the client spy, eliminate Dimitri, destroy all test results, steal samples of the virus.
+[30:08.79]I thought this was a sniper game.
+[30:20.58]What happened to... where's Snipe, the bad guy?
+[30:24.46]What?
+[30:27.09]interrogate officers perform headshots gas enemies eliminate without what is all this what is all this inter how do I interrogate somebody from five miles away greetings seeker
+[30:54.20]Just do it.
+[30:54.62]On this mission, your primary target is Dmitry Ifanovsky.
+[30:59.93]He is a former Russian Armed Forces general.
+[31:04.57]You called him.
+[31:06.49]You called... That's so funny.
+[31:07.79]Because it's, I mean, yeah.
+[31:09.13]You pinged it walkie-talkie.
+[31:10.29]You just prank called him.
+[31:28.06]Kurtatov gave him the notorious Altai 24 Soviet military research facility as thanks for his support.
+[31:37.42]Yeah, you hold the walkie-talkie and you go, What do you know?
+[31:40.57]Tell me what you know!
+[31:41.35]And you smack the walkie-talkie on a table, and then he goes, Ah!
+[31:44.61]On the other end.
+[31:46.09]Alright, alright, alright!
+[31:48.23]He's in the back room!
+[31:52.97]We understand that Kurchatov plans to use the weapon to secure Siberia's disputed border territories.
+[32:03.04]Store on an encrypted military-grade laptop.
+[32:07.46]Find the package, hack it, and obtain those plans.
+[32:13.45]Alright, I understand it's cold looking and there's a lot going on on the screen.
+[32:17.61]But... What is this supposed to be?
+[32:18.93]What these lines and the geometry, wires, what is this supposed to be?
+[32:21.76]A computer or... What are we supposed to be looking at?
+[32:25.00]A video?
+[32:43.40]Hacking?
+[32:43.94]It's like what hacking looks like.
+[32:48.27]It just defects in the camera.
+[32:49.97]I just, I guess it looks maybe like on a poster or something, but I don't know, whatever.
+[32:54.78]All right, let's go.
+[33:01.33]Altai.
+[33:01.65]Sure.
+[33:01.83]Alright.
+[33:02.38]Let's go.
+[33:02.86]Do I even have a sniper rifle?
+[33:04.34]Open M. Blue areas indicate contact locations.
+[33:06.82]That's a lot of... That's a huge... This is the legend that you see at a mall.
+[33:31.98]Okay.
+[33:34.03]There's the target.
+[33:35.93]Okay, where's the Nordstrom?
+[33:41.33]This is a mall directory, so this is the box I have to go to.
+[33:50.24]Just go.
+[33:51.78]Can I put a waypoint?
+[33:52.98]I can put a waypoint.
+[33:54.60]Yup.
+[33:55.72]Thank God.
+[33:56.58]Alright, you can fall off.
+[33:58.18]You can fall off the edge.
+[33:59.32]Okay, cool.
+[34:14.83]I need- some games don't let you do that.
+[34:16.39]That's plus five.
+[34:17.26]That's a- that's plus point two points.
+[34:19.84]So this is- alright, we're good.
+[34:20.92]I'm not- I was just testing to see if you could fall!
+[34:22.54]What force causes me to- Hypothetical.
+[34:23.92]Alright, so I'm ready.
+[34:37.90]Cool.
+[34:38.52]Let's go.
+[34:38.78]Yep.
+[34:38.86]Alright.
+[34:39.04]Jump.
+[34:39.16]That's a pretty floaty jump.
+[34:39.94]Alright.
+[34:40.16]Jump plus climb on.
+[34:41.44]How do I do that?
+[34:42.22]Just jump and hold?
+[34:43.04]This is not the video game I thought it was going to be.
+[34:45.52]And neither did you.
+[34:46.22]So...
+[35:10.77]Let's go.
+[35:25.40]I have a scanner?
+[35:29.70]Now, what would happen in real life is if you went that far up to a huge building like this, you would just fall backwards.
+[35:39.63]What was it?
+[35:39.93]Left control?
+[35:49.18]It just makes everything kind of ugly.
+[35:50.66]What is this showing me?
+[36:02.08]Is there an indicator besides the triangle stuff?
+[36:15.46]The pipes.
+[36:16.04]I mean, I see the pipes, but what's the point of having the, like, sniper vision on this?
+[36:31.47]Okay, cool.
+[36:33.53]I can jump that high?
+[36:36.99]No, you cannot!
+[36:41.85]Is there a flashlight?
+[36:42.83]There's no way I can jump that far down.
+[36:44.90]Your suit is made from extremely durable, intelligent microfibers that also support your body's natural regeneration abilities.
+[36:53.54]Yeah, health bar regenerates, drain stops when you receive damage or sprint and use med kit to full health and adrenaline shot boosts regeneration.
+[37:00.40]Yeah, you have a stamina bar, you hold your breath and shit, I get it.
+[37:02.56]What's more, your mask syncs with your central nervous system.
+[37:05.91]Is this supposed to kill me?
+[37:06.57]Enhancing your reflexes and coordination.
+[37:09.55]Meaning... Meaning it's going to instantly break both of my legs and then heal them instantly.
+[37:16.65]So I'm still going to feel the pain both ways.
+[37:21.73]See?
+[37:23.87]And now they're being restructured.
+[37:31.71]How do you save the game?
+[37:35.45]You don't.
+[37:37.31]You don't.
+[37:41.16]I see a flashlight.
+[37:42.04]Use my sniper vision.
+[37:46.16]I still don't understand what the fuck this does.
+[37:54.10]When the recognition bar fi- Wow, this is stealth?
+[37:58.33]A stealth action first-person shooter game?
+[38:02.99]While crouching, you'll be less visible and quieter.
+[38:04.99]Your silhouette turns black and HUD becomes darker when you are hidden, right?
+[38:09.89]The recognition bar fills up when the enemies start noticing you.
+[38:12.91]When it's full and it's flashing red, you're detected.
+[38:15.04]That's the same indicator.
+[38:23.46]Stealth Kill.
+[38:25.16]Press Mo when prompted to perform a silent melee attack.
+[38:29.68]You can also kill enemies when hiding below their field of vision or jump them from above.
+[38:36.51]If you sneak behind an enemy, you can interrogate him.
+[38:39.21]A successful interrogation provides information on supplies or hostile soldiers' locations.
+[38:43.77]Officers, who can be found at every outpost, can provide you with mission relevant... Let's interrogate this person.
+[38:50.11]Where are they?
+[38:50.69]Sniper vision.
+[38:51.27]Is that guy talking to himself?
+[39:03.84]What do you know?
+[39:05.41]Oh, I didn't even do that.
+[39:12.98]I didn't click that.
+[39:14.48]He just did it.
+[39:16.10]He did that.
+[39:16.82]I didn't do it?
+[39:17.46]Oh my god.
+[39:23.59]You can hi- I didn't even kill this guy.
+[39:27.33]Grab body?
+[39:28.27]Holy shit, you throw them far.
+[39:34.15]What?
+[39:38.88]Okay, he's hidden.
+[39:41.50]Wait, duck.
+[39:43.36]Alright, there's a hiding place over there.
+[39:44.56]Wait, there's enemies over here.
+[39:52.45]Hiding place.
+[39:53.03]Alright, approach this.
+[39:58.93]He begged for his life.
+[39:59.97]I did not kill that guy.
+[40:05.61]Oh, shit.
+[40:10.73]Throw a stone.
+[40:11.59]Hold Q and A. You can throw rocks in this game?
+[40:14.09]Oh, shit.
+[40:24.40]Prone.
+[40:32.54]Oh, I hit him in the fucking head.
+[40:33.78]I hit him.
+[40:44.72]I think I just put them on alert.
+[40:48.90]This is an amalgamation of every video game.
+[41:02.41]Holy shit, they didn't wait!
+[41:03.95]Alright, I want to see if you can throw the rocks.
+[41:20.47]Yeah, I did.
+[41:33.10]Death from above.
+[41:34.88]There's a guy right there.
+[41:50.75]How would you not hear that?
+[41:52.91]What?
+[41:53.45]Why would it want me to do that?
+[41:55.49]Why would it want me to do that to this guy?
+[42:01.55]Hey, jump on this guy and stab him and stomp on his head.
+[42:12.66]Yes, distract them.
+[42:15.62]Yes.
+[42:16.46]Okay.
+[42:28.89]But I wanted to walk by this What do you know Take that why was it right click we mean right click is takedown.
+[42:46.94]What are you talking about?
+[42:47.64]Right take down right click
+[42:52.68]I just threw a rock, what?
+[42:54.68]What the fuck is going on?
+[42:56.34]Why did it, it was saying right click, right click, right, why right click?
+[43:08.11]Right click is aim.
+[43:09.07]All right, press tab to open the store, okay, mask.
+[43:15.17]The mask mode can help you analyze the environment.
+[43:18.78]A fully developed mask will highlight interactive objects, cool.
+[43:22.54]Even through walls, it can show camera vision cones, detect sound sources, and much more.
+[43:28.54]Alright, that's called mask mode.
+[43:33.27]Avoiding enemy patrols and outposts can be difficult.
+[43:35.03]Search for the hideouts like lockers, trash cans.
+[43:37.53]To hide, this is where you can wait out alarms.
+[43:39.33]You can also hide bodies in these containers.
+[43:40.81]Alright, so I get mask mode.
+[43:44.93]I would highlight usable items and markers.
+[43:47.27]Alright, pick a weapon.
+[43:50.25]I can use this.
+[43:51.49]Cool, what's this thing?
+[43:52.83]What's the looting even do?
+[43:55.41]What's the point of looting?
+[44:06.68]It's just ammo?
+[44:07.42]Okay, cool.
+[44:16.40]Why hide them when you can just throw them over?
+[44:17.84]Alright, I don't even need the ammo.
+[44:20.64]Wait.
+[44:20.98]Easy.
+[44:21.28]Mask mode.
+[44:21.74]Alright, we're good.
+[44:25.04]What is this?
+[44:26.92]Grenades?
+[44:31.10]Pick.
+[44:32.36]Alright, cool.
+[44:33.12]Grenades.
+[44:33.36]On.
+[44:48.96]Alright, you got it?
+[44:49.50]What do we got?
+[44:51.76]Recon out these binoculars.
+[44:53.08]We've got a electricity.
+[44:55.58]Shoot that.
+[44:56.06]Electrify.
+[44:57.02]Tank.
+[44:57.56]Use them by different tags and appearance.
+[44:59.90]Okay, I need an officer.
+[45:03.79]Alright, wait.
+[45:14.94]Regular soldiers are versatile but relatively easy to kill.
+[45:17.52]Sergeants are close combat specialists, resistant to gas weapons.
+[45:21.23]Riflemen specialize in assault and can use higher class grenades.
+[45:23.97]Marksmen are long distance killers and best at eliminating heavy... So I'm going up against like a class-based shooter.
+[45:32.56]What am I?
+[45:32.98]A sniper?
+[45:35.42]Heavy soldiers can withstand a lot of damage.
+[45:37.40]Try to use a heavy sniper rifle on them.
+[45:43.04]Just provide information, but watch out for drones.
+[45:45.62]They can expose your position.
+[45:46.80]Targets and bounties are always well guarded.
+[45:48.64]It's a little info dump.
+[45:53.70]I think the moral of the story here is, yeah, like somebody just said, just shoot them.
+[45:57.81]Shut up and kill them.
+[46:00.03]Guys, relax!
+[46:01.41]Alright, let's get this guy.
+[46:07.71]Okay, everybody target.
+[46:08.81]What about you?
+[46:11.82]Well, how do I know if they're an officer or not?
+[46:13.30]I mean, that guy looks like an officer, I guess.
+[46:16.16]Oh, shit.
+[46:18.25]Keep an eye out for useful environmental elements.
+[46:20.31]Fuse box.
+[46:20.83]Yeah, shoot the fuse box.
+[46:23.69]You can lure enemies to avoid combat or a place where you can deal with them easily.
+[46:26.51]Yeah.
+[46:27.97]To do this, you can use interactive objects, like generators and fuse boxes, or gadgets like decoy traps or the upgraded drone.
+[46:34.32]Avoiding enemy patrols and outposts can be difficult.
+[46:36.36]Hide.
+[46:36.66]Hide.
+[46:39.26]Alright, I think I got everybody tagged, right?
+[46:40.92]Nobody, no snipers?
+[46:41.70]Okay.
+[46:44.36]Shoot fuse box.
+[46:45.50]Wait, how far away is it?
+[46:47.00]Not that far.
+[46:48.10]Wait, let me just check this.
+[46:50.01]Alright, he's like right here.
+[46:51.97]Should I shoot this guy?
+[46:52.91]No.
+[46:55.91]What's the guy doing?
+[46:58.77]How loud is this gun?
+[47:11.12]Did I get him?
+[47:14.26]This is going so... Holy shit.
+[47:22.62]Okay, that was pretty cool.
+[47:24.93]Uh... Now what?
+[47:26.39]Wait, this guy... Wait, who's the officer?
+[47:27.67]That's the officer.
+[47:28.25]I gotta clear this out.
+[47:30.33]So, um... What else we got?
+[47:53.05]This guy still has no idea what's going on behind him.
+[47:56.77]Alright, I have to interrogate this guy.
+[48:00.57]Is this a zipline?
+[48:01.47]Oh shit!
+[48:01.85]What do you mean, till they're all down?
+[48:15.52]I have to interrogate this guy.
+[48:18.02]Shoot this guy?
+[48:18.56]No, I have to interrogate him.
+[48:19.32]Isn't that the officer?
+[48:35.63]He doesn't know where I am.
+[48:36.33]He just knows something's going on.
+[48:37.97]If I'm quiet, can I climb this thing?
+[48:41.77]I'll get around to him.
+[48:42.43]Is there money in this game?
+[48:47.40]This is actually kind of fun.
+[48:51.56]Alright, I gotta get behind him.
+[49:11.84]I think I'm gonna make it.
+[49:19.21]How do I get all- I gotta get all the way around him.
+[49:24.39]Wait, I gotta throw a stone.
+[49:32.81]Did I go over the house?
+[49:34.57]Ah!
+[49:36.09]Mike, you threw it over the house!
+[49:39.68]Oh, that's the only ball we had!
+[49:53.11]Whip the ball, like, in the backyard with your friends?
+[49:56.37]You've never played, like, just throw a ball in the backyard?
+[50:04.78]What?
+[50:08.08]Alright, I'm going after him.
+[50:08.98]Fuck, I think I just hit the fence.
+[50:10.38]It's alright, I'll get him here.
+[50:16.90]Interrogate.
+[50:19.72]Holy shit, how did he know?
+[50:21.18]What?
+[50:24.72]What?
+[50:25.06]I was in the bushes!
+[50:28.24]Are you serious?
+[50:31.02]Oh, come on.
+[50:36.37]What?
+[50:36.47]Interrogate the officer.
+[50:37.44]Search him when you're done.
+[50:38.96]Fuck me.
+[50:39.12]Alright, I'm gonna do this real damn quick.
+[51:23.04]I thought he said from my mom He says dinner's ready I just don't want to have electricity.
+[51:45.50]Alright, let's search the officer
+[51:54.55]That would take money too, right?
+[51:57.23]Yeah, I'm going to loot everybody.
+[51:59.30]Dude, I am pogging right now so hard.
+[52:01.92]Really?
+[52:02.20]I appreciate that.
+[52:13.33]Did I take this guy's head off?
+[52:15.59]Oh my goodness.
+[52:17.03]Oh my goodness.
+[52:19.54]Oh.
+[52:24.36]Why is it giving me these wrong... Grab body is not space, it's this mouse button.
+[52:42.63]Alright, let's get in.
+[52:44.39]Alright, wait.
+[52:46.65]Okay, what can I do with this?
+[52:47.67]Can I pick this up?
+[52:50.38]Or does it just explode?
+[52:57.03]Power down.
+[52:57.91]Good.
+[52:58.81]The fence should be harmless now.
+[53:00.87]I've marked the exfil location on your map.
+[53:02.37]Shoot it point blank.
+[53:03.51]Proceed there and upload your data.
+[53:05.99]Exfil location will be visible on your master's hub if you use the scanner.
+[53:10.17]Copy.
+[53:10.43]I did it.
+[53:12.29]What do I get?
+[53:14.69]Exfiltration point.
+[53:17.29]When the contract is complete, go to the exfiltration point to see the mission summary screen.
+[53:21.44]From there you can stay in the region to finish other objectives or you can leave but lose any unfinished progress.
+[53:27.16]That's it?
+[53:36.13]Alright, okay, let's go.
+[53:37.79]What the f*** do we got?
+[53:46.15]Is that person right there?
+[53:47.61]No, it's just a tree.
+[53:49.97]I gotta get the binoculars out, in case there's any danger and any people or anything, right?
+[53:53.83]No people?
+[53:57.69]Wasn't I supposed to do a bunch of stuff here?
+[54:08.58]Uh, 20 community subs just came in from Ben Folds.
+[54:14.24]Thanks a lot, Ben.
+[54:15.93]20.
+[54:17.21]Huge sub drop.
+[54:18.93]That's a big one.
+[54:20.43]That's a fucking big one.
+[54:27.39]Could you be any more annoying in the sky?
+[54:30.45]Dude, he's pogging so hard.
+[54:33.97]I am, that's a lot of money.
+[54:34.91]2%?
+[54:34.93]Wait, how...
+[55:03.88]It's got cash and tokens on gear and weapons.
+[55:09.41]Upgrade your gear in the loadout tab.
+[55:12.31]Before each mission, you... There's a development section of the loadout tab.
+[55:17.15]You can upgrade your mask, suit, gadgets, and recon.
+[55:22.35]The first upgrades only cost cash, but more advanced ones require tokens.
+[55:29.79]Don't tell me I have to buy these.
+[55:34.11]Better not be.
+[55:38.13]Okay, shop screen, find gadgets, attachments, weapons.
+[55:40.80]We can look at that later.
+[55:41.58]I'm ready.
+[55:41.82]Alright.
+[55:42.04]What?
+[55:42.18]Maybe it's just a drill.
+[55:45.64]Who's talking?
+[56:01.99]How many other?
+[56:03.04]Tag him.
+[56:05.52]One.
+[56:09.26]Got three.
+[56:10.68]Any more?
+[56:11.78]I don't see any more.
+[56:15.56]Can I get three?
+[56:16.58]Can I kill him?
+[56:17.22]What's that?
+[56:17.52]Is that an explosive?
+[56:18.16]I think that might be an explosive barrel.
+[56:23.27]Nope.
+[56:27.75]Oh, shit.
+[56:28.63]I missed.
+[56:36.96]Who cares about the win compensation and all that dumb stuff?
+[56:41.30]Just shoot him in the head.
+[56:42.18]Alright, where am I going?
+[56:48.18]Fast... I can fast travel?
+[56:50.12]Is this like open world?
+[56:53.78]I'm so confused.
+[56:55.97]Fast travel.
+[56:57.73]I am going here.
+[56:58.43]We're just gonna go up there somehow.
+[57:02.87]Alright, what do they got?
+[57:04.85]Plus one letter grade.
+[57:05.55]Give it to me.
+[57:07.48]Nope.
+[57:08.98]It was an opportunity.
+[57:11.06]She blew it.
+[57:12.84]What can I do with gas?
+[57:14.66]Oh, explosion?
+[57:21.87]Anybody else?
+[57:22.47]No.
+[57:23.69]Should I hide these guys?
+[57:24.77]I feel like I need to hide them.
+[57:30.09]That's part of the game, right?
+[57:33.91]There's a cave on the left.
+[57:38.12]Oh, loot them.
+[57:47.97]Right, right, right, right.
+[57:58.42]Oh, that's a good spot to drop.
+[57:59.38]Right down here.
+[58:00.02]Right?
+[58:00.24]Nobody's down here.
+[58:00.98]It's just trash.
+[58:02.94]Yeah, it's just like trash down there.
+[58:15.44]Alright, no one's looking down there.
+[58:19.14]Let's get up here.
+[58:20.50]Take out the binoculars and let's scope this out.
+[58:22.44]Wait!
+[58:23.15]You wouldn't even see the news.
+[58:29.93]Where is this person?
+[58:42.93]Them politicians, am I right?
+[58:46.95]That game was so fun.
+[58:52.78]I can't see anybody.
+[58:56.00]I think I just have to get up here.
+[58:59.50]Go play it?
+[59:00.20]I'm not playing that game.
+[59:06.90]Slow down.
+[59:18.80]Wasn't somebody just talking?
+[59:20.28]Wait, where am I hearing this?
+[59:30.16]Oh, fuck.
+[59:30.54]They're right here.
+[59:34.26]I need to interrogate somebody.
+[59:35.26]Alright, I'm going to try to interrogate.
+[59:42.06]I'll get that guy with a snipe.
+[59:43.17]Another guy right there.
+[59:46.61]Snipe that guy.
+[59:49.23]Oh no!
+[59:50.17]Oh no!
+[59:50.91]Oh no!
+[59:51.59]Oh no!
+[59:52.17]Oh no!
+[59:52.53]Rock!
+[60:08.00]We're under attack!
+[60:16.95]Wait, how far away is he?
+[60:19.14]126.
+[60:20.98]Compensate for the... No, that's too much compensation.
+[60:24.68]He's 126.
+[60:25.38]So that means he's right there.
+[60:29.87]What did I hit?
+[60:30.23]The rock?
+[60:33.47]What am I hitting?
+[60:33.97]Uh-oh.
+[60:34.69]This is very bad.
+[60:37.79]I'm freaking out.
+[60:38.51]My character's freaking out.
+[60:39.39]Slow down.
+[60:42.31]What am I... I'm not hitting his head?
+[60:46.77]Am I hitting this guy in the face?
+[60:54.80]Wait, he has a mask that blocks my bullets?
+[61:03.94]Oh, shit.
+[61:04.72]There's a tank.
+[61:05.38]I think the tank just ran him over.
+[61:12.77]What is that guy looking?
+[61:15.25]Is somebody alive?
+[61:16.17]Is he shooting on the ground?
+[61:18.19]He's shooting in the air.
+[61:19.83]I'll get him.
+[61:28.91]I have to interrogate someone.
+[61:42.78]What is that?
+[61:51.16]Did they find me?
+[61:53.36]I'm trying to shoot it, just...
+[62:09.05]I'm being followed around by drones.
+[62:19.07]Peek out.
+[62:21.25]Fuck!
+[62:21.57]The wind!
+[62:22.06]I forgot about the wind!
+[62:48.58]They know.
+[62:49.04]Everybody knows.
+[62:50.24]I'm gonna move position.
+[63:07.79]Can I take the drone?
+[63:20.34]Nothing even in here.
+[63:21.08]This is actually a pretty good spot to snipe.
+[63:25.71]They still know where I am.
+[63:28.17]Hello?
+[63:28.61]Is it a drone?
+[63:30.25]It's a fucking drone!
+[63:32.67]It's a drone.
+[63:33.37]Where?
+[63:51.18]Where's the drone?
+[63:51.90]Where is it?
+[63:52.76]Where is this thing?
+[64:02.95]Behind me?
+[64:03.53]No, it's not.
+[64:20.22]wait is that a guy no god damn it
+[64:49.77]There's a lot of people here.
+[64:50.93]I need to tag this guy.
+[64:55.88]I need to know how far away he is.
+[64:57.54]Play it right.
+[65:00.78]All right, he is, oh no.
+[65:03.30]Oh, we both did the same thing.
+[65:09.09]Got him.
+[65:15.72]Look at me with binoculars.
+[65:17.52]Who is it?
+[65:18.46]Who's shooting?
+[65:19.78]Who's a grenade?
+[65:21.18]Did I throw a grenade?
+[65:22.44]Where's the grenade?
+[65:25.54]Is there a grenade here?
+[65:27.16]Where is it?
+[65:42.26]Where you at?
+[65:54.61]I'm gonna blow this guy up with the explosive.
+[65:59.53]I'll lure him out.
+[66:09.05]I fucking can't believe I missed.
+[66:14.09]Did I kill him?
+[66:22.16]I need a better place to...
+[66:24.21]How many people are in this compound?
+[66:34.08]There's still this many people that I have to... That was insane.
+[66:41.33]Alright.
+[66:43.45]Damn it.
+[66:43.71]They're getting in the tank.
+[66:49.38]Oh no, he's aiming the tank over here.
+[66:51.78]I didn't ca- Wait, are they leaving?
+[66:55.84]Why are they tanking this?
+[66:59.18]Where are you going?
+[67:00.96]You're not gonna drive into me, right?
+[67:07.16]What are you doing?
+[67:08.38]Oh!
+[67:09.40]Move, move, move, move.
+[67:15.13]How do I heal?
+[67:23.35]Lie down.
+[67:25.45]Yes?
+[67:37.55]Oh, fuck!
+[67:38.69]Okay, I need to throw a grenade at this guy.
+[67:40.39]It's G, right?
+[67:43.04]Oh my god, I'm dead.
+[67:48.74]Don't stand the fuck up!
+[67:50.02]I'm trying to- How do you- Oh my god.
+[67:56.81]Was it like J?
+[67:57.33]B
+[68:25.67]I'm going in.
+[68:26.25]I'm fucking doing it this time.
+[68:27.19]Remember, special ammo.
+[68:39.09]I don't think I have any special ammo.
+[68:46.73]Okay, so... Don't get spotted.
+[68:49.85]These guys come back here.
+[68:50.81]I'm just gonna try to shoot him through... I'm gonna try to shoot him in the head through his friend.
+[68:56.26]Well, that was fucking pretty cool.
+[69:03.95]Alright, I'm doing this slow, because I don't want to... There's like 30 or 40 people in here.
+[69:21.24]Get in there.
+[69:25.04]What was that?
+[69:25.70]I heard a beep.
+[69:35.59]I wish I could save it.
+[69:37.73]So, now... Is the task here to just get in there?
+[69:44.56]Find the client's spy?
+[69:47.18]That's... I think you just do whatever you want.
+[69:54.41]I don't think there's a set mission here.
+[69:55.81]I think I just do whatever I want.
+[69:57.85]So, download the plans is this one, and it's in here somewhere.
+[70:12.88]Download Dusk.
+[70:15.32]I already have Dusk downloaded.
+[70:23.91]I just tried to- I tried to prone and I- I apparently my body was too far over the edge that proning actually- I lied forward and fell face down forward into the ground.
+[70:36.95]Alright, let me get- I want to get a better spot.
+[70:38.57]Alright, this is not bad.
+[70:54.22]Okay, I see 269 meters to the flag.
+[70:59.83]Enter the supported stance.
+[71:03.41]Oh, shit.
+[71:05.11]Okay, this is not good.
+[71:06.49]Where does he go?
+[71:08.05]How many people are here?
+[71:08.89]I need to do some tagging.
+[71:10.13]Like, I've got to.
+[71:10.73]I have to.
+[71:11.21]How do I get off?
+[71:13.75]Is he coming up this way?
+[71:14.41]This is never going to happen unless I tag everybody.
+[71:29.96]Alright, who else is left?
+[71:31.16]Guy up top.
+[71:33.28]That guy's dead.
+[71:33.98]I can kill that guy, but... I just don't want to be spotted.
+[71:36.99]Alright.
+[71:37.17]Secure the package.
+[71:38.03]Let's get the guy.
+[71:38.57]We're gonna go top down, right?
+[71:39.97]We're gonna kill guys on roof.
+[71:42.73]I'm gonna kill, don't worry.
+[71:44.65]Guys on roof first.
+[72:00.91]There's only two.
+[72:02.98]Supported stance.
+[72:04.32]Get it in there.
+[72:04.80]These guys are 117 meters away, which means that it's gotta be somewhere around right, right there.
+[72:11.43]We'll be right in the head, right there.
+[72:12.85]I'm gonna wait until there's an opportunity.
+[72:16.08]Didn't tag that guy.
+[72:37.79]Jesus.
+[72:39.47]Okay, nobody saw that, right?
+[72:41.59]I feel like I would hear that.
+[72:43.21]I feel like I would hear that guy's watermelon head exploding.
+[72:47.59]That was just like an exploding watermelon.
+[72:49.62]I feel like I could hear that.
+[72:50.46]139.
+[72:56.12]But somebody's going to come out this door, aren't they?
+[73:01.05]Whatever, fuck it, let's go.
+[73:11.14]Didn't the guy go in here?
+[73:12.22]I think somebody went in here.
+[73:16.58]Alright, who's next?
+[73:23.20]Got two guys here.
+[73:27.44]One, two there.
+[73:28.84]Bunch of people over on the right side.
+[73:30.18]I can't kill these guys yet.
+[73:32.34]I think I have to change position.
+[73:36.14]I gotta get these guys over here.
+[73:37.18]Alright, changing position.
+[73:53.81]Chat's getting restless.
+[73:54.65]Turn your camera on.
+[73:55.31]I don't have any clothes on.
+[73:56.75]I've been especially naked these last few days, so... No, no face cam.
+[74:03.25]Alright, let's get a good shot over here.
+[74:08.51]Right there?
+[74:08.85]What do you think?
+[74:09.46]Over here?
+[74:09.70]I think so.
+[74:14.50]I got a guy right there.
+[74:16.60]Inside that building.
+[74:20.67]This is getting intense.
+[74:23.38]I'm, like, feeling this right now.
+[74:26.82]What about any others?
+[74:27.78]Over here?
+[74:28.18]No, I don't see anybody.
+[74:31.94]Moving in.
+[74:37.89]Come on.
+[74:38.15]I've got to keep that... I've got to keep that type of, like, language up.
+[74:41.95]You know what I mean?
+[74:42.45]Like, moving in.
+[74:43.80]Spotted...
+[74:47.54]Top bunker.
+[74:49.20]I see two.
+[74:50.80]Two people.
+[74:51.24]I'm going to go for a collateral.
+[74:52.91]Because otherwise I'm going to lose you guys.
+[74:54.61]Check this out.
+[74:58.47]Right here.
+[74:58.77]I'm going to get a collateral.
+[75:00.45]How far away are these guys?
+[75:09.01]40 meters.
+[75:09.29]It's going to go through.
+[75:13.21]Two.
+[75:13.55]Get it.
+[75:22.02]Nice.
+[75:28.27]Did I miss anybody?
+[75:29.83]Heavy weapons guy coming over here.
+[75:33.23]I don't think there's anybody else this way.
+[75:34.45]I'm going to stay here, though, because... There's this guy right here.
+[75:39.86]And there's that guy right... Okay, it's time to start clearing.
+[75:42.80]Ready?
+[75:44.12]No, not yet.
+[75:45.02]Can I get them both?
+[75:47.38]I'm going for it.
+[75:47.92]Fuck it.
+[75:48.26]I'm going for it.
+[75:57.05]Why does this guy have a fucking cement head?
+[75:59.29]Ugh!
+[76:31.12]There's a guy right here.
+[76:37.24]I haven't been alerted yet.
+[76:39.38]Gas canister right there.
+[76:40.40]No, I don't want to alert the whole entire compound.
+[76:46.27]Wait, because I'm not zoomed in, you see me?
+[76:51.83]Almost fucking
+[77:22.61]Where is this guy?
+[77:23.23]He's still hiding.
+[77:23.89]That's a cardboard box.
+[77:25.55]I can't shoot through a cardboard box.
+[77:28.01]I can, but why did it not kill him?
+[77:46.27]I think everyone's dead.
+[77:47.91]At least the ones that I need to kill are dead.
+[77:50.83]There's one guy right here hiding behind an impenetrable cardboard box.
+[77:58.14]He's not moving.
+[77:59.06]He's just gonna stay there.
+[78:00.92]Okay.
+[78:01.94]Just stay there.
+[78:02.48]Don't move.
+[78:03.12]Why would you move?
+[78:03.66]I can climb this part.
+[78:20.35]You'd think that you would patch this wall.
+[78:23.61]This is... I can just go in here.
+[78:38.84]Didn't see that guy.
+[78:41.96]Take the pistol out?
+[78:42.74]No, no, no, no.
+[78:48.43]There's two guys right here.
+[78:49.65]I wonder if I can interrogate one of them.
+[78:54.23]Is that walking or is that the fire?
+[78:59.21]Oh, fuck.
+[78:59.79]He's right there.
+[79:01.29]Holy... Did he actually turn around and look?
+[79:04.52]Why is he just pivoting back and forth, back and forth?
+[79:07.06]He's looking at every exit.
+[79:43.61]B. B. G. Why am I not healing?
+[79:50.12]Why am I not healing?
+[79:51.38]B. G. T. D. F. Okay, it's F.
+[80:11.20]That guy popped out like an old light gun game.
+[80:14.00]Am I good?
+[80:19.04]Alright, let's deal with plants.
+[80:32.71]plays a sniper game and kills people everyone with an assault rifle uh you mean three people I killed like 15 with the sniper rifle so what like an eight percentile of shooting with the with the standard shooting weapons it was like four it was not more than four I killed like 20 people with all right let's go where's this thing over here in the bunker
+[81:04.12]No scope with the sniper.
+[81:05.16]I don't think you can.
+[81:06.78]No, you can't.
+[81:08.00]I would have done it like three times already.
+[81:20.63]Okay, easy.
+[81:26.24]What's in here?
+[81:29.04]I don't see any people.
+[81:35.04]Stay on the two... Never mind.
+[81:38.08]Do you see anybody?
+[81:50.45]There ain't nobody here, right?
+[81:52.91]What up here?
+[81:55.75]There's nobody in the nest.
+[81:57.53]That's odd.
+[82:11.84]Okay, that was like a chimpanzee in a tree.
+[82:21.71]Did you see anybody?
+[82:22.45]There's like a camp over here.
+[82:24.21]I'm freezing to death!
+[82:34.72]Get out!
+[82:35.10]Get out of the ice!
+[82:49.20]It's right here.
+[82:49.78]What am I looking for?
+[82:53.88]A document?
+[82:55.98]Why would there be a document all the way back here?
+[82:57.54]...by our spy.
+[82:58.52]Can you guarantee that this will leave no evidence?
+[83:07.27]It must look like an accident.
+[83:09.13]I assure you, General, this agent is colorless, borderless,
+[83:13.79]but there will be convulsions as our test subjects demonstrate no spasms no foaming at the mouth no discoloration what's going on perhaps they will have time to find an antidote impossible none of the usual toxic treatment protocols will help
+[83:43.85]Alright, um... Why would... Why was there a waypoint here?
+[83:57.75]Why was there a custom waypoint?
+[84:12.19]Where was I?
+[84:13.35]Over... Oh my god.
+[84:15.13]I have to... I put it there.
+[84:32.25]God damn it.
+[84:50.24]Can I climb back up this thing?
+[84:51.66]Yeah, right here.
+[84:52.16]I'm good.
+[85:03.26]You can't climb this?
+[85:05.58]Yes, you can.
+[85:07.34]Don't tell me you can't climb this.
+[85:08.48]It's literally squares.
+[85:09.76]Oh, my...
+[85:26.66]What the fuck just happened?
+[85:38.26]I'm just going this way, I guess.
+[85:40.42]Sorry, I have to use my fucking hacker stripey silly spring vision.
+[86:01.35]Okay.
+[86:02.47]Now... What am I looking for?
+[86:05.53]I download the plans.
+[86:08.41]So there's a computer in here?
+[86:17.24]Where's the computer?
+[86:21.52]I gotta find a computer room.
+[86:28.75]Alright.
+[86:29.53]Um...
+[86:33.83]Computer in here.
+[86:38.82]That's, I mean, that's a computer.
+[86:41.98]There's multiple computers in here.
+[86:46.90]There's a lot of computers in this room, but I don't think it's one of these computers.
+[86:59.60]Let's try this one.
+[87:02.14]Computer.
+[87:06.05]Nice name.
+[87:07.15]What are you guys doing?
+[87:09.84]Stop.
+[87:10.64]Stop it.
+[87:11.54]At once.
+[87:12.08]Okay, it's not in here.
+[87:18.86]Try one of the other buildings?
+[87:28.55]This one?
+[87:34.78]This place is just trashed.
+[87:36.16]It's probably up here.
+[87:40.64]Let me loot.
+[87:48.94]Use the silly string vision to find the laptop.
+[88:12.74]Where's the laptop?
+[88:21.63]Is this a computer?
+[88:22.71]No?
+[88:25.99]Alright, found it.
+[88:28.11]Hack it.
+[88:28.47]$17,000.
+[88:33.02]Like an exfil trade.
+[88:42.94]So you exfil- Alright, so you do a random mission on the map, and then you exfiltrate.
+[88:54.62]So, exfiltrate, and then you do it again.
+[88:58.00]I gotta kill the- I can't move on from this game until I kill the guy in this map.
+[89:11.47]I have to kill the dude that... I can't just not do that.
+[89:14.49]Alright, extraction point.
+[89:25.49]Let's get it.
+[89:25.87]This is gonna hurt.
+[89:28.49]That almost killed me.
+[89:30.13]I could jump from there and be fine.
+[89:31.35]Guaranteed.
+[89:31.71]There's more than one.
+[89:34.42]We'll just go to this one.
+[89:49.16]Alright, I did it.
+[89:55.66]Jump off the roof of your house right now and prove it.
+[90:05.66]It wasn't that high!
+[90:08.84]Alright.
+[90:10.78]So, I want to get... How do I get out of here?
+[90:14.36]I want to go to the... I want to buy stuff.
+[90:20.48]Alright, we just eliminate him.
+[90:22.02]Over here.
+[90:22.46]Let's go.
+[90:23.14]I'm going in.
+[90:24.74]Why is it red?
+[90:29.49]I'm going in.
+[90:31.11]I'm going for the main contract.
+[90:32.29]Let's go.
+[90:49.01]Nobody down here.
+[90:49.59]This is the way I need to go.
+[90:56.11]Elite sniper has to buy own gear.
+[91:00.49]How do you think they get this stuff?
+[91:08.76]I'm supposed to be like a mercenary.
+[91:11.50]Can you sleep for 32 weeks in this game?
+[91:15.96]I feel like a lot of you are already doing that.
+[91:20.58]Yeah, I don't need to pro- Is he dead?
+[91:26.46]Not good enough.
+[91:49.26]You're going to tell me where they are.
+[91:52.53]That way.
+[91:54.03]Over at the base where all the people are.
+[91:57.46]Idiot.
+[91:59.26]Thanks for the info.
+[92:14.37]Found ya.
+[92:16.39]He's 75 meters away, therefore we're right there.
+[92:18.83]Don't even need to zoom it in.
+[92:19.81]Let's get it.
+[92:20.35]One, two, three.
+[92:22.15]That's a super bullet.
+[92:27.90]Should I not use this?
+[92:33.69]Uh... I don't want this thing.
+[92:37.19]I only have four shots left.
+[92:44.06]No, this thing... I don't want this thing.
+[92:48.01]Use your pistol.
+[92:48.81]Yeah, this thing is better.
+[92:51.45]It's not better, but, you know.
+[92:53.37]Alright, let me keep going.
+[92:58.17]Oh, something in there.
+[93:02.50]Might be ammunition in here.
+[93:11.04]This would be a pretty cool puzzle game.
+[93:16.89]I have to decide which one of these turns on which vent.
+[93:25.90]Diaper check.
+[93:28.44]That's pretty good.
+[93:32.52]If this was your first stream, what would you think about the diaper check command that's not real?
+[93:42.38]You wouldn't think I was a weirdo, you'd just think everyone here was a fucking weirdo.
+[93:46.90]Alright, I might be going the right way.
+[93:50.10]No, I gotta go over there.
+[93:55.09]Because all I... Okay, it doesn't matter if I've said any of this shit before.
+[93:58.51]If someone is a brand new viewer, I can be like, what is diaper check?
+[94:02.23]What the fuck are you guys doing?
+[94:03.57]Relax.
+[94:04.79]And a new viewer will go, oh, okay.
+[94:06.61]It has nothing to do with that.
+[94:08.43]What are you guys doing?
+[94:09.15]Yeah, what's wrong with you guys?
+[94:11.05]Even though it's all my fault.
+[94:14.85]It's like kind of, I mean, it's kind of interesting, I guess.
+[94:28.44]Diaper check is funny, and then a bunch of swears.
+[94:41.96]Alright, here we go.
+[94:43.14]Oh, I'm a bounty hunter.
+[94:44.37]Alright, here we go.
+[94:44.85]Let's make this happen.
+[94:45.39]Guy up here.
+[95:02.75]Anybody on the other areas where I can... There's only one person guarding this whole entire community, I guess, or whatever this is.
+[95:10.25]Alright, here we go.
+[95:11.19]How far away are you?
+[95:12.74]37 meters away, which means just... Yeah, I got him.
+[95:24.90]Alright, the guy... The bad guy is in here.
+[95:30.26]Just a question of where.
+[95:32.61]Can you interrogate the bad guy?
+[95:33.99]I know I'm saying the bad guy because that's just how you generally phrase everybody that you're fighting in anything.
+[95:48.40]Get those bad guys.
+[95:50.90]It's not bad guys.
+[95:52.56]It's bad guys.
+[95:57.24]It's its own term.
+[96:18.29]It's also a way to explain to anybody that, like, what you're doing is just you're playing a video game.
+[96:24.95]That's the best just... Oh, what do you... Why'd you just do that?
+[96:28.55]Why'd you shoot that guy?
+[96:29.27]Ah, he's a bad guy.
+[96:31.42]You want me to go off to the nuanced explanation as to what all these people are and what they're all doing here?
+[96:40.60]Oh, that's how you tell your mom what you're doing.
+[96:47.06]Get that guy.
+[96:47.94]Get that guy right there.
+[96:50.44]Get that bad guy.
+[96:51.88]I'll get him.
+[96:55.08]Mom does not want lore.
+[97:05.70]Mom does not want lore.
+[97:06.92]Mom wants to know make sure you're not doing drugs.
+[97:23.44]I heard voices.
+[97:24.10]Alright, he's in here somewhere.
+[97:33.87]Wait a minute, am I gonna get an opportunity to go up?
+[97:36.41]What was that?
+[97:40.49]Are we being attacked?
+[97:41.95]Are we under attack?
+[97:44.09]I think we're under attack.
+[97:50.79]Alright, we're under attack.
+[97:54.11]Where do I go?
+[97:54.73]We're under attack!
+[98:10.31]What is that for?
+[98:12.09]Is it me?
+[98:14.81]What's that?
+[98:15.35]Camera!
+[98:16.87]Uh oh, I've been spotted on camera.
+[98:18.39]Where's the camera?
+[98:21.98]Son of a gun.
+[98:36.74]Well, he's in here somewhere.
+[98:38.02]He's probably in there.
+[98:48.82]Mom is angry.
+[98:50.01]What do you mean, mom?
+[98:54.67]Interrogation.
+[98:55.23]Hold on.
+[98:55.53]Wait, wait, wait.
+[98:55.95]I'm being aimed at by who?
+[98:57.23]Somebody's over there.
+[98:57.83]Who?
+[98:58.11]Who is it?
+[98:58.51]Where are they?
+[99:03.13]Where are they?
+[99:03.56]Where are they?
+[99:07.28]Do you guys see anybody?
+[99:14.16]I want to interrogate this guy.
+[99:15.80]Oh, fuck.
+[99:23.46]How'd he die?
+[99:28.74]Great.
+[99:29.98]How did that guy not...
+[99:39.18]The target is running.
+[99:40.71]Target is running.
+[99:41.43]Target's running.
+[99:44.95]Where is he?
+[99:45.61]Where is he?
+[99:47.13]Okay, I'm gonna go this way.
+[99:51.23]Where is he?
+[99:51.67]I don't see him anywhere.
+[99:55.51]The target can see me.
+[99:57.97]What?
+[99:58.53]What?
+[99:58.94]Where is he?
+[100:00.78]Is he looking at a camera?
+[100:01.96]He's on his laptop.
+[100:09.65]Is that him?
+[100:23.84]Haven't seen that shot before.
+[100:26.56]Right through the lens.
+[100:29.49]Yup.
+[100:29.69]You never see that shit.
+[100:32.27]Alright, where's the target?
+[100:54.28]What the fuck was that?
+[101:03.25]Imagine hardscoping.
+[101:06.71]Is he trying to pick up the guy's gun?
+[101:14.63]Oh no!
+[101:15.29]Oh no!
+[101:28.65]Reload.
+[101:36.80]Uh oh, that guy's got a mask on.
+[102:04.26]Are you sure it's not the full five straight minutes of here comes the nuke alarm?
+[102:11.54]It might have something to do with that.
+[102:15.60]And the noise of gunfire.
+[102:18.58]Is that a grenade?
+[102:23.97]Where is he?
+[102:33.83]Did you see that?
+[102:34.85]I got a camera view of somebody else hiding over there.
+[102:38.33]Did you see that?
+[102:39.65]Where is he?
+[102:40.01]He's like right here.
+[102:42.13]The camera went by him.
+[102:43.21]He was hiding behind a wall.
+[102:46.37]Where was he?
+[102:46.85]There's a lot of money here.
+[103:04.28]I can hear him talking.
+[103:07.42]Is he underneath?
+[103:08.98]There's too many dead bodies on the ground.
+[103:14.77]I can't see.
+[103:18.81]Alright, let's go.
+[103:23.14]Let's get this.
+[103:44.07]I need to find the guy that I was supposed to... I'm just gonna accidentally come across this guy, aren't I?
+[103:59.71]Sniper, by the way.
+[104:03.43]Yeah, well, this game wants me to infiltrate and stealth kill people close and far.
+[104:16.48]This shouldn't be called sniper contracts.
+[104:21.04]What just happened in there?
+[104:22.48]I got him.
+[104:23.56]That was him.
+[104:24.82]He's in a hazmat suit.
+[104:26.78]Oh, this is gas!
+[104:28.49]Alright, I gotta get out of here.
+[104:34.53]I gotta get out.
+[104:38.31]This game shouldn't be...
+[104:45.43]Alright, I'm leaving.
+[104:51.41]Who?
+[104:53.94]Alright, out.
+[104:54.52]I got him.
+[105:13.09]wait let me just get one more kill really far away I want like at least 200 300 meters like this damn it I had it there's no way you're gonna get more paid contracts after this I did I did it
+[105:44.59]Did you hear the guy in the tutorial?
+[105:48.03]What's it matter?
+[105:49.15]As long as they're dead.
+[105:50.05]He said something like that.
+[105:51.45]It was like, oh, it doesn't matter what you're doing, who you're doing it for.
+[105:55.88]As long as you do it, you get paid.
+[106:00.02]That's what he said.
+[106:01.04]The guy that's in my ear said something like that.
+[106:04.71]What do you care about anything else?
+[106:05.99]There's more here than what I was told.
+[106:07.43]We often work in the dark, Seeker.
+[106:18.07]They're waiting for me.
+[106:19.65]Alright, time to bring out the assault rifle, because there's gonna be another person here and I'm gonna get fucking insta-killed.
+[106:34.48]Uploading data.
+[106:38.70]Guy in hazmat suit.
+[106:41.02]I don't know where he was or what happened, but the room he was in exploded.
+[106:49.32]I just aimed... I just aimed down a hallway and held the button down.
+[106:54.32]And, like, five people exploded.
+[106:56.64]I guess one of them was him.
+[107:02.79]There's more to do here.
+[107:03.67]What's the... Destroy all test results.
+[107:08.25]Steal samples of the virus.
+[107:13.25]Find the client's spy.
+[107:14.97]I'm... I'm not... I kind of... This is... Somebody just said in all capitals, this sucks.
+[107:20.53]But, I mean, just wait.
+[107:23.85]Let me continue playing up close and far away.
+[107:28.87]Fire, fire, fire!
+[107:33.63]Did I shoot myself in the head with a gun?
+[107:43.97]You should move on to hand simulator.
+[107:45.71]What do you mean bounty active?
+[107:47.86]I just got him.
+[107:56.00]Oh, that's the spy.
+[107:56.90]Okay.
+[107:58.34]Alright, let's go.
+[108:18.80]Damn it, I need to... Alright, let's go.
+[108:23.90]Bounty update.
+[108:24.66]Find the spy.
+[108:28.50]Who gives a shit about spies?
+[108:29.57]No, this is up close.
+[108:30.77]Up close is more important sometimes.
+[108:34.37]Why are the two not here anymore?
+[108:42.21]I got eyes.
+[108:48.87]Bounty active.
+[108:49.59]Entering bounty area.
+[108:52.64]Who's the bounty?
+[108:53.66]Is it this guy?
+[108:57.72]I mean, there's like a lot of smoke over here.
+[109:08.13]Man down!
+[109:09.19]Shit!
+[109:21.17]Damn it.
+[109:21.61]I saw his face.
+[109:26.05]Come on.
+[109:26.73]These terrorists are definitely looking for someone.
+[109:37.12]It could be our informant.
+[109:38.52]Find him before they leave.
+[110:06.77]Right, he could hear that bullet.
+[110:11.09]Almost out of ammo.
+[110:13.99]Without the sniper ammo, this is just an FPS game.
+[110:17.62]Yeah, I mean, it is.
+[110:20.92]I mean, it's just like a... It's an open-ended just run around and... Holy shit, that guy was blending in smoking a cigarette.
+[110:28.06]That guy was... I didn't even know he existed.
+[110:51.14]I mean, okay, here's one takeaway.
+[110:52.62]I mean, it's kind of cool that there's just an open-ended game where you just can walk around and do whatever you want.
+[110:57.54]There's no missions.
+[110:59.18]It's just, here's all the things that we want you to do here.
+[111:01.54]Go do it somehow.
+[111:02.52]Like I said, that's kind of cool.
+[111:06.67]Uh, but... Like... What?
+[111:10.55]I don't even think I know... What do you mean, leaving the bounty area?
+[111:13.45]Where?
+[111:13.61]What are you...
+[111:32.63]That was, yeah, that was poor timing, I know.
+[111:37.94]I'm dead.
+[111:42.84]Yeah, I, alright, it's like, here's a sniper, but no, run through this place where there's a bunch of people walking around and shoot them with your gun, but, sniper, but it's a sniper game, but don't use your sniper.
+[111:51.99]But you should be using your sniper, but recon, but don't recon.
+[111:55.23]Stealth, but don't stealth.
+[111:56.95]Be far away, be close.
+[112:09.34]I guess you can just do it any way you want.
+[112:13.72]That's kind of the point, isn't it?
+[112:15.13]Alright, this is gonna be tricky.
+[112:22.59]You're on a Star Wars planet.
+[112:29.84]Another one?
+[112:32.38]Wait, Captain what?
+[112:34.56]Captain Ivan... That's him!
+[112:36.80]That's the guy!
+[112:38.58]I have to kill that guy.
+[112:42.10]Did I actually miss that?
+[112:43.04]I went through his... Where is he?
+[112:55.79]He has a grenade in his hand.
+[113:04.23]I don't need to go any further.
+[113:05.59]Let's go.
+[113:07.39]Find the spy!
+[113:09.13]Let's move!
+[113:12.03]Alright, let's get in there.
+[113:24.09]Wait, I can do a super... I can do a kill thing.
+[113:26.93]Right?
+[113:29.52]Is that worth more points?
+[113:34.34]There's a shotgun.
+[113:35.61]Like, why would you give a guy a shotgun and a sniper, like... I want to use this right now.
+[113:41.89]Okay, in here, I gotta find the spy.
+[113:56.98]Then use it.
+[113:58.52]I already got the bounty.
+[113:59.56]What do you mean, leaving the bounty area?
+[114:00.80]Wait, do I have to, like, prove it?
+[114:08.36]Did I already get that guy?
+[114:09.16]I already killed him.
+[114:12.83]I don't think I care.
+[114:13.57]I already killed the guy.
+[114:16.77]I apparently failed the bounty.
+[114:42.64]Where is he?
+[114:43.64]He's in the trees.
+[114:54.98]Where the fuck is he?
+[115:02.96]Now this is what I call... That's a... I deserve at least 100 fog jams for that one.
+[115:13.55]Why do I have to take off the shell?
+[115:30.03]Oh fuck.
+[115:32.38]What is he doing?
+[115:39.98]I'm so confused.
+[115:43.80]Is he hiding?
+[115:51.48]He's not firing at me.
+[116:01.29]Oh my god!
+[116:15.79]I don't need to heal yet.
+[116:27.94]I have to go this way, so... He's the same... I can't even see through the tree.
+[116:36.44]I'm throwing a grenade over there.
+[116:48.33]Sometimes you have to do it.
+[116:49.77]I'm out of ammo.
+[116:54.86]What's with the enemies always narrating their actions?
+[116:58.96]Why can't they just stealth grenade or stealth reload?
+[117:03.56]You know, that is true.
+[117:08.58]But I guess it's to tell everybody that you're... Hey, I'm in trouble.
+[117:12.74]Or I'm... Somebody cover me.
+[117:14.19]Or...
+[117:17.82]Alright, I only have four shots on this sniper rifle.
+[117:19.99]Alright, I gotta find the spy.
+[117:23.45]Hey German, this is Matthew.
+[117:41.64]We've seen that copypasta so many times now.
+[117:48.11]I can't see shit.
+[117:52.77]You gotta take their hard shell off.
+[117:54.51]Uh-oh.
+[117:56.99]To the right.
+[117:59.95]There's a whole encampment over there.
+[118:02.35]Alright, am I still in the zone?
+[118:04.59]Not really.
+[118:05.37]He's over here.
+[118:10.56]Two bullets.
+[118:11.14]That's it.
+[118:17.42]Don't fall down there.
+[118:18.44]Alright, where the hell is this guy?
+[118:23.70]He's either in here, or he's this way.
+[118:27.82]Is there a building over here?
+[118:28.74]There's a little camp up there.
+[118:29.82]That's where I just was.
+[118:31.54]Alright, slow down.
+[118:35.44]That's a bright light.
+[118:36.14]Is there a tank?
+[118:43.54]I don't know what that is.
+[118:45.28]No.
+[118:52.12]I found the agent.
+[118:53.98]He's dead.
+[118:54.92]Retrieve any lab samples he was carrying.
+[118:57.60]Here, lab samples.
+[119:02.54]I cannot find any samples.
+[119:04.36]I am disappointed, seeker.
+[119:06.16]Did I take too long?
+[119:07.50]I've marked safe exit points on your map, should you choose to exfiltrate now.
+[119:15.13]I gotta spend some money, guys.
+[119:52.47]That was not ideal, I know.
+[119:53.97]Wait, I need health and ammo and shit.
+[119:58.32]Don't kill them.
+[120:00.70]What do you mean, don't kill?
+[120:01.62]This is a game about killing people.
+[120:07.77]Don't kill them.
+[120:09.69]What would you like me to do?
+[120:11.09]Just run by them?
+[120:23.24]There is no knockout.
+[120:24.04]Bounty active.
+[120:31.18]Alright.
+[120:32.06]I'm going... I want to go and buy something.
+[120:35.70]I feel like I've been stuck on the first mission.
+[120:37.26]I'm just doing the first mission.
+[120:38.54]I'm doing everything in the first map.
+[120:43.04]We've been on snow level for two hours.
+[120:45.34]Alright.
+[120:56.55]How do I just leave?
+[121:03.02]I kind of don't want to do that, though.
+[121:05.36]Destroy all the test results?
+[121:07.60]Steal samples?
+[121:12.71]Alright.
+[121:13.73]Main menu.
+[121:16.47]Yeah.
+[121:17.61]Let's go to the loadout screen?
+[121:19.17]Isn't there a loadout?
+[121:22.40]Contracts.
+[121:28.21]I guess I'm just on this.
+[121:29.87]You just have to do this one.
+[121:33.00]Loadout.
+[121:33.64]There we go.
+[121:34.20]Loadout.
+[121:34.80]I have $163,000.
+[121:36.20]Look at... Okay.
+[121:42.80]This is what I should have done from the very beginning.
+[121:46.69]Damage.
+[121:47.67]Firing rate.
+[121:48.21]Stability.
+[121:50.01]Noise reduction.
+[121:50.85]So that people hear this shit.
+[121:53.34]People hear this really... It's very loud.
+[121:55.64]I want the most expensive one.
+[121:57.88]It's this one.
+[122:01.65]Preferred range.
+[122:02.39]I'm going to sneeze.
+[122:02.99]I'm sorry.
+[122:04.89]I caught it.
+[122:10.45]I want... This one's in tons of damage, but why do I care about that?
+[122:15.83]I want complete noise reduction.
+[122:18.29]This one here.
+[122:20.47]Alright, this is... How is this bad...
+[122:23.91]More damage, more fire rate, more stability, more damage reduction.
+[122:26.61]Oh, a little bit less mobility?
+[122:27.85]Who cares?
+[122:28.27]Oh.
+[122:38.56]Well, uh... I need tokens.
+[122:45.14]Mobility, fire rate, stability...
+[122:48.80]I'll try this one.
+[122:49.72]It's loud, but it's got better stability, more fire rate, and I can move around more and snipe.
+[122:54.57]Alright, bought it.
+[122:55.43]Now what?
+[122:55.75]Can I do anything else with it?
+[122:58.77]Developing.
+[123:00.97]There's a skill tree.
+[123:02.41]Mask?
+[123:04.15]How many points do I need?
+[123:04.96]$25,000.
+[123:04.98]Oh, I can get the turret!
+[123:06.54]No, I can't.
+[123:15.64]Suit.
+[123:17.06]Stamina regenerates faster.
+[123:18.70]Adds Kevlar armor layer to the current armor.
+[123:24.82]You're harder to detect.
+[123:26.04]I want to go to that level!
+[123:26.96]I don't want to be in the snow level.
+[123:28.45]This level looks cool.
+[123:34.87]Turret.
+[123:35.35]Increases remote sniper turret fire range.
+[123:40.47]That's not... I need to, like, get the turret.
+[123:42.70]Okay, secondary weapon.
+[123:47.46]I want this to be heavy, heavy damage.
+[123:49.68]I don't care about noise.
+[123:50.48]I mean, this is... I already have it on.
+[124:00.11]What was the sidearm?
+[124:00.95]Ooh, Magnum.
+[124:04.27]Fire rate, mobility, ammo capacity.
+[124:06.81]I like this.
+[124:07.67]That's too much.
+[124:08.51]I can't buy it.
+[124:08.95]I'm going to get the Magnum.
+[124:13.84]All right, med kit, fire grenade, and then turret.
+[124:17.15]Where's the turret?
+[124:17.67]I need challenge tokens.
+[124:27.32]God damn it.
+[124:30.18]Warning device?
+[124:33.34]This is a cool add.
+[124:34.24]What do you mean add?
+[124:42.94]I'm just trying to pick weapons.
+[124:46.82]I can't do the turret, guys.
+[124:47.84]It's unfortunate.
+[124:50.04]Let's go to development.
+[124:50.90]I'm going to do... More... Yep.
+[124:54.96]Detection.
+[124:57.30]Hard to detect.
+[124:59.64]More armor.
+[125:04.63]More sniper ammo.
+[125:05.61]Yep.
+[125:08.09]Yeah.
+[125:08.85]Okay.
+[125:09.55]Okay.
+[125:11.03]Alright, I just gotta...
+[125:19.94]You're in the middle of another mission.
+[125:24.09]What?
+[125:24.29]I don't understand.
+[125:32.93]I already did this.
+[125:33.81]I just hit continue.
+[125:50.38]I said continue.
+[125:51.74]Do I just do this again?
+[125:52.70]No, I already have everything.
+[125:59.48]Alright, let's try fast traveling.
+[126:03.20]Fast travel to here.
+[126:08.89]What else do I need in order to play the next game?
+[126:12.65]Um... 500 million dollars.
+[126:16.21]And I'll switch.
+[126:22.11]Let me try my new rifle!
+[126:28.60]Oh, let's go!
+[126:29.44]We can do it!
+[126:30.58]We can hit it!
+[126:31.24]Alright, the next time I die, I'm just gonna play Dusk.
+[126:36.36]I mean, the game's... It's pretty fun.
+[126:40.32]It's alright.
+[126:41.18]I wouldn't say this is, like, my favorite game ever, but I'm still interested.
+[126:54.80]People think I lose interest in a video game real quick.
+[127:09.99]Here's the thing.
+[127:10.39]What if I don't die?
+[127:10.95]Alright.
+[127:13.89]Steal the data.
+[127:14.95]Steal samples of the virus.
+[127:16.03]I'm gonna steal the samples of the virus.
+[127:18.37]Steal the samples.
+[127:21.58]Alright, there's like a package in here for me.
+[127:25.41]Where is it?
+[127:30.67]Public media.
+[127:31.40]I got $4,500 for collecting that collectible.
+[127:39.22]So I just need to get back in here and steal the plans.
+[127:41.42]Alright, fine.
+[127:44.71]I won't even play with the sniper.
+[127:46.73]Fine.
+[127:46.91]Okay.
+[127:58.13]Alright, I'm just gonna- I'm go- Fine.
+[128:50.27]Oh shit
+[129:07.52]Where's this damn sample?
+[129:28.20]That's not a sample.
+[129:28.76]Give me a sample.
+[129:47.74]I need- where are the samples?
+[129:54.25]Sample?
+[129:56.63]That looks like a sample Mayday's?
+[130:23.81]This little fucking lunchbox is the sample?
+[130:26.97]Are you kidding me?
+[130:28.03]Fine.
+[130:28.29]Avoid combat?
+[130:29.57]Good luck.
+[130:30.13]Extraction point.
+[131:17.64]Jump the fence!
+[131:18.26]Jump the fence!
+[131:42.41]If I die, game turns off.
+[131:51.96]I'm trying.
+[131:52.92]I'm playing like full-on FPS game right now.
+[132:09.02]Where is he?
+[132:33.64]I'm gonna finish the rest of this fucking level without dying.
+[132:48.02]That better be a pog.
+[132:52.28]32% completion.
+[132:52.72]Let's go.
+[132:53.12]Back up there.
+[132:54.74]I'm going.
+[132:58.14]Who cares?
+[132:58.72]Just go.
+[133:00.08]I think I can do it.
+[133:01.64]I think I can do it.
+[133:13.44]I'm just gonna play like this.
+[133:15.04]Check this out.
+[133:21.59]Up here.
+[133:22.17]I don't need to fast travel.
+[133:23.25]We gotta go up here.
+[133:23.85]We gotta destroy the test results.
+[133:25.71]You got it.
+[133:29.75]I'm getting myself ready for Dusk.
+[133:32.25]Dusk is all about, like, spin.
+[133:33.73]Shoot.
+[133:34.33]Twist.
+[133:34.49]Twist.
+[133:34.67]Twist.
+[133:34.87]Twist.
+[133:35.09]Twist.
+[133:35.31]Turn.
+[133:35.65]Twist.
+[133:35.93]Turn.
+[133:36.21]Turn.
+[133:36.43]Twist.
+[133:36.63]Turn.
+[133:36.83]Shoot.
+[134:10.89]Would've had it.
+[134:11.83]Too bad.
+[134:14.47]Alright, only 100 miles.
+[134:15.23]100 meters.
+[134:36.08]It just took forever to reload that.
+[134:37.40]God damn it, man.
+[134:38.14]Really.
+[134:58.11]This door's locked.
+[134:59.23]So find another way in.
+[135:11.03]Find another way in.
+[135:12.41]This way.
+[135:26.38]Fucking attention span here.
+[135:44.67]It's like I know where I'm going.
+[135:56.48]Okay, we- Fuck!
+[136:03.38]I was doing so- I was doing so well, too, and I'm just going too fast.
+[136:09.00]Whatever, who fucking cares.
+[136:19.32]I wish I could play the other levels.
+[136:24.00]It's almost like this game wants you to have this drop-in, drop-out sort of mentality.
+[136:28.91]But you have to stay here.
+[136:31.59]Until when?
+[136:32.39]Do I have to do all the major objectives before I can do anything else?
+[136:46.63]Alright, let's play Dusk.
+[136:47.33]I've never played Dusk.
+[136:48.00]I have no idea what will happen.
+[136:49.26]It's probably going to be fun.
+[136:53.34]Let's just do Dusk.
+[136:57.27]Okay.
+[136:57.77]Is this game good?
+[137:17.95]Okay.
+[137:18.15]You're gonna get mad, am I?

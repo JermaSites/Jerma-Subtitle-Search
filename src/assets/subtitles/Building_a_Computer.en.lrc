@@ -1,0 +1,622 @@
+[re:Lavf61.7.100]
+[ve:61.7.100]
+
+[00:53.75]Hello, hi, welcome.
+[00:58.09]Ready to learn how to make a computer?
+[01:00.75]I hope you are, because that's how we're going to learn today.
+[01:04.98]How to build a computer.
+[01:07.42]Just give me a second while I sit down in my seat.
+[01:11.76]Give me one second, guys.
+[01:13.82]Had some last minute technical problems.
+[01:16.40]I've had last minute technical problems like every day for my whole life and for the rest of my life probably too.
+[01:23.57]See you in a sec.
+[02:46.33]All right.
+[02:48.36]So, welcome to the stream.
+[02:51.00]Welcome to Jerma, the PC computer doctor.
+[02:53.38]I'm going to teach you all the things you need to know about making a computer.
+[02:58.98]Let's get a seat here.
+[02:59.98]Welcome.
+[03:00.45]Hi, everybody.
+[03:02.43]How are you?
+[03:04.65]So, the reason why I decided to do this is a lot of people don't know the first thing about making a computer, right?
+[03:12.09]So...
+[03:13.06]I figured, yeah, I have at least a little bit of knowledge on how to do that thing, so might as well do a stream where I teach everybody how to do it.
+[03:21.87]Been in the game for about 20 years now, so might as well try.
+[03:24.33]Anyways, we have our various parts in front of us, right?
+[03:29.99]We have our motherboard, our PSU, our graphics card, our DVD, CD, RW drive, a heater, a
+[03:39.34]our RAM, and our backplate.
+[03:41.08]We're going to build a budget PC here today, guys.
+[03:42.94]We're not going to do any crazy shit.
+[03:45.30]This is not going to be like a $3,000 or $4,000 computer.
+[03:48.88]It's going to be very, very inexpensive for you to afford.
+[03:51.67]You understand?
+[03:55.69]Okay, so first thing is first, your motherboard.
+[04:01.07]You can get these on Amazon.
+[04:02.29]You can get them on Newegg.
+[04:03.27]This is a Gorilla Extreme 9100.
+[04:09.05]Yeah, you can get these on Amazon or Newegg, like I said.
+[04:12.43]I'm just a little nervous because this is the first time I've ever decided to do something like this.
+[04:18.62]So bear with me.
+[04:19.90]I'm not very good at public speaking.
+[04:22.14]It's kind of hard for me to do sometimes.
+[04:23.76]So if you could bear with me while, because remember, I'm a computer.
+[04:26.76]I'm a computer doctor.
+[04:27.68]I'm not typically in front of the camera.
+[04:29.86]So if you give me a few moments to collect myself.
+[04:33.22]So, this is a standard motherboard, and you get the, it's a Gorilla, like I said, Gorilla 9100.
+[04:43.69]It's a Gorilla 9100, and God, I really like, I really had this plan that I was going to do this and get it together.
+[04:50.55]Okay.
+[04:51.69]So, Gorilla 9100 is the best motherboard you could possibly buy for under $300, and
+[04:58.03]And if you really want to get anything higher than that, you're going to have to get a, like an Asus or an Asus, I think is what they're called.
+[05:07.11]God, I am just uncomfortable in front of this camera.
+[05:12.85]Okay.
+[05:14.75]So anyways, get it together, man.
+[05:18.05]You fucking had this planned for like six months.
+[05:23.58]Anyways, this is how you build a computer.
+[05:26.00]We're going to put them in the components.
+[05:27.40]We're going to put it in here.
+[05:28.78]We're going to connect the wires.
+[05:30.06]I'm going to show you the correct way to do it.
+[05:32.16]And even though Nervous might be running a little high right now, we're still going to do it.
+[05:36.41]And I apologize if anything seems a little odd as we go along here, but this is my first time doing this.
+[05:42.31]So anyways, the first thing you need to do, this is a standard ATX case, OK?
+[05:48.56]you don't need to get a micro atx you don't need to get a larger tower these don't matter it's just a piece of steel anyway so you can actually you can actually put like a piece of plastic on here if you really wanted to yeah you don't need really need like a case as long as you can hold it together that's all that really matters so what do we do when we first get our components out of the box like you see here well the first thing we do is uh we season the motherboard so any standard seasoning will do like I like to do a little bit of crack crack pepper that seems to be
+[06:18.12]what I usually use at least uh in the realm of seasonings uh just a little bit of standard table salt too will do just not not too much you don't want to do too much just enough to get it on there you know what I'm saying because if you over season your motherboard that's where you run into some problems you know
+[06:40.45]Problems where you get overheating issues, you could run into some dangerous, dangerous electricity problems.
+[06:49.35]And speaking of electricity, let's get some of the other seasonings out here.
+[06:52.68]If you have a standard PC spice rack, like I would recommend.
+[06:57.48]I don't like to use flak oil because flak oil causes, there's FPS issues in video games.
+[07:04.26]I like to use, I would write this down if I were you.
+[07:07.79]This is electrosodium.
+[07:10.89]technohydrin, and gastrofluoride.
+[07:13.37]So these three are what you want to use to season the motherboard and get it really nice and crispy when it goes into the oven.
+[07:19.31]So this is just standard.
+[07:20.91]This is salt and a little bit of electrofluoride.
+[07:22.84]I like to combine them a little bit.
+[07:23.84]So once they're combined, you just really want to get it on there.
+[07:29.86]This helps with conductivity.
+[07:33.80]Let's just get that on there.
+[07:35.04]That's good.
+[07:36.34]You don't need very many of these.
+[07:38.82]But, and you know, look, some people like their motherboards seasoned more than others, right?
+[07:44.26]I can't tell you what combination is correct for you, but what's correct for me is usually at least this much is good.
+[07:51.90]I like to eyeball it because, you know, at the end of the day, it doesn't really matter as long as it tastes like the way that you want it to taste inside of your gaming when you're, you know, playing your video games.
+[08:02.98]That's good there.
+[08:03.56]Get a little bit of this.
+[08:06.76]Season that.
+[08:09.26]A little too much.
+[08:10.42]That's alright.
+[08:12.24]That's okay.
+[08:13.02]If you put a little... Hold on.
+[08:19.27]Just a little too much came out.
+[08:20.43]I'm just a little nervous.
+[08:25.27]Hold on.
+[08:28.75]I'm getting so nervous in front of the fucking camera.
+[08:43.13]The fucking batteries are dead.
+[08:45.95]What?
+[08:49.49]Everything fucking doesn't go right.
+[08:58.41]If you vacuum, if you do too much and your vacuum's out of battery power, you can take a little spray duster.
+[09:05.64]That's enough.
+[09:06.78]Because we don't want the whole thing to get unseasoned.
+[09:12.66]Damn it.
+[09:14.56]There we go.
+[09:14.94]That's good.
+[09:15.82]That's fine right there.
+[09:16.54]Okay.
+[09:16.82]Now, another thing with the motherboard, before we go any further.
+[09:19.94]Did I put any gastrofluoride on?
+[09:21.68]Did anybody see me do that?
+[09:24.68]I don't think I... No, I did.
+[09:25.98]I did.
+[09:26.22]There's a little bit of... Where's the... There it is.
+[09:28.93]This is flack oil.
+[09:29.67]Okay.
+[09:31.97]Don't do that again.
+[09:33.51]Just a little bit is enough.
+[09:39.39]There we go.
+[09:39.89]Okay.
+[09:40.81]The rest, and if you have a little bit left in your hand, you can just, like, wipe it on your pants.
+[09:44.69]It doesn't matter.
+[09:45.24]Like, it's fine.
+[09:47.40]So, as we go forward here, something that really needs to be talked about, which we haven't talked about that frequently, at least, is...
+[09:56.35]Electric conductivity right because when you build a PC the really you have to be careful of electrocuting yourself It happens like one in ten people when they build a PC electrocute the shit out of themselves I'm not gonna be one of those people I'm very very careful, especially when I'm dealing with the components that are plugged in to be very careful about that so what we're gonna do is some people like to use wrist straps and
+[10:20.63]I'm not one of those people.
+[10:22.33]I like to go a little bit step further.
+[10:24.69]You can get Vaseline at any CVS or Walgreens or anything, but it helps so much to counteract any potential conductivity.
+[10:34.07]So let's just get a nice healthy layer here.
+[10:38.22]Because once we start working with other components, for instance, like the graphics card, the RAM, the memory, this is where it gets dangerous.
+[10:44.56]So you really want to work in some Vaseline is anywhere.
+[10:49.70]You can get it at, like I said, your local Walgreens, Walmart, anywhere you are.
+[10:53.56]Now this makes it impossible for you to conduct any electricity because it's petroleum jelly.
+[10:58.67]It does not conduct electricity.
+[11:01.63]So at this point, I think it's time we move on and we've seasoned our motherboard.
+[11:07.29]As long as it sits there and marinates for a few minutes, then it'll be perfectly fine once we get it in the actual tower.
+[11:13.41]So let's move on.
+[11:15.01]to the RAM because the first component you put into a computer will be your memory because it's the easiest to put in.
+[11:22.46]It doesn't take very much effort.
+[11:23.88]It doesn't take very much time to get it in there.
+[11:26.34]Let's move this out of the way and make sure I got all my components.
+[11:31.15]I do.
+[11:31.79]Let's just get this up.
+[11:33.67]This is a standard egg wash for those of you that don't know.
+[11:40.36]Because this lets your RAM get nice and crispy when it goes in there.
+[11:44.22]Just one stop, two stops, flip it around.
+[11:47.62]Get it coated with the egg.
+[11:49.69]And then that goes into the flour.
+[11:52.53]A nice, crispy coating is what you're looking for here.
+[11:56.79]And something very important, if you don't know.
+[11:59.91]If you put more than one stick of RAM in a PC, it'll explode.
+[12:05.12]So this is one DDR6, 64 gigabyte of RAM.
+[12:06.66]And this...
+[12:10.82]Where does it go?
+[12:11.98]Right here?
+[12:14.29]No, right here.
+[12:15.23]Okay, so once it's coated, once you get the nice egg wash on it, you want to really just, where's my, where's my other PC?
+[12:23.89]There it is.
+[12:27.03]Now you can do this with your hands, but I like to make sure it gets in there nice and thick.
+[12:35.11]So let's get that in there, line it up.
+[12:36.74]Remember, it only goes in one way.
+[12:39.12]Does not go in any other way.
+[12:42.16]Is that the right way?
+[12:44.66]Fuck.
+[12:53.34]If it doesn't go in the first time, you know you're doing something wrong, so.
+[13:00.11]Hold on.
+[13:03.09]This is why it's so hard to fucking deep batter a piece of RAM.
+[13:08.53]Because you want the skin on there.
+[13:10.21]There we go.
+[13:12.65]Put that in there.
+[13:14.88]Okay.
+[13:17.46]Again, if it doesn't go in, then you... There it is.
+[13:21.82]Now, to make sure it's secure, it's in there, the RAM.
+[13:23.86]Our RAM is in there.
+[13:24.60]Let's just give it a few taps with a hammer.
+[13:29.13]This will ensure complete and total connection with the device and the memory.
+[13:36.49]You want a very hard connection there.
+[13:38.47]If any prongs aren't connected, then you're in deep shit.
+[13:41.83]So...
+[13:43.09]That's good with that.
+[13:44.01]Now let's do the... Let me see what should go next.
+[13:47.19]Because that'll stay there.
+[13:48.57]That's fine.
+[13:50.14]Ah, the CPU.
+[13:51.16]Right, the CPU.
+[13:53.12]So when you take... That happens when you have Vaseline all over you.
+[13:58.96]It's okay.
+[14:01.06]Speaking of that, I need to reapply.
+[14:02.17]It's been like 30 or 40 seconds, right?
+[14:05.41]Just get some water on me.
+[14:07.93]I need to be really careful.
+[14:10.57]You can die when making a PC.
+[14:13.10]If you didn't know, you can actually fucking die.
+[14:16.93]You don't, you fucking run with electricity.
+[14:19.31]As my father used to say, don't fucking run with electricity, you'll die.
+[14:26.40]And that should be enough, good enough coating.
+[14:29.74]Thermal compound is a scam.
+[14:31.80]All you need is a little bit of Vaseline.
+[14:33.66]Just get that right on the bottom there if you can see.
+[14:36.06]Make sure it's smeared on there, because this will be your thermal compound, essentially, is what you're looking for.
+[14:41.05]Now, when dealing with a CPU, this is a 12-core processor.
+[14:47.69]Do not fuck with these.
+[14:49.05]You have to be very gentle when you put it in.
+[14:51.49]If you are not gentle when putting it in this slot, you're going to end up with a massive issue.
+[14:57.29]A little bit of electrofluoride stuck out my hand.
+[15:01.64]So...
+[15:02.91]Very carefully.
+[15:04.37]You want to match the prongs up.
+[15:05.74]It only goes one way.
+[15:06.86]It does not go in any other way.
+[15:08.08]It only goes in one direction.
+[15:10.36]Just like the band.
+[15:11.26]Just think about your favorite band.
+[15:13.40]Once it's in there... Remember, I told you.
+[15:18.23]It only goes in one way.
+[15:23.69]It's not that way either.
+[15:24.57]It's like putting on a bed sheet.
+[15:27.13]You know how hard it is sometimes to put on a bed sheet?
+[15:32.23]You get it one way, it's horizontal, it's vertical, you don't have it correct.
+[15:36.83]There it is.
+[15:41.52]Don't get frustrated like I am.
+[15:43.84]Just let it get in there on its, you know, there's a little bit, the problem is my seasoning got in there.
+[15:53.73]If it ain't going to go in, then sometimes you have to return it.
+[15:55.77]I hate, I absolutely hate RMAing equipment.
+[15:59.00]It's so fucking annoying when it doesn't work.
+[16:01.12]You get it out of the box and it's not working.
+[16:02.92]It's not the thing that you thought you bought.
+[16:05.78]And make sure you match up the correct... There it goes.
+[16:17.59]It only goes in one way.
+[16:27.98]That's an extra... The companies add those to make it look cool.
+[16:33.24]Okay, now that the CPU is in there... One last hit.
+[16:39.15]Don't recommend more than one hit with a hammer.
+[16:42.01]This is your... Woo!
+[16:45.63]This is your... This is your... What is this device?
+[16:50.25]It's supposed to be a goddamn computer doctor!
+[16:55.05]It's the...
+[16:56.50]It's the heat sink.
+[16:57.84]This is what this is.
+[16:59.38]That's what this is.
+[17:00.90]It's the heat sink.
+[17:02.56]What you're supposed to do is you can put a little bit more extra thermal compound on there.
+[17:07.57]Close this up, tighten it.
+[17:11.43]You'll hear a snap sometimes.
+[17:12.73]That's okay.
+[17:15.04]That's okay.
+[17:16.52]It doesn't matter.
+[17:17.04]As long as you get it on there correctly, then it doesn't really matter.
+[17:20.50]Remember with your plugs, if you're plugging in a device into a motherboard,
+[17:24.33]you got to make sure you're in the right place because there are time and time again, I've seen customers put plug in their devices into the wrong slots.
+[17:32.69]So make sure you know where this is going.
+[17:34.49]This is a three prong.
+[17:36.37]Look for the three prong.
+[17:37.43]It is right here on my motherboard.
+[17:38.83]It's different on yours if you're following along.
+[17:41.34]So this sits on right here.
+[17:44.28]This plugs in right here.
+[17:47.84]It only goes in one way, so make sure you get it correct.
+[17:51.61]It's kind of like a USB drive.
+[17:53.73]You're never going to get it right the first time.
+[17:55.39]At least in my professional opinion.
+[17:58.57]That's in.
+[17:59.75]Now we need our screwdriver.
+[18:02.29]Or, yes, well, I can actually, I can sit there for now.
+[18:06.89]Let's put the other components in.
+[18:09.09]Now there's my screwdriver.
+[18:09.99]What an idiot.
+[18:12.04]What an adult, you know what I mean?
+[18:13.20]Like what an adult.
+[18:14.50]Didn't know what my screwdriver was.
+[18:17.10]So let's get that screwed in.
+[18:27.89]Is this right screw?
+[18:32.31]Remember to keep your screws in the same place so you know where they are.
+[18:35.95]That's not the right screw.
+[18:43.66]Where is the screw here?
+[18:51.52]I don't know where that screw is.
+[18:54.06]Well, if you...
+[18:56.50]If you end up losing a screw, it's okay.
+[18:58.99]What you can use instead is, let me just grab it.
+[19:03.77]It's sitting around here somewhere.
+[19:04.97]I don't know what the hell I did with it.
+[19:08.01]Where did it go?
+[19:09.61]I know this is for like an emergency.
+[19:10.98]I don't know what I did with it.
+[19:18.62]Where the fuck is it?
+[19:27.03]That's not it.
+[19:30.93]Fuck.
+[19:47.80]This is why they have the cup holders on the case.
+[19:56.71]Make sure, make sure, when you're building your PC, you use the issued cup holder that they put on all cases.
+[20:04.33]You see this thing?
+[20:05.94]I wasn't using it.
+[20:09.86]Sorry, water evaporates.
+[20:11.42]Once this gets put in here, it'll evaporate in about 25 minutes.
+[20:14.18]So, that's okay.
+[20:15.30]Mistakes happen, and that's fine.
+[20:17.56]As long as you move it out of the way.
+[20:18.68]Well, I don't know where the...
+[20:25.09]I don't know where the... I don't know why this is still up here.
+[20:27.81]We're done with our egg wash.
+[20:29.37]We can move this down.
+[20:30.14]Just need to get that put over there.
+[20:32.98]That's fine.
+[20:36.46]This can go in.
+[20:37.26]I think it's time.
+[20:39.36]I got the graphics card too.
+[20:40.58]Sometimes I forget.
+[20:45.19]I forgot about the graphics card.
+[20:47.11]So the graphics card, because this is a budget PC, this does not need to be anything too fancy.
+[20:53.00]This is a, I got this off of eBay.
+[20:56.90]This is an AGP graphics card, which don't listen to the fucking bullshit.
+[20:59.95]Don't listen to like Nvidia.
+[21:01.81]or AMD telling you you have to have like a Titan 2x5500.
+[21:05.87]It's not true.
+[21:07.51]This will run any video game that you want to play at at least, at the very least, 16 to 18 frames a second.
+[21:16.41]That's all you need.
+[21:17.01]The human eye can't see past 22 anyway, so who cares?
+[21:19.80]So what you want to do is, let's get this, first of all, remember, always, always season your parts and your components.
+[21:26.16]This is just a little bit of Pam, you know, nothing special.
+[21:30.57]And that will go here.
+[21:31.71]Perfect.
+[21:32.55]You want to get it in that slot before it dries.
+[21:36.49]That's incorrect.
+[21:37.91]Remember, I think USB drive, doink!
+[21:40.33]You know what I mean?
+[21:40.93]Sometimes you don't get it the first try.
+[21:43.61]And every part will go right in without a problem.
+[21:46.27]You don't have to really force it.
+[21:47.83]You don't have to put an edge on it or anything like that.
+[21:50.27]It just goes right in.
+[21:53.21]like so and that should be in there good we are complete here we have our ram we have our graphics card cpu and heatsink it doesn't it doesn't have to be connected it's okay that doesn't need to be connected and we have our gpu there so this is now ready to be placed inside
+[22:12.73]So what you have to do now is get your station correct, because the rest of these components go in later.
+[22:18.39]They go in after you screw in your motherboard.
+[22:21.24]Don't do it in reverse, because otherwise you're not going to be able to get your hands in there.
+[22:24.78]So do it this way first, so you have all your shit together and you know where everything is.
+[22:28.57]Let's get that season again.
+[22:32.01]Because you know the smell fills the air.
+[22:34.83]The smell fills the air and it smells fantastic.
+[22:38.00]Let's go ahead and get this moved out of the way.
+[22:39.92]This is your PSU.
+[22:41.18]Don't get any fucking liquid in here.
+[22:43.48]I've done that before.
+[22:44.98]And it's not pretty.
+[22:46.16]Season that up.
+[22:49.36]Move that down for now.
+[22:50.15]We don't need it anymore.
+[22:51.37]At least for a few minutes.
+[22:52.95]Move that out of the way too.
+[22:54.85]This is our DVD drive.
+[22:57.27]It's okay.
+[22:57.73]You can just sit it wherever for now.
+[23:00.59]Okay, put on a smile.
+[23:02.53]Put a smile on.
+[23:03.29]Oh, this is empty.
+[23:09.98]Can't believe I fucked up.
+[23:11.26]Unbelievable.
+[23:11.86]I didn't use the fucking... See how it unscrews?
+[23:15.52]Now, you make mistakes.
+[23:17.08]That's okay.
+[23:17.64]You're gonna make mistakes.
+[23:19.21]Your $485 budget computer is gonna turn into $25,000 because you make mistakes.
+[23:25.15]We're all human.
+[23:26.57]Supposed to use the cup holder, and I didn't.
+[23:28.99]That's okay.
+[23:30.94]You make mistakes, just keep saying it over and over again and maybe they'll believe you.
+[23:38.78]Why do I get so nervous?
+[23:40.24]So, the next part, what we're going to do here, folks, ladies and gentlemen, folks, we're going to turn this on its side.
+[23:45.56]So, it's okay.
+[23:48.84]Like I told you, this doesn't matter.
+[23:49.93]It's just simply for storing your device.
+[23:53.03]Ow!
+[23:53.17]Ow!
+[24:00.40]owie got stabbed that's okay sometimes you get stabbed be careful with your components so this is gonna sit if you don't know if you never seen the inside of a computer before when this is it when that's in there that
+[24:32.28]What's on the ground here?
+[24:36.46]Oh, okay.
+[24:37.16]We're okay.
+[24:39.46]Everything's fine.
+[24:41.98]Notice how nothing happened there.
+[24:43.56]Actually, we made out on top here.
+[24:45.92]Because here's the problem with the heatsink.
+[24:48.03]The heatsink has, if you see, the heatsink has a bunch of these coils and rings.
+[24:54.11]They kind of just get in the way.
+[24:55.63]You know what I mean?
+[24:56.77]I don't like to have it on in the first place.
+[24:58.25]And the manufacturers...
+[24:59.90]These companies, they make them impossible to remove.
+[25:03.00]All you need is the fan.
+[25:05.42]If you see, all you need is the fan to sit with some thermal compound.
+[25:08.80]These rings don't do anything.
+[25:10.72]It's extra bloat so the company can make some more manufacturing money on metal and plastic.
+[25:17.05]That's a win, ladies and gentlemen.
+[25:18.17]That's a win.
+[25:19.89]Winning, you know what I mean?
+[25:21.29]Winning, Charlie Sheen, that guy.
+[25:25.15]So what we have here is we have a completely assembled motherboard.
+[25:30.95]And we're going to put that in here just like this, ladies and gentlemen, just like this.
+[25:35.76]We're going to get that stuck in here.
+[25:38.30]And a standard screwdriver with your screws, which I have a few here.
+[25:42.38]That's fine.
+[25:43.92]So this goes in like this.
+[25:45.12]If you were ever curious, like I said, if you've never seen the inside of a computer before, this is what it looks like.
+[25:51.49]We're kind of looking at the skeleton.
+[25:52.91]We're looking at the skeleton of the computer.
+[25:55.42]You want to make sure the back plate here comes off.
+[26:02.25]Make sure you turn it upside down first so you can remove that because the back plate didn't come off yet.
+[26:07.35]I like to use the claw to get that off.
+[26:12.31]They all come with this installed pre, so you just use the claw to get it off.
+[26:16.01]It's fine.
+[26:16.93]See what I'm going to do here?
+[26:18.99]I'm going to get this outside of this spot.
+[26:24.08]Like that, see how that's sticking out now?
+[26:26.98]Now when you buy a computer, when I was younger I used to look, here's a funny story for you, funny story.
+[26:32.37]When I was younger, we gotta get that off too.
+[26:37.03]I used to go into Best Buy.
+[26:43.76]And I would look at the computers, I'd look at the back of the computers.
+[26:48.53]would be like what's in there you know I mean like how the fuck do you get in there I thought it was like the whole computer was a giant square filled with cement or something I didn't know what the hell was there so it's funny to see like actually the motherboard what it looks like from behind and what it looks like inside you never build a computer before it's it's pretty eye-opening but you know you have to at least have a certain amount of intelligence to do it in the first place which you know I do have and brag or anything but it was immense as
+[27:24.47]If it doesn't give on the first try, you really... Now use the other hand.
+[27:29.86]You know, this whole thing actually can be removed if you don't really want to do this, but that's okay.
+[27:32.98]We don't need that much.
+[27:34.42]We just need to get it to fit in there.
+[27:39.24]So there.
+[27:40.14]See?
+[27:40.68]See how that looks now?
+[27:41.68]See how the graphics card has a place to go out?
+[27:45.13]Now that that's in place, we're going to... We're going to screw that in.
+[27:53.10]Screw it in we can potentially here we go So once this is here
+[28:10.52]Let's clear up.
+[28:11.64]Remember, cleaning up the area is very important.
+[28:13.24]You don't want to have too much junk and funk and bullshit in your way when you're trying to work.
+[28:18.62]So anytime you have an opportunity to re-evaluate your work area, I highly recommend you do it.
+[28:25.36]I think I told you, don't fuck around with electricity.
+[28:31.86]You don't want that to be a thing.
+[28:36.12]Okay.
+[28:37.75]Once that's done, we can use our screws here.
+[28:40.63]Got one here.
+[28:45.85]And the motherboard screws into the back.
+[28:52.14]So once you get that complete, you'll have it set here so it won't be moving around during the rest of the procedure, the rest of the build.
+[29:02.00]Like that.
+[29:07.07]And...
+[29:08.72]long as one's in there as long you look I know some experts some experts will tell you you need to have them all screwed in it's a bunch of baloney don't worry about it as long as you get one or two screwed in it's not going anywhere you don't have to worry about that one last thing before you move on from the motherboard this is the motherboard battery
+[29:30.71]I know maybe you can't see, but look.
+[29:32.78]That's the motherboard battery.
+[29:34.46]It goes right in here.
+[29:35.50]It slips in, kind of like a little coin when you were a kid and you went to the arcade machine.
+[29:39.40]You know what I mean?
+[29:39.98]It slips right in there.
+[29:40.88]And it just clicks in there.
+[29:43.18]Just imagine you get that sound, that Mario sound, when you pick up a coin.
+[29:46.98]How does it go again?
+[29:47.54]It goes... How does that sound go?
+[29:52.31]Do-ding!
+[29:53.65]Something like that.
+[29:55.55]Well, I lost it, so... These are your fans.
+[29:58.17]The fans go into.
+[29:59.23]They plug in...
+[30:01.51]pretty much wherever you can find a spot on the motherboard, which can be tricky.
+[30:06.99]I like to just find like this over here, if you can see.
+[30:10.71]I wanna make sure the audience can see what I'm doing here.
+[30:14.25]I'm plugging in the fans.
+[30:16.17]There are, I think it's four WATXs is the name of the slot.
+[30:20.20]Once those are in, you're pretty much gravy.
+[30:24.30]Like that.
+[30:27.24]Again, it's kind of like a,
+[30:30.65]Kind of like a USB.
+[30:34.57]Never goes in right the first way, right?
+[30:39.57]Even if you don't get them all plugged in, it's okay.
+[30:41.31]As long as you get one, the fan controller should be able to take it all into consideration.
+[30:47.40]So that's okay.
+[30:49.74]Main power supply for the CPU, that's already in.
+[30:53.70]Make sure that, I don't know what that goes to, but that's all right.
+[30:56.64]Now that's in.
+[30:58.38]That is in place.
+[30:59.74]We have our PC components in there.
+[31:01.98]Everything's good to go.
+[31:02.76]Let's set this back up so you guys can see.
+[31:07.69]Oops-a-daisy.
+[31:08.41]Okay, now that that's settled and ready, now we're gonna put it in the, the fan is already installed, comes pre-installed on most computers.
+[31:16.61]That's fine, okay.
+[31:19.06]Trying to think of where we can put the, trying to think of where we can put the birdhouse.
+[31:26.13]If you have a bird frame on, you want to make sure there's a bird house in there just in case you want to make any tweets.
+[31:30.93]Because that's how it happens, folks.
+[31:34.32]That's how it is.
+[31:36.30]That's how it works.
+[31:37.30]Okay.
+[31:39.50]The bird house is now in.
+[31:42.38]Oh, shit, I forgot.
+[31:44.12]All computers require.
+[31:46.36]Come on, bird, get in there, man.
+[31:49.28]One of the final components that a lot of people don't know this, but computers run on diamonds.
+[31:53.58]This is a quarter cup of diamonds.
+[31:57.08]You don't need the fancy expensive diamonds either.
+[31:59.68]All you need is you need standard diamonds.
+[32:02.26]They don't have to be cut a certain way.
+[32:05.03]Just a quarter cup will do.
+[32:06.13]You don't need much more than that.
+[32:07.95]Remember, this is a budget PC.
+[32:09.89]So a budget PC does not mean that we take out components that are essential.
+[32:14.39]They have to run on diamonds.
+[32:17.21]It's very important.
+[32:18.05]Now we got the DVD drive.
+[32:22.19]That works.
+[32:23.15]DVD drive goes up here.
+[32:26.16]Make sure it's facing the right way because you never want to have to have a situation where you have to go in, like open up the side of your computer to get in there and turn on a DVD or put on like Shrek or Shrek 2.
+[32:37.09]Isn't that what kids watch these days?
+[32:38.63]So make sure it's going the right way, which it is.
+[32:40.29]It is.
+[32:41.69]And don't fuck up your birdhouse because there's only one, you know, as long as the birdhouse is in there, it's fine.
+[32:48.96]The bird will sit there.
+[32:51.68]And yes, yes, this is a dead bird.
+[32:54.22]Because I'm just demonstrating.
+[32:58.72]You wouldn't typically need to do that.
+[32:59.96]You would have a real birdhouse in here.
+[33:01.96]This is just for demonstration.
+[33:03.61]That's why the back is open on the side here, because the bird can come in and out.
+[33:07.97]I just wanted to make sure that I had a dead bird to show you.
+[33:10.39]See here?
+[33:11.83]That's where this ends up sticking, and the bird flies in and out here.
+[33:16.23]Just to make sure you guys are aware of that.
+[33:17.45]So let's get this in.
+[33:22.35]Any CDD or DDD drive goes in, takes a little bit of effort, but it'll slide in here and be sticking out the front.
+[33:31.53]At least I hope so.
+[33:34.41]Otherwise, I'm in trouble!
+[33:36.01]You know what I mean?
+[33:41.87]And if it don't go, then, you know, you may need to get the hammer in there.
+[33:46.12]That's what we'll do.
+[33:54.45]It takes us a little bit of elbow grease sometimes.
+[34:02.43]Let's see if it works.
+[34:03.39]Let's see if we can... Okay, there.
+[34:05.17]See?
+[34:07.01]See what I got here?
+[34:08.73]Now you can see in there.
+[34:12.09]That button puts the DVD out.
+[34:14.37]See?
+[34:16.61]It's right there.
+[34:17.23]It's ready to go.
+[34:17.85]If you don't get it in all the way, it's okay.
+[34:20.13]As long as you get it in somewhat in a normal fashion, right?
+[34:25.80]This thing is almost ready to go.
+[34:27.62]There are only a few more things that have to be done.
+[34:30.28]I just want to make sure the area is clean.
+[34:34.98]Screw in this last thing.
+[34:38.76]The diamonds need to be spread out evenly.
+[34:42.23]You don't want a situation where you don't have enough diamonds on one component.
+[34:45.01]The graphics card is in.
+[34:46.89]The birdhouse needs to be in.
+[34:50.69]The last thing that I want to do with this is the power supply.
+[34:57.01]You adult!
+[34:58.37]So the power supply doesn't, it just, can just go in.
+[35:01.51]Doesn't matter where it goes.
+[35:03.19]Remember, these components are durable.
+[35:04.91]Don't believe, I read forums all the time of people telling me, uh, Joe, be careful with these components, you know, you sneeze the wrong way and they won't work.
+[35:13.82]It's a bunch of, it's a bunch of corporate company bullshit for a way to sell more fucking steel, more plastic, it's a way for them to do that, so.
+[35:22.44]With these, what I like to do, once it's in here, is I like to guess because all the power goes to the same places.
+[35:28.79]It doesn't matter as long as you get it in the right spot.
+[35:30.23]So let's try to get a few in here.
+[35:32.85]This is your main power supply.
+[35:34.35]That goes directly in here.
+[35:35.73]That connects to the CPU.
+[35:37.75]So that one is good.
+[35:42.82]And a little slippery from the Vaseline, but got to be safe rather than sorry.
+[35:50.93]That's not right.
+[35:51.51]It goes here.
+[35:52.11]Okay.
+[35:53.65]There we go.
+[35:54.27]So we got our first plug plugged in.
+[35:55.65]You can actually have it out for now.
+[35:59.47]You can see what the hell we're doing.
+[36:00.83]You know what I mean?
+[36:02.79]So these plug in.
+[36:03.89]And some motherboards don't have enough spots.
+[36:06.31]That's okay.
+[36:07.37]As long as you get most of them plugged in.
+[36:24.45]Plugged in there.
+[36:26.65]This one goes in this slot.
+[36:29.99]Don't be afraid to use the back plate either when you're using this because as long as they go in somewhere.
+[36:34.60]That one's in.
+[36:39.54]This one is in.
+[36:44.57]And the rest I think are okay.
+[36:46.47]Some of these are for fans that don't exist.
+[36:49.35]So as long as that is secure in there, then you go.
+[36:51.91]And now comes my favorite part, baby.
+[36:55.15]This is the reason why, oh, my back plate.
+[36:58.74]Doesn't matter.
+[36:59.64]As long as it's in there.
+[37:01.30]So now that we have our complete PC built, it's done.
+[37:06.30]It's ready to be plugged in.
+[37:07.94]But hold on just one second there, ladies and gentlemen.
+[37:11.16]What about the front?
+[37:12.44]You would say, hey, what about the case?
+[37:14.90]You gotta close that up.
+[37:17.16]I would say yes you do absolutely but uh we can go flashier than this I recommend if you want to impress your friends and you want to show them how just how cool you are and you have the money to spend it I would get rid of one of these I would make a statement and if you won't hurt what I'm talking about here I'm talking about a real statement a see-through
+[38:00.43]A see-through, gold-plated... Ah!
+[38:07.60]A see-through... Let me just, uh... Hold on, we'll be right back.
+[39:07.61]So, I think the mic is still hot.
+[39:14.33]Yeah, it is.
+[39:16.59]Okay, so a couple of things I need to make sure I'm very, very aware of here is don't try this at home.
+[39:24.91]Don't fuck around here.
+[39:28.25]We had a little bit of fun tonight.
+[39:30.99]Don't bet that was that but just to be curious that was candy.
+[39:34.29]I made a candy table.
+[39:35.97]I made candy glass It's not real.
+[39:38.17]Everything's fine.
+[39:39.13]Don't worry That was not real Just need to be very clear about this.
+[39:47.61]Don't try this shit at home.
+[39:48.75]Don't fucking be stupid like I am It was fake.
+[39:52.11]It was a joke.
+[39:53.41]So Thank you for sticking around for the PC build it's done and it's ready to be used.
+[39:59.81]I
+[40:02.58]Immersion broken.
+[40:03.68]Yeah, well, that's what happens, right?
+[40:10.42]So now I have to clean up because it's a fucking mess down here.
+[40:16.26]But I think I couldn't see any bits or anything, couldn't read anything.
+[40:19.72]But thanks for sticking around.
+[40:22.82]Thanks to Sam, by the way, for making that the logo there.
+[40:27.90]That was good.
+[40:29.62]And that concludes the joke for the evening.
+[40:32.17]So, thank you all so much for watching.
+[40:33.71]Uh, I have to take a time to clean now.
+[40:37.59]So, goodnight!
+[40:39.73]I'll see you guys tomorrow.
+[40:41.39]We're gonna play Condemned 2 tomorrow.
+[40:44.68]Can we get a test run?
+[40:48.46]Uh, no, that's not gonna work.
+[40:50.98]Goodnight, everybody.
+[40:52.46]I'll see you guys tomorrow.
+[41:04.53]you
+[41:39.36]you
