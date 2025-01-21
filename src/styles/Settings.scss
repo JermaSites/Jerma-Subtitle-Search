@@ -11,7 +11,7 @@
     position: relative;
     width: clamp(20rem, 50%, 30rem);
 
-    .close-button {
+    #close-button {
         background: none;
         border: none;
         cursor: pointer;
@@ -28,7 +28,7 @@
         }
     }
 
-    .theme-choice {
+    #theme-choice {
         display: flex;
         gap: 0.5rem;
         justify-content: space-evenly;
@@ -64,7 +64,7 @@
         }
     }
 
-    .font-choice {
+    #font-choice {
         accent-color: var(--form-accent-color);
         display: grid;
         gap: 0.5rem;
