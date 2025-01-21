@@ -1,6 +1,5 @@
 import m from 'mithril';
 import '../styles/Settings.scss';
-import { isSafari } from '../index.ts';
 
 document.addEventListener('DOMContentLoaded', () => {
     // #region Font
@@ -19,9 +18,8 @@ document.addEventListener('DOMContentLoaded', () => {
     let storedSyncLoadingPreference = localStorage.getItem('synchronous-loading');
     
     if (!storedSyncLoadingPreference) {
-        const defaultValue = isSafari ? 'true' : 'false';
-        localStorage.setItem('synchronous-loading', defaultValue);
-        storedSyncLoadingPreference = defaultValue;
+        localStorage.setItem('synchronous-loading', 'false');
+        storedSyncLoadingPreference = 'false';
     }
     
     if (synchronousLoadingCheckbox) {

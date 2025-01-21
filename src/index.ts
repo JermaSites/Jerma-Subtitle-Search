@@ -83,7 +83,7 @@ async function loadSubtitles(url: string) {
     m.redraw();
     
     let storedSyncLoadingPreference = localStorage.getItem('synchronous-loading');
-    if (storedSyncLoadingPreference === 'true' || isSafari && !storedSyncLoadingPreference) {
+    if (storedSyncLoadingPreference === 'true') {
         await new Promise(resolve => setTimeout(resolve, 500));
         subtitles = MiniSearch.loadJSON(text, {
             autoVacuum: false,
