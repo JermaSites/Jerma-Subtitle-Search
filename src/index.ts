@@ -161,6 +161,18 @@ m.route(document.body, '/', {
                 m('div#page-container', [
                     m(SearchBar),
                     subtitlesLoaded ? null : m(ProgressSpinner, { value: loadingValue, limit: loadingLimit, phase: loadingState }),
+                    !subtitlesLoaded ? 
+                        m('div#page-info', [
+                            m('section', [
+                                m('h1', 'Welcome'),
+                                iPhoneSafariUA ? m('h2', [
+                                    'Seems like you\'re using Safari. If the site crashes you should try ',
+                                    m('a', { href: 'https://apps.apple.com/us/app/firefox-private-safe-browser/id989804926' }, 'Firefox'),
+                                    ' and closing all other apps.'
+                                ]) : null,
+                                m('p', 'This webpage lets you search through transcriptions of all Jerma\'s main channel videos, archived streams and more.')
+                            ]),
+                        ]) : null,
                     m(ResultsGrid, { query: m.route.param('query') || '' })
                 ])
             ]);
