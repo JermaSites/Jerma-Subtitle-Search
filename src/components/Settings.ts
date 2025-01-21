@@ -2,32 +2,20 @@ import m from 'mithril';
 import '../styles/Settings.scss';
 
 document.addEventListener('DOMContentLoaded', () => {
-    const storedFont = localStorage.getItem('font');
-    if (storedFont) {
+    // #region Font
+    const storedFont = localStorage.getItem('font') || 'Courier New, monospace';
         changeSetting('font', storedFont);
+    
         const checkedInput = document.querySelector(`input[value="${storedFont}"]`) as HTMLInputElement;
         if (checkedInput) {
-            checkedInput.setAttribute('checked', 'true');
+        checkedInput.checked = true;
         }
-    } else {
-        changeSetting('font', 'Courier New, monospace');
-        const checkedInput = document.querySelector(`input[value="Courier New, monospace"]`) as HTMLInputElement;
-        if (checkedInput) {
-            checkedInput.setAttribute('checked', 'true');
-        }
-    }
+    // #endregion
 
-    const storedTheme = localStorage.getItem('theme');
-    if (storedTheme) {
+    // #region Theme
+    const storedTheme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
         changeSetting('theme', storedTheme);
-    } else {
-        const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
-        if (prefersDarkScheme.matches) {
-            changeSetting('theme', 'dark');
-        } else {
-            changeSetting('theme', 'light');
-        }
-    }
+    // #endregion
 })
 
 let hasPreloadedFonts: boolean = false;
