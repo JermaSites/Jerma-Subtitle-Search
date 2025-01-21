@@ -4,13 +4,13 @@ import '../styles/Settings.scss';
 document.addEventListener('DOMContentLoaded', () => {
     const storedFont = localStorage.getItem('font');
     if (storedFont) {
-        changeFont(storedFont);
+        changeSetting('font', storedFont);
         const checkedInput = document.querySelector(`input[value="${storedFont}"]`) as HTMLInputElement;
         if (checkedInput) {
             checkedInput.setAttribute('checked', 'true');
         }
     } else {
-        changeFont('Courier New, monospace');
+        changeSetting('font', 'Courier New, monospace');
         const checkedInput = document.querySelector(`input[value="Courier New, monospace"]`) as HTMLInputElement;
         if (checkedInput) {
             checkedInput.setAttribute('checked', 'true');
@@ -19,34 +19,37 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const storedTheme = localStorage.getItem('theme');
     if (storedTheme) {
-        changeTheme(storedTheme);
+        changeSetting('theme', storedTheme);
     } else {
         const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
         if (prefersDarkScheme.matches) {
-            changeTheme('dark');
+            changeSetting('theme', 'dark');
         } else {
-            changeTheme('light');
+            changeSetting('theme', 'light');
         }
     }
 })
 
 let hasPreloadedFonts: boolean = false;
 
-function changeFont(font: string): void {
-    localStorage.setItem('font', font);
-    document.documentElement.style.setProperty('--fonts', font);
-}
+function changeSetting(setting: string, value: string): void {
+    switch (setting) {
+        case 'font':
+            localStorage.setItem('font', value);
+            document.documentElement.style.setProperty('--fonts', value);
+            break;
+        case 'theme':
+            localStorage.setItem('theme', value);
 
-function changeTheme(theme: string): void {
-    localStorage.setItem('theme', theme);
-
-    document.documentElement.setAttribute('data-theme', theme);
-
-    document.querySelectorAll('.theme-choice button').forEach(element => element.classList.remove('selected'));
-
-    const selectedButton = document.getElementById(theme) as HTMLButtonElement;
-    if (selectedButton) {
-        selectedButton.classList.add('selected');
+            document.documentElement.setAttribute('data-theme', value);
+        
+            document.querySelectorAll('.theme-choice button').forEach(element => element.classList.remove('selected'));
+        
+            const selectedButton = document.getElementById(value) as HTMLButtonElement;
+            if (selectedButton) {
+                selectedButton.classList.add('selected');
+            }
+            break;
     }
 }
 
@@ -111,10 +114,22 @@ export const SettingsModal = () => {
                         m('path', { d: 'M5.72 5.72a.75.75 0 0 1 1.06 0L12 10.94l5.22-5.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L13.06 12l5.22 5.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L12 13.06l-5.22 5.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L10.94 12 5.72 6.78a.75.75 0 0 1 0-1.06Z' })
                     ])
                 ]),
+                m('h2', 'Settings'),
+                m('label', { for: 'synchronous-loading' }, [
+                    m('input#synchronous-loading', { 
+                        type: 'checkbox', 
+                        onchange: (e: Event) => {
+                            const target = e.target as HTMLInputElement;
+                            const isChecked = target.checked;
+                            console.log(isChecked);
+                        }
+                    }),
+                    'Synchronous loading (much faster but might briefly freeze)'
+                ]),
                 m('h3', 'Theme'),
                 m('div.theme-choice', [
                     themes.map(theme => 
-                        m(`button.circle#${theme}`, { onclick: () => changeTheme(theme) })
+                        m(`button.circle#${theme}`, { onclick: () => changeSetting('theme', theme) })
                     )
                 ]),
                 m('h3', 'Font'),
@@ -128,7 +143,7 @@ export const SettingsModal = () => {
                                 onchange: (e: Event) => {
                                     const target = e.target as HTMLInputElement;
                                     if (target) {
-                                        changeFont(target.value)
+                                        changeSetting('font', target.value);
                                     }
                                     if (target.value === 'Times New Roman, serif') {
                                         window.open('https://www.youtube.com/watch?v=73gGwGI8Z7E&t=139s', '_blank');
