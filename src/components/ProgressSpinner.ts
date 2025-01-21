@@ -1,4 +1,4 @@
-import { isSafari } from '../index.ts';
+import { iPhoneSafariUA } from '../index.ts';
 import m, { type Vnode } from 'mithril';
 import '../styles/ProgressSpinner.scss';
 
@@ -10,12 +10,12 @@ export const ProgressSpinner = () => {
             switch (true) {
                 case vnode.attrs.phase === 'Downloading':
                     containerClass = 'download';
-                    // jermaT doesn't render on Safari idk why
-                    isSafari ? imageSrc = '/assets/images/jermaComet.avif' : imageSrc = '/assets/images/jermaT.avif';
+                    // jermaT doesn't render, and jermaSpin's transparent background shows up white on Safari idk why
+                    iPhoneSafariUA ? imageSrc = '/assets/images/jermaComet.avif' : imageSrc = '/assets/images/jermaT.avif';
                     break;
                 case vnode.attrs.phase === 'Decompressing archive':
                     containerClass = 'decompress';
-                    imageSrc = '/assets/images/jermaT.avif';
+                    iPhoneSafariUA ? imageSrc = '/assets/images/jermaComet.avif' : imageSrc = '/assets/images/jermaT.avif';
                     break;
                 case vnode.attrs.phase === 'Parsing subtitles':
                     containerClass = 'parse';
