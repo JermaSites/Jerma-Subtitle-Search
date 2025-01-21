@@ -241,6 +241,18 @@ export const ResultsGrid = () => {
                                                             e.preventDefault();
                                                             window.open(`https://www.youtube.com/watch?v=${result.id}&t=${second}s`, '_blank');
                                                         }
+                                                    },
+                                                    ontouchstart: (e: TouchEvent) => {
+                                                        // @ts-ignore
+                                                        e.redraw = false;
+                                                        e.preventDefault();
+                                                        const touchDuration = 420;
+                                                        const timer = setTimeout(() => {
+                                                            window.open(`https://www.youtube.com/watch?v=${result.id}&t=${second}s`, '_blank');
+                                                        }, touchDuration);
+                                                        if (e.currentTarget) {
+                                                            e.currentTarget.addEventListener('touchend', () => clearTimeout(timer));
+                                                        }
                                                     }
                                                 }, timestamp.slice(0, -3)),
                                                 // This is kinda cursed, but it works
