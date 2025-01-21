@@ -15,6 +15,17 @@ function debounce(func: Function, delay: number) {
     };
 }
 
+function formatTimestamp(timestamp: string): string {
+    const [minutes, seconds] = timestamp.split(':').map(Number);
+    let totalSeconds = Math.floor(minutes * 60 + seconds);
+    const hours = Math.floor(totalSeconds / 3600);
+    totalSeconds %= 3600;
+    const mins = Math.floor(totalSeconds / 60);
+    const secs = totalSeconds % 60;
+    const pad = (num: number) => num.toString().padStart(2, '0');
+    return `${pad(hours)}:${pad(mins)}:${pad(secs)}`;
+}
+
 function toggleExpand(id: string) {
     expandState[id] = !expandState[id];
     m.redraw();
@@ -254,7 +265,7 @@ export const ResultsGrid = () => {
                                                             e.currentTarget.addEventListener('touchend', () => clearTimeout(timer));
                                                         }
                                                     }
-                                                }, timestamp.slice(0, -3)),
+                                                }, formatTimestamp(timestamp)),
                                                 // This is kinda cursed, but it works
                                                 // Maybe once FlexSearch matures this can be done more elegantly (v0.8 should return highlights along with search results)
                                                 (() => {
