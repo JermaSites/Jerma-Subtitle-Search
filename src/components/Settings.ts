@@ -1,20 +1,37 @@
 import m from 'mithril';
 import '../styles/Settings.scss';
+import { isSafari } from '../index.ts';
 
 document.addEventListener('DOMContentLoaded', () => {
     // #region Font
     const storedFont = localStorage.getItem('font') || 'Courier New, monospace';
-        changeSetting('font', storedFont);
+    changeSetting('font', storedFont);
     
-        const checkedInput = document.querySelector(`input[value="${storedFont}"]`) as HTMLInputElement;
-        if (checkedInput) {
+    const checkedInput = document.querySelector(`input[value="${storedFont}"]`) as HTMLInputElement;
+    if (checkedInput) {
         checkedInput.checked = true;
-        }
+    }
+    // #endregion
+
+    // #region Loading method
+    const synchronousLoadingCheckbox = document.getElementById('synchronous-loading') as HTMLInputElement | null;
+
+    let storedSyncLoadingPreference = localStorage.getItem('synchronous-loading');
+    
+    if (!storedSyncLoadingPreference) {
+        const defaultValue = isSafari ? 'true' : 'false';
+        localStorage.setItem('synchronous-loading', defaultValue);
+        storedSyncLoadingPreference = defaultValue;
+    }
+    
+    if (synchronousLoadingCheckbox) {
+        synchronousLoadingCheckbox.checked = storedSyncLoadingPreference === 'true';
+    }
     // #endregion
 
     // #region Theme
     const storedTheme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-        changeSetting('theme', storedTheme);
+    changeSetting('theme', storedTheme);
     // #endregion
 })
 
@@ -25,6 +42,9 @@ function changeSetting(setting: string, value: string): void {
         case 'font':
             localStorage.setItem('font', value);
             document.documentElement.style.setProperty('--fonts', value);
+            break;
+        case 'synchronous-loading':
+            localStorage.setItem('synchronous-loading', value);
             break;
         case 'theme':
             localStorage.setItem('theme', value);
@@ -103,16 +123,17 @@ export const SettingsModal = () => {
                     ])
                 ]),
                 m('h2', 'Settings'),
-                m('label', { for: 'synchronous-loading' }, [
-                    m('input#synchronous-loading', { 
-                        type: 'checkbox', 
-                        onchange: (e: Event) => {
-                            const target = e.target as HTMLInputElement;
-                            const isChecked = target.checked;
-                            console.log(isChecked);
-                        }
-                    }),
-                    'Synchronous loading (much faster but might briefly freeze)'
+                m('div#general-settings', [
+                    m('label', { for: 'synchronous-loading' }, [
+                        m('input#synchronous-loading', { 
+                            type: 'checkbox', 
+                            onchange: (e: Event) => {
+                                const target = e.target as HTMLInputElement;
+                                changeSetting('synchronous-loading', target.checked.toString());
+                            }
+                        }),
+                        'Synchronous loading (much faster but might briefly freeze)'
+                    ]),
                 ]),
                 m('h3', 'Theme'),
                 m('div#theme-choice', [

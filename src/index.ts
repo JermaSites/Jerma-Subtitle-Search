@@ -78,14 +78,27 @@ async function loadSubtitles(url: string) {
 
     [loadingValue, loadingLimit, loadingState] = [0, 0, 'Parsing subtitles'];
     m.redraw();
+    
+    let storedSyncLoadingPreference = localStorage.getItem('synchronous-loading');
+    if (storedSyncLoadingPreference === 'true' || isSafari && !storedSyncLoadingPreference) {
+        await new Promise(resolve => setTimeout(resolve, 690));
 
-    subtitles = await MiniSearch.loadJSONAsync(text, {
-        autoVacuum: false,
-        fields: ['subtitles'],
-        idField: 'id',
-        searchOptions: { fields: ['subtitles'] },
-        storeFields: ['id', 'title', 'duration', 'thumbnail', 'upload_date', 'stream_title', 'stream_date', 'subtitles']
-    });
+        subtitles = MiniSearch.loadJSON(text, {
+            autoVacuum: false,
+            fields: ['subtitles'],
+            idField: 'id',
+            searchOptions: { fields: ['subtitles'] },
+            storeFields: ['id', 'title', 'duration', 'thumbnail', 'upload_date', 'stream_title', 'stream_date', 'subtitles']
+        });
+    } else {
+        subtitles = await MiniSearch.loadJSONAsync(text, {
+            autoVacuum: false,
+            fields: ['subtitles'],
+            idField: 'id',
+            searchOptions: { fields: ['subtitles'] },
+            storeFields: ['id', 'title', 'duration', 'thumbnail', 'upload_date', 'stream_title', 'stream_date', 'subtitles']
+        });
+    }
 
     subtitlesLoaded = true;
     m.redraw();

@@ -28,6 +28,15 @@
         }
     }
 
+    #general-settings {
+        accent-color: var(--form-accent-color);
+
+        input[type="checkbox"] {
+            height: 1.125rem;
+            width: 1.125rem;
+        }
+    }
+
     #theme-choice {
         display: flex;
         gap: 0.5rem;
