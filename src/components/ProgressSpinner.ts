@@ -1,8 +1,8 @@
+import { isSafari } from '../index.ts';
 import m, { type Vnode } from 'mithril';
 import '../styles/ProgressSpinner.scss';
 
 export const ProgressSpinner = () => {
-    const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent)
     return {
         view: (vnode: Vnode<{ value: number, limit: number, phase: string }>) => {
             let containerClass: string = '';

@@ -10,6 +10,8 @@ import './styles/General.scss';
 (window as any).m = m;
 (window as any).MiniSearch = MiniSearch;
 
+export const isSafari = /^((?!chrome|android).)*safari/i.test(navigator.userAgent)
+
 // #region Service Worker Registration
 if ('serviceWorker' in navigator) {
     try {
