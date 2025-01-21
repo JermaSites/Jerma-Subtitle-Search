@@ -13,6 +13,10 @@ export const ProgressSpinner = () => {
                     // jermaT doesn't render on Safari idk why
                     isSafari ? imageSrc = '/assets/images/jermaComet.avif' : imageSrc = '/assets/images/jermaT.avif';
                     break;
+                case vnode.attrs.phase === 'Decompressing archive':
+                    containerClass = 'decompress';
+                    imageSrc = '/assets/images/jermaT.avif';
+                    break;
                 case vnode.attrs.phase === 'Parsing subtitles':
                     containerClass = 'parse';
                     imageSrc = '/assets/images/jermaIQ.avif';

@@ -63,6 +63,9 @@ async function loadSubtitles(url: string) {
         offset += chunk.length;
     }
 
+    [loadingValue, loadingLimit, loadingState] = [0, 0, 'Decompressing archive'];
+    await new Promise(resolve => setTimeout(resolve, 200));
+
     const text = pako.ungzip(concatenated, { to: 'string' });
 
     // using pako seems unnecessary, but using DecompressionStream only seemed to work on dev server
@@ -81,8 +84,7 @@ async function loadSubtitles(url: string) {
     
     let storedSyncLoadingPreference = localStorage.getItem('synchronous-loading');
     if (storedSyncLoadingPreference === 'true' || isSafari && !storedSyncLoadingPreference) {
-        await new Promise(resolve => setTimeout(resolve, 690));
-
+        await new Promise(resolve => setTimeout(resolve, 500));
         subtitles = MiniSearch.loadJSON(text, {
             autoVacuum: false,
             fields: ['subtitles'],
