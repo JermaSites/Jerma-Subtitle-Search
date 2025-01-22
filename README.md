@@ -6,7 +6,7 @@
 Video Count    : 2002
 Word Count     : 25,273,515
 Duration       : 5385:16:33
-Earliest Video : 2011-06-11
+Oldest Video   : 2011-06-11
 Latest Video   : 2025-01-19
 ```
 

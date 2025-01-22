@@ -49,7 +49,7 @@ def update_readme_stats(readme_path: str, json_path: str):
         f"Video Count    : {video_count}\n"
         f"Word Count     : {word_count:,}\n"
         f"Duration       : {total_duration}\n"
-        f"Earliest Video : {earliest_video}\n"
+        f"Oldest Video   : {earliest_video}\n"
         f"Latest Video   : {latest_video}\n"
     )
     
