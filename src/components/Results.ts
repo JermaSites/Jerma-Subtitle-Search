@@ -164,14 +164,16 @@ export const ResultsGrid = () => {
                 m('h2', `Found matches in ${searchResults.length} videos`),
                 m('ul#results-list', [
                     visibleResults.map((result) => {
-                        let match;
-                        const matches = [];
+                        let match: RegExpExecArray | null;
+                        const matches: { index: number; match: string }[] = [];
 
-                        while ((match = queryRegex.exec(result.subtitles)) !== null) {
+                        queryRegex.lastIndex = 0;
+                        
+                        while (match = queryRegex.exec(result.subtitles)) {
                             matches.push({ index: match.index, match: match[0] });
                         }
 
-                        if (matches.length === 0) return null;
+                        if (matches.length === 0) return;
 
                         const isExpanded = expandState[result.id] || false;
                         const displayedMatches = isExpanded ? matches : matches.slice(0,3);
