@@ -1,6 +1,6 @@
 import m from 'mithril';
-import pako from 'pako';
 import MiniSearch from 'minisearch';
+import { AsyncGunzip, strFromU8 } from 'fflate';
 import { Header } from './components/Header.ts';
 import { SearchBar } from './components/SearchBar.ts';
 import { ResultsGrid } from './components/Results.ts';
@@ -35,6 +35,7 @@ export let subtitlesLoaded: boolean = false;
 
 async function loadSubtitles(url: string) {
     let startingTime = performance.now();
+    let text = '';
 
     const response = await fetch(url);
 
@@ -42,33 +43,10 @@ async function loadSubtitles(url: string) {
         throw new Error('Response body is null');
     }
 
-    const reader = response.body.getReader();
     const contentLengthHeader = response.headers.get('Content-Length');
     [loadingLimit, loadingState] = [contentLengthHeader ? +contentLengthHeader : 0, 'Downloading'];
 
-    let chunks: Uint8Array[] = [];
-
-    while (true) {
-        const { done, value } = await reader.read();
-        if (done) break;
-        chunks.push(value);
-        loadingValue += value.length;
-        m.redraw();
-    }
-    
-    const concatenated = new Uint8Array(chunks.reduce((acc, chunk) => acc + chunk.length, 0));
-    let offset = 0;
-    for (const chunk of chunks) {
-        concatenated.set(chunk, offset);
-        offset += chunk.length;
-    }
-
-    [loadingValue, loadingLimit, loadingState] = [0, 0, 'Decompressing archive'];
-    await new Promise(resolve => setTimeout(resolve, 200));
-
-    const text = pako.ungzip(concatenated, { to: 'string' });
-
-    // using pako seems unnecessary, but using DecompressionStream only seemed to work on dev server
+    // would prefer to use DecompressionStream, but only seemed to work on dev server
     // fails on prod with: JSON.parse: unterminated string at inconsistent position
     // if you can determine what's wrong with this, please open a PR:
     // --------------------------------------------------------------
@@ -76,38 +54,65 @@ async function loadSubtitles(url: string) {
     // const responseData = new Response(new Blob(chunks).stream().pipeThrough(gzipDecompressionStream));
     // const text = await responseData.text();
 
-    console.debug(`Subtitles loaded in ${((performance.now() - startingTime) / 1000).toFixed(2)} seconds.`);
-    startingTime = performance.now();
+    const gzipDecompressionStream = new AsyncGunzip((err, chunk, final) => {
+        if (err) {
+            throw err;
+        }
+        if (chunk) {
+            text += strFromU8(chunk)
+        }
+        if (final) {
+            console.debug(`Subtitles loaded in ${((performance.now() - startingTime) / 1000).toFixed(2)} seconds.`);
+            parseSubtitles(text);
+        }
+    });
 
-    [loadingValue, loadingLimit, loadingState] = [0, 0, 'Parsing subtitles'];
-    m.redraw();
-    
-    let storedSyncLoadingPreference = localStorage.getItem('synchronous-loading');
-    if (storedSyncLoadingPreference === 'true') {
-        await new Promise(resolve => setTimeout(resolve, 500));
-        subtitles = MiniSearch.loadJSON(text, {
-            autoVacuum: false,
-            fields: ['subtitles'],
-            idField: 'id',
-            searchOptions: { fields: ['subtitles'] },
-            storeFields: ['id', 'title', 'duration', 'thumbnail', 'upload_date', 'stream_title', 'stream_date', 'subtitles']
-        });
-    } else {
-        subtitles = await MiniSearch.loadJSONAsync(text, {
-            autoVacuum: false,
-            fields: ['subtitles'],
-            idField: 'id',
-            searchOptions: { fields: ['subtitles'] },
-            storeFields: ['id', 'title', 'duration', 'thumbnail', 'upload_date', 'stream_title', 'stream_date', 'subtitles']
-        });
+    const reader = response.body.getReader();
+
+    while (true) {
+        const { done, value } = await reader.read();
+        if (done) {
+            gzipDecompressionStream.push(new Uint8Array(), true);
+            break;
+        }
+        loadingValue += value.length;
+        gzipDecompressionStream.push(value);
+        m.redraw();
     }
 
-    subtitlesLoaded = true;
-    m.redraw();
+    async function parseSubtitles(text: string) {
+        startingTime = performance.now();
 
-    (window as any).subtitles = subtitles;
+        [loadingValue, loadingLimit, loadingState] = [0, 0, 'Parsing subtitles'];
+        m.redraw();
+        
+        let storedSyncLoadingPreference = localStorage.getItem('synchronous-loading');
+        if (storedSyncLoadingPreference === 'true') {
+            await new Promise(resolve => setTimeout(resolve, 500));
+            subtitles = MiniSearch.loadJSON(text, {
+                autoVacuum: false,
+                fields: ['subtitles'],
+                idField: 'id',
+                searchOptions: { fields: ['subtitles'] },
+                storeFields: ['id', 'title', 'duration', 'thumbnail', 'upload_date', 'stream_title', 'stream_date', 'subtitles']
+            });
+        } else {
+            subtitles = await MiniSearch.loadJSONAsync(text, {
+                autoVacuum: false,
+                fields: ['subtitles'],
+                idField: 'id',
+                searchOptions: { fields: ['subtitles'] },
+                storeFields: ['id', 'title', 'duration', 'thumbnail', 'upload_date', 'stream_title', 'stream_date', 'subtitles']
+            });
+        }
 
-    console.debug(`Subtitles parsed in ${((performance.now() - startingTime) / 1000).toFixed(2)} seconds.`);
+        subtitlesLoaded = true;
+        m.redraw();
+
+        (window as any).subtitles = subtitles;
+
+        console.debug(`Subtitles parsed in ${((performance.now() - startingTime) / 1000).toFixed(2)} seconds.`);
+    }
 }
 
 loadSubtitles(subtitlesURL).catch(e => {
