@@ -19,8 +19,7 @@
         }
 
         &.parse,
-        &.download,
-        &.decompress {
+        &.download {
             &::after,
             &::before {
                 animation: 3.33s border-spin linear infinite;
@@ -45,8 +44,7 @@
             }
         }
         
-        &.download,
-        &.decompress {
+        &.download {
             &::after {
                 background-image: conic-gradient(from var(--angle), transparent 90%, var(--loading-download-color));
             }
