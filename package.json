@@ -7,6 +7,7 @@
         "npm": ">=10"
     },
     "homepage": "https://jerma-search.bergbok.party",
+    "repository": "https://github.com/Bergbok/Jerma-Subtitle-Search",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
