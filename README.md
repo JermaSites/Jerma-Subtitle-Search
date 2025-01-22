@@ -34,7 +34,7 @@ However, it's still far from perfect and does have some [limitations](https://gi
 
 ### Webpage
 
-Uses [Mithril](https://github.com/MithrilJS/mithril.js), [MiniSearch](https://github.com/lucaong/minisearch), [lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) and [pako](https://github.com/nodeca/pako).
+Uses [Mithril](https://github.com/MithrilJS/mithril.js), [MiniSearch](https://github.com/lucaong/minisearch), [lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) and [fflate](https://github.com/101arrowz/fflate).
 
 <p align='center'>
     <picture>
@@ -54,7 +54,7 @@ bun run dev
 
 <p align='center'>
     <picture>
-        <img src='https://i.imgur.com/O8rbink.png' alt='jermaHeart Twitch Emote' width=42px />
+        <img src='https://i.imgur.com/O8rbink.png' alt='jermaHeart Twitch Emote' width='56' height='56' />
     </picture>
 </p>
 
