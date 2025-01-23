@@ -95,7 +95,6 @@ export const ResultsGrid = () => {
     let currentSearchController: AbortController | null = null;
     let hasSearched: boolean = false;
     let observedResultItem: Element | null = null;
-    let paginationOnCooldown: boolean = false;
     let previousQuery: string;
     let searchQuery: string;
     let searchResults: SearchResult[] = [];
@@ -125,8 +124,7 @@ export const ResultsGrid = () => {
     let paginationObserver = new IntersectionObserver(
         (entries: IntersectionObserverEntry[]) => {
             const lastResultItem = entries[0];
-            if (paginationOnCooldown || !lastResultItem.isIntersecting) return;
-            paginationOnCooldown = true;
+            if (!lastResultItem.isIntersecting) return;
             currentPage++;
             m.redraw();
         },
@@ -311,8 +309,6 @@ export const ResultsGrid = () => {
                                             ])
                                         );
                                     });
-
-                                    paginationOnCooldown = false;
 
                                     return m('li.match', [
                                         elements,
