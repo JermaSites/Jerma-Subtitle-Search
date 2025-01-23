@@ -10,7 +10,8 @@ import './styles/General.scss';
 (window as any).m = m;
 (window as any).MiniSearch = MiniSearch;
 
-export const iPhoneSafariUA = /^(?!.*FxiOS).*Mobile.*Safari\/[\d.]+/i.test(navigator.userAgent);
+export const appleUA = /(iPhone|iPad|Macintosh)/i.test(navigator.userAgent);
+const mobileSafariUA = /(?!.*FxiOS)(iPhone|iPad).*Mobile.*Safari/i.test(navigator.userAgent);
 
 // #region Service Worker Registration
 if ('serviceWorker' in navigator) {
@@ -137,7 +138,7 @@ m.route(document.body, '/', {
                     m('div#page-info', [
                         m('section', [
                             m('h1', 'Welcome'),
-                            !subtitlesLoaded && iPhoneSafariUA ? m('h2', [
+                            !subtitlesLoaded && mobileSafariUA ? m('h2', [
                                 'Seems like you\'re using Safari. If the site crashes you should try ',
                                 m('a', { href: 'https://apps.apple.com/us/app/firefox-private-safe-browser/id989804926' }, 'Firefox'),
                                 ' and closing all other apps.'
@@ -170,7 +171,7 @@ m.route(document.body, '/', {
                         m('div#page-info', [
                             m('section', [
                                 m('h1', 'Welcome'),
-                                iPhoneSafariUA ? m('h2', [
+                                mobileSafariUA ? m('h2', [
                                     'Seems like you\'re using Safari. If the site crashes you should try ',
                                     m('a', { href: 'https://apps.apple.com/us/app/firefox-private-safe-browser/id989804926' }, 'Firefox'),
                                     ' and closing all other apps.'
