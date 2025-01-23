@@ -133,7 +133,7 @@ export const ResultsGrid = () => {
     let paginationObserver = new IntersectionObserver(
         (entries: IntersectionObserverEntry[]) => {
             const lastResultItem = entries[0];
-            if (!lastResultItem.isIntersecting) return;
+            if (!lastResultItem.isIntersecting || searchResults.length <= currentPage * itemsPerPage) return;
             currentPage++;
             m.redraw();
         },
