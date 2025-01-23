@@ -193,7 +193,7 @@ export const ResultsGrid = () => {
                         if (matches.length === 0) return;
 
                         const isExpanded = expandState[result.id] || false;
-                        const displayedMatches = isExpanded ? matches : matches.slice(0,3);
+                        const displayedMatches = isExpanded ? matches : matches.slice(0, 3);
 
                         return m('li.result-item', [
                             [m('lite-youtube.video-embed', {
@@ -231,7 +231,7 @@ export const ResultsGrid = () => {
                                     contextEnd = match.index + match.match.length;
                                     let bracketsFound = 0;
                             
-                                    while (contextStart > 0 && bracketsFound < contextLevel+1) {
+                                    while (contextStart > 0 && bracketsFound < contextLevel + 1) {
                                         contextStart--;
                                         if (result.subtitles[contextStart] === '[') {
                                             bracketsFound++;
@@ -240,8 +240,8 @@ export const ResultsGrid = () => {
 
                                     bracketsFound = 0;
                             
-                                    while (contextEnd < result.subtitles.length && bracketsFound < contextLevel+1) {
-                                        if (result.subtitles[contextEnd+1] === '[') {
+                                    while (contextEnd < result.subtitles.length && bracketsFound < contextLevel + 1) {
+                                        if (result.subtitles[contextEnd + 1] === '[') {
                                             bracketsFound++;
                                         }
                                         contextEnd++;
