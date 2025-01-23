@@ -94,6 +94,7 @@ export const ResultsGrid = () => {
     let currentPage: number = 1;
     let currentSearchController: AbortController | null = null;
     let hasSearched: boolean = false;
+    let observedResultItem: Element | null = null;
     let paginationOnCooldown: boolean = false;
     let previousQuery: string;
     let searchQuery: string;
@@ -121,24 +122,33 @@ export const ResultsGrid = () => {
         }
     }, 690);
 
-    function onScroll(_e: Event) {
-        if (paginationOnCooldown) return;
-        if (window.scrollY + window.innerHeight >= document.body.scrollHeight) {
-            currentPage++;
+    let paginationObserver = new IntersectionObserver(
+        (entries: IntersectionObserverEntry[]) => {
+            const lastResultItem = entries[0];
+            if (paginationOnCooldown || !lastResultItem.isIntersecting) return;
             paginationOnCooldown = true;
-
-            if (visibleResults.length <= searchResults.length) {
-                m.redraw();
-            }
+            currentPage++;
+            m.redraw();
+        },
+        {
+            root: null,
+            rootMargin: '0px',
+            threshold: 1
         }
-    }
+    );
 
     return {
-        oncreate: () => {
-            window.addEventListener('scroll', onScroll);
-        },
-        onremove: () => {
-            window.removeEventListener('scroll', onScroll);
+        onupdate: () => {
+            if (subtitlesLoaded) {
+                const lastResultItem = document.querySelector('.result-item:last-child');
+                if (lastResultItem && lastResultItem !== observedResultItem) {
+                    if (observedResultItem) {
+                        paginationObserver.unobserve(observedResultItem);
+                    }
+                    paginationObserver.observe(lastResultItem);
+                    observedResultItem = lastResultItem;
+                }
+            }
         },
         view: (vnode: Vnode<{ query: string }>) => {
             if (!vnode.attrs.query || !subtitlesLoaded) {
