@@ -16,7 +16,7 @@ const mobileSafariUA = /(?!.*FxiOS)(iPhone|iPad).*Mobile.*Safari/i.test(navigato
 // #region Service Worker Registration
 if ('serviceWorker' in navigator) {
     try {
-        navigator.serviceWorker.register('/service-worker.js').then(() => console.log('Service Worker Registered'));
+        navigator.serviceWorker.register('/service-worker.js');
     } catch (e) {
         console.error(`Registration failed with ${e}`);
     }

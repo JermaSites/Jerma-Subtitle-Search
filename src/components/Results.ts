@@ -65,7 +65,7 @@ async function performSearch(query: string, signal: AbortSignal): Promise<Search
 
     if (signal.aborted) throw new DOMException('Search aborted', 'AbortError');
 
-    console.debug('Search results:', result);
+    // console.debug('Search results:', result);
 
     Object.keys(expandState).forEach((key) => {
         delete expandState[key];
