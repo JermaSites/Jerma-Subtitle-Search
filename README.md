@@ -48,6 +48,8 @@ Uses [Mithril](https://github.com/MithrilJS/mithril.js), [MiniSearch](https://gi
 # feel free to substitute bun with npm/yarn/whatever
 git clone https://github.com/Bergbok/Jerma-Subtitle-Search.git
 cd Jerma-Subtitle-Search
+git lfs install
+git lfs pull
 bun install
 bun run dev
 ```
