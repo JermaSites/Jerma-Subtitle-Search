@@ -45,9 +45,18 @@ async function performSearch(query: string, signal: AbortSignal): Promise<Search
     queryRegex = new RegExp(
         query
             .split(/\s+/)
-            .map(word => `${word.split('').map(char => `${char}[^\[A-Za-z0-9]*`).join('')}(?:\\[[\\d:.]+\\])?`)
-            .join('')
-            .slice(0, -1) + '{0}',
+            .map((word, wordIndex, words) => {
+                const chars = word.split('');
+                return chars
+                    .map((char, charIndex) => {
+                        if (wordIndex === words.length - 1 && charIndex === chars.length - 1) {
+                            return `${char}`;
+                        }
+                        return `${char}[^\\[A-Za-z0-9]*`;
+                    })
+                    .join('') + '(?:\\[[\\d:.]+\\])?';
+            })
+            .join(''),
         'gi'
     );
 
@@ -238,8 +247,8 @@ export const ResultsGrid = () => {
                                         contextEnd++;
                                     }
 
-                                    const context = result.subtitles.slice(contextStart, contextEnd)
-                                    const highlights = context.match(queryRegex)?.[0].trim().split(timestampRegex) || [];
+                                    const context = result.subtitles.slice(contextStart, contextEnd);
+                                    const highlights = context.match(queryRegex)[0].split(timestampRegex) || [];
 
                                     const contextLines = context.split('[').slice(1);
                                     contextLines.forEach((line: string) => {
