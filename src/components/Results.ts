@@ -240,7 +240,7 @@ export const ResultsGrid = () => {
 
                                     bracketsFound = 0;
                             
-                                    while (contextEnd < result.subtitles.length && bracketsFound < contextLevel) {
+                                    while (contextEnd < result.subtitles.length && bracketsFound < contextLevel+1) {
                                         if (result.subtitles[contextEnd+1] === '[') {
                                             bracketsFound++;
                                         }
