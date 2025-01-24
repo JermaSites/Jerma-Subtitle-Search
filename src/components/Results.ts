@@ -328,15 +328,15 @@ export const ResultsGrid = () => {
                             ),
                             matches.length > 3 &&
                             m('button.show-more', { onclick: () => toggleExpand(result.id) }, [
-                                isExpanded ? null : `${matches.length - 3} more`,
                                 isExpanded ?
                                     m('svg.icon', { xmlns: 'http://www.w3.org/2000/svg', viewBox: '0 0 24 24', role: 'img', 'aria-label': 'upwards chevron' }, [
                                         m('path', { d: 'M18.78 15.78a.749.749 0 0 1-1.06 0L12 10.061 6.28 15.78a.749.749 0 1 1-1.06-1.06l6.25-6.25a.749.749 0 0 1 1.06 0l6.25 6.25a.749.749 0 0 1 0 1.06Z' })
                                     ])
                                     :
+                                    [`${matches.length - 3} more`,
                                     m('svg.icon', { xmlns: 'http://www.w3.org/2000/svg', viewBox: '0 0 24 24', role: 'img', 'aria-label': 'downwards chevron' }, [
                                         m('path', { d: 'M5.22 8.22a.749.749 0 0 0 0 1.06l6.25 6.25a.749.749 0 0 0 1.06 0l6.25-6.25a.749.749 0 1 0-1.06-1.06L12 13.939 6.28 8.22a.749.749 0 0 0-1.06 0Z' })
-                                    ])
+                                    ])]
                             ])
                         ]);
                     })
