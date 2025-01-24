@@ -276,7 +276,6 @@ export const ResultsGrid = () => {
                                                     ontouchstart: (e: TouchEvent) => {
                                                         // @ts-ignore
                                                         e.redraw = false;
-                                                        e.preventDefault();
                                                         const touchDuration = 420;
                                                         const timer = setTimeout(() => {
                                                             window.open(`https://www.youtube.com/watch?v=${result.id}&t=${second}s`, '_blank');
