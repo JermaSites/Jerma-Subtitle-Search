@@ -1,0 +1,10 @@
+{
+    "editor.renderFinalNewline": "off",
+    "editor.tabSize": 4,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "[github-actions-workflow]": {
+        "editor.tabSize": 2
+    }
+}
