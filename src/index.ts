@@ -7,9 +7,6 @@ import { ResultsGrid } from './components/Results.ts';
 import { ProgressSpinner } from './components/ProgressSpinner.ts';
 import './styles/General.scss';
 
-(window as any).m = m;
-(window as any).MiniSearch = MiniSearch;
-
 export const appleUA = /(iPhone|iPad|Macintosh)/i.test(navigator.userAgent);
 const mobileSafariUA = /(?!.*FxiOS)(iPhone|iPad).*Mobile.*Safari/i.test(navigator.userAgent);
 
