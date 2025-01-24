@@ -83,7 +83,7 @@ async function loadSubtitles(url: string) {
 
         [loadingValue, loadingLimit, loadingState] = [0, 0, 'Parsing subtitles'];
         m.redraw();
-        
+
         let storedSyncLoadingPreference = localStorage.getItem('synchronous-loading');
         if (storedSyncLoadingPreference === 'true') {
             await new Promise(resolve => setTimeout(resolve, 500));

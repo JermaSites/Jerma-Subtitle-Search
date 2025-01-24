@@ -34,10 +34,10 @@ export const ProgressSpinner = () => {
                 m(`div#loading-graphic-container.${containerClass}`, [
                     m('img#loading-graphic', {
                         src: imageSrc,
-                        alt: 'loading indicator' 
+                        alt: 'loading indicator'
                     })
                 ]),
-                m('p', 
+                m('p',
                     vnode.attrs.phase === 'Downloading'
                         ? `${vnode.attrs.phase} (${Math.round((vnode.attrs.value / vnode.attrs.limit) * 100)}%)`
                         : `${vnode.attrs.phase}`

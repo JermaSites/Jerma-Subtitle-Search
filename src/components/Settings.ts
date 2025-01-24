@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // #region Font
     const storedFont = localStorage.getItem('font') || 'Courier New, monospace';
     changeSetting('font', storedFont);
-    
+
     const checkedInput = document.querySelector(`input[value="${storedFont}"]`) as HTMLInputElement;
     if (checkedInput) {
         checkedInput.checked = true;
@@ -16,12 +16,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const synchronousLoadingCheckbox = document.getElementById('synchronous-loading') as HTMLInputElement | null;
 
     let storedSyncLoadingPreference = localStorage.getItem('synchronous-loading');
-    
+
     if (!storedSyncLoadingPreference) {
         localStorage.setItem('synchronous-loading', 'false');
         storedSyncLoadingPreference = 'false';
     }
-    
+
     if (synchronousLoadingCheckbox) {
         synchronousLoadingCheckbox.checked = storedSyncLoadingPreference === 'true';
     }
@@ -48,9 +48,9 @@ function changeSetting(setting: string, value: string): void {
             localStorage.setItem('theme', value);
 
             document.documentElement.setAttribute('data-theme', value);
-        
+
             document.querySelectorAll('.theme-choice button').forEach(element => element.classList.remove('selected'));
-        
+
             const selectedButton = document.getElementById(value) as HTMLButtonElement;
             if (selectedButton) {
                 selectedButton.classList.add('selected');
@@ -100,7 +100,7 @@ export const SettingsModal = () => {
         'dark',
         'dark-blue'
     ];
-    
+
     const fonts = [
         { id: 'arial', name: 'Arial', value: 'Arial, sans-serif' },
         { id: 'courier-new', name: 'Courier New', value: 'Courier New, monospace' },
@@ -123,8 +123,8 @@ export const SettingsModal = () => {
                 m('h2', 'Settings'),
                 m('div#general-settings', [
                     m('label', { for: 'synchronous-loading' }, [
-                        m('input#synchronous-loading', { 
-                            type: 'checkbox', 
+                        m('input#synchronous-loading', {
+                            type: 'checkbox',
                             onchange: (e: Event) => {
                                 const target = e.target as HTMLInputElement;
                                 changeSetting('synchronous-loading', target.checked.toString());
@@ -135,13 +135,13 @@ export const SettingsModal = () => {
                 ]),
                 m('h3', 'Theme'),
                 m('div#theme-choice', [
-                    themes.map(theme => 
+                    themes.map(theme =>
                         m(`button.circle#${theme}`, { onclick: () => changeSetting('theme', theme) })
                     )
                 ]),
                 m('h3', 'Font'),
                 m('div#font-choice', [
-                    fonts.map(font => 
+                    fonts.map(font =>
                         m('label', { for: font.id }, [
                             m(`input#${font.id}`, {
                                 type: 'radio',

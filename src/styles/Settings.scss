@@ -21,7 +21,7 @@
 
         svg.icon {
             height: 1.2rem;
-            
+
             &:hover {
                 fill: var(--close-icon-hover-color);
             }
@@ -109,11 +109,11 @@
             &[for=times-new-roman] {
                 font-family: 'Times New Roman', 'serif';
             }
-            
+
             &[for=va11halla] {
                 font-family: 'CyberpunkWaifus', 'sans-serif';
             }
-            
+
             &[for=verdana] {
                 font-family: 'Verdana', 'sans-serif';
             }

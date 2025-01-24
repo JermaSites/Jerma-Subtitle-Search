@@ -43,7 +43,7 @@
                 background-image: conic-gradient(from calc(var(--angle) + 180deg), transparent 90%, var(--loading-parse-color));
             }
         }
-        
+
         &.download {
             &::after {
                 background-image: conic-gradient(from var(--angle), transparent 90%, var(--loading-download-color));

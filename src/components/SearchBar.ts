@@ -13,7 +13,7 @@ export const SearchBar = () => {
                     // @ts-ignore
                     e.redraw = false;
                     e.preventDefault();
-                    
+
                     if (searchQuery === '') {
                         m.route.set('/');
                     }

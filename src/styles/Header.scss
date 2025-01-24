@@ -28,7 +28,7 @@
             a {
                 display: inline-flex;
             }
-    
+
             img {
                 height: 2.5rem;
 
@@ -41,14 +41,14 @@
 
                     @media screen and (min-width: 310px) {
                         display: flex;
-                    }                    
+                    }
                 }
             }
         }
-        
+
         nav {
             display: flex;
-    
+
             a {
                 color: inherit;
                 margin: 0 0.625rem;
@@ -66,7 +66,7 @@
             margin-right: 1rem;
             padding: 0.25rem;
         }
-    
+
         button#show-settings-modal {
             background: none;
             border: none;

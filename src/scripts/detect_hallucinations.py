@@ -29,7 +29,7 @@ def detect_hallucinations(directory: str, json_path: str, ignored_log: str):
     if os.path.exists(ignored_log):
         with open(ignored_log, 'r', encoding='utf-8') as log_file:
             ignored_hallucinations = set(log_file.read().splitlines())
-            
+
     with open(json_path, 'r', encoding='utf-8') as f:
         video_info = json.load(f)
 
@@ -43,23 +43,23 @@ def detect_hallucinations(directory: str, json_path: str, ignored_log: str):
                 video_seconds = 0
                 video_url = "N/A"
                 print(f"Info not found for: {filename}")
-            
+
             repeat_count = 1
             lrc_path = os.path.join(directory, filename)
-            
+
             with open(lrc_path, 'r', encoding='utf-8') as file:
                 lines = file.readlines()
                 previous_text = None
                 for i in range(len(lines)):
                     line = lines[i].strip()
-                    
+
                     if not line or re.match(r'^\[.*?\]$', line):
                         continue
-                    
+
                     timestamp_match = timestamp_pattern.match(line)
                     minutes, seconds = map(float, timestamp_match.groups())
                     second = minutes * 60 + seconds
-                    
+
                     current_text = timestamp_pattern.sub('', line).strip()
                     if i > 0:
                         if current_text == previous_text:
@@ -72,38 +72,38 @@ def detect_hallucinations(directory: str, json_path: str, ignored_log: str):
                             if str(hallucination) not in ignored_hallucinations:
                                 hallucinations.append(hallucination)
                     previous_text = current_text
-                    
+
                     if len(current_text) > max_line_length:
                         hallucination = Hallucination(second, filename, i + 1, video_url, f"Line exceeds {max_line_length} chars")
                         if str(hallucination) not in ignored_hallucinations:
                             hallucinations.append(hallucination)
-                    
+
                     if long_repetition_pattern.search(current_text):
                         hallucination = Hallucination(second, filename, i + 1, video_url, "Long repetition of the same character")
                         if str(hallucination) not in ignored_hallucinations:
                             hallucinations.append(hallucination)
-                    
+
                     if re.search(r'[^\x00-\x7F]', line):
                         hallucination = Hallucination(second, filename, i+1, video_url, "Non-ASCII character")
                         if str(hallucination) not in ignored_hallucinations:
                             hallucinations.append(hallucination)
-                    
+
                     if second > video_seconds:
                         hallucination = Hallucination(second, filename, i+1, video_url, "Timestamp longer than video duration")
                         if str(hallucination) not in ignored_hallucinations:
                             hallucinations.append(hallucination)
-                            
+
                     if any(phrase in line.lower() for phrase in ["italics"]):
                         hallucination = Hallucination(second, filename, i+1, video_url, "Phrase prone to hallucinations")
                         if str(hallucination) not in ignored_hallucinations:
                             hallucinations.append(hallucination)
-                    
+
                     # probably only worth implementing after all other detections are resolved
                     # if a set amount of lines appear within a set amount of seconds:
                     #     hallucination = Hallucination(second, filename, i+1, video_url, "Rapid lines")
                     #     if str(hallucination) not in ignored_hallucinations:
                     #         hallucinations.append(hallucination)
-    
+
     return hallucinations
 
 def find_corresponding_audio_file(subtitle_filename: str, path: str):
@@ -115,7 +115,7 @@ def find_corresponding_audio_file(subtitle_filename: str, path: str):
     base_filename = os.path.splitext(base_filename)[0]
 
     audio_extensions = [".mp3", ".mp4", ".m4a", ".opus", ".webm"]
-    
+
     files_in_dir = os.listdir(path)
 
     for ext in audio_extensions:
@@ -132,11 +132,11 @@ if __name__ == "__main__":
     parser.add_argument('--ignored-log', type=str, default='ignored_hallucinations.txt', help='File to log ignored hallucinations in.')
     parser.add_argument('--media-player-path', type=str, default='C:/Program Files/VideoLAN/VLC/vlc.exe', help='Path to media player executable. Needs to support passing file:/// URLs and --start-time argument.')
     args = parser.parse_args()
-    
+
     print('Processing files...')
     hallucinations = detect_hallucinations(args.directory, args.json_path, args.ignored_log)
     print(f"Detected {len(hallucinations)} hallucinations")
-    
+
     for hallucination in hallucinations:
         print(
             f"\n{'='*40}\n"
@@ -146,12 +146,12 @@ if __name__ == "__main__":
             f"Timestamp   : {hallucination.second} seconds\n"
             f"{'='*40}\n"
         )
-        
+
         with open(os.path.join(args.directory, hallucination.filename), 'r', encoding='utf-8') as file:
             lines = file.readlines()
-        
+
         subprocess.run(["code", "-g", f"{os.path.join(args.directory, hallucination.filename)}:{hallucination.line_number}"], shell=True)
-        
+
         open_second = max(0, hallucination.second - 6)
         audio_file = find_corresponding_audio_file(hallucination.filename, os.path.join(args.directory, 'processed'))
         if audio_file:
@@ -159,11 +159,11 @@ if __name__ == "__main__":
             media_player = subprocess.Popen([args.media_player_path, f'file:///{audio_file}', f'--start-time={hallucination.second}'])
         else:
             webbrowser.open(f'{hallucination.url}&t={hallucination.second}s')
-        
+
         decision = input("Ignore this hallucination? (y/n)").strip().lower()
         if decision == 'y':
             with open(args.ignored_log, 'a', encoding='utf-8') as log_file:
                 log_file.write(str(hallucination) + '\n')
-        
+
         if audio_file:
             media_player.kill()

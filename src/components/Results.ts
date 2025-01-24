@@ -66,7 +66,7 @@ async function performSearch(query: string, signal: AbortSignal): Promise<Search
     const result: SearchResult[] = subtitles.search(query, {
         combineWith: 'AND',
         fuzzy: false,
-        filter: (entry) => { 
+        filter: (entry) => {
             return queryRegex.test(entry.subtitles);
         }
     });
@@ -168,7 +168,7 @@ export const ResultsGrid = () => {
                 currentPage = 1;
                 debouncedSearch(searchQuery);
             }
-            
+
             previousQuery = vnode.attrs.query;
 
             if (!hasSearched) {
@@ -186,7 +186,7 @@ export const ResultsGrid = () => {
                         const matches: { index: number; match: string }[] = [];
 
                         queryRegex.lastIndex = 0;
-                        
+
                         while (match = queryRegex.exec(result.subtitles)) {
                             matches.push({ index: match.index, match: match[0] });
                         }
@@ -231,7 +231,7 @@ export const ResultsGrid = () => {
                                     contextStart = match.index - 1;
                                     contextEnd = match.index + match.match.length;
                                     let bracketsFound = 0;
-                            
+
                                     while (contextStart > 0 && bracketsFound < contextLevel + 1) {
                                         contextStart--;
                                         if (result.subtitles[contextStart] === '[') {
@@ -240,7 +240,7 @@ export const ResultsGrid = () => {
                                     }
 
                                     bracketsFound = 0;
-                            
+
                                     while (contextEnd < result.subtitles.length && bracketsFound < contextLevel + 1) {
                                         if (result.subtitles[contextEnd + 1] === '[') {
                                             bracketsFound++;
@@ -347,11 +347,11 @@ export const ResultsGrid = () => {
                         m('h2', 'Not finding what you\'re looking for?'),
                         m('p', 'If your search contains numbers: try different combinations of writing them out/digitizing.'),
                         m('p', [
-                            'For advanced use cases, you can interact with the underlying ', 
+                            'For advanced use cases, you can interact with the underlying ',
                             m('a', { href: 'https://github.com/lucaong/minisearch' }, 'MiniSearch'),
                             ' instance with your browser console. It\'s stored as a global variable named \'subtitles\'. For example: ',
                             m('code', `subtitles.search(\'${searchQuery}\', { combineWith: 'OR', fuzzy: true })`)
-                        ])  
+                        ])
                     ])
                 ])
                 // m('div#page-end', [

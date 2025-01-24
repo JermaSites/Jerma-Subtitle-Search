@@ -17,11 +17,11 @@
             height: 1.5rem;
             width: 60%;
         }
-    
+
         &::-webkit-progress-bar {
             background-color: var(--progress-bar-background-color);
         }
-        
+
         &::-webkit-progress-value {
             background-color: var(--progress-bar-color);
         }
@@ -35,5 +35,5 @@
         position: absolute;
         top: 50%;
         transform: translate(-50%, -50%);
-    }    
+    }
 }
