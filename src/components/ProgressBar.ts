@@ -8,6 +8,6 @@ export const ProgressBar = () => {
             m('progress#progress-bar', { max: vnode.attrs.max, value: vnode.attrs.value }),
             m('label#progress-label', { for: 'progress-bar' }, vnode.attrs.message)
         ]);
-    },
+    }
   };
 };

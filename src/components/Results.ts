@@ -13,7 +13,7 @@ function debounce(func: Function, delay: number) {
         clearTimeout(timeoutId);
         timeoutId = setTimeout(() => func(...args), delay);
     };
-}
+};
 
 function formatTimestamp(timestamp: string): string {
     const [minutes, seconds] = timestamp.split(':').map(Number);
@@ -24,12 +24,12 @@ function formatTimestamp(timestamp: string): string {
     const secs = totalSeconds % 60;
     const pad = (num: number) => num.toString().padStart(2, '0');
     return `${pad(hours)}:${pad(mins)}:${pad(secs)}`;
-}
+};
 
 function toggleExpand(id: string) {
     expandState[id] = !expandState[id];
     m.redraw();
-}
+};
 
 async function performSearch(query: string, signal: AbortSignal): Promise<SearchResult[]> {
     while (!subtitlesLoaded) {
@@ -82,7 +82,7 @@ async function performSearch(query: string, signal: AbortSignal): Promise<Search
     });
 
     return result;
-}
+};
 
 async function seekEmbed(videoID: string, second: number) {
     const embed = document.querySelector(`lite-youtube[videoid='${videoID}']`);
@@ -93,7 +93,7 @@ async function seekEmbed(videoID: string, second: number) {
     } else {
         console.error(`Couldn't find embed for ${videoID}`);
     }
-}
+};
 
 export const ResultsGrid = () => {
     const contextLevel = 1;
@@ -358,6 +358,6 @@ export const ResultsGrid = () => {
                 //     m('h5', "You've reached the end")
                 // ])
             ]);
-        },
+        }
     };
 };

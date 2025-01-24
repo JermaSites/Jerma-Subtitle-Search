@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const storedTheme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
     changeSetting('theme', storedTheme);
     // #endregion
-})
+});
 
 let hasPreloadedFonts: boolean = false;
 
@@ -57,7 +57,7 @@ function changeSetting(setting: string, value: string): void {
             }
             break;
     }
-}
+};
 
 export function toggleSettingsModal(_e: Event) {
     function showSettingsModal(dialogElement: HTMLDialogElement) {
@@ -92,7 +92,7 @@ export function toggleSettingsModal(_e: Event) {
     if (dialog) {
         dialog.open ? dialog.close() : showSettingsModal(dialog);
     }
-}
+};
 
 export const SettingsModal = () => {
     const themes = [
@@ -160,8 +160,8 @@ export const SettingsModal = () => {
                             font.name
                         ])
                     )
-                ]),
-            ])
+                ])
+            ]);
         }
-    }
-}
+    };
+};

@@ -111,7 +111,7 @@ async function loadSubtitles(url: string) {
 
         console.debug(`Subtitles parsed in ${((performance.now() - startingTime) / 1000).toFixed(2)} seconds.`);
     }
-}
+};
 
 loadSubtitles(subtitlesURL).catch(e => {
     console.error(`Failed to load subtitles: ${e}`);
@@ -150,8 +150,8 @@ const Page = () => {
                 ])
             ]);
         }
-    }
-}
+    };
+};
 
 // https://mithril.js.org/route.html#routing-strategies
 // hashbang or querystring is needed when hosted using GitHub Pages
@@ -166,5 +166,5 @@ m.route(document.body, '/', {
     },
     '/:query': {
         view: () => m(Page)
-    },
+    }
 });

@@ -29,6 +29,6 @@ export const Header = () => {
                 ])
             ])
         ]);
-    },
+    }
   };
 };
