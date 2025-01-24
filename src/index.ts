@@ -120,65 +120,51 @@ loadSubtitles(subtitlesURL).catch(e => {
 });
 // #endregion
 
+const Page = () => {
+    return {
+        view: () => {
+            const searchQuery = m.route.param('query');
+            return m('div', [
+                m(Header),
+                m('div#page-container', [
+                    m(SearchBar),
+                    !subtitlesLoaded && m(ProgressSpinner, { value: loadingValue, limit: loadingLimit, phase: loadingState }),
+                    (!searchQuery || !subtitlesLoaded) &&
+                        m('div#page-info', [
+                            m('section', [
+                                m('h1', 'Welcome'),
+                                (!subtitlesLoaded && mobileSafariUA) &&
+                                    m('h2', [
+                                        'Seems like you\'re using Safari. If the site crashes you should try ',
+                                        m('a', { href: 'https://apps.apple.com/us/app/firefox-private-safe-browser/id989804926' }, 'Firefox'),
+                                        ' and closing all other apps.'
+                                    ]),
+                                m('p', 'This page lets you search through transcriptions of all Jerma\'s main channel videos, archived streams and more.')
+                            ]),
+                            subtitlesLoaded && m('section', [
+                                m('h2', 'Index statistics'),
+                                m('p', `Loaded ${subtitles.documentCount} video's subtitles, containing ${subtitles.termCount} unique terms.`),
+                            ]),
+                        ]),
+                    searchQuery && m(ResultsGrid, { query: searchQuery })
+                ])
+            ]);
+        }
+    }
+}
+
 // https://mithril.js.org/route.html#routing-strategies
 // hashbang or querystring is needed when hosted using GitHub Pages
 m.route.prefix = '?';
 
 m.route(document.body, '/', {
     '/': {
-        view: () => {
-            return m('div', [
-                m(Header),
-                m('div#page-container', [
-                    m(SearchBar),
-                    subtitlesLoaded ? null : m(ProgressSpinner, { value: loadingValue, limit: loadingLimit, phase: loadingState }),
-                    m('div#page-info', [
-                        m('section', [
-                            m('h1', 'Welcome'),
-                            !subtitlesLoaded && mobileSafariUA ? m('h2', [
-                                    'Seems like you\'re using Safari. If the site crashes you should try ',
-                                    m('a', { href: 'https://apps.apple.com/us/app/firefox-private-safe-browser/id989804926' }, 'Firefox'),
-                                    ' and closing all other apps.'
-                                ]) : null,
-                            m('p', 'This webpage lets you search through transcriptions of all Jerma\'s main channel videos, archived streams and more.')
-                        ]),
-                        subtitlesLoaded ?
-                            m('section', [
-                                m('h2', 'Index statistics'),
-                                m('p', `Loaded ${subtitles.documentCount} video\'s subtitles, containing ${subtitles.termCount} unique terms.`),
-                            ]) : null,
-                    ])
-                ])
-            ]);
-        }
+        view: () => m(Page)
     },
     '/gongo': {
-        view: () => {
-            return m('img.full-page', { src: '/assets/images/omo.avif', alt: 'color changing cat staring into your soul' });
-        }
+        view: () => m('img.full-page', { src: '/assets/images/omo.avif', alt: 'color changing cat staring into your soul' })
     },
     '/:query': {
-        view: () => {
-            return m('div', [
-                m(Header),
-                m('div#page-container', [
-                    m(SearchBar),
-                    subtitlesLoaded ? null : m(ProgressSpinner, { value: loadingValue, limit: loadingLimit, phase: loadingState }),
-                    !subtitlesLoaded ? 
-                        m('div#page-info', [
-                            m('section', [
-                                m('h1', 'Welcome'),
-                                mobileSafariUA ? m('h2', [
-                                        'Seems like you\'re using Safari. If the site crashes you should try ',
-                                        m('a', { href: 'https://apps.apple.com/us/app/firefox-private-safe-browser/id989804926' }, 'Firefox'),
-                                        ' and closing all other apps.'
-                                    ]) : null,
-                                m('p', 'This webpage lets you search through transcriptions of all Jerma\'s main channel videos, archived streams and more.')
-                            ]),
-                        ]) : null,
-                    m(ResultsGrid, { query: m.route.param('query') || '' })
-                ])
-            ]);
-        }
+        view: () => m(Page)
     },
 });
