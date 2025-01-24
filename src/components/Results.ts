@@ -97,7 +97,7 @@ async function seekEmbed(videoID: string, second: number) {
 
 export const ResultsGrid = () => {
     const contextLevel = 1;
-    const itemsPerPage = window.innerWidth <= 768 ? 10 : 20;
+    const itemsPerPage = window.innerWidth <= 768 ? 20 : 100;
     const timestampRegex = new RegExp(/\[[\d:.]+\]/, 'g');
     let contextStart: number;
     let contextEnd: number;
