@@ -56,7 +56,8 @@ async function performSearch(query: string, signal: AbortSignal): Promise<Search
                     })
                     .join('') + '(?:\\[[\\d:.]+\\])?';
             })
-            .join(''),
+            .join('')
+            .slice(0, -1) + '{0}',
         'gi'
     );
 
