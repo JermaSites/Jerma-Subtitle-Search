@@ -61,42 +61,40 @@ $light-text: #000000;
 $dark-base: #212121;
 $dark-text: #ffffff;
 
-:root {
-    &[data-theme='dark'] {
-        --active-theme-border-color     : #{color.scale($dark-text, $lightness: -20%)};
-        --background-color              : #{$dark-base};
-        --button-background-color       : #{$jerma-dark-blue};
-        --button-hover-background-color : #{color.scale($jerma-8, $lightness: -20%)};
-        --button-text-color             : #{$dark-text};
-        --close-icon-hover-color        : #{$jerma-pink};
-        --embed-icon                    : url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 68 48'><path d='M66.52 7.74c-.78-2.93-2.49-5.41-5.42-6.19C55.79.13 34 0 34 0S12.21.13 6.9 1.55c-2.93.78-4.63 3.26-5.42 6.19C.06 13.05 0 24 0 24s.06 10.95 1.48 16.26c.78 2.93 2.49 5.41 5.42 6.19C12.21 47.87 34 48 34 48s21.79-.13 27.1-1.55c2.93-.78 4.64-3.26 5.42-6.19C67.94 34.95 68 24 68 24s-.06-10.95-1.48-16.26z' fill='%23#{string.slice(meta.inspect($jerma-dark-blue), 2)}'/><path d='M45 24 27 14v20' fill='white'/></svg>");
-        --form-accent-color             : #{$jerma-9};
-        --form-border-color             : #{$jerma-5};
-        --form-caret-color              : #{$jerma-r};
-        --header-background-color       : #{color.scale($dark-base, $lightness: -20%)};
-        --header-text-color             : #{$dark-text};
-        --highlight-background-color    : #{color.scale($jerma-5, $alpha: -30%)};
-        --highlight-text-color          : #{$dark-text};
-        --hyperlink-color               : #{$jerma-9};
-        --icon-color                    : #c8c8c8;
-        --icon-hover-color              : #f5f5f5;
-        --inactive-theme-border-color   : #{$jerma-5};
-        --input-background-color        : #{color.scale($dark-base, $lightness: -30%)};
-        --input-hover-background-color  : #{color.scale($dark-base, $lightness: -40%)};
-        --input-text-color              : #{$dark-text};
-        --loading-download-color        : #{$jerma-a};
-        --loading-parse-color           : #{$jerma-e};
-        --match-seperator-color         : #{$jerma-j};
-        --modal-backdrop-color          : #{color.scale($dark-base, $alpha: -20%)};
-        --modal-background-color        : #{color.scale($dark-base, $lightness: -20%)};
-        --page-info-background-color    : #{color.scale($dark-base, $lightness: -20%)};
-        --page-info-text-color          : #{color.scale($dark-text, $lightness: -20%)};
-        --result-item-background-color  : #{color.scale($dark-base, $lightness: -69%)};
-        --result-item-border-color      : #{color.scale($jerma-e, $lightness: -60%, $alpha: -20%)};
-        --result-text-color             : #{$dark-text};
-        --result-title-background-color : #{color.scale($dark-base, $lightness: -20%)};
-        --text-color                    : #{$dark-text};
-    }
+:root[data-theme='dark'] {
+    --active-theme-border-color     : #{color.scale($dark-text, $lightness: -20%)};
+    --background-color              : #{$dark-base};
+    --button-background-color       : #{$jerma-dark-blue};
+    --button-hover-background-color : #{color.scale($jerma-8, $lightness: -20%)};
+    --button-text-color             : #{$dark-text};
+    --close-icon-hover-color        : #{$jerma-pink};
+    --embed-icon                    : url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 68 48'><path d='M66.52 7.74c-.78-2.93-2.49-5.41-5.42-6.19C55.79.13 34 0 34 0S12.21.13 6.9 1.55c-2.93.78-4.63 3.26-5.42 6.19C.06 13.05 0 24 0 24s.06 10.95 1.48 16.26c.78 2.93 2.49 5.41 5.42 6.19C12.21 47.87 34 48 34 48s21.79-.13 27.1-1.55c2.93-.78 4.64-3.26 5.42-6.19C67.94 34.95 68 24 68 24s-.06-10.95-1.48-16.26z' fill='%23#{string.slice(meta.inspect($jerma-dark-blue), 2)}'/><path d='M45 24 27 14v20' fill='white'/></svg>");
+    --form-accent-color             : #{$jerma-9};
+    --form-border-color             : #{$jerma-5};
+    --form-caret-color              : #{$jerma-r};
+    --header-background-color       : #{color.scale($dark-base, $lightness: -20%)};
+    --header-text-color             : #{$dark-text};
+    --highlight-background-color    : #{color.scale($jerma-5, $alpha: -30%)};
+    --highlight-text-color          : #{$dark-text};
+    --hyperlink-color               : #{$jerma-9};
+    --icon-color                    : #c8c8c8;
+    --icon-hover-color              : #f5f5f5;
+    --inactive-theme-border-color   : #{$jerma-5};
+    --input-background-color        : #{color.scale($dark-base, $lightness: -30%)};
+    --input-hover-background-color  : #{color.scale($dark-base, $lightness: -40%)};
+    --input-text-color              : #{$dark-text};
+    --loading-download-color        : #{$jerma-a};
+    --loading-parse-color           : #{$jerma-e};
+    --match-seperator-color         : #{$jerma-j};
+    --modal-backdrop-color          : #{color.scale($dark-base, $alpha: -20%)};
+    --modal-background-color        : #{color.scale($dark-base, $lightness: -20%)};
+    --page-info-background-color    : #{color.scale($dark-base, $lightness: -20%)};
+    --page-info-text-color          : #{color.scale($dark-text, $lightness: -20%)};
+    --result-item-background-color  : #{color.scale($dark-base, $lightness: -69%)};
+    --result-item-border-color      : #{color.scale($jerma-e, $lightness: -60%, $alpha: -20%)};
+    --result-text-color             : #{$dark-text};
+    --result-title-background-color : #{color.scale($dark-base, $lightness: -20%)};
+    --text-color                    : #{$dark-text};
 }
 // #endregion
 
