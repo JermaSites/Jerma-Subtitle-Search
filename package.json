@@ -21,6 +21,7 @@
     },
     "devDependencies": {
         "@types/mithril": "^2.2.7",
+        "@types/youtube": "^0.1.0",
         "sass": "^1.83.1",
         "typescript": "^5.7.2",
         "vite": "^4.5.5"
