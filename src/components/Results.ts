@@ -1,4 +1,5 @@
 import m, { type Vnode } from 'mithril';
+import { Secrets } from './Secrets.ts';
 import type { SearchResult } from 'minisearch';
 import { subtitles, subtitlesLoaded } from '../index.ts';
 import '../styles/Results.scss';
@@ -353,6 +354,7 @@ export const ResultsGrid = () => {
                             ])
                         ])
                     ]),
+                m(Secrets, { query: vnode.attrs.query })
                 // m('div#page-end', [
                 //     m('h5', "You've reached the end")
                 // ])

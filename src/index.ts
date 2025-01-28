@@ -161,9 +161,6 @@ m.route(document.body, '/', {
     '/': {
         view: () => m(Page)
     },
-    '/gongo': {
-        view: () => m('img.full-page', { src: '/assets/images/omo.avif', alt: 'color changing cat staring into your soul' })
-    },
     '/:query': {
         view: () => m(Page)
     }

@@ -8,6 +8,8 @@
 }
 
 body {
+    display: flex;
+    flex-direction: column;
     height: 100dvh;
     margin: 0;
 }
@@ -15,6 +17,7 @@ body {
 #page-container {
     display: flex;
     flex-direction: column;
+    flex: 1;
     margin: 0 auto;
     width: 95%;
 
@@ -39,15 +42,6 @@ body {
             width: 75%;
         }
     }
-}
-
-.full-page {
-    height: 100dvh;
-    left: 0;
-    object-fit: fill;
-    position: fixed;
-    top: 0;
-    width: 100dvw;
 }
 
 svg.icon {
