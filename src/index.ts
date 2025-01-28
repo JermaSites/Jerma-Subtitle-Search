@@ -124,7 +124,7 @@ const Page = () => {
     return {
         view: () => {
             const searchQuery = m.route.param('query');
-            return m('div', [
+            return [
                 m(Header),
                 m('div#page-container', [
                     m(SearchBar),
@@ -148,7 +148,7 @@ const Page = () => {
                         ]),
                     searchQuery && m(ResultsGrid, { query: searchQuery })
                 ])
-            ]);
+            ];
         }
     };
 };
