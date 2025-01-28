@@ -85,14 +85,14 @@ async function performSearch(query: string, signal: AbortSignal): Promise<Search
     return result;
 };
 
-async function seekEmbed(videoID: string, second: number) {
+export async function seekEmbed(videoID: string, second: number) {
     const embed = document.querySelector(`lite-youtube[videoid='${videoID}']`);
-    if (embed) {
+    try {
         // @ts-ignore
-        const player = await embed.getYTPlayer();
+        const player: YT.Player = await embed.getYTPlayer();
         player.seekTo(second, true);
-    } else {
-        console.error(`Couldn't find embed for ${videoID}`);
+    } catch {
+        console.error('Failed to seek video', videoID);
     }
 };
 

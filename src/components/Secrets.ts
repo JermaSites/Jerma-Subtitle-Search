@@ -1,14 +1,46 @@
 import m, { type Vnode } from 'mithril';
+import { seekEmbed } from './Results';
 import '../styles/Secrets.scss';
 
 export const Secrets = () => {
     let logoLinkChanged: boolean = false;
+    let rickrollPlaying: boolean = false;
 
     return {
         view: (vnode: Vnode<{ query: string }>) => {
             const elements: Vnode[] = [];
 
             switch (true) {
+                case vnode.attrs.query.includes('rickroll'):
+                    document.documentElement.setAttribute('secret-theme', 'rickroll');
+
+                    if (!document.querySelector('lite-youtube[videoid="dQw4w9WgXcQ"]')) {
+                        const embed = document.createElement('lite-youtube');
+                        embed.setAttribute('class', 'video-embed hidden');
+                        embed.setAttribute('js-api', 'true');
+                        embed.setAttribute('params', 'color=white');
+                        embed.setAttribute('videoid', 'dQw4w9WgXcQ');
+
+                        const body = document.querySelector('body');
+                        if (body) {
+                            body.appendChild(embed);
+                        }
+                    }
+
+                    const seekButtons = document.querySelectorAll('button.seek');
+                    seekButtons.forEach((button) => {
+                        button.addEventListener('click', () => {
+                            const rickrollVideo = document.querySelector('lite-youtube[videoid="dQw4w9WgXcQ"]');
+                            if (rickrollVideo) {
+                                rickrollVideo.classList.remove('hidden');
+                                if (!rickrollPlaying) {
+                                    seekEmbed('dQw4w9WgXcQ', 0);
+                                    rickrollPlaying = true;
+                                }
+                            }
+                        });
+                    });
+                    break;
                 case vnode.attrs.query.includes('gongo'):
                     const logoLink = document.querySelector('#logo > a');
                     if (logoLink) {
@@ -42,6 +74,14 @@ export const Secrets = () => {
                         logoLink.setAttribute('href', 'https://www.twitch.tv/jerma985');
                     }
                     logoLinkChanged = false;
+                }
+            }
+
+            if (rickrollPlaying && !vnode.attrs.query.includes('rickroll')) {
+                const rickrollVideo = document.querySelector('lite-youtube[videoid="dQw4w9WgXcQ"]');
+                if (rickrollVideo) {
+                    rickrollVideo.remove();
+                    rickrollPlaying = false;
                 }
             }
 
