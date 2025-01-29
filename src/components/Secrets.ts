@@ -64,6 +64,13 @@ export const Secrets = () => {
                         m('img#omoP', { src: '/assets/images/omoP.avif', alt: 'osmo from gongo looking happy' })
                     );
                     break;
+                case vnode.attrs.query.includes('picmin') || vnode.attrs.query.includes('pikmin'):
+                    document.documentElement.setAttribute('secret-theme', 'picmin');
+
+                    elements.push(
+                        m('img#picMin', { src: '/assets/images/picMin.avif', alt: 'picard from star-trek as a pikmin in a dress' })
+                    );
+                    break;
                 case vnode.attrs.query.includes('rickroll'):
                     document.documentElement.setAttribute('secret-theme', 'rickroll');
 
