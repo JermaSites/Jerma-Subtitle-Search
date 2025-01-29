@@ -54,8 +54,11 @@ export const Secrets = () => {
                         });
                     });
                     break;
-                case vnode.attrs.query.includes('gongo'):
-                    const logoLink = document.querySelector('#logo > a');
+                case vnode.attrs.query.includes('scorn'):
+                    elements.push(
+                        m('audio', { autoplay: true, src: '/assets/audio/scorn.opus' })
+                    );
+                    break;
                     if (logoLink) {
                         logoLink.setAttribute('href', 'https://www.twitch.tv/greatsphynx');
                         logoLinkChanged = true;
