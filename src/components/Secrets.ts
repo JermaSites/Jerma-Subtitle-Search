@@ -11,8 +11,18 @@ export const Secrets = () => {
             const elements: Vnode[] = [];
 
             switch (true) {
+                case vnode.attrs.query.includes('andy') || vnode.attrs.query.includes('terraria'):
+                    if (localStorage.getItem('font') !== 'OpenDyslexic, sans-serif') {
+                        document.documentElement.setAttribute('secret-theme', 'terraria');
+                    }
+                    break;
                 case vnode.attrs.query.includes('buffy'):
                     document.documentElement.setAttribute('secret-theme', 'buffy');
+                    break;
+                case vnode.attrs.query.includes('minecraft'):
+                    if (localStorage.getItem('font') !== 'OpenDyslexic, sans-serif') {
+                        document.documentElement.setAttribute('secret-theme', 'minecraft');
+                    }
                     break;
                 case vnode.attrs.query.includes('rickroll'):
                     document.documentElement.setAttribute('secret-theme', 'rickroll');
