@@ -11,6 +11,9 @@ export const Secrets = () => {
             const elements: Vnode[] = [];
 
             switch (true) {
+                case vnode.attrs.query.includes('buffy'):
+                    document.documentElement.setAttribute('secret-theme', 'buffy');
+                    break;
                 case vnode.attrs.query.includes('rickroll'):
                     document.documentElement.setAttribute('secret-theme', 'rickroll');
 
