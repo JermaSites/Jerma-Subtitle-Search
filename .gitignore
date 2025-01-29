@@ -15,3 +15,4 @@ cookies.*
 tempCodeRunnerFile.*
 test.*
 venv/
+!public/assets/audio/*.opus
