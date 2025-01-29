@@ -1,4 +1,25 @@
 @font-face {
+    font-family: 'Andy';
+    font-style: normal;
+    font-weight: bold;
+    src: url('/assets/fonts/Andy-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'CyberpunkWaifus';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/assets/fonts/CyberpunkWaifus.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Minecraft';
+    font-style: normal;
+    font-weight: normal;
+    src: url('/assets/fonts/Minecraft.woff2') format('woff2');
+}
+
+@font-face {
     font-family: 'OpenDyslexic';
     font-style: normal;
     font-weight: normal;
@@ -24,11 +45,4 @@
     font-style: italic;
     font-weight: bold;
     src: url('/assets/fonts/OpenDyslexic/OpenDyslexic-Bold-Italic.woff2') format('woff2');
-}
-
-@font-face {
-    font-family: 'CyberpunkWaifus';
-    font-style: normal;
-    font-weight: normal;
-    src: url('/assets/fonts/CyberpunkWaifus.woff2') format('woff2');
 }
