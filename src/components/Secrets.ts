@@ -35,6 +35,7 @@ export const Secrets = () => {
                     elements.push(
                         m('img#mornReal', { src: '/assets/images/mornReal.avif', alt: 'morn from star-trek spinning' }),
                         m('img#actualEntertainment', { src: '/assets/images/actualEntertainment.avif', alt: 'description of gongo: actual entertainment' }),
+                        m('img#spynxHeart', { src: '/assets/images/spynxHeart.avif', alt: 'color changing text that reads: sphynx <3' }),
                         m('img#honseWalk', { src: '/assets/images/honseWalk.avif', alt: 'fat horse walking in a circle around a bottle of glue' }),
                         m('img#spynx', { src: '/assets/images/spynx.avif', alt: 'super tiny spynx' }),
                         m('img#patGlu', { src: '/assets/images/patGlu.avif', alt: 'bottle of glue' }),
