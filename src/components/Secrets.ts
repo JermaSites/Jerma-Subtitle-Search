@@ -5,8 +5,20 @@ import '../styles/Secrets.scss';
 export const Secrets = () => {
     let backgroundVideoPlaying: boolean = false;
     let backgroundVideoPlayedThisSearch: boolean = false;
+    let faviconChanged: boolean = false;
+    let faviconChangedThisSearch: boolean = false;
     let logoLinkChanged: boolean = false;
     let logoLinkChangedThisSearch: boolean = false;
+    let titleChanged: boolean = false;
+    let titleChangedThisSearch: boolean = false;
+
+    function setFavicon(url: string) {
+        const favicon = document.querySelector('link[rel="icon"]');
+        if (favicon) {
+            favicon.setAttribute('href', url);
+            [faviconChanged, faviconChangedThisSearch] = [true, true];
+        }
+    }
 
     function setLogoLink(href: string) {
         const logoLink = document.querySelector('#logo > a');
@@ -20,6 +32,10 @@ export const Secrets = () => {
         document.documentElement.setAttribute('secret-theme', theme);
     }
 
+    function setTitle(title: string) {
+        document.title = title;
+        [titleChanged, titleChangedThisSearch] = [true, true];
+    }
 
     function resetPage() {
         if (backgroundVideoPlaying && !backgroundVideoPlayedThisSearch) {
@@ -73,8 +89,10 @@ export const Secrets = () => {
                     setSecretTheme('buffy');
                     break;
                 case vnode.attrs.query.includes('gongo'):
+                    setFavicon('/assets/images/daxMug.avif');
                     setLogoLink('https://www.twitch.tv/greatsphynx');
                     setSecretTheme('gongo');
+                    setTitle('gongo');
 
                     elements.push(
                         m('img#mornReal', { src: '/assets/images/mornReal.avif', alt: 'morn from star-trek spinning' }),
@@ -96,8 +114,10 @@ export const Secrets = () => {
                     }
                     break;
                 case vnode.attrs.query.includes('osmo'):
+                    setFavicon('/assets/images/omoJam.avif');
                     setLogoLink('https://www.twitch.tv/greatsphynx/clip/RamshackleUnsightlyBulgogiTwitchRPG-Uzk-4z1kJvKa_KVI');
                     setSecretTheme('osmo');
+                    setTitle('OSMO');
 
                     elements.push(
                         m('img#omoJam', { src: '/assets/images/omoJam.avif', alt: 'osmo from gongo jamming' }),
@@ -149,6 +169,7 @@ export const Secrets = () => {
                     );
                     break;
                 case vnode.attrs.query.includes('sphynx') || vnode.attrs.query.includes('spynx'):
+                    setFavicon('/assets/images/spynx.avif');
                     setLogoLink('https://www.twitch.tv/greatsphynx');
                     setSecretTheme('sphynx');
 
