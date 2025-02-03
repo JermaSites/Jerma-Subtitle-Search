@@ -3,10 +3,59 @@ import { seekEmbed } from './Results';
 import '../styles/Secrets.scss';
 
 export const Secrets = () => {
-    let logoLink: Element | null = null;
+    let backgroundVideoPlaying: boolean = false;
+    let backgroundVideoPlayedThisSearch: boolean = false;
     let logoLinkChanged: boolean = false;
     let logoLinkChangedThisSearch: boolean = false;
-    let rickrollPlaying: boolean = false;
+
+    function setLogoLink(href: string) {
+        const logoLink = document.querySelector('#logo > a');
+        if (logoLink) {
+            logoLink.setAttribute('href', href);
+            [logoLinkChanged, logoLinkChangedThisSearch] = [true, true];
+        }
+    }
+
+    function setSecretTheme(theme: string) {
+        document.documentElement.setAttribute('secret-theme', theme);
+    }
+
+
+    function resetPage() {
+        if (backgroundVideoPlaying && !backgroundVideoPlayedThisSearch) {
+            const backgroundVideo = document.querySelector('lite-youtube[id="secret-embed"]');
+            if (backgroundVideo) {
+                backgroundVideo.remove();
+                backgroundVideoPlaying = false;
+            }
+        } else {
+            backgroundVideoPlayedThisSearch = false;
+        }
+
+        if (faviconChanged && !faviconChangedThisSearch) {
+            setFavicon('/assets/images/favicon.avif');
+            faviconChanged = false;
+        } else {
+            faviconChangedThisSearch = false;
+        }
+
+        if (logoLinkChanged && !logoLinkChangedThisSearch) {
+            const logoLink = document.querySelector('#logo > a');
+            if (logoLink) {
+                logoLink.setAttribute('href', 'https://www.twitch.tv/jerma985');
+                logoLinkChanged = false;
+            }
+        } else {
+            logoLinkChangedThisSearch = false;
+        }
+
+        if (titleChanged && !titleChangedThisSearch) {
+            setTitle('Jerma Search');
+            titleChanged = false;
+        } else {
+            titleChangedThisSearch = false;
+        }
+    }
 
     return {
         view: (vnode: Vnode<{ query: string }>) => {
@@ -17,20 +66,15 @@ export const Secrets = () => {
             switch (true) {
                 case vnode.attrs.query.includes('andy') || vnode.attrs.query.includes('terraria'):
                     if (localStorage.getItem('font') !== 'OpenDyslexic, sans-serif') {
-                        document.documentElement.setAttribute('secret-theme', 'terraria');
+                        setSecretTheme('terraria');
                     }
                     break;
                 case vnode.attrs.query.includes('buffy'):
-                    document.documentElement.setAttribute('secret-theme', 'buffy');
+                    setSecretTheme('buffy');
                     break;
                 case vnode.attrs.query.includes('gongo'):
-                    document.documentElement.setAttribute('secret-theme', 'gongo');
-
-                    logoLink = document.querySelector('#logo > a');
-                    if (logoLink) {
-                        logoLink.setAttribute('href', 'https://www.twitch.tv/greatsphynx');
-                        [logoLinkChanged, logoLinkChangedThisSearch] = [true, true];
-                    }
+                    setLogoLink('https://www.twitch.tv/greatsphynx');
+                    setSecretTheme('gongo');
 
                     elements.push(
                         m('img#mornReal', { src: '/assets/images/mornReal.avif', alt: 'morn from star-trek spinning' }),
@@ -48,17 +92,12 @@ export const Secrets = () => {
                     break;
                 case vnode.attrs.query.includes('minecraft'):
                     if (localStorage.getItem('font') !== 'OpenDyslexic, sans-serif') {
-                        document.documentElement.setAttribute('secret-theme', 'minecraft');
+                        setSecretTheme('minecraft');
                     }
                     break;
                 case vnode.attrs.query.includes('osmo'):
-                    document.documentElement.setAttribute('secret-theme', 'osmo');
-
-                    logoLink = document.querySelector('#logo > a');
-                    if (logoLink) {
-                        logoLink.setAttribute('href', 'https://www.twitch.tv/greatsphynx/clip/RamshackleUnsightlyBulgogiTwitchRPG-Uzk-4z1kJvKa_KVI');
-                        [logoLinkChanged, logoLinkChangedThisSearch] = [true, true];
-                    }
+                    setLogoLink('https://www.twitch.tv/greatsphynx/clip/RamshackleUnsightlyBulgogiTwitchRPG-Uzk-4z1kJvKa_KVI');
+                    setSecretTheme('osmo');
 
                     elements.push(
                         m('img#omoJam', { src: '/assets/images/omoJam.avif', alt: 'osmo from gongo jamming' }),
@@ -66,18 +105,19 @@ export const Secrets = () => {
                     );
                     break;
                 case vnode.attrs.query.includes('picmin') || vnode.attrs.query.includes('pikmin'):
-                    document.documentElement.setAttribute('secret-theme', 'picmin');
+                    setSecretTheme('picmin');
 
                     elements.push(
                         m('img#picMin', { src: '/assets/images/picMin.avif', alt: 'picard from star-trek as a pikmin in a dress' })
                     );
                     break;
                 case vnode.attrs.query.includes('rickroll'):
-                    document.documentElement.setAttribute('secret-theme', 'rickroll');
+                    setSecretTheme('rickroll');
 
                     if (!document.querySelector('lite-youtube[videoid="dQw4w9WgXcQ"]')) {
                         const embed = document.createElement('lite-youtube');
                         embed.setAttribute('class', 'video-embed hidden');
+                        embed.setAttribute('id', 'secret-embed');
                         embed.setAttribute('js-api', 'true');
                         embed.setAttribute('params', 'color=white');
                         embed.setAttribute('videoid', 'dQw4w9WgXcQ');
@@ -94,9 +134,10 @@ export const Secrets = () => {
                             const rickrollVideo = document.querySelector('lite-youtube[videoid="dQw4w9WgXcQ"]');
                             if (rickrollVideo) {
                                 rickrollVideo.classList.remove('hidden');
-                                if (!rickrollPlaying) {
+                                if (!backgroundVideoPlaying) {
                                     seekEmbed('dQw4w9WgXcQ', 0);
-                                    rickrollPlaying = true;
+                                    backgroundVideoPlaying = true;
+                                    backgroundVideoPlayedThisSearch = true;
                                 }
                             }
                         });
@@ -108,13 +149,8 @@ export const Secrets = () => {
                     );
                     break;
                 case vnode.attrs.query.includes('sphynx') || vnode.attrs.query.includes('spynx'):
-                    document.documentElement.setAttribute('secret-theme', 'sphynx');
-
-                    logoLink = document.querySelector('#logo > a');
-                    if (logoLink) {
-                        logoLink.setAttribute('href', 'https://www.twitch.tv/greatsphynx');
-                        [logoLinkChanged, logoLinkChangedThisSearch] = [true, true];
-                    }
+                    setLogoLink('https://www.twitch.tv/greatsphynx');
+                    setSecretTheme('sphynx');
 
                     elements.push(
                         m('img#spynxSit', { src: '/assets/images/spynxSit.avif', alt: 'sphynx from gongo sitting awkwardly' }),
@@ -123,23 +159,7 @@ export const Secrets = () => {
                     break;
             }
 
-            if (logoLinkChanged && !logoLinkChangedThisSearch) {
-                logoLink = document.querySelector('#logo > a');
-                if (logoLink) {
-                    logoLink.setAttribute('href', 'https://www.twitch.tv/jerma985');
-                    logoLinkChanged = false;
-                }
-            } else {
-                logoLinkChangedThisSearch = false;
-            }
-
-            if (rickrollPlaying && !vnode.attrs.query.includes('rickroll')) {
-                const rickrollVideo = document.querySelector('lite-youtube[videoid="dQw4w9WgXcQ"]');
-                if (rickrollVideo) {
-                    rickrollVideo.remove();
-                    rickrollPlaying = false;
-                }
-            }
+            resetPage();
 
             return m('div#secrets', elements);
         }
