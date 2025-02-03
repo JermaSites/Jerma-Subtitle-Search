@@ -2,9 +2,9 @@ import m from 'mithril';
 import '../styles/SearchBar.scss';
 
 export const SearchBar = () => {
+    const illegalCharacters = new RegExp(/[^A-Za-z0-9 ]/, 'g');
     let previousQuery = '';
     let searchQuery = (m.route.param('query') || '').replace(/-/g, ' ');
-    const illegalCharacters = new RegExp(/[^A-Za-z0-9 ]/, 'g');
 
     return {
         view: () => {
