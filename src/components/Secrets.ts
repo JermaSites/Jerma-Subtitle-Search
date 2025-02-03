@@ -3,6 +3,15 @@ import { seekEmbed } from './Results';
 import '../styles/Secrets.scss';
 
 export const Secrets = () => {
+    const buffyRegex = new RegExp(/buffy/, 'i');
+    const gongoRegex = new RegExp(/gongo/, 'i');
+    const minecraftRegex = new RegExp(/minecraft/, 'i');
+    const osmoRegex = new RegExp(/osmo/, 'i');
+    const picminRegex = new RegExp(/picmin|pikmin/, 'i');
+    const rickrollRegex = new RegExp(/rickroll/, 'i');
+    const scornRegex = new RegExp(/scorn/, 'i');
+    const sphynxRegex = new RegExp(/sphynx|spynx/, 'i');
+    const terrariaRegex = new RegExp(/andy|terraria/, 'i');
     let backgroundVideoPlaying: boolean = false;
     let backgroundVideoPlayedThisSearch: boolean = false;
     let faviconChanged: boolean = false;
@@ -80,15 +89,15 @@ export const Secrets = () => {
             document.documentElement.removeAttribute('secret-theme');
 
             switch (true) {
-                case vnode.attrs.query.includes('andy') || vnode.attrs.query.includes('terraria'):
+                case terrariaRegex.test(vnode.attrs.query):
                     if (localStorage.getItem('font') !== 'OpenDyslexic, sans-serif') {
                         setSecretTheme('terraria');
                     }
                     break;
-                case vnode.attrs.query.includes('buffy'):
+                case buffyRegex.test(vnode.attrs.query):
                     setSecretTheme('buffy');
                     break;
-                case vnode.attrs.query.includes('gongo'):
+                case gongoRegex.test(vnode.attrs.query):
                     setFavicon('/assets/images/daxMug.avif');
                     setLogoLink('https://www.twitch.tv/greatsphynx');
                     setSecretTheme('gongo');
@@ -108,12 +117,12 @@ export const Secrets = () => {
                         m('img#daxMug', { src: '/assets/images/daxMug.avif', alt: 'mug of jadzia dax from star-trek staring at you from behind tuvok' })
                     );
                     break;
-                case vnode.attrs.query.includes('minecraft'):
+                case minecraftRegex.test(vnode.attrs.query):
                     if (localStorage.getItem('font') !== 'OpenDyslexic, sans-serif') {
                         setSecretTheme('minecraft');
                     }
                     break;
-                case vnode.attrs.query.includes('osmo'):
+                case osmoRegex.test(vnode.attrs.query):
                     setFavicon('/assets/images/omoJam.avif');
                     setLogoLink('https://www.twitch.tv/greatsphynx/clip/RamshackleUnsightlyBulgogiTwitchRPG-Uzk-4z1kJvKa_KVI');
                     setSecretTheme('osmo');
@@ -124,14 +133,14 @@ export const Secrets = () => {
                         m('img#omoP', { src: '/assets/images/omoP.avif', alt: 'osmo from gongo looking happy' })
                     );
                     break;
-                case vnode.attrs.query.includes('picmin') || vnode.attrs.query.includes('pikmin'):
+                case picminRegex.test(vnode.attrs.query):
                     setSecretTheme('picmin');
 
                     elements.push(
                         m('img#picMin', { src: '/assets/images/picMin.avif', alt: 'picard from star-trek as a pikmin in a dress' })
                     );
                     break;
-                case vnode.attrs.query.includes('rickroll'):
+                case rickrollRegex.test(vnode.attrs.query):
                     setSecretTheme('rickroll');
 
                     if (!document.querySelector('lite-youtube[videoid="dQw4w9WgXcQ"]')) {
@@ -163,12 +172,12 @@ export const Secrets = () => {
                         });
                     });
                     break;
-                case vnode.attrs.query.includes('scorn'):
+                case scornRegex.test(vnode.attrs.query):
                     elements.push(
                         m('audio', { autoplay: true, src: '/assets/audio/scorn.opus' })
                     );
                     break;
-                case vnode.attrs.query.includes('sphynx') || vnode.attrs.query.includes('spynx'):
+                case sphynxRegex.test(vnode.attrs.query):
                     setFavicon('/assets/images/spynx.avif');
                     setLogoLink('https://www.twitch.tv/greatsphynx');
                     setSecretTheme('sphynx');
