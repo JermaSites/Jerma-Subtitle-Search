@@ -23,7 +23,7 @@ jobs:
             git lfs pull -I src/assets/Subtitles.json -X /
 
         - name: Setup Python
-          uses: actions/setup-python@v5.3.0
+          uses: actions/setup-python@v5.4.0
           with:
             python-version: 3
             check-latest: true
