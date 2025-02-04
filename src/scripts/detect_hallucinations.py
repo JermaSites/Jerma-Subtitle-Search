@@ -68,7 +68,7 @@ def detect_hallucinations(directory: str, json_path: str, ignored_log: str):
                             repeat_count = 1
 
                         if repeat_count == line_repeat_threshold:
-                            hallucination = Hallucination(second, filename, i + 1, video_url, f"Line repeated {repeat_count} times")
+                            hallucination = Hallucination(second, filename, i - line_repeat_threshold + 2, video_url, "Line repeated")
                             if str(hallucination) not in ignored_hallucinations:
                                 hallucinations.append(hallucination)
                     previous_text = current_text
