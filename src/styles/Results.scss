@@ -6,6 +6,8 @@
 
     h1 {
         margin-top: 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
     }
 
     h2 {
@@ -62,7 +64,9 @@
                     padding: 0.2rem;
 
                     .line {
+                        overflow: hidden;
                         padding: 0 0 0.2rem 0;
+                        text-overflow: ellipsis;
                     }
 
                     button.seek {
@@ -126,5 +130,10 @@
                 }
             }
         }
+    }
+
+    #page-info > section:nth-child(1) > p {
+        overflow: hidden;
+        text-overflow: ellipsis;
     }
 }
