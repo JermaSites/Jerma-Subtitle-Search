@@ -5134,20 +5134,9 @@
 [284:28.11]The operator hasn't gone to the bathroom in over four hours?
 [284:30.17]Yeah, I have.
 [284:31.55]The enemy has been spotted.
-[284:38.29]Back!
-[284:38.39]Back!
-[284:38.53]Dodge right!
-[284:38.81]Dodge right!
-[284:39.09]Dodge right!
-[284:39.53]Dodge right!
-[284:39.79]Dodge right!
-[284:40.21]Dodge right!
-[284:41.03]Dodge right!
-[284:41.54]Dodge right!
-[284:41.94]Dodge right!
-[284:42.24]Dodge right!
-[284:42.70]Dodge right!
-[284:43.54]Dodge right!
+[284:38.29]Back! Back!
+[284:38.53]Dodge right! Dodge right! Dodge right!
+[284:42.81]Flee!
 [284:47.88]Head.
 [284:49.05]Mouth.
 [284:50.17]Shoot.
@@ -6861,33 +6850,9 @@
 [374:00.05]Three.
 [374:01.40]Head, stomach, head.
 [374:03.88]Reload.
-[374:06.77]Stomach!
-[374:07.09]Stomach!
-[374:07.37]Stomach!
-[374:09.07]Stomach!
-[374:09.39]Stomach!
-[374:09.65]Stomach!
-[374:11.15]Stomach!
-[374:11.59]Stomach!
-[374:11.87]Stomach!
-[374:12.11]Stomach!
-[374:12.37]Stomach!
-[374:13.73]Stomach!
-[374:14.24]Stomach!
-[374:14.50]Stomach!
-[374:14.74]Stomach!
-[374:16.10]Stomach!
-[374:16.54]Stomach!
+[374:06.77]Stomach! Stomach! Stomach! Stomach! Stomach! Stomach! Stomach! Stomach! Stomach! Stomach! Stomach! Stomach! Stomach! Stomach!
 [374:16.82]Head!
-[374:17.56]Stomach!
-[374:18.46]Stomach!
-[374:21.16]Stomach!
-[374:21.96]Stomach!
-[374:22.30]Stomach!
-[374:23.10]Stomach!
-[374:24.04]Stomach!
-[374:24.37]Stomach!
-[374:24.67]Stomach!
+[374:17.56]Stomach! Stomach! Stomach! Stomach! Stomach! Stomach! Stomach!
 [374:35.76]Storage area.
 [374:36.32]Vacuum.
 [374:36.58]Vacuum.
@@ -7368,80 +7333,6 @@
 [397:27.45]Reload.
 [397:27.92]Reload.
 [397:30.21]Mouth!
-[397:30.35]Mouth!
-[397:30.71]Mouth!
-[397:31.01]Mouth!
-[397:32.59]Mouth!
-[397:32.91]Mouth!
-[397:33.19]Mouth!
-[397:33.42]Mouth!
-[397:35.04]Mouth!
-[397:35.16]Mouth!
-[397:35.28]Mouth!
-[397:35.42]Mouth!
-[397:35.54]Mouth!
-[397:35.66]Mouth!
-[397:35.78]Mouth!
-[397:35.96]Mouth!
-[397:36.40]Mouth!
-[397:36.98]Mouth!
-[397:37.26]Mouth!
-[397:37.38]Mouth!
-[397:37.50]Mouth!
-[397:37.64]Mouth!
-[397:37.76]Mouth!
-[397:37.88]Mouth!
-[397:38.00]Mouth!
-[397:38.12]Mouth!
-[397:38.24]Mouth!
-[397:38.64]Mouth!
-[397:38.94]Mouth!
-[397:39.26]Mouth!
-[397:39.56]Mouth!
-[397:39.70]Mouth!
-[397:39.84]Mouth!
-[397:39.96]Mouth!
-[397:40.08]Mouth!
-[397:40.20]Mouth!
-[397:40.32]Mouth!
-[397:41.30]Mouth!
-[397:41.84]Mouth!
-[397:41.96]Mouth!
-[397:42.08]Mouth!
-[397:42.20]Mouth!
-[397:42.36]Mouth!
-[397:42.50]Mouth!
-[397:42.64]Mouth!
-[397:42.84]Mouth!
-[397:48.64]Mouth!
-[397:48.86]Mouth!
-[397:48.98]Mouth!
-[397:49.10]Mouth!
-[397:49.24]Mouth!
-[397:49.44]Mouth!
-[397:49.56]Mouth!
-[397:49.72]Mouth!
-[397:49.94]Mouth!
-[397:50.06]Mouth!
-[397:50.18]Mouth!
-[397:50.30]Mouth!
-[397:50.46]Mouth!
-[397:50.58]Mouth!
-[397:50.82]Mouth!
-[397:50.98]Mouth!
-[397:51.64]Mouth!
-[397:54.87]Mouth!
-[397:55.97]Mouth!
-[397:56.09]Mouth!
-[397:56.23]Mouth!
-[397:56.37]Mouth!
-[397:56.51]Mouth!
-[397:56.63]Mouth!
-[397:57.85]Mouth!
-[397:58.09]Mouth!
-[397:58.27]Mouth!
-[397:58.47]Mouth!
-[397:58.75]Mouth
 [398:00.28]How would you know what that even is?
 [398:01.96]Run.
 [398:02.49]Head, stomach, mouth.
@@ -7485,61 +7376,6 @@
 [399:33.34]Mouth, mouth, mouth.
 [399:35.99]Reload.
 [399:39.25]In her mouth!
-[399:39.55]In her mouth!
-[399:39.81]In her mouth!
-[399:40.09]In her mouth!
-[399:40.41]In her mouth!
-[399:40.67]In her mouth!
-[399:40.97]In her mouth!
-[399:41.23]In her mouth!
-[399:41.49]In her mouth!
-[399:41.75]In her mouth!
-[399:42.13]In her mouth!
-[399:42.47]In her mouth!
-[399:42.81]In her mouth!
-[399:43.11]In her mouth!
-[399:43.37]In her mouth!
-[399:43.63]In her mouth!
-[399:46.13]In her mouth!
-[399:46.39]In her mouth!
-[399:50.50]In her mouth!
-[399:50.84]In her mouth!
-[399:51.10]In her mouth!
-[399:51.42]In her mouth!
-[399:51.74]In her mouth!
-[399:52.04]In her mouth!
-[399:52.32]In her mouth!
-[399:52.58]In her mouth!
-[399:52.84]In her mouth!
-[399:53.10]In her mouth!
-[399:53.38]In her mouth!
-[399:54.08]In her mouth!
-[399:54.38]In her mouth!
-[399:54.88]In her mouth!
-[399:55.14]In her mouth!
-[399:55.40]In her mouth!
-[399:57.06]In her mouth!
-[399:57.34]In her mouth!
-[399:57.64]In her mouth!
-[399:57.92]In her mouth!
-[399:58.18]In her mouth!
-[399:58.94]In her mouth!
-[399:59.26]In her mouth!
-[399:59.62]In her mouth!
-[399:59.92]In her mouth!
-[400:00.24]In her mouth!
-[400:00.50]In her mouth!
-[400:00.78]In her mouth!
-[400:01.14]In her mouth!
-[400:01.46]In her mouth!
-[400:01.78]In her mouth!
-[400:02.08]In her mouth!
-[400:02.46]In her mouth!
-[400:02.72]In her mouth!
-[400:02.98]In her mouth!
-[400:03.42]In her mouth!
-[400:03.87]In her mouth!
-[400:04.15]In her mouth!
 [400:07.05]Mouth, mouth, body.
 [400:09.49]Body, inner mouth, inner mouth.
 [400:12.41]Tongue, tongue, eye.
@@ -9262,14 +9098,7 @@
 [490:16.50]Please state your name.
 [490:18.60]Okay.
 [490:19.42]This time we'll get it, right?
-[490:20.92]Ahem.
-[490:21.72]Ahem.
-[490:23.32]Ahem.
-[490:27.04]Ahem.
-[490:27.20]Ahem.
-[490:27.76]Ahem.
-[490:29.24]Ahem.
-[490:29.50]Ahem.
+[490:20.92]Ahem. Ahem. Ahem. Ahem. Ahem. Ahem.
 [490:31.17]Name identified as guest.
 [490:33.93]Access denied.
 [490:35.73]The person's in charge of the key box.
@@ -9280,18 +9109,7 @@
 [490:51.92]Please state your name.
 [490:54.00]Okay.
 [490:54.82]This time we'll get it, right?
-[490:56.32]Huh.
-[490:56.46]Huh.
-[490:56.90]Huh.
-[490:58.02]Huh.
-[490:58.20]Huh.
-[490:58.30]Huh.
-[490:58.46]Huh.
-[490:58.88]Huh.
-[490:59.28]Huh.
-[490:59.58]Huh.
-[490:59.72]Huh.
-[490:59.88]Huh.
+[490:56.32]Uh-huh.
 [491:01.89]I'm trying to fuck with the recognition.
 [491:03.31]Never mind.
 [491:03.71]I don't know.
@@ -11665,35 +11483,7 @@
 [623:37.55]The hotel was booked for years to come.
 [623:40.27]I see a grenade launcher soda can ammunition right there.
 [623:44.61]It's a launcher shell.
-[623:46.36]Pick it up.
-[623:46.66]Pick it up.
-[623:46.96]Pick it up.
-[623:47.26]Pick it up.
-[623:47.54]Pick it up.
-[623:47.80]Pick it up.
-[623:48.02]Pick it up.
-[623:48.30]Pick it up.
-[623:48.56]Pick it up.
-[623:48.98]Pick it up.
-[623:49.26]Pick it up.
-[623:49.54]Pick it up.
-[623:49.84]Pick it up.
-[623:50.12]Pick it up.
-[623:50.42]Pick it up.
-[623:50.70]Pick it up.
-[623:50.94]Pick it up.
-[623:51.28]Pick it up.
-[623:51.58]Pick it up.
-[623:51.88]Pick it up.
-[623:52.16]Pick it up.
-[623:52.46]Pick it up.
-[623:52.72]Pick it up.
-[623:53.00]Pick it up.
-[623:53.28]Pick it up.
-[623:53.56]Pick it up.
-[623:54.98]Pick it up.
-[623:57.98]Pick it up.
-[623:58.20]Pick it up.
+[623:46.36]Pick it up. Pick it up. Pick it up. Pick it up. Pick it up. Pick it up up up. Pick it up. Pick it up. Pick it up up up up.
 [623:58.70]Shower booth.
 [623:59.84]Shower booth.
 [624:00.82]Okay.
