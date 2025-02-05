@@ -152,7 +152,7 @@ if __name__ == "__main__":
 
         subprocess.run(["code", "-g", f"{os.path.join(args.directory, hallucination.filename)}:{hallucination.line_number}"], shell=True)
 
-        open_second = max(0, hallucination.second - 6)
+        open_second = max(0, hallucination.second - 10)
         audio_file = find_corresponding_audio_file(hallucination.filename, os.path.join(args.directory, 'processed'))
         if audio_file:
             print(f"Opening audio file: {audio_file}")
@@ -160,7 +160,7 @@ if __name__ == "__main__":
         else:
             webbrowser.open(f'{hallucination.url}&t={hallucination.second}s')
 
-        decision = input("Ignore this hallucination? (y/n)").strip().lower()
+        decision = input("Ignore this hallucination? (y/n) ").strip().lower()
         if decision == 'y':
             with open(args.ignored_log, 'a', encoding='utf-8') as log_file:
                 log_file.write(str(hallucination) + '\n')
