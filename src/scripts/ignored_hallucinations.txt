@@ -1,1 +1,4 @@
 Line repeated: Two_Point_Campus.en.lrc on line 1314 at second 5352.0
+Long repetition of the same character: Darkwood_Part_3_Finale.en.lrc on line 8582 at second 40253.54
+Long repetition of the same character: Hypnospace_Outlaw.en.lrc on line 4748 at second 19943.04
+Long repetition of the same character: NGU_and_Hot_Lava.en.lrc on line 2559 at second 8572.27
