@@ -57,6 +57,11 @@ def detect_hallucinations(directory: str, json_path: str, ignored_log: str):
                         continue
 
                     timestamp_match = timestamp_pattern.match(line)
+
+                    if not timestamp_match:
+                        print(f"Invalid timestamp in {filename} on line {i+1}: {line}")
+                        continue
+
                     minutes, seconds = map(float, timestamp_match.groups())
                     second = minutes * 60 + seconds
 
