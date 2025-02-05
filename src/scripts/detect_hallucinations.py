@@ -79,7 +79,7 @@ def detect_hallucinations(directory: str, json_path: str, ignored_log: str):
                     previous_text = current_text
 
                     if len(current_text) > max_line_length:
-                        hallucination = Hallucination(second, filename, i + 1, video_url, f"Line exceeds {max_line_length} chars")
+                        hallucination = Hallucination(second, filename, i + 1, video_url, "Line exceeds max char count")
                         if str(hallucination) not in ignored_hallucinations:
                             hallucinations.append(hallucination)
 
