@@ -173,6 +173,8 @@ export const Secrets = () => {
                     });
                     break;
                 case scornRegex.test(vnode.attrs.query):
+                    setSecretTheme('SCORN');
+
                     elements.push(
                         m('audio', { autoplay: true, src: '/assets/audio/SCORN.opus' })
                     );
