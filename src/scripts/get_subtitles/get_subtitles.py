@@ -312,6 +312,7 @@ if __name__ == '__main__':
         'https://youtube.com/playlist?list=PLd4kmFVnghOiWHL8EStIzMXwySWm-7K1f',         # Jerma Streams in Chronological Order
         'https://youtube.com/playlist?list=PLLZVyAYonIO5Wlrf5-i8iXKmWYl6h0yx9',         # More Jerma content, by me (create an issue if you'd like me to add videos)
         'https://youtube.com/playlist?list=PLiwPsPm4ewgv5dPbkSRBzjJ4SjAOXXxZH',         # Jerma animations by Corax
+        'https://youtube.com/playlist?list=PL9wV0Fmo7N_g5X64TzZUY-eQyoZ4xvAf2',         # JermAnimated playlist on 2ndJerma
         # 'https://archive.org/download/jerma-streams-public-domain-movie-night/PUBLIC%20DOMAIN%20MOVIE%20NIGHT%20PART%201.mp4'
     ], help='List of URLs to obtain subtitles for.')
     parser.add_argument('--cookies-path', type=str, default='cookies.txt', help='Netscape formatted file to read cookies from, can be obtained with: yt-dlp --cookies-from-browser firefox --cookies cookies.txt')
