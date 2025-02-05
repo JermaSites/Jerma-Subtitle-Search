@@ -26,7 +26,28 @@ jobs:
           uses: actions/setup-python@v5.4.0
           with:
             python-version: 3
+            cache: 'pip'
             check-latest: true
+
+        - name: Install Python packages
+          run: |
+            cd src/scripts/get_subtitles
+            python -m venv venv
+            source venv/bin/activate
+            pip install python-dateutil
+
+        - name: Run write_subtitles_json.py
+          run: |
+            cd src/scripts/get_subtitles
+            source venv/bin/activate
+            python write_subtitles_json.py
+            git add ../../assets/Subtitles.json
+
+        - name: Commit
+          uses: qoomon/actions--create-commit@v1.2.3
+          with:
+            message: 'chore: update subtitles'
+          continue-on-error: true
 
         - name: Run update_stats.py
           run: |
@@ -48,7 +69,7 @@ jobs:
         - name: Install MiniSearch
           run: npm install minisearch
 
-        - name: Create subtitle index
+        - name: Update subtitle index
           run: |
             node src/scripts/index-subtitles.js
             git add public/assets/SubtitleIndex.json.gzip
