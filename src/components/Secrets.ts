@@ -174,7 +174,7 @@ export const Secrets = () => {
                     break;
                 case scornRegex.test(vnode.attrs.query):
                     elements.push(
-                        m('audio', { autoplay: true, src: '/assets/audio/scorn.opus' })
+                        m('audio', { autoplay: true, src: '/assets/audio/SCORN.opus' })
                     );
                     break;
                 case sphynxRegex.test(vnode.attrs.query):
