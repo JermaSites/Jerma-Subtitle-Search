@@ -5,16 +5,20 @@ from datetime import datetime
 from argparse import ArgumentDefaultsHelpFormatter
 
 def parse_duration(duration_str: str) -> int:
-    """Parse a duration string 'HH:MM:SS' or 'MM:SS' into total seconds."""
+    """Parse a duration string from 'HH:MM:SS', 'MM:SS', or 'SS' formats into total seconds."""
     parts = duration_str.split(':')
     parts = [int(part) for part in parts]
+
     if len(parts) == 3:
         hours, minutes, seconds = parts
     elif len(parts) == 2:
         hours = 0
         minutes, seconds = parts
+    elif len(parts) == 1:
+        hours, minutes, seconds = 0, 0, parts[0]
     else:
         return 0
+
     return hours * 3600 + minutes * 60 + seconds
 
 def update_readme_stats(readme_path: str, json_path: str):
