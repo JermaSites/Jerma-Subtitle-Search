@@ -156,9 +156,9 @@ if __name__ == "__main__":
         audio_file = find_corresponding_audio_file(hallucination.filename, os.path.join(args.directory, 'processed'))
         if audio_file:
             print(f"Opening audio file: {audio_file}")
-            media_player = subprocess.Popen([args.media_player_path, f'file:///{audio_file}', f'--start-time={hallucination.second}'])
+            media_player = subprocess.Popen([args.media_player_path, f'file:///{audio_file}', f'--start-time={open_second}'])
         else:
-            webbrowser.open(f'{hallucination.url}&t={hallucination.second}s')
+            webbrowser.open(f'{hallucination.url}&t={open_second}s')
 
         decision = input("Ignore this hallucination? (y/n) ").strip().lower()
         if decision == 'y':
