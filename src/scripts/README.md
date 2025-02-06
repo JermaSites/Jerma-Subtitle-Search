@@ -43,6 +43,25 @@ options:
                         languages) (default: large-v3)
 ```
 
+### write_subtitles_json.py
+
+1. Create a virtual environment with: `python -m venv venv`
+2. Activate with: `venv\Scripts\Activate.ps1` / `source venv/bin/activate`
+3. Install required packages with: `pip install python-dateutil`
+
+```
+usage: write_subtitles_json.py [-h] [--json-path JSON_PATH] [--subs-path SUBS_PATH]
+
+Writes subtitle info to a JSON file.
+
+options:
+  -h, --help            show this help message and exit
+  --json-path JSON_PATH
+                        Path to save JSON file to. (default: ../../assets/Subtitles.json)
+  --subs-path SUBS_PATH
+                        Path to subtitle files. (default: ../../assets/subtitles)
+```
+
 ### detect_hallucinations.py
 
 ```
