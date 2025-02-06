@@ -54,7 +54,7 @@ jobs:
             cd src/scripts
             python update_stats.py
             git add ../../README.md
-          
+
         - name: Commit
           uses: qoomon/actions--create-commit@v1.2.3
           with:

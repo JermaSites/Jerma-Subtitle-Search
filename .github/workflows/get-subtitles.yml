@@ -90,8 +90,8 @@ jobs:
           for entry in "${new_entries[@]}"; do
             description+="\n- $entry"
           done
-          
+
           git commit -m 'chore: update subtitles.json' -m "$(printf "$description")"
-      
+
       - name: Push
         run: git push

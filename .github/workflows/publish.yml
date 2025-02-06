@@ -68,9 +68,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: 'dist' 
+          ref: 'dist'
           lfs: true
-            
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
