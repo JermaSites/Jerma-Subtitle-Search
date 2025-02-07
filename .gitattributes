@@ -1,2 +1,0 @@
-Subtitles.json filter=lfs diff=lfs merge=lfs -text
-SubtitleIndex.json.gzip filter=lfs diff=lfs merge=lfs -text
