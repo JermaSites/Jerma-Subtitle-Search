@@ -45,12 +45,12 @@ Uses [Mithril](https://github.com/MithrilJS/mithril.js), [MiniSearch](https://gi
 #### Running Locally
 
 ```bash
-# feel free to substitute bun with npm/yarn/whatever
+# feel free to substitute bun with node & npm/yarn/whatever
 git clone https://github.com/Bergbok/Jerma-Subtitle-Search.git
 cd Jerma-Subtitle-Search
-git lfs install
-git lfs pull
+curl -o src/assets/Subtitles.json https://subtitlefiles.jerma.io/file/jerma-subtitles/Subtitles.json
 bun install
+bun src/scripts/index-subtitles.js
 bun run dev
 ```
 
