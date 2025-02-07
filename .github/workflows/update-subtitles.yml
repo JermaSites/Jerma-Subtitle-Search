@@ -58,7 +58,7 @@ jobs:
         - name: Commit
           uses: qoomon/actions--create-commit@v1.2.3
           with:
-            message: 'chore: update statistics'
+            message: 'docs: update statistics'
           continue-on-error: true
 
         - name: Install Node
