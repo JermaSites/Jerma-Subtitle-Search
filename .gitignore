@@ -9,7 +9,9 @@ __pycache__/
 /artifacts/
 /dist/
 /node_modules/
+/public/assets/SubtitleIndex.json.gzip
 /src/assets/processed/
+/src/assets/Subtitles.json
 /src/downloader/output.srt
 cookies.*
 tempCodeRunnerFile.*
