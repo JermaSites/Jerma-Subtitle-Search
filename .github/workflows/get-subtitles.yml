@@ -17,11 +17,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4.2.2
 
-      - name: Checkout Subtitles.json (LFS)
-        run: |
-          git lfs install
-          git lfs pull -I src/assets/Subtitles.json -X /
-
       - name: Setup FFmpeg
         uses: federicocarboni/setup-ffmpeg@v3.1
 
@@ -34,10 +29,25 @@ jobs:
 
       - name: Install Python packages
         run: |
+          python -m venv venv
+          source venv/bin/activate
+          pip install b2[full]
+          deactivate
+
           cd get_subtitles
           python -m venv venv
           source venv/bin/activate
           pip install -r requirements.txt
+
+      - name: Authenticate B2 CLI
+        run: |
+          source venv/bin/activate
+          b2 account authorize "${{ secrets.B2_APP_KEY_ID }}" "${{ secrets.B2_APP_KEY }}" &> /dev/null
+
+      - name: Download Subtitles.json
+        run: |
+          source venv/bin/activate
+          b2 file download b2://jerma-subtitles/Subtitles.json ../assets/Subtitles.json
 
       - name: Write cookie file
         run: echo "${{ secrets.COOKIES }}" > cookies.txt
@@ -62,6 +72,11 @@ jobs:
             fi
           done
 
+      - name: Upload Subtitles.json
+        run: |
+          source venv/bin/activate
+          b2 file upload jerma-subtitles ../assets/Subtitles.json Subtitles.json &> /dev/null
+
       - name: Commit
         run: |
           cd ../../
@@ -83,15 +98,6 @@ jobs:
           fi
 
           git commit -m 'chore: update downloader logs'
-
-          git add src/assets/Subtitles.json
-
-          description='new entries:'
-          for entry in "${new_entries[@]}"; do
-            description+="\n- $entry"
-          done
-
-          git commit -m 'chore: update subtitles.json' -m "$(printf "$description")"
 
       - name: Push
         run: git push

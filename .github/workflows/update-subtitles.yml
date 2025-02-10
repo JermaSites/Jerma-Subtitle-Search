@@ -17,11 +17,6 @@ jobs:
         - name: Checkout
           uses: actions/checkout@v4.2.2
 
-        - name: Checkout Subtitles.json (LFS)
-          run: |
-            git lfs install
-            git lfs pull -I src/assets/Subtitles.json -X /
-
         - name: Setup Python
           uses: actions/setup-python@v5.4.0
           with:
@@ -31,23 +26,31 @@ jobs:
 
         - name: Install Python packages
           run: |
+            python -m venv venv
+            source venv/bin/activate
+            pip install b2[full]
+            deactivate
+
             cd src/scripts/get_subtitles
             python -m venv venv
             source venv/bin/activate
             pip install python-dateutil
+
+        - name: Authenticate B2 CLI
+          run: |
+            source venv/bin/activate
+            b2 account authorize "${{ secrets.B2_APP_KEY_ID }}" "${{ secrets.B2_APP_KEY }}" &> /dev/null
+
+        - name: Download Subtitles.json
+          run: |
+            source venv/bin/activate
+            b2 file download b2://jerma-subtitles/Subtitles.json src/assets/Subtitles.json
 
         - name: Run write_subtitles_json.py
           run: |
             cd src/scripts/get_subtitles
             source venv/bin/activate
             python write_subtitles_json.py
-            git add ../../assets/Subtitles.json
-
-        - name: Commit
-          uses: qoomon/actions--create-commit@v1.2.3
-          with:
-            message: 'chore: update subtitles'
-          continue-on-error: true
 
         - name: Run update_stats.py
           run: |
@@ -72,13 +75,8 @@ jobs:
         - name: Update subtitle index
           run: |
             node src/scripts/index-subtitles.js
-            git add public/assets/SubtitleIndex.json.gzip
-
-        - name: Commit
-          uses: qoomon/actions--create-commit@v1.2.3
-          with:
-            message: 'chore: update subtitles index'
-          continue-on-error: true
+            source venv/bin/activate
+            b2 file upload jerma-subtitles public/assets/SubtitleIndex.json.gzip SubtitleIndex.json.gzip &> /dev/null
 
         - name: Bump package.json patch version
           id: bump_version
