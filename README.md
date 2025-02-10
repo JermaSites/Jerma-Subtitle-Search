@@ -13,7 +13,7 @@ Latest Video   : 2025-01-19
 Subtitles were obtained using [this Python script](/src/downloader/get_subtitles.py).
 Audio gets downloaded with [yt-dlp](https://github.com/yt-dlp/yt-dlp), which gets transcribed using [WhisperX](https://github.com/m-bain/whisperX) (large-v3 model) and converted to [LRC](https://en.wikipedia.org/wiki/LRC_(file_format)) format  with [ffmpeg](https://github.com/FFmpeg/FFmpeg).
 
-Relevant information gets written to a [JSON file](/src/assets/Subtitles.json), which gets indexed and compressed using [this JS script](/src/scripts/index-subtitles.js).
+Relevant information gets written to a [JSON file](https://subtitlefiles.jerma.io/file/jerma-subtitles/Subtitles.json), which gets indexed and compressed using [this JS script](/src/scripts/index-subtitles.js).
 
 The Python script also supports downloading YouTube's auto-generated subtitles, and optionally only transcribing videos which don't have auto-generated subtitles available.
 
