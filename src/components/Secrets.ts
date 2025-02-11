@@ -129,6 +129,7 @@ export const Secrets = () => {
                     setTitle('OSMO');
 
                     elements.push(
+                        m('audio', { autoplay: true, src: '/assets/audio/OSMO.opus' }),
                         m('img#omoJam', { src: '/assets/images/omoJam.avif', alt: 'osmo from gongo jamming' }),
                         m('img#omoP', { src: '/assets/images/omoP.avif', alt: 'osmo from gongo looking happy' })
                     );
