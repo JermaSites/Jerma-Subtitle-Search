@@ -10,7 +10,7 @@ Oldest Video   : 2011-06-11
 Latest Video   : 2025-02-05
 ```
 
-Subtitles were obtained using [this Python script](/src/downloader/get_subtitles.py).
+Subtitles were obtained using [this Python script](/src/scripts/get_subtitles/get_subtitles.py).
 Audio gets downloaded with [yt-dlp](https://github.com/yt-dlp/yt-dlp), which gets transcribed using [WhisperX](https://github.com/m-bain/whisperX) (large-v3 model) and converted to [LRC](https://en.wikipedia.org/wiki/LRC_(file_format)) format  with [ffmpeg](https://github.com/FFmpeg/FFmpeg).
 
 Relevant information gets written to a [JSON file](https://subtitlefiles.jerma.io/file/jerma-subtitles/Subtitles.json), which gets indexed and compressed using [this JS script](/src/scripts/index-subtitles.js).
@@ -27,7 +27,7 @@ It hallucinated a lot, especially during sections with no speech.
 Timestamps were incorrect on some transcriptions, and the first timestamp would always start at zero seconds, which was normally wrong.
 It's also pretty slow, especially if you use some of the bigger models.
 
-Switching to WhisperX mostly solved the aforementioned problems.
+Switching to WhisperX _mostly_ solved the aforementioned problems.
 However, it's still far from perfect and does have some [limitations](https://github.com/m-bain/whisperX/tree/49161922461871e6732fbe1aeb20fc1d4cccc9df?tab=readme-ov-file#limitations-%EF%B8%8F).
 
 </details>
