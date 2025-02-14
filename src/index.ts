@@ -21,8 +21,9 @@ if ('serviceWorker' in navigator) {
 // #endregion
 
 // #region Subtitle Loading
-const loadFromServer: boolean = !(window.location.hostname === 'localhost');
-const subtitlesURL: string = loadFromServer ? 'https://subtitlefiles.jerma.io/file/jerma-subtitles/SubtitleIndex.json.gzip' : '/assets/SubtitleIndex.json.gzip';
+const subtitlesURL: string = window.location.hostname === 'localhost'
+    ? '/assets/SubtitleIndex.json.gzip'
+    : 'https://subtitlefiles.jerma.io/file/jerma-subtitles/SubtitleIndex.json.gzip';
 
 let loadingValue: number = 0;
 let loadingLimit: number = 1000;
