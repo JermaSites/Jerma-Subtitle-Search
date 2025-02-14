@@ -44,6 +44,7 @@ async function performSearch(query: string, signal: AbortSignal): Promise<Search
     const timeBeforeFilter = performance.now();
 
     queryRegex = new RegExp(
+        '(?<=[^\\d\\[:.])' +
         query
             .split(/\s+/)
             .map((word, wordIndex, words) => {
