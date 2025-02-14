@@ -266,12 +266,22 @@ export const ResultsGrid = () => {
                                                         e.redraw = false;
                                                         seekEmbed(result.id, second);
                                                     },
+                                                    oncontextmenu: (e: MouseEvent) => {
+                                                        e.preventDefault();
+                                                    },
                                                     onmouseup: (e: MouseEvent) => {
                                                         // @ts-ignore
                                                         e.redraw = false;
                                                         if (e.button === 1) {
                                                             e.preventDefault();
                                                             window.open(`https://www.youtube.com/watch?v=${result.id}&t=${second}s`, '_blank');
+                                                        } else if (e.button === 2) {
+                                                            e.preventDefault();
+                                                            navigator.clipboard.write([
+                                                                new ClipboardItem({
+                                                                    'text/plain': `https://www.youtube.com/watch?v=${result.id}&t=${second}s`
+                                                                })
+                                                            ]);
                                                         }
                                                     },
                                                     ontouchstart: (e: TouchEvent) => {
