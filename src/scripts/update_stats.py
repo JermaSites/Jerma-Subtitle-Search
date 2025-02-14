@@ -39,7 +39,7 @@ def update_readme_stats(readme_path: str, json_path: str):
     total_hours = total_duration_seconds // 3600
     total_minutes = (total_duration_seconds % 3600) // 60
     total_seconds = total_duration_seconds % 60
-    total_duration = f"{total_hours}:{total_minutes:02}:{total_seconds:02}"
+    total_duration = f'{total_hours}:{total_minutes:02}:{total_seconds:02}'
 
     upload_dates = [
         datetime.strptime(entry['upload_date'], '%Y-%m-%d')
@@ -50,29 +50,29 @@ def update_readme_stats(readme_path: str, json_path: str):
     latest_video = max(upload_dates).strftime('%Y-%m-%d') if upload_dates else 'N/A'
 
     stats_content = (
-        f"Video Count    : {video_count}\n"
-        f"Word Count     : {word_count:,}\n"
-        f"Duration       : {total_duration}\n"
-        f"Oldest Video   : {earliest_video}\n"
-        f"Latest Video   : {latest_video}\n"
+        f'Video Count    : {video_count}\n'
+        f'Word Count     : {word_count:,}\n'
+        f'Duration       : {total_duration}\n'
+        f'Oldest Video   : {earliest_video}\n'
+        f'Latest Video   : {latest_video}\n'
     )
 
     with open(readme_path, 'r', encoding='utf-8') as f:
         readme_content = f.read()
 
     readme_updated = re.sub(
-        r"(<!-- Statistics -->\s*```[^`\n]*\n).*?(```)",
-        rf"\g<1>{stats_content}\g<2>",
+        r'(<!-- Statistics -->\s*```[^`\n]*\n).*?(```)',
+        rf'\g<1>{stats_content}\g<2>',
         readme_content,
         flags=re.DOTALL
     )
 
-    if "<!-- Statistics -->" not in readme_updated:
+    if '<!-- Statistics -->' not in readme_updated:
         stats_section = (
-            "\n<!-- Statistics -->\n\n"
-            "```\n"
-            f"{stats_content}"
-            "```\n"
+            '\n<!-- Statistics -->\n\n'
+            '```\n'
+            f'{stats_content}'
+            '```\n'
         )
         readme_updated += stats_section
 
