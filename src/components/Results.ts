@@ -51,7 +51,7 @@ async function performSearch(query: string, signal: AbortSignal): Promise<Search
                 return chars
                     .map((char, charIndex) => {
                         if (wordIndex === words.length - 1 && charIndex === chars.length - 1) {
-                            return `${char}`;
+                            return char;
                         }
                         return `${char}[^\\[A-Za-z0-9]*`;
                     })
