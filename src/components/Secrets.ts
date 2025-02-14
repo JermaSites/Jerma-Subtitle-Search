@@ -3,15 +3,15 @@ import { seekEmbed } from './Results';
 import '../styles/Secrets.scss';
 
 export const Secrets = () => {
-    const buffyRegex = new RegExp(/buffy/, 'i');
-    const gongoRegex = new RegExp(/gongo/, 'i');
-    const minecraftRegex = new RegExp(/minecraft/, 'i');
-    const osmoRegex = new RegExp(/osmo/, 'i');
-    const picminRegex = new RegExp(/picmin|pikmin/, 'i');
-    const rickrollRegex = new RegExp(/rickroll/, 'i');
-    const scornRegex = new RegExp(/scorn/, 'i');
-    const sphynxRegex = new RegExp(/sphynx|spynx/, 'i');
-    const terrariaRegex = new RegExp(/andy|terraria/, 'i');
+    const buffyRegex = new RegExp(/\bbuffy\b/, 'i');
+    const gongoRegex = new RegExp(/\bgongo\b/, 'i');
+    const minecraftRegex = new RegExp(/\bminecraft\b/, 'i');
+    const osmoRegex = new RegExp(/\bosmo\b/, 'i');
+    const picminRegex = new RegExp(/\bpicmin|pikmin\b/, 'i');
+    const rickrollRegex = new RegExp(/\brickroll\b/, 'i');
+    const scornRegex = new RegExp(/\bscorn\b/, 'i');
+    const sphynxRegex = new RegExp(/\bsphynx|spynx\b/, 'i');
+    const terrariaRegex = new RegExp(/\bandy|terraria\b/, 'i');
     let backgroundVideoPlaying: boolean = false;
     let backgroundVideoPlayedThisSearch: boolean = false;
     let faviconChanged: boolean = false;
