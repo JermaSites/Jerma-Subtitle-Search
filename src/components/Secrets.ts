@@ -166,6 +166,7 @@ export const Secrets = () => {
                                 rickrollVideo.classList.remove('hidden');
                                 if (!backgroundVideoPlaying) {
                                     seekEmbed('dQw4w9WgXcQ', 0);
+                                    setFavicon('/assets/images/trollface.avif');
                                     backgroundVideoPlaying = true;
                                     backgroundVideoPlayedThisSearch = true;
                                 }
