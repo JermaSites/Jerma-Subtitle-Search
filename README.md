@@ -54,6 +54,14 @@ bun src/scripts/index-subtitles.js
 bun run dev
 ```
 
+#### Versioning
+
+Given a version number `MAJOR`**.**`MINOR`**.**`PATCH`, increment the:
+
+- `MAJOR` version when JS framework or searching library changes
+- `MINOR` version whenever it feels right idk
+- `PATCH` version when subtitles are added/edited
+
 <p align='center'>
     <picture>
         <img src='https://i.imgur.com/O8rbink.png' alt='jermaHeart Twitch Emote' width='56' height='56' />
