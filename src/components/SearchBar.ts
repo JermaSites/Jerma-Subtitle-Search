@@ -19,7 +19,7 @@ export const SearchBar = () => {
                     }
 
                     if (searchQuery !== previousQuery) {
-                        m.route.set('/:query', { query: searchQuery.replace(/\s/g, '-').replace(/\*$/g, '') });
+                        m.route.set('/:query', { query: searchQuery.replace(/\s/g, '-').replace(/^\*|\*$/g, '') });
                     }
                     previousQuery = searchQuery;
                 }
