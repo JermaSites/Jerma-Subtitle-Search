@@ -356,18 +356,46 @@ export const ResultsGrid = () => {
                     })
                 ]),
                 searchResults.length === 0 &&
-                    m('div#page-info', [
-                        m('section', [
-                            m('h2', 'Not finding what you\'re looking for?'),
-                            m('p', 'If your search contains numbers: try different combinations of writing them out/digitizing.'),
+                m('div#page-info', [
+                    m('section', [
+                        m('h2', 'Not finding what you\'re looking for?'),
+                        m('section#query-tips', [
+                            m('ul', [
+                                m('li', 'For numbers: try different combinations of typing out and digitizing.'),
+                                m('li', 'Substitute potential special characters with spaces or a wildcard (*).')
+                            ]),
                             m('p', [
-                                'For advanced use cases, you can interact with the underlying ',
+                                'Wildcard characters (*) match zero or more characters.',
+                                m('br'),
+                                'Spaces match non-alphanumeric characters.'
+                            ])
+                        ]),
+                        m('section#advanced-usage', [
+                            m('h3', 'Advanced Usage'),
+                            m('p', [
+                                'You can interact with the underlying ',
                                 m('a', { href: 'https://github.com/lucaong/minisearch' }, 'MiniSearch'),
-                                ' instance with your browser console. It\'s stored as a global variable named \'subtitles\'. For example: ',
+                                ' instance in your browser console.',
+                                m('br'),
+                                'It\'s accessible from a global variable called ',
+                                m('code', 'subtitles'),
+                                '.',
+                                m('br'),
+                                'For example: ',
                                 m('code', `subtitles.search(\'${searchQuery}\', { combineWith: 'OR', fuzzy: true })`)
+                            ]),
+                            m('p', [
+                                'The subtitle files are also downloadable if you\'d like to search through them externally.',
+                                m('br'),
+                                'Individual files are on ',
+                                m('a', { href: 'https://github.com/Bergbok/Jerma-Subtitle-Search/tree/main/src/assets/subtitles' }, 'GitHub'),
+                                ' and the bundled JSON is available ',
+                                m('a', { href: 'https://subtitlefiles.jerma.io/file/jerma-subtitles/Subtitles.json' }, 'here'),
+                                '.'
                             ])
                         ])
-                    ]),
+                    ])
+                ]),
                 m(Secrets, { query: vnode.attrs.query })
                 // m('div#page-end', [
                 //     m('h5', "You've reached the end")
