@@ -38,7 +38,7 @@ export const SearchBar = () => {
                     placeholder: 'Enter search query',
                     spellcheck: false,
                     type: 'text',
-                    value: searchQuery,
+                    value: searchQuery.replace(/^\*|\*$/g, ''),
                 }),
                 m('button', { type: 'submit' }, [
                     m('svg.icon#search-icon', { xmlns: 'http://www.w3.org/2000/svg', viewBox: '0 0 24 24', role: 'img', 'aria-label': 'search icon' }, [
