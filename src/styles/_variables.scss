@@ -117,7 +117,7 @@ $dark-blue-text: #ffffff;
     --header-text-color             : #{$dark-blue-text};
     --highlight-background-color    : #{color.scale($jerma-pink, $alpha: -40%)};
     --highlight-text-color          : #{$dark-blue-text};
-    --hyperlink-color               : #{$jerma-pink};
+    --hyperlink-color               : #{color.scale($jerma-pink, $lightness: 10%)};
     --icon-color                    : #c8c8c8;
     --icon-hover-color              : #{$jerma-pink};
     --inactive-theme-border-color   : #{color.scale($dark-blue-text, $alpha: -60%)};
