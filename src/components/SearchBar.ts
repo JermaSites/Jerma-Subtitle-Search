@@ -2,7 +2,7 @@ import m from 'mithril';
 import '../styles/SearchBar.scss';
 
 export const SearchBar = () => {
-    const illegalCharacters = new RegExp(/[^A-Za-z0-9 ]/, 'g');
+    const illegalCharacters = new RegExp(/[^A-Za-z0-9* ]/, 'g');
     let previousQuery = '';
     let searchQuery = (m.route.param('query') || '').replace(/-/g, ' ');
 
@@ -19,7 +19,7 @@ export const SearchBar = () => {
                     }
 
                     if (searchQuery !== previousQuery) {
-                        m.route.set('/:query', { query: searchQuery.replace(/\s/g, '-') });
+                        m.route.set('/:query', { query: searchQuery.replace(/\s/g, '-').replace(/\*$/g, '') });
                     }
                     previousQuery = searchQuery;
                 }

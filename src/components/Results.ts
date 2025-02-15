@@ -51,10 +51,11 @@ async function performSearch(query: string, signal: AbortSignal): Promise<Search
                 const chars = word.split('');
                 return chars
                     .map((char, charIndex) => {
-                        if (wordIndex === words.length - 1 && charIndex === chars.length - 1) {
-                            return char;
+                        const isLastCharOfLastTerm = wordIndex === words.length - 1 && charIndex === chars.length - 1;
+                        if (char === '*') {
+                            return isLastCharOfLastTerm ? '' : '.*?';
                         }
-                        return `${char}[^\\[A-Za-z0-9]*`;
+                        return isLastCharOfLastTerm ? char : `${char}[^\\[A-Za-z0-9]*?`;
                     })
                     .join('') + '(?:\\[[\\d:.]+\\])?';
             })
@@ -63,10 +64,12 @@ async function performSearch(query: string, signal: AbortSignal): Promise<Search
         'gi'
     );
 
+    // console.debug('Query regex:', queryRegex);
+
     if (signal.aborted) throw new DOMException('Search aborted', 'AbortError');
 
     const result: SearchResult[] = subtitles.search(query, {
-        combineWith: 'AND',
+        combineWith: query.includes('*') ? 'OR' : 'AND',
         fuzzy: false,
         filter: (entry) => {
             return queryRegex.test(entry.subtitles);
