@@ -42,6 +42,12 @@ Uses [Mithril](https://github.com/MithrilJS/mithril.js), [MiniSearch](https://gi
     </picture>
 </p>
 
+Primary mouse (tap on touchscreen) timestamps to open them in the embeds.  
+Middle mouse (hold on touchscreen) timestamps to open them in a new tab.  
+Secondary mouse timestamps to copy their link to the clipboard.
+
+Wildcard characters (*) can be used in searches to match zero or more of any character.
+
 #### Running Locally
 
 ```bash
