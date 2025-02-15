@@ -6,5 +6,8 @@
     "files.trimTrailingWhitespace": true,
     "[github-actions-workflow]": {
         "editor.tabSize": 2
-    }
+    },
+    "[markdown]": {
+        "files.trimTrailingWhitespace": false
+    },
 }
