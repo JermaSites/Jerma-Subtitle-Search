@@ -17,7 +17,6 @@ const subtitleIndex = new MiniSearch({
     searchOptions: { fields: ['subtitles'] },
     storeFields: ['id', 'title', 'duration', 'thumbnail', 'upload_date', 'stream_title', 'stream_date', 'subtitles'],
     tokenize: (string, _fieldName) => {
-        string = string.normalize('NFD');
         string = string.replace(timestampRegex, ' ');
         string = string.replace(charsToRemove, '');
         string = string.replace(charsToWhitespace, ' ');
