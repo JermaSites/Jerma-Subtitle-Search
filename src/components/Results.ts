@@ -72,6 +72,7 @@ async function performSearch(query: string, signal: AbortSignal): Promise<Search
         combineWith: query.includes('*') ? 'OR' : 'AND',
         fuzzy: false,
         filter: (entry) => {
+            queryRegex.lastIndex = 0;
             return queryRegex.test(entry.subtitles);
         }
     });
