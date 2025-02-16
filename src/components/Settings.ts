@@ -3,33 +3,18 @@ import '../styles/Settings.scss';
 
 document.addEventListener('DOMContentLoaded', () => {
     // #region Font
-    const storedFont = localStorage.getItem('font') || 'Courier New, monospace';
-    changeSetting('font', storedFont);
-
-    const checkedInput = document.querySelector(`input[value="${storedFont}"]`) as HTMLInputElement;
-    if (checkedInput) {
-        checkedInput.checked = true;
-    }
+    const font = localStorage.getItem('font') || 'Courier New, monospace';
+    changeSetting('font', font);
     // #endregion
 
     // #region Loading method
-    const synchronousLoadingCheckbox = document.getElementById('synchronous-loading') as HTMLInputElement | null;
-
-    let storedSyncLoadingPreference = localStorage.getItem('synchronous-loading');
-
-    if (!storedSyncLoadingPreference) {
-        localStorage.setItem('synchronous-loading', 'false');
-        storedSyncLoadingPreference = 'false';
-    }
-
-    if (synchronousLoadingCheckbox) {
-        synchronousLoadingCheckbox.checked = storedSyncLoadingPreference === 'true';
-    }
+    const syncLoadingPreference = localStorage.getItem('synchronous-loading') || 'false';
+    changeSetting('synchronous-loading', syncLoadingPreference);
     // #endregion
 
     // #region Theme
-    const storedTheme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
-    changeSetting('theme', storedTheme);
+    const theme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    changeSetting('theme', theme);
     // #endregion
 });
 
@@ -123,6 +108,7 @@ export const SettingsModal = () => {
                 m('div#general-settings', [
                     m('label', { for: 'synchronous-loading' }, [
                         m('input#synchronous-loading', {
+                            checked: localStorage.getItem('synchronous-loading') === 'true',
                             type: 'checkbox',
                             onchange: (e: Event) => {
                                 // @ts-ignore
@@ -138,7 +124,7 @@ export const SettingsModal = () => {
                 m('h3', 'Theme'),
                 m('div#theme-choice', [
                     themes.map(theme =>
-                        m(`button.circle#${theme}`, { onclick: () => changeSetting('theme', theme) })
+                        m(`button.circle${theme === localStorage.getItem('theme') ? '.selected' : ''}#${theme}`, { onclick: () => changeSetting('theme', theme) })
                     )
                 ]),
                 m('h3', 'Font'),
@@ -146,6 +132,7 @@ export const SettingsModal = () => {
                     fonts.map(font =>
                         m('label', { for: font.id }, [
                             m(`input#${font.id}`, {
+                                checked: font.value === localStorage.getItem('font'),
                                 type: 'radio',
                                 name: 'font',
                                 value: font.value,
