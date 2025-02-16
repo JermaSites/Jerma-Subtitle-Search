@@ -59,7 +59,10 @@ function changeSetting(setting: string, value: string): void {
     }
 };
 
-export function toggleSettingsModal(_e: Event) {
+export function toggleSettingsModal(e: Event) {
+    // @ts-ignore
+    e.redraw = false;
+
     function showSettingsModal(dialogElement: HTMLDialogElement) {
         if (!hasPreloadedFonts) {
             const fontURLs = [
@@ -126,6 +129,8 @@ export const SettingsModal = () => {
                         m('input#synchronous-loading', {
                             type: 'checkbox',
                             onchange: (e: Event) => {
+                                // @ts-ignore
+                                e.redraw = false;
                                 const target = e.target as HTMLInputElement;
                                 changeSetting('synchronous-loading', target.checked.toString());
                             }
@@ -148,6 +153,8 @@ export const SettingsModal = () => {
                                 name: 'font',
                                 value: font.value,
                                 onchange: (e: Event) => {
+                                    // @ts-ignore
+                                    e.redraw = false;
                                     const target = e.target as HTMLInputElement;
                                     if (target) {
                                         changeSetting('font', target.value);

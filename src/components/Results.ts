@@ -29,7 +29,6 @@ function formatTimestamp(timestamp: string): string {
 
 function toggleExpand(id: string) {
     expandState[id] = !expandState[id];
-    m.redraw();
 };
 
 async function performSearch(query: string, signal: AbortSignal): Promise<SearchResult[]> {
@@ -272,6 +271,8 @@ export const ResultsGrid = () => {
                                                         seekEmbed(result.id, second);
                                                     },
                                                     oncontextmenu: (e: MouseEvent) => {
+                                                        // @ts-ignore
+                                                        e.redraw = false;
                                                         e.preventDefault();
                                                     },
                                                     onmouseup: (e: MouseEvent) => {
