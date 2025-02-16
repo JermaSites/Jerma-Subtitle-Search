@@ -9,12 +9,16 @@
     caret-color: var(--form-caret-color);
     color: var(--dialog-text-color);
     font-size: 1.2rem;
-    padding: 1.5rem;
+    padding: 0;
     position: relative;
     width: clamp(20rem, 70%, 32rem);
 
     @media screen and (min-width: 768px) {
         font-size: 1.5rem;
+    }
+
+    .dialog-container {
+        padding: 1.5rem;
     }
 
     .setting-description {

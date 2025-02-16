@@ -99,93 +99,102 @@ export const SettingsModal = () => {
 
     return {
         view: () => {
-            return m('dialog#settings-dialog', [
-                m('button#close-button', { autofocus: true, onclick: toggleSettingsModal }, [
-                    m('svg.icon', { xmlns: 'http://www.w3.org/2000/svg', viewBox: '0 0 24 24', role: 'img', 'aria-label': 'close icon' }, [
-                        m('path', { d: 'M5.72 5.72a.75.75 0 0 1 1.06 0L12 10.94l5.22-5.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L13.06 12l5.22 5.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L12 13.06l-5.22 5.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L10.94 12 5.72 6.78a.75.75 0 0 1 0-1.06Z' })
-                    ])
-                ]),
-                m('h2', 'Settings'),
-                m('div#general-settings', [
-                    m('label', { for: 'synchronous-loading' }, [
-                        m('input#synchronous-loading', {
-                            checked: localStorage.getItem('synchronous-loading') === 'true',
-                            type: 'checkbox',
-                            onchange: (e: Event) => {
-                                // @ts-ignore
-                                e.redraw = false;
-                                const target = e.target as HTMLInputElement;
-                                changeSetting('synchronous-loading', target.checked.toString());
-                            }
-                        }),
-                        'Synchronous initial load',
-                        m('br'),
-                        m('small.setting-description', 'Speeds up \'Parsing subtitles\' phase significantly, but may briefly freeze.')
-                    ]),
-                    m('br'),
-                    m('label', { for: 'render-amount' }, [
-                        m('input#render-amount', {
-                            min: 0,
-                            step: 25,
-                            type: 'number',
-                            value: localStorage.getItem('render-amount') || (window.innerWidth <= 768 ? 100 : 200),
-                            onchange: (e: Event) => {
-                                const target = e.target as HTMLInputElement;
-                                let value = target.valueAsNumber;
-                                if (value < 25 && value !== 0) {
-                                    target.value = '25';
-                                } else if (value > 9000 && !over9000Played) {
-                                    const over9000 = document.createElement('audio');
-                                    over9000.setAttribute('autoplay', 'true');
-                                    over9000.setAttribute('src', '/assets/audio/IT\'S-OVER-9000.opus');
-                                    document.body.appendChild(over9000);
-                                    over9000Played = true;
-                                }
-                                changeSetting('render-amount', target.value);
-                            }
-                        }),
-                        `Render ${
-                            (() => {
-                                const renderAmount = localStorage.getItem('render-amount');
-                                return renderAmount === '0' ? 'all' : renderAmount;
-                            })()
-                        } results at once`,
-                        m('br'),
-                        m('small.setting-description', 'Enter 0 to load all.')
-                    ])
-                ]),
-                m('h3', 'Theme'),
-                m('div#theme-choice', [
-                    themes.map(theme =>
-                        m(`button.circle${theme === localStorage.getItem('theme') ? '.selected' : ''}#${theme}`, { onclick: () => changeSetting('theme', theme) })
-                    )
-                ]),
-                m('h3', 'Font'),
-                m('div#font-choice', [
-                    fonts.map(font =>
-                        m('label', { for: font.id }, [
-                            m(`input#${font.id}`, {
-                                checked: font.value === localStorage.getItem('font'),
-                                type: 'radio',
-                                name: 'font',
-                                value: font.value,
-                                onchange: (e: Event) => {
-                                    // @ts-ignore
-                                    e.redraw = false;
-                                    const target = e.target as HTMLInputElement;
-                                    if (target) {
-                                        changeSetting('font', target.value);
+            return m('dialog#settings-dialog', {
+                onclick: (e: MouseEvent) => {
+                    if (e.target === e.currentTarget) {
+                        (e.currentTarget as HTMLDialogElement).close();
+                    }
+                }},
+                [
+                    m('div.dialog-container', { onclick: (e: MouseEvent) => { e.stopPropagation(); } }, [
+                        m('button#close-button', { autofocus: true, onclick: toggleSettingsModal }, [
+                            m('svg.icon', { xmlns: 'http://www.w3.org/2000/svg', viewBox: '0 0 24 24', role: 'img', 'aria-label': 'close icon' }, [
+                                m('path', { d: 'M5.72 5.72a.75.75 0 0 1 1.06 0L12 10.94l5.22-5.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L13.06 12l5.22 5.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L12 13.06l-5.22 5.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L10.94 12 5.72 6.78a.75.75 0 0 1 0-1.06Z' })
+                            ])
+                        ]),
+                        m('h2', 'Settings'),
+                        m('div#general-settings', [
+                            m('label', { for: 'synchronous-loading' }, [
+                                m('input#synchronous-loading', {
+                                    checked: localStorage.getItem('synchronous-loading') === 'true',
+                                    type: 'checkbox',
+                                    onchange: (e: Event) => {
+                                        // @ts-ignore
+                                        e.redraw = false;
+                                        const target = e.target as HTMLInputElement;
+                                        changeSetting('synchronous-loading', target.checked.toString());
                                     }
-                                    if (target.value === 'Times New Roman, serif') {
-                                        window.open('https://www.youtube.com/watch?v=73gGwGI8Z7E&t=139s', '_blank');
+                                }),
+                                'Synchronous initial load',
+                                m('br'),
+                                m('small.setting-description', 'Speeds up \'Parsing subtitles\' phase significantly, but may briefly freeze.')
+                            ]),
+                            m('br'),
+                            m('label', { for: 'render-amount' }, [
+                                m('input#render-amount', {
+                                    min: 0,
+                                    step: 25,
+                                    type: 'number',
+                                    value: localStorage.getItem('render-amount') || (window.innerWidth <= 768 ? 100 : 200),
+                                    onchange: (e: Event) => {
+                                        const target = e.target as HTMLInputElement;
+                                        let value = target.valueAsNumber;
+                                        if (value < 25 && value !== 0) {
+                                            target.value = '25';
+                                        } else if (value > 9000 && !over9000Played) {
+                                            const over9000 = document.createElement('audio');
+                                            over9000.setAttribute('autoplay', 'true');
+                                            over9000.setAttribute('src', '/assets/audio/IT\'S-OVER-9000.opus');
+                                            document.body.appendChild(over9000);
+                                            over9000Played = true;
+                                        }
+                                        changeSetting('render-amount', target.value);
                                     }
-                                }
-                            }),
-                            font.name
+                                }),
+                                `Render ${
+                                    (() => {
+                                        const renderAmount = localStorage.getItem('render-amount');
+                                        return renderAmount === '0' ? 'all' : renderAmount;
+                                    })()
+                                } results at once`,
+                                m('br'),
+                                m('small.setting-description', 'Enter 0 to load all.')
+                            ])
+                        ]),
+                        m('h3', 'Theme'),
+                        m('div#theme-choice', [
+                            themes.map(theme =>
+                                m(`button.circle${theme === localStorage.getItem('theme') ? '.selected' : ''}#${theme}`, { onclick: () => changeSetting('theme', theme) })
+                            )
+                        ]),
+                        m('h3', 'Font'),
+                        m('div#font-choice', [
+                            fonts.map(font =>
+                                m('label', { for: font.id }, [
+                                    m(`input#${font.id}`, {
+                                        checked: font.value === localStorage.getItem('font'),
+                                        type: 'radio',
+                                        name: 'font',
+                                        value: font.value,
+                                        onchange: (e: Event) => {
+                                            // @ts-ignore
+                                            e.redraw = false;
+                                            const target = e.target as HTMLInputElement;
+                                            if (target) {
+                                                changeSetting('font', target.value);
+                                            }
+                                            if (target.value === 'Times New Roman, serif') {
+                                                window.open('https://www.youtube.com/watch?v=73gGwGI8Z7E&t=139s', '_blank');
+                                            }
+                                        }
+                                    }),
+                                    font.name
+                                ])
+                            )
                         ])
-                    )
-                ])
-            ]);
+                    ])
+                ]
+            );
         }
     };
 };
