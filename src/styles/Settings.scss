@@ -11,6 +11,13 @@
     position: relative;
     width: clamp(20rem, 50%, 30rem);
 
+    .setting-description {
+        display: block;
+        font-size: 0.9rem;
+        opacity: 0.69;
+        padding-top: 0.5rem;
+    }
+
     #close-button {
         background: none;
         border: none;

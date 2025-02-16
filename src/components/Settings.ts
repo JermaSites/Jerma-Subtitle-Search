@@ -135,8 +135,9 @@ export const SettingsModal = () => {
                                 changeSetting('synchronous-loading', target.checked.toString());
                             }
                         }),
-                        'Synchronous loading (much faster but might briefly freeze)'
-                    ]),
+                        'Synchronous initial load',
+                        m('br'),
+                        m('small.setting-description', 'Speeds up \'Parsing subtitles\' phase significantly, but may briefly freeze.')
                 ]),
                 m('h3', 'Theme'),
                 m('div#theme-choice', [
