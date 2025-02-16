@@ -36,17 +36,13 @@ document.addEventListener('DOMContentLoaded', () => {
 let hasPreloadedFonts: boolean = false;
 
 function changeSetting(setting: string, value: string): void {
+    localStorage.setItem(setting, value);
+
     switch (setting) {
         case 'font':
-            localStorage.setItem('font', value);
             document.documentElement.style.setProperty('--fonts', value);
             break;
-        case 'synchronous-loading':
-            localStorage.setItem('synchronous-loading', value);
-            break;
         case 'theme':
-            localStorage.setItem('theme', value);
-
             document.documentElement.setAttribute('data-theme', value);
 
             document.querySelectorAll('.theme-choice button').forEach(element => element.classList.remove('selected'));
