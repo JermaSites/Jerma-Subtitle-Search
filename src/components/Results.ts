@@ -102,7 +102,6 @@ export async function seekEmbed(videoID: string, second: number) {
 
 export const ResultsGrid = () => {
     const contextLevel = 1;
-    const itemsPerPage = window.innerWidth <= 768 ? 20 : 100;
     const timestampRegex = new RegExp(/\[[\d:.]+\]/, 'g');
     let contextStart: number;
     let contextEnd: number;
@@ -111,6 +110,7 @@ export const ResultsGrid = () => {
     let hasSearched: boolean = false;
     let observedResultItem: Element | null = null;
     let previousQuery: string;
+    let resultsPerPage: number;
     let searchQuery: string;
     let searchResults: SearchResult[] = [];
     let visibleResults: SearchResult[] = [];
@@ -139,7 +139,7 @@ export const ResultsGrid = () => {
     let paginationObserver = new IntersectionObserver(
         (entries: IntersectionObserverEntry[]) => {
             const lastResultItem = entries[0];
-            if (!lastResultItem.isIntersecting || searchResults.length <= currentPage * itemsPerPage) return;
+            if (!lastResultItem.isIntersecting || searchResults.length <= currentPage * resultsPerPage) return;
             currentPage++;
             m.redraw();
         },
@@ -180,7 +180,13 @@ export const ResultsGrid = () => {
                 return;
             }
 
-            visibleResults = searchResults.slice(0, currentPage * itemsPerPage);
+            resultsPerPage = parseInt(localStorage.getItem('render-amount') || (window.innerWidth <= 768 ? '100' : '200'));
+
+            if (resultsPerPage === 0) {
+                visibleResults = searchResults;
+            } else {
+                visibleResults = searchResults.slice(0, currentPage * resultsPerPage);
+            }
 
             return m('div#results', [
                 m('h1', `Results for "${searchQuery}"`),

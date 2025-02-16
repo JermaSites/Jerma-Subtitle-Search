@@ -12,6 +12,11 @@ document.addEventListener('DOMContentLoaded', () => {
     changeSetting('synchronous-loading', syncLoadingPreference);
     // #endregion
 
+    // #region Render amount
+    const renderAmount = localStorage.getItem('render-amount') || (window.innerWidth <= 768 ? '100' : '200');
+    changeSetting('render-amount', renderAmount);
+    // #endregion
+
     // #region Theme
     const theme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
     changeSetting('theme', theme);
@@ -120,6 +125,32 @@ export const SettingsModal = () => {
                         'Synchronous initial load',
                         m('br'),
                         m('small.setting-description', 'Speeds up \'Parsing subtitles\' phase significantly, but may briefly freeze.')
+                    ]),
+                    m('br'),
+                    m('label', { for: 'render-amount' }, [
+                        m('input#render-amount', {
+                            min: 0,
+                            step: 25,
+                            type: 'number',
+                            value: localStorage.getItem('render-amount') || (window.innerWidth <= 768 ? 100 : 200),
+                            onchange: (e: Event) => {
+                                const target = e.target as HTMLInputElement;
+                                let value = target.valueAsNumber;
+                                if (value < 25 && value !== 0) {
+                                    target.value = '25';
+                                }
+                                changeSetting('render-amount', target.value);
+                            }
+                        }),
+                        `Render ${
+                            (() => {
+                                const renderAmount = localStorage.getItem('render-amount');
+                                return renderAmount === '0' ? 'all' : renderAmount;
+                            })()
+                        } results at once`,
+                        m('br'),
+                        m('small.setting-description', 'Enter 0 to load all.')
+                    ])
                 ]),
                 m('h3', 'Theme'),
                 m('div#theme-choice', [
