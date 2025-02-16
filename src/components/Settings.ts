@@ -84,6 +84,8 @@ export function toggleSettingsModal(e: Event) {
 };
 
 export const SettingsModal = () => {
+    let over9000Played: boolean = false;
+
     const themes = [
         'light',
         'dark',
@@ -138,6 +140,12 @@ export const SettingsModal = () => {
                                 let value = target.valueAsNumber;
                                 if (value < 25 && value !== 0) {
                                     target.value = '25';
+                                } else if (value > 9000 && !over9000Played) {
+                                    const over9000 = document.createElement('audio');
+                                    over9000.setAttribute('autoplay', 'true');
+                                    over9000.setAttribute('src', '/assets/audio/IT\'S-OVER-9000.opus');
+                                    document.body.appendChild(over9000);
+                                    over9000Played = true;
                                 }
                                 changeSetting('render-amount', target.value);
                             }
