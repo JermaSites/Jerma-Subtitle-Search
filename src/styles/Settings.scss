@@ -1,19 +1,25 @@
 @use './_variables.scss' as *;
 
 #settings-dialog {
+    accent-color: var(--form-accent-color);
     background-color: var(--modal-background-color);
     border-radius: 8px;
-    border: none;
+    border: 1px solid var(--form-border-color);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    caret-color: var(--form-caret-color);
     color: var(--dialog-text-color);
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     padding: 1.5rem;
     position: relative;
-    width: clamp(20rem, 50%, 30rem);
+    width: clamp(20rem, 70%, 32rem);
+
+    @media screen and (min-width: 768px) {
+        font-size: 1.5rem;
+    }
 
     .setting-description {
         display: block;
-        font-size: 0.9rem;
+        font-size: 1rem;
         opacity: 0.69;
         padding-top: 0.5rem;
     }
@@ -36,18 +42,24 @@
     }
 
     #general-settings {
-        accent-color: var(--form-accent-color);
+        input {
+            color: var(--input-text-color);
+            background-color: var(--input-background-color);
+            border: 1px solid var(--form-border-color);
+            border-radius: 0.25rem;
+            padding: 0.125rem;
 
-        input[type='checkbox'] {
-            height: 1.125rem;
-            width: 3.125rem;
-            margin-right: 0.5rem;
-        }
+            &[type='checkbox'] {
+                height: 1.125rem;
+                width: 3.125rem;
+                margin-right: 0.5rem;
+            }
 
-        input[type='number'] {
-            height: 1.125rem;
-            width: 3.125rem;
-            margin-right: 0.5rem;
+            &[type='number'] {
+                height: 1.125rem;
+                width: 3.125rem;
+                margin-right: 0.5rem;
+            }
         }
     }
 
@@ -88,7 +100,6 @@
     }
 
     #font-choice {
-        accent-color: var(--form-accent-color);
         display: grid;
         gap: 0.5rem;
         grid-template-columns: 1fr;
