@@ -27,10 +27,6 @@ function formatTimestamp(timestamp: string): string {
     return `${pad(hours)}:${pad(mins)}:${pad(secs)}`;
 };
 
-function toggleExpand(id: string) {
-    expandState[id] = !expandState[id];
-};
-
 async function performSearch(query: string, signal: AbortSignal): Promise<SearchResult[]> {
     while (!subtitlesLoaded) {
         if (signal.aborted) throw new DOMException('Search aborted', 'AbortError');
@@ -349,7 +345,7 @@ export const ResultsGrid = () => {
                                 })
                             ),
                             matches.length > 3 &&
-                                m('button.show-more', { onclick: () => toggleExpand(result.id) }, [
+                                m('button.show-more', { onclick: () => expandState[result.id] = !expandState[result.id] }, [
                                     isExpanded ?
                                         m('svg.icon', { xmlns: 'http://www.w3.org/2000/svg', viewBox: '0 0 24 24', role: 'img', 'aria-label': 'upwards chevron' }, [
                                             m('path', { d: 'M18.78 15.78a.749.749 0 0 1-1.06 0L12 10.061 6.28 15.78a.749.749 0 1 1-1.06-1.06l6.25-6.25a.749.749 0 0 1 1.06 0l6.25 6.25a.749.749 0 0 1 0 1.06Z' })
