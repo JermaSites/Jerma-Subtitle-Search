@@ -2,25 +2,19 @@ import m from 'mithril';
 import '../styles/Settings.scss';
 
 document.addEventListener('DOMContentLoaded', () => {
-    // #region Font
+    if (!localStorage.getItem('synchronous-loading')) {
+        changeSetting('synchronous-loading', 'false');
+    }
+
+    if (!localStorage.getItem('render-amount')) {
+        changeSetting('render-amount', window.innerWidth <= 768 ? '100' : '200');
+    }
+
     const font = localStorage.getItem('font') || 'Courier New, monospace';
     changeSetting('font', font);
-    // #endregion
 
-    // #region Loading method
-    const syncLoadingPreference = localStorage.getItem('synchronous-loading') || 'false';
-    changeSetting('synchronous-loading', syncLoadingPreference);
-    // #endregion
-
-    // #region Render amount
-    const renderAmount = localStorage.getItem('render-amount') || (window.innerWidth <= 768 ? '100' : '200');
-    changeSetting('render-amount', renderAmount);
-    // #endregion
-
-    // #region Theme
     const theme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
     changeSetting('theme', theme);
-    // #endregion
 });
 
 let hasPreloadedFonts: boolean = false;
