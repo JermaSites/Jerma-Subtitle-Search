@@ -128,7 +128,7 @@ const Page = () => {
             return [
                 m(Header),
                 m('div#page-container', [
-                    m(SearchBar),
+                    m(SearchBar, { query: searchQuery }),
                     !subtitlesLoaded && m(ProgressSpinner, { value: loadingValue, limit: loadingLimit, phase: loadingState }),
                     (!searchQuery || !subtitlesLoaded) &&
                         m('div#page-info', [

@@ -1,13 +1,14 @@
-import m from 'mithril';
+import m, { type Vnode } from 'mithril';
 import '../styles/SearchBar.scss';
 
 export const SearchBar = () => {
     const illegalCharacters = new RegExp(/[^A-Za-z0-9* ]/, 'g');
     let previousQuery = '';
-    let searchQuery = (m.route.param('query') || '').replace(/-/g, ' ');
 
     return {
-        view: () => {
+        view: (vnode: Vnode<{ query: string }>) => {
+            let searchQuery = vnode.attrs.query;
+
             return m('form#search-bar', {
                 onsubmit: function (e: Event) {
                     // @ts-ignore
