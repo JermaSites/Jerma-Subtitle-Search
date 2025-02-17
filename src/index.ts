@@ -125,7 +125,7 @@ const Page = () => {
     return {
         view: () => {
             const searchQuery = m.route.param('query')
-                ? m.route.param('query').replace(/-/g, ' ').trim().replace(/^[*-]+|[*-]+$/g, '')
+                ? m.route.param('query').replace(/-/g, ' ').trim().replace(/^[* ]+|[* ]+$/g, '')
                 : '';
             return [
                 m(Header),

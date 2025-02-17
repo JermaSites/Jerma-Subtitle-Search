@@ -3,7 +3,7 @@ import '../styles/SearchBar.scss';
 
 export const SearchBar = () => {
     const illegalInputsRegex = new RegExp(/[^A-Za-z0-9* ]/, 'g');
-    const illegalSubmitRegex = new RegExp(/^\*+|\*+$/, 'g');
+    const illegalSubmitRegex = new RegExp(/^[* ]+|[* ]+$/, 'g');
     let previousQuery = '';
 
     return {
@@ -19,7 +19,7 @@ export const SearchBar = () => {
                     }
 
                     if (searchQuery !== previousQuery) {
-                        m.route.set('/:query', { query: searchQuery.trim().replace(/\s/g, '-').replace(illegalSubmitRegex, '') });
+                        m.route.set('/:query', { query: searchQuery.trim().replace(illegalSubmitRegex, '').replace(/\s/g, '-') });
                         previousQuery = searchQuery;
                     }
                 }
