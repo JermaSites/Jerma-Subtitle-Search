@@ -2,7 +2,8 @@ import m, { type Vnode } from 'mithril';
 import '../styles/SearchBar.scss';
 
 export const SearchBar = () => {
-    const illegalCharacters = new RegExp(/[^A-Za-z0-9* ]/, 'g');
+    const illegalInputsRegex = new RegExp(/[^A-Za-z0-9* ]/, 'g');
+    const illegalSubmitRegex = new RegExp(/^\*+|\*+$/, 'g');
     let previousQuery = '';
 
     return {
@@ -11,8 +12,6 @@ export const SearchBar = () => {
 
             return m('form#search-bar', {
                 onsubmit: function (e: Event) {
-                    // @ts-ignore
-                    e.redraw = false;
                     e.preventDefault();
 
                     if (searchQuery === '') {
@@ -20,11 +19,12 @@ export const SearchBar = () => {
                     }
 
                     if (searchQuery !== previousQuery) {
-                        m.route.set('/:query', { query: searchQuery.replace(/\s/g, '-').replace(/^\*|\*$/g, '') });
+                        m.route.set('/:query', { query: searchQuery.trim().replace(/\s/g, '-').replace(illegalSubmitRegex, '') });
+                        previousQuery = searchQuery;
                     }
-                    previousQuery = searchQuery;
                 }
-            }, [
+            },
+            [
                 m('input', {
                     autofocus: true,
                     name: 'searchQuery',
@@ -32,14 +32,14 @@ export const SearchBar = () => {
                         // @ts-ignore
                         e.redraw = false;
 
-                        const inputValue = (e.target as HTMLInputElement).value.replace(illegalCharacters, '');
+                        const inputValue = (e.target as HTMLInputElement).value.replace(illegalInputsRegex, '');
                         (e.target as HTMLInputElement).value = inputValue;
                         searchQuery = inputValue;
                     },
                     placeholder: 'Enter search query',
                     spellcheck: false,
                     type: 'text',
-                    value: searchQuery.replace(/^\*|\*$/g, ''),
+                    value: searchQuery
                 }),
                 m('button', { type: 'submit' }, [
                     m('svg.icon#search-icon', { xmlns: 'http://www.w3.org/2000/svg', viewBox: '0 0 24 24', role: 'img', 'aria-label': 'search icon' }, [

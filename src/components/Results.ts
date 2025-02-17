@@ -165,7 +165,7 @@ export const ResultsGrid = () => {
             }
 
             if (vnode.attrs.query !== previousQuery) {
-                searchQuery = vnode.attrs.query.replace(/-/g, ' ');
+                searchQuery = vnode.attrs.query;
                 currentPage = 1;
                 debouncedSearch(searchQuery);
             }

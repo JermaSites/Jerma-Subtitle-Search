@@ -124,7 +124,7 @@ loadSubtitles(subtitlesURL).catch(e => {
 const Page = () => {
     return {
         view: () => {
-            const searchQuery = m.route.param('query');
+            const searchQuery = m.route.param('query').replace(/-/g, ' ').trim().replace(/^[*-]+|[*-]+$/g, '');
             return [
                 m(Header),
                 m('div#page-container', [
