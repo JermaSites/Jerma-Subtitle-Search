@@ -4,6 +4,7 @@ import '../styles/SearchBar.scss';
 export const SearchBar = () => {
     const illegalInputsRegex = new RegExp(/[^A-Za-z0-9* ]/, 'g');
     const illegalSubmitRegex = new RegExp(/^[* ]+|[* ]+$/, 'g');
+    const wildcardCollapseRegex = new RegExp(/[*-]*\*[*-]*/g, 'g');
     let previousQuery = '';
 
     function setRoute(query: string) {
@@ -12,7 +13,7 @@ export const SearchBar = () => {
         }
 
         if (query !== previousQuery) {
-            m.route.set('/:query', { query: query.replace(illegalSubmitRegex, '').replace(/\s+/g, '-') });
+            m.route.set('/:query', { query: query.replace(illegalSubmitRegex, '').replace(/\s+/g, '-').replace(wildcardCollapseRegex, '*') });
             previousQuery = query;
         }
     }
