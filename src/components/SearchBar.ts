@@ -12,6 +12,8 @@ export const SearchBar = () => {
 
             return m('form#search-bar', {
                 onsubmit: function (e: Event) {
+                    // @ts-ignore
+                    e.redraw = false;
                     e.preventDefault();
 
                     if (searchQuery === '') {
