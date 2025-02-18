@@ -309,10 +309,12 @@ export const ResultsGrid = () => {
                                                 (() => {
                                                     let offset = 0;
                                                     const indices: { start: number; end: number }[] = [];
+                                                    const lowerText = text.toLowerCase();
 
                                                     highlights.forEach((h: string) => {
+                                                        const lowerHighlight = h.toLowerCase();
                                                         let pos = 0;
-                                                        while ((pos = text.indexOf(h, pos)) !== -1) {
+                                                        while ((pos = lowerText.indexOf(lowerHighlight, pos)) !== -1) {
                                                             indices.push({ start: pos, end: pos + h.length });
                                                             pos += h.length;
                                                         }
