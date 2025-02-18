@@ -6,7 +6,21 @@ export const SearchBar = () => {
     const illegalSubmitRegex = new RegExp(/^[* ]+|[* ]+$/, 'g');
     let previousQuery = '';
 
+    function setRoute(query: string) {
+        if (query === '') {
+            m.route.set('/');
+        }
+
+        if (query !== previousQuery) {
+            m.route.set('/:query', { query: query.replace(illegalSubmitRegex, '').replace(/\s+/g, '-') });
+            previousQuery = query;
+        }
+    }
+
     return {
+        oninit: (vnode: Vnode<{ query: string }>) => {
+            setRoute(vnode.attrs.query);
+        },
         view: (vnode: Vnode<{ query: string }>) => {
             let searchQuery = vnode.attrs.query;
 
@@ -16,14 +30,7 @@ export const SearchBar = () => {
                     e.redraw = false;
                     e.preventDefault();
 
-                    if (searchQuery === '') {
-                        m.route.set('/');
-                    }
-
-                    if (searchQuery !== previousQuery) {
-                        m.route.set('/:query', { query: searchQuery.trim().replace(illegalSubmitRegex, '').replace(/\s/g, '-') });
-                        previousQuery = searchQuery;
-                    }
+                    setRoute(searchQuery);
                 }
             },
             [
