@@ -16,7 +16,7 @@ class Hallucination:
         self.reason = reason
 
     def __str__(self):
-        return f'{self.reason}: {self.filename} on line {self.line_number} at second {self.second}'
+        return f'{self.reason}: {self.filename} at second {self.second}'
 
 def detect_hallucinations(directory: str, json_path: str, ignored_log: str):
     hallucinations = []
