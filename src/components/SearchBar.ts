@@ -17,7 +17,7 @@ export const SearchBar = () => {
             const processedQuery = query.replace(illegalSubmitRegex, '').replace(/\s+/g, '-').replace(wildcardCollapseRegex, '*');
             m.route.set('/:query', { query: processedQuery });
             previousQuery = query;
-            return processedQuery.replace('-', ' ');
+            return processedQuery.replace(/-/g, ' ');
         }
 
         return query;
