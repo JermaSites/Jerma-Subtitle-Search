@@ -5,33 +5,37 @@ export const SearchBar = () => {
     const illegalInputsRegex = new RegExp(/[^A-Za-z0-9* ]/, 'g');
     const illegalSubmitRegex = new RegExp(/^[* ]+|[* ]+$/, 'g');
     const wildcardCollapseRegex = new RegExp(/[*-]*\*[*-]*/g, 'g');
-    let previousQuery = '';
+    let previousQuery: string;
+    let searchQuery: string;
 
-    function setRoute(query: string) {
+    function setRoute(query: string): string {
         if (query === '') {
             m.route.set('/');
         }
 
         if (query !== previousQuery) {
-            m.route.set('/:query', { query: query.replace(illegalSubmitRegex, '').replace(/\s+/g, '-').replace(wildcardCollapseRegex, '*') });
+            const processedQuery = query.replace(illegalSubmitRegex, '').replace(/\s+/g, '-').replace(wildcardCollapseRegex, '*');
+            m.route.set('/:query', { query: processedQuery });
             previousQuery = query;
+            return processedQuery.replace('-', ' ');
         }
+
+        return query;
     }
 
     return {
         oninit: (vnode: Vnode<{ query: string }>) => {
-            setRoute(vnode.attrs.query);
+            searchQuery = vnode.attrs.query;
+            searchQuery = setRoute(searchQuery);
         },
-        view: (vnode: Vnode<{ query: string }>) => {
-            let searchQuery = vnode.attrs.query;
-
+        view: () => {
             return m('form#search-bar', {
                 onsubmit: function (e: Event) {
                     // @ts-ignore
                     e.redraw = false;
                     e.preventDefault();
 
-                    setRoute(searchQuery);
+                    searchQuery = setRoute(searchQuery);
                 }
             },
             [
