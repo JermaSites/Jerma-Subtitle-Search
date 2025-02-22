@@ -104,6 +104,7 @@ export const ResultsGrid = () => {
     let currentPage: number = 1;
     let currentSearchController: AbortController | null = null;
     let hasSearched: boolean = false;
+    let matchCount: number;
     let observedResultItem: Element | null = null;
     let previousQuery: string;
     let resultsPerPage: number;
@@ -158,6 +159,11 @@ export const ResultsGrid = () => {
                     observedResultItem = lastResultItem;
                 }
             }
+
+            const resultCountElement = document.querySelector('#results > h2');
+            if (resultCountElement) {
+                resultCountElement.textContent = `Found ${matchCount} matches across ${searchResults.length} videos`;
+            }
         },
         view: (vnode: Vnode<{ query: string }>) => {
             if (!vnode.attrs.query || !subtitlesLoaded) {
@@ -184,9 +190,11 @@ export const ResultsGrid = () => {
                 visibleResults = searchResults.slice(0, currentPage * resultsPerPage);
             }
 
+            matchCount = 0;
+
             return m('div#results', [
                 m('h1', `Results for "${searchQuery}"`),
-                m('h2', `Found matches in ${searchResults.length} videos`),
+                m('h2'),
                 m('ul#results-list', [
                     visibleResults.map((result) => {
                         let match: RegExpExecArray | null;
@@ -196,6 +204,7 @@ export const ResultsGrid = () => {
 
                         while (match = queryRegex.exec(result.subtitles)) {
                             matches.push({ index: match.index, match: match[0] });
+                            matchCount++;
                         }
 
                         if (matches.length === 0) return;
