@@ -215,7 +215,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(formatter_class=ArgumentDefaultsHelpFormatter, description='Downloads/generates subtitles for a set of URLs in .lrc format using yt-dlp, WhisperX and ffmpeg. Requires ffmpeg to be installed and available on path for subtitle format conversion. Requires cuBLAS and cuDNN for WhisperX GPU execution (see: https://github.com/m-bain/whisperX#setup-%EF%B8%8F)')
     parser.add_argument('--urls', type=str, nargs='+', default=[
         # 'https://youtube.com/channel/UCK3kaNXbB57CLcyhtccV_yw',                       # Jerma985 channel
-        'https://youtube.com/playlist?list=PLd4kmFVnghOiWHL8EStIzMXwySWm-7K1f',         # Jerma Streams in Chronological Order
+        # 'https://youtube.com/playlist?list=PLd4kmFVnghOiWHL8EStIzMXwySWm-7K1f',       # Jerma Streams in Chronological Order
         'https://youtube.com/playlist?list=PLLZVyAYonIO5Wlrf5-i8iXKmWYl6h0yx9',         # More Jerma content, by me (create an issue if you'd like me to add videos)
         'https://youtube.com/playlist?list=PLiwPsPm4ewgv5dPbkSRBzjJ4SjAOXXxZH',         # Jerma animations by Corax
         'https://youtube.com/playlist?list=PL9wV0Fmo7N_g5X64TzZUY-eQyoZ4xvAf2',         # JermAnimated playlist on 2ndJerma
