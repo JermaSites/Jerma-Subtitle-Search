@@ -91,6 +91,9 @@ jobs:
             git commit -m "chore: add subtitles for $new_entry"
           done
 
+          git add src/scripts/get_subtitles/refined_subtitles.txt
+          git commit -m 'chore: update refined subtitles logs'
+
           git add src/scripts/get_subtitles/downloaded.txt
           git add src/scripts/get_subtitles/unavailable_videos.txt
           if [ -f src/scripts/get_subtitles/videos_with_no_subs.txt ]; then
