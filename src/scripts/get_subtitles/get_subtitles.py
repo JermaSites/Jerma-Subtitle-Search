@@ -169,7 +169,7 @@ def rename_files(subs_path: str):
                 os.remove(dest_path)
             os.rename(src_path, dest_path)
 
-def fix_subtitles(subs_path: str):
+def refine_subtitles(subs_path: str):
     timestamp_pattern = re.compile(r'^(\[\d+:\d+(?:\.\d+)?\])\s*(.*)$')
 
     for filename in os.listdir(subs_path):
@@ -236,6 +236,6 @@ if __name__ == '__main__':
     print('\nRenaming files...')
     rename_files(args.subs_path)
     print('\nFixing subtitles...')
-    fix_subtitles(args.subs_path)
+    refine_subtitles(args.subs_path)
     print('\nWriting JSON...')
     write_json(args.subs_path, args.json_path)
