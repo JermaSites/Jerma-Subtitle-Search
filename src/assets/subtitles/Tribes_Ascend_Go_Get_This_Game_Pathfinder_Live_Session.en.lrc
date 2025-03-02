@@ -23,7 +23,7 @@
 [01:47.42]So if you look at the top part of the screen, there'll be two numbers, our team and their team,
 [01:51.36]That's going to represent the amount of lives we both have.
 [01:54.61]So if I die and the enemy team does not have the flag, it's minus one point on our side.
-[02:00.63]If I die and the enemy team has the flag, it's minus two points on our side.
+[02:00.63]If I die and the enemy team has the flag, it's -2 points on our side.
 [02:04.79]So you can see how flag control is really important, at least for this game mode.
 [02:09.79]It is for the next one, too.
 [02:11.35]But I'll let the live commentary kick in now.
