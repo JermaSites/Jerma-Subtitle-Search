@@ -152,7 +152,8 @@ def rename_files(subs_path: str):
     seperator_pattern = re.compile(r'[-+_]+')
     suffix_pattern = re.compile(r'(?:_with_Chat)?(?:_v\d+)?(?=\.)', flags=re.IGNORECASE)
     year_pattern = re.compile(r'(?=\d)0_s')
-    _s_pattern = re.compile(r'_s(?=[_.])', flags=re.IGNORECASE)
+    _s_pattern = re.compile(r'_s(?=[_.])')
+    _S_pattern = re.compile(r'_S(?=[_.])')
 
     for filename in os.listdir(subs_path):
         new_filename = prefix_pattern.sub('', filename)
@@ -160,6 +161,7 @@ def rename_files(subs_path: str):
         new_filename = seperator_pattern.sub('_', new_filename)
         new_filename = year_pattern.sub('0s', new_filename)
         new_filename = _s_pattern.sub('s', new_filename)
+        new_filename = _S_pattern.sub('S', new_filename)
         new_filename = new_filename.replace('You_re', 'Youre')
         if new_filename != filename:
             print(f'Renamed {filename} -> {new_filename}')
