@@ -331,14 +331,24 @@ export const ResultsGrid = () => {
 
                                                     indices.sort((a, b) => a.start - b.start);
 
+                                                    const mergedIndices = indices.reduce((merged, current) => {
+                                                        if (merged.length === 0 || current.start > merged[merged.length - 1].end) {
+                                                            merged.push(current);
+                                                        } else {
+                                                            merged[merged.length - 1].end = Math.max(merged[merged.length - 1].end, current.end);
+                                                        }
+                                                        return merged;
+                                                    }, [] as { start: number; end: number }[]);
+
                                                     const fragments: (m.Vnode | string)[] = [];
-                                                    indices.forEach(({ start, end }) => {
+                                                    mergedIndices.forEach(({ start, end }) => {
                                                         if (start > offset) {
                                                             fragments.push(text.slice(offset, start));
                                                         }
                                                         fragments.push(m('mark', text.slice(start, end)));
                                                         offset = end;
                                                     });
+
                                                     if (offset < text.length) {
                                                         fragments.push(text.slice(offset));
                                                     }
