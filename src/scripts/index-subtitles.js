@@ -15,13 +15,13 @@ const subtitleIndex = new MiniSearch({
     fields: ['subtitles'],
     idField: 'id',
     searchOptions: { fields: ['subtitles'] },
-    storeFields: ['id', 'title', 'duration', 'thumbnail', 'upload_date', 'stream_title', 'stream_date', 'subtitles'],
+    storeFields: ['id', 'title', 'duration', 'thumbnail', 'upload_date', 'stream_title', 'stream_date', 'subtitle_filename', 'subtitles'],
     tokenize: (string, _fieldName) => {
         string = string.replace(timestampRegex, ' ');
         string = string.replace(charsToRemove, '');
         string = string.replace(charsToWhitespace, ' ');
         return string.trim().split(/\s+/);
-    },
+    }
 });
 
 console.log('Indexing subtitles...');

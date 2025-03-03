@@ -93,7 +93,7 @@ async function loadSubtitles(url: string) {
                 fields: ['subtitles'],
                 idField: 'id',
                 searchOptions: { fields: ['subtitles'] },
-                storeFields: ['id', 'title', 'duration', 'thumbnail', 'upload_date', 'stream_title', 'stream_date', 'subtitles']
+                storeFields: ['id', 'title', 'duration', 'thumbnail', 'upload_date', 'stream_title', 'stream_date', 'subtitle_filename', 'subtitles']
             });
         } else {
             subtitles = await MiniSearch.loadJSONAsync(text, {
@@ -101,7 +101,7 @@ async function loadSubtitles(url: string) {
                 fields: ['subtitles'],
                 idField: 'id',
                 searchOptions: { fields: ['subtitles'] },
-                storeFields: ['id', 'title', 'duration', 'thumbnail', 'upload_date', 'stream_title', 'stream_date', 'subtitles']
+                storeFields: ['id', 'title', 'duration', 'thumbnail', 'upload_date', 'stream_title', 'stream_date',  'subtitle_filename', 'subtitles']
             });
         }
 
