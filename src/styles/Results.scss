@@ -67,6 +67,12 @@
                         overflow: hidden;
                         padding: 0 0 0.2rem 0;
                         text-overflow: ellipsis;
+
+                        &:hover {
+                            button.edit {
+                                display: inline-block;
+                            }
+                        }
                     }
 
                     button.seek {
@@ -82,6 +88,17 @@
 
                         &:hover {
                             background-color: var(--button-hover-background-color);
+                        }
+                    }
+
+                    button.edit {
+                        background: none;
+                        border: none;
+                        cursor: pointer;
+                        display: none;
+
+                        svg.icon {
+                            height: 1rem;
                         }
                     }
 
