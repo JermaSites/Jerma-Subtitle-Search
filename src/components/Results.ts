@@ -183,14 +183,7 @@ export const ResultsGrid = () => {
             }
 
             resultsPerPage = parseInt(localStorage.getItem('render-amount') || (window.innerWidth <= 768 ? '100' : '200'));
-
-            if (resultsPerPage === 0) {
-                visibleResults = searchResults;
-            } else {
-                visibleResults = searchResults.slice(0, currentPage * resultsPerPage);
-            }
-
-            matchCount = 0;
+            visibleResults = resultsPerPage === 0 ? searchResults : searchResults.slice(0, currentPage * resultsPerPage);
 
             return m('div#results', [
                 m('h1', `Results for "${searchQuery}"`),
