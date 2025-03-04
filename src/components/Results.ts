@@ -166,17 +166,17 @@ export const ResultsGrid = () => {
             }
         },
         view: (vnode: Vnode<{ query: string }>) => {
-            if (!vnode.attrs.query || !subtitlesLoaded) {
+            searchQuery = vnode.attrs.query;
+
+            if (!searchQuery || !subtitlesLoaded) {
                 return;
             }
 
-            if (vnode.attrs.query !== previousQuery) {
-                searchQuery = vnode.attrs.query;
+            if (searchQuery !== previousQuery) {
                 currentPage = 1;
+                previousQuery = searchQuery;
                 debouncedSearch(searchQuery);
             }
-
-            previousQuery = vnode.attrs.query;
 
             if (!hasSearched) {
                 return;
