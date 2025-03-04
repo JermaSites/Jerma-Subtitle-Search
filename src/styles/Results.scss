@@ -65,7 +65,8 @@
 
                     .line {
                         overflow: hidden;
-                        padding: 0 0 0.2rem 0;
+                        padding: 0 1.5rem 0.2rem 0;
+                        position: relative;
                         text-overflow: ellipsis;
 
                         &:hover {
@@ -96,9 +97,13 @@
                         border: none;
                         cursor: pointer;
                         display: none;
+                        position: absolute;
+                        right: 0;
+                        top: 50%;
+                        transform: translateY(-50%);
 
                         svg.icon {
-                            height: 0.95rem;
+                            width: 1.125rem;
                         }
                     }
 
