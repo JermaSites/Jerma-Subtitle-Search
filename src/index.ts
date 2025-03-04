@@ -3,7 +3,7 @@ import MiniSearch from 'minisearch';
 import { AsyncGunzip, strFromU8 } from 'fflate';
 import { Header } from './components/Header.ts';
 import { SearchBar } from './components/SearchBar.ts';
-import { ResultsGrid } from './components/Results.ts';
+import { Results } from './components/Results.ts';
 import { ProgressSpinner } from './components/ProgressSpinner.ts';
 import './styles/General.scss';
 
@@ -147,7 +147,7 @@ const Page = () => {
                                 m('p', `Loaded ${subtitles.documentCount} video's subtitles, containing ${subtitles.termCount} unique terms.`),
                             ]),
                         ]),
-                    searchQuery && m(ResultsGrid, { query: searchQuery })
+                    searchQuery && m(Results, { query: searchQuery })
                 ])
             ];
         }
