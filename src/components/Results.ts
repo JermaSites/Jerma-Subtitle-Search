@@ -123,6 +123,16 @@ export const Results = () => {
         try {
             searchResults = await performSearch(query, signal);
             searched = true;
+
+            matchCount = searchResults.reduce((total, result) => {
+                let count = 0;
+                queryRegex.lastIndex = 0;
+                while (queryRegex.exec(result.subtitles) !== null) {
+                    count++;
+                }
+                return total + count;
+            }, 0);
+
             m.redraw();
         } catch (e) {
             if ((e as DOMException).name === 'AbortError') {
@@ -197,7 +207,6 @@ export const Results = () => {
 
                         while (match = queryRegex.exec(result.subtitles)) {
                             matches.push({ index: match.index, match: match[0] });
-                            matchCount++;
                         }
 
                         if (matches.length === 0) return;
