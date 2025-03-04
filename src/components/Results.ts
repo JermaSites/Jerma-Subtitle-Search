@@ -172,7 +172,9 @@ export const Results = () => {
 
             const resultCountElement = document.querySelector('#results > h2');
             if (resultCountElement) {
-                resultCountElement.textContent = `Found ${matchCount} matches across ${searchResults.length} videos`;
+                resultCountElement.textContent = searchResults.length === 0
+                    ? 'Found no matches'
+                    : `Found ${matchCount} ${matchCount > 1 ? 'matches across' : 'match in'} ${searchResults.length} ${searchResults.length > 1 ? 'videos' : 'video'}`;
             }
         },
         view: (vnode: Vnode<{ query: string }>) => {
