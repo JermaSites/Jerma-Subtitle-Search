@@ -103,11 +103,11 @@ export const Results = () => {
     let contextEnd: number;
     let currentPage: number = 1;
     let currentSearchController: AbortController | null = null;
-    let hasSearched: boolean = false;
     let matchCount: number;
     let observedResultItem: Element | null = null;
     let previousQuery: string;
     let resultsPerPage: number;
+    let searched: boolean = false;
     let searchQuery: string;
     let searchResults: SearchResult[] = [];
     let visibleResults: SearchResult[] = [];
@@ -122,7 +122,7 @@ export const Results = () => {
 
         try {
             searchResults = await performSearch(query, signal);
-            hasSearched = true;
+            searched = true;
             m.redraw();
         } catch (e) {
             if ((e as DOMException).name === 'AbortError') {
@@ -178,7 +178,7 @@ export const Results = () => {
                 debouncedSearch(searchQuery);
             }
 
-            if (!hasSearched) {
+            if (!searched) {
                 return;
             }
 
