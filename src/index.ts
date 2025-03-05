@@ -144,7 +144,7 @@ const Page = () => {
                             ]),
                             subtitlesLoaded && m('section', [
                                 m('h2', 'Index statistics'),
-                                m('p', `Loaded ${subtitles.documentCount} video's subtitles, containing ${subtitles.termCount} unique terms.`),
+                                m('p', `Loaded ${subtitles.documentCount} video's subtitles containing ${subtitles.termCount} unique terms.`),
                             ]),
                         ]),
                     searchQuery && m(Results, { query: searchQuery })
