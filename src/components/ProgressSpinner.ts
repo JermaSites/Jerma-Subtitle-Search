@@ -11,7 +11,7 @@ export const ProgressSpinner = () => {
                 case vnode.attrs.phase === 'Downloading':
                     containerClass = 'download';
                     // jermaT doesn't render, and jermaSpin's transparent background shows up white on WebKit browsers idk why
-                    appleUA ? imageSrc = '/assets/images/jermaComet.avif' : imageSrc = '/assets/images/jermaT.avif';
+                    imageSrc = appleUA ? '/assets/images/jermaComet.avif' : '/assets/images/jermaT.avif';
                     break;
                 case vnode.attrs.phase === 'Parsing subtitles':
                     containerClass = 'parse';
