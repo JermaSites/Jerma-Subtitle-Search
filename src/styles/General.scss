@@ -46,6 +46,7 @@ body {
 
 svg.icon {
     fill: var(--icon-color);
+    transition: fill 0.2s;
 
     &:hover {
         fill: var(--icon-hover-color);
