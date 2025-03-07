@@ -4,7 +4,7 @@
 
 ```
 Video Count    : 2049
-Word Count     : 25,565,507
+Word Count     : 25,564,901
 Duration       : 5464:15:44
 Oldest Video   : 2011-06-11
 Latest Video   : 2025-03-06
