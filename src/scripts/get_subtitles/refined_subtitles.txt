@@ -895,6 +895,7 @@ Mon_Bazou.en.lrc
 Monster_Hunter_3_Ultimate.en.lrc
 Monster_Hunter_3_Ultimate_Part_2.en.lrc
 Monster_Hunter_3_Ultimate_Part_3.en.lrc
+Monster_Hunter_Wilds_Part_2_with_Ster_Poke_and_Vinny.en.lrc
 Monster_Hunter_Wilds_with_Ster_Poke_and_Vinny.en.lrc
 Monster_Hunter_World_Part_1_with_Etalyx.en.lrc
 Monster_Hunter_World_Part_2_with_Etalyx.en.lrc
@@ -1085,6 +1086,7 @@ Q_A_Need_Some_Questions_TF2_Late_Night_Demoman.en.lrc
 Q_Remastered.en.lrc
 Quick_Talking_Stream.en.lrc
 Quite_Possibly_The_Dumbest_Military_Game_Ever.en.lrc
+R.E.P.O._with_Ster_Poke_and_Vinny.en.lrc
 RISK_Global_Domination_With_Ludwig_Cr1TiKaL_and_Connor.en.lrc
 Radiation_Monster_Vs._The_Goof_Guys.en.lrc
 Rain_World.en.lrc
