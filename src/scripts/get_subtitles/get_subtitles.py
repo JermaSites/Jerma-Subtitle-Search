@@ -850,7 +850,6 @@ def refine_subtitles(subs_path: str):
                     'google': 'Google',
                     'gotham knights': 'Gotham Knights',
                     'gotham': 'Gotham',
-                    'grace': 'Grace',
                     'grand junction': 'Grand Junction',
                     'grand prairie': 'Grand Prairie',
                     'grand rapids': 'Grand Rapids',
