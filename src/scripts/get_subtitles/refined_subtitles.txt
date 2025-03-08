@@ -316,6 +316,7 @@ Disc_Room.en.lrc
 Dishonored_First_Mission_Debacle_I_am_Not_Stealthy.en.lrc
 Disney_Infinity_3.0.en.lrc
 Divekick_1v1_Jerma_vs._STAR_Curtain_Showdown.en.lrc
+DoD_of_Defeat.en.lrc
 Doom_2016.en.lrc
 Dorfromantik.en.lrc
 Dork_Cube.en.lrc
@@ -541,11 +542,13 @@ GTA_5_The_Dangers_of_Golf.en.lrc
 GTA_5_The_Mario_Kart_Update.en.lrc
 GTA_5_The_Mario_Kart_Update_Other_Games_with_STAR_.en.lrc
 GTA_5_The_Outdoor_Outrage.en.lrc
+GTA_Ghost_World_Insanity.en.lrc
 GTA_Online_Burglar_Bandits.en.lrc
 GTA_Online_Imagination_is_Important.en.lrc
 GTA_Online_Where_Is_The_Love.en.lrc
 GTA_Online_Wine_Friends.en.lrc
 GTA_Online_with_Etalyx.en.lrc
+GTA_Truck_Punchline.en.lrc
 Gabe_The_Glue_Man_Degrossi_BBall.en.lrc
 Game_Show_Games_and_Wheel_of_Fortune_Part_1.en.lrc
 Game_Show_Week_Day_1.en.lrc
@@ -928,6 +931,8 @@ MultiVersus_Part_6.en.lrc
 Murder_House.en.lrc
 Murderous_Pursuits.en.lrc
 My_Channel_Trailer_Welcome_to_Jerma985_For_New_YouTube_Layout.en.lrc
+My_GTA_IV_Experience.en.lrc
+My_Special_Forces_Team_Xperience.en.lrc
 My_Summer_Car.en.lrc
 My_Summer_Car_Part_2.en.lrc
 My_Time_at_Portia.en.lrc
@@ -1087,6 +1092,8 @@ Q_Remastered.en.lrc
 Quick_Talking_Stream.en.lrc
 Quite_Possibly_The_Dumbest_Military_Game_Ever.en.lrc
 R.E.P.O._with_Ster_Poke_and_Vinny.en.lrc
+R.I.P.D._Pizza_Department.en.lrc
+R.I.P._GTA_4.en.lrc
 RISK_Global_Domination_With_Ludwig_Cr1TiKaL_and_Connor.en.lrc
 Radiation_Monster_Vs._The_Goof_Guys.en.lrc
 Rain_World.en.lrc
@@ -1358,6 +1365,7 @@ Surgeon_Simulator_2013_Open_Heart_Hilarity_FREE_GAME_PC_Mac_Linux.en.lrc
 TF2_100%_Crits_Crap_cp_labor_Live_Dumbness.en.lrc
 TF2_100%_Crits_Low_Gravity.en.lrc
 TF2_100%_Crits_Without_the_Humor_Would_We_Still_Play.en.lrc
+TF2_100%_Orange_Crit_AK_Live_Commentary.en.lrc
 TF2_150k_Subs_Pax_Recap_and_Tired_Jerma_Casual_Commentary.en.lrc
 TF2_32_Player_CTF_Speed_Running_w_STAR.en.lrc
 TF2_A_Battle_Medic_Discussion_Lakeside_Face_Crits.en.lrc
@@ -1367,6 +1375,7 @@ TF2_A_Mini_Rant_on_The_Everlasting_Beta.en.lrc
 TF2_A_Rant_on_Developers_and_Feedback_Casual_Rantmentary.en.lrc
 TF2_A_Rant_on_In_Game_Currency_Casual_Commentary.en.lrc
 TF2_A_Typical_Day_On_Dustbowl_Live_Dumbness.en.lrc
+TF2_All_Star_Racing_Transformed_Also_Sonic.en.lrc
 TF2_Arena_Madness_Gameplay_Commentary.en.lrc
 TF2_Attack_of_The_Taunting_Bird_Scout.en.lrc
 TF2_Australian_Christmas_Update_All_Items_Explained_Demonstrated.en.lrc
@@ -1451,6 +1460,7 @@ TF2_Happy_Thanksgiving_Live_Comm.en.lrc
 TF2_Heavy_Brass_Beast_Kritz_Minigun_Talk.en.lrc
 TF2_Heavy_Coffee_Commentary_Pushing_Up_Badwater.en.lrc
 TF2_Heavy_One_Life_Boxing_Champ_Melee_Discussion.en.lrc
+TF2_How_to_Sawmill_Rollout.en.lrc
 TF2_Huntsman_Being_Sick_Sucks_Casual_Pukementary.en.lrc
 TF2_Huntsman_Class_Changers._Primary_Slot_Discussion_One_Life.en.lrc
 TF2_Huntsman_Heavy_Pants_Crap.en.lrc
@@ -1467,6 +1477,8 @@ TF2_Intense_Wave_8_Mann_Up_Mode_Scottish_Resistance_Demo.en.lrc
 TF2_Irritable_Contract_Worker.en.lrc
 TF2_Jerma_Vs._40_Crates.en.lrc
 TF2_Jerma_and_STARs_Upward_Adventure_Live_Nonsense.en.lrc
+TF2_Jerma_is_Mad_pt.2.en.lrc
+TF2_Jerma_is_Mad_pt._3.en.lrc
 TF2_Jersey_Boys_in_Sentry_Town.en.lrc
 TF2_Journey_of_The_Shpees.en.lrc
 TF2_Lets_Get_Serious_for_a_Second_Casual_Commentary.en.lrc
@@ -1490,6 +1502,10 @@ TF2_Medic_Man_and_Shboonical_Boy.en.lrc
 TF2_Medic_Medi_Gun_Vs._Quick_Fix_Discussion.en.lrc
 TF2_Medic_Quick_Fix_Gameplay_Commentary.en.lrc
 TF2_Medic_Tips_Uber_Techniques._Be_a_Better_Doctor..en.lrc
+TF2_Monster_Mash.en.lrc
+TF2_Moron_Medic_Live.en.lrc
+TF2_MvM_Decoy_Mecha_Engie_Full_Live_Mission.en.lrc
+TF2_MvM_Diaper_Teleporter.en.lrc
 TF2_My_Brains_Public_Pool_Commentary.en.lrc
 TF2_My_Computah_Crapped_The_Bed_Casual_Commentary.en.lrc
 TF2_New_Sniper_Item_Cozy_Camper_Phlogistinator_Nerf_Update_Talk.en.lrc
@@ -1522,6 +1538,7 @@ TF2_Quiet_Down_Huntsman_Live_Session.en.lrc
 TF2_Rainblower_Headache_and_Engie_Rage_Jerma_and_STAR.en.lrc
 TF2_Randomizer_Insanity_Jerma_Vs._The_Eggs.en.lrc
 TF2_Rapid_Fire_Update_Video.en.lrc
+TF2_Ruiner_of_Fun.en.lrc
 TF2_Santa_Heavy_Expert_in_Bum_Punching.en.lrc
 TF2_Scout_Backstabber_Gun.en.lrc
 TF2_Scout_Barnblitz_Final_Defense_Gamplay_Commentary.en.lrc
@@ -1643,12 +1660,15 @@ TF2_Valves_Crazy_Community_Payout_Casual_Commentary.en.lrc
 TF2_Volunteer_Work_Commentary.en.lrc
 TF2_WTF_Are_We_Talking_About_Jerma_and_STAR.en.lrc
 TF2_Watch_Out_For_That_Friendly_Fire.en.lrc
+TF2_Whatmgonnget.en.lrc
 TF2_Whos_That_Poke_Shpee_Live_Dumbness.en.lrc
 TF2_Why_Its_Still_Relevant_Reserve_Shooter_Pyro.en.lrc
 TF2_Zapper_and_The_Guitar_Smasher_Live_Stipulation_Dumbness.en.lrc
 TF2_and_Diablo_3_w_Star_Pre_Recorded.en.lrc
 TF2_x10_OMG_The_Kunai_Live_Fun_w_Sp00nerism.en.lrc
+TFC_Team_Fortress_Classic.en.lrc
 TV_Superstars.en.lrc
+Tactical_Intervention_1.6.en.lrc
 Tactical_Interventions_Hilariously_Broken_Highway_Mode.en.lrc
 Talk_to_Transformer.en.lrc
 Talk_to_Transformer_Part_2.en.lrc
