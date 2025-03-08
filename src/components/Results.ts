@@ -368,9 +368,9 @@ export const Results = () => {
                                                         if (match && match.index >= 0) {
                                                             const precedingText = result.subtitles.slice(0, match.index);
                                                             const lineCount = (precedingText.match(/\[/g) || []).length + 3;
-                                                            window.open(`https://github.com/Bergbok/Jerma-Subtitle-Search/edit/main/src/assets/subtitles/${result.subtitle_filename}#L${lineCount}`, '_blank');
+                                                            window.open(`https://github.com/JermaSites/Jerma-Subtitle-Search/edit/main/src/assets/subtitles/${result.subtitle_filename}#L${lineCount}`, '_blank');
                                                         } else {
-                                                            window.open(`https://github.com/Bergbok/Jerma-Subtitle-Search/edit/main/src/assets/subtitles/${result.subtitle_filename}#L4`, '_blank');
+                                                            window.open(`https://github.com/JermaSites/Jerma-Subtitle-Search/edit/main/src/assets/subtitles/${result.subtitle_filename}#L4`, '_blank');
                                                         }
                                                     }
                                                 },
@@ -437,7 +437,7 @@ export const Results = () => {
                                 'The subtitle files are also downloadable if you\'d like to search through them externally.',
                                 m('br'),
                                 'Individual files are on ',
-                                m('a', { href: 'https://github.com/Bergbok/Jerma-Subtitle-Search/tree/main/src/assets/subtitles' }, 'GitHub'),
+                                m('a', { href: 'https://github.com/JermaSites/Jerma-Subtitle-Search/tree/main/src/assets/subtitles' }, 'GitHub'),
                                 ' and the bundled JSON is available ',
                                 m('a', { href: 'https://subtitlefiles.jerma.io/file/jerma-subtitles/Subtitles.json' }, 'here'),
                                 '.'
