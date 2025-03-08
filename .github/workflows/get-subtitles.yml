@@ -10,6 +10,8 @@ concurrency:
 jobs:
   get-subtitles:
     runs-on: self-hosted
+    permissions:
+      contents: write
     defaults:
       run:
         working-directory: ./src/scripts
