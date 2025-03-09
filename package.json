@@ -6,7 +6,7 @@
     "engines": {
         "npm": ">=10"
     },
-    "homepage": "https://jerma-search.bergbok.party",
+    "homepage": "https://search.jerma.io",
     "repository": "https://github.com/JermaSites/Jerma-Subtitle-Search",
     "scripts": {
         "dev": "vite",
