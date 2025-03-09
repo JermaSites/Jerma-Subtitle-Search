@@ -69,28 +69,6 @@ bun run dev
 <!--
 Notes to self:
 
-Repo setup steps:
-- Description: Webpage for searching through 2000+ Jerma videos
-- Topics: mithril jerma985 jerma shpee
-- Uncheck 'Releases' and 'Packages'
-- https://github.com/Bergbok/Jerma-Subtitle-Search/settings
-    - Social preview (https://imgur.com/a/4QB2a7B)
-    - Disable Wiki and Projects
-- https://github.com/Bergbok/Jerma-Subtitle-Search/settings/pages
-    - Build source
-    - Custom domain
-- https://github.com/Bergbok/Jerma-Subtitle-Search/settings/actions
-    - Artifact and log retention
-    - Write permissions
-- https://github.com/Bergbok/Jerma-Subtitle-Search/settings/actions/runners
-    - Self-hosted runner
-- https://github.com/Bergbok/Jerma-Subtitle-Search/settings/security_analysis
-    - Dependabot
-- https://github.com/Bergbok/Jerma-Subtitle-Search/settings/secrets/actions
-    - COOKIES
-    - B2_APP_KEY
-    - B2_APP_KEY_ID
-
 AVIF conversion:
 - ffmpeg -i "x" -map 0 -map 0 -filter:0 "format=yuv420p" -filter:1 "format=yuva444p,alphaextract" -crf 21 "x.avif"
 -->
