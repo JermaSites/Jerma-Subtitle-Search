@@ -58,6 +58,13 @@ a {
     text-decoration: wavy underline;
 }
 
+mark {
+    background: var(--highlight-background-color);
+    border-radius: 2px;
+    color: var(--highlight-text-color);
+    padding: 0.1rem;
+}
+
 // *,
 // *::before,
 // *::after {

@@ -10,6 +10,10 @@ document.addEventListener('DOMContentLoaded', () => {
         changeSetting('render-amount', window.innerWidth <= 768 ? '100' : '200');
     }
 
+    if (!localStorage.getItem('use-word-boundaries')) {
+        changeSetting('use-word-boundaries', 'false');
+    }
+
     const font = localStorage.getItem('font') || 'Courier New, monospace';
     changeSetting('font', font);
 
@@ -159,6 +163,28 @@ export const SettingsModal = () => {
                                 } results at once`,
                                 m('br'),
                                 m('small.setting-description', 'Enter 0 to load all.')
+                            ]),
+                            m('br'),
+                            m('label', { for: 'use-word-boundaries' }, [
+                                m('input#use-word-boundaries', {
+                                    checked: localStorage.getItem('use-word-boundaries') === 'true',
+                                    type: 'checkbox',
+                                    onchange: (e: Event) => {
+                                        // @ts-ignore
+                                        e.redraw = false;
+                                        const target = e.target as HTMLInputElement;
+                                        changeSetting('use-word-boundaries', target.checked.toString());
+                                    }
+                                }),
+                                'Use word boundaries',
+                                m('br'),
+                                m('small.setting-description', [
+                                    'Matches whole words only.',
+                                    m('br'),
+                                    "Avoids cases like 'hi' matching t",
+                                    m('mark', 'hi'),
+                                    's.'
+                                ])
                             ])
                         ]),
                         m('h3', 'Theme'),

@@ -5,6 +5,7 @@ import { subtitles, subtitlesLoaded } from '../index.ts';
 import '../styles/Results.scss';
 
 let queryRegex: RegExp;
+let useWordBoundaries: boolean;
 const expandState: Record<string, boolean> = {};
 
 function debounce(func: Function, delay: number) {
@@ -37,9 +38,11 @@ async function performSearch(query: string, signal: AbortSignal): Promise<Search
 
     // Accounts for punctuation within words, and timestamps between words
     const timeBeforeFilter = performance.now();
+    useWordBoundaries = localStorage.getItem('use-word-boundaries') === 'true';
+    const wordBoundary = useWordBoundaries ? '\\b' : '';
 
     queryRegex = new RegExp(
-        '(?<=[^\\d\\[:.])' +
+        '(?<=[^\\d\\[:.])' + wordBoundary +
         query
             .split(/\s+/)
             .map((word, wordIndex, words) => {
@@ -55,7 +58,7 @@ async function performSearch(query: string, signal: AbortSignal): Promise<Search
                     .join('') + '(?:\\[[\\d:.]+\\])?';
             })
             .join('')
-            .slice(0, -1) + '{0}',
+            .slice(0, -1) + '{0}' + wordBoundary,
         'gi'
     );
 
@@ -350,7 +353,16 @@ export const Results = () => {
                                                             fragments.push(text.slice(offset, start));
                                                         }
 
-                                                        if (searchQuery.includes('*', 1) && (end - start) === 1) {
+                                                        if (useWordBoundaries) {
+                                                            const charBefore = start === 0 ? '' : text.charAt(start - 1);
+                                                            const charAfter = end >= text.length ? '' : text.charAt(end);
+
+                                                            if (!((start === 0 || !/\w/.test(charBefore)) && (end === text.length || !/\w/.test(charAfter)))) {
+                                                                fragments.push(text.slice(start, end));
+                                                                offset = end;
+                                                                return;
+                                                            }
+                                                        } else if (searchQuery.includes('*', 1) && (end - start) === 1) {
                                                             fragments.push(text.slice(start, end));
                                                             offset = end;
                                                             return;

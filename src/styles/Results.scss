@@ -107,13 +107,6 @@
                         }
                     }
 
-                    mark {
-                        background: var(--highlight-background-color);
-                        border-radius: 2px;
-                        color: var(--highlight-text-color);
-                        padding: 0.1rem;
-                    }
-
                     hr {
                         background-image: linear-gradient(to right, transparent 0%, var(--match-seperator-color) 5%,  var(--match-seperator-color) 95%,  transparent 100%);
                         border: none;
