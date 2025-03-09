@@ -1201,6 +1201,7 @@ Sam_Max_The_Devils_Playhouse.en.lrc
 Saw_II_Flesh_Blood.en.lrc
 Saw_The_Video_Game.en.lrc
 Saw_The_Video_Game_Part_2_Finale.en.lrc
+Scary_Itch.io_Games.en.lrc
 Scary_Stories.en.lrc
 Scary_Talking_Stream.en.lrc
 Scorn.en.lrc
