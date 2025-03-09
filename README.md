@@ -52,7 +52,7 @@ Wildcard characters (*) can be used in searches to match zero or more of any cha
 
 ```bash
 # feel free to substitute bun with node & npm/yarn/whatever
-git clone https://github.com/Bergbok/Jerma-Subtitle-Search.git
+git clone https://github.com/JermaSites/Jerma-Subtitle-Search.git
 cd Jerma-Subtitle-Search
 curl -o src/assets/Subtitles.json https://subtitlefiles.jerma.io/file/jerma-subtitles/Subtitles.json
 bun install
