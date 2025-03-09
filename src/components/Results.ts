@@ -349,6 +349,13 @@ export const Results = () => {
                                                         if (start > offset) {
                                                             fragments.push(text.slice(offset, start));
                                                         }
+
+                                                        if (searchQuery.includes('*', 1) && (end - start) === 1) {
+                                                            fragments.push(text.slice(start, end));
+                                                            offset = end;
+                                                            return;
+                                                        }
+
                                                         fragments.push(m('mark', text.slice(start, end)));
                                                         offset = end;
                                                     });
