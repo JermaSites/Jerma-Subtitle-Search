@@ -1289,6 +1289,7 @@ Species_Artificial_Life_Real_Evolution.en.lrc
 Spell_Sword_iOS_Game_Review_Little_Gems_Returns.en.lrc
 Splatoon_3.en.lrc
 Splatoon_3_Part_2_with_Vinny_Vinesauce.en.lrc
+Split_Fiction_with_Etalyx.en.lrc
 SpongeBob_SquarePants_Battle_for_Bikini_Bottom_Rehydrated.en.lrc
 SpongeBob_SquarePants_Battle_for_Bikini_Bottom_Rehydrated_Part_2_Finale.en.lrc
 Spookys_Jump_Scare_Mansion_HD_Renovation.en.lrc
