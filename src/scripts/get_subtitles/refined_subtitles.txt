@@ -81,6 +81,7 @@ Assassins_Creed_Origins.en.lrc
 Asuras_Wrath.en.lrc
 At_Dead_Of_Night.en.lrc
 Attempting_PSVR_Games.en.lrc
+BATTLEBOTS.en.lrc
 Backbreaker.en.lrc
 Bad_Games_Bad_Decisions_Discussion_Blacklight_Retribution_Gameplay.en.lrc
 Bakery_Simulator.en.lrc
@@ -223,6 +224,7 @@ Cuphead_The_Delicious_Last_Course.en.lrc
 Custom_Robo.en.lrc
 D.en.lrc
 DAVE_THE_DIVER.en.lrc
+DJ_Ster_Strongbox_Crate_Remix.en.lrc
 Da_PAX_East_2013_Video_Hotel_Weirdos_Shenanigans.en.lrc
 Damnation_Breakfast_Time_with_Doofus_and_Goofus.en.lrc
 Danger_Zone_Perception.en.lrc
@@ -713,6 +715,7 @@ Insaniquarium_Deluxe.en.lrc
 Inscryption.en.lrc
 Inside.en.lrc
 Installing_and_Playing_Vampire_Rain_Altered_Species.en.lrc
+Insurgency_Rebellion_Uprising_Revolt_1.6.en.lrc
 Internet_Cafe_Simulator_2.en.lrc
 Intruder_with_Criken_and_friends.en.lrc
 Inversion_Sh_The_Ground_is_Shakin.en.lrc
@@ -768,6 +771,7 @@ Kingdom_Come_Deliverance_Part_1.en.lrc
 Kingdom_Come_Deliverance_Part_2.en.lrc
 Kingdom_Come_Deliverance_Part_3.en.lrc
 Kingdom_Come_Deliverance_Part_4_Finale.en.lrc
+Kingdoms_Rise_from_soil.en.lrc
 Kingsway.en.lrc
 Kung_Fu_Chroma_Key.en.lrc
 Kung_Fu_Rider_and_Start_the_Party.en.lrc
@@ -1206,6 +1210,7 @@ Scary_Stories.en.lrc
 Scary_Talking_Stream.en.lrc
 Scorn.en.lrc
 Scream_Ride.en.lrc
+Screencheat.en.lrc
 Scribblenauts_Unlimited.en.lrc
 Scrolls_Strategy_Card_Battle_Unboxing_Sim_First_Impressions.en.lrc
 Sea_Dogs.en.lrc
@@ -1369,6 +1374,7 @@ TF2_100%_Crits_Low_Gravity.en.lrc
 TF2_100%_Crits_Without_the_Humor_Would_We_Still_Play.en.lrc
 TF2_100%_Orange_Crit_AK_Live_Commentary.en.lrc
 TF2_150k_Subs_Pax_Recap_and_Tired_Jerma_Casual_Commentary.en.lrc
+TF2_21_vs._2.en.lrc
 TF2_32_Player_CTF_Speed_Running_w_STAR.en.lrc
 TF2_A_Battle_Medic_Discussion_Lakeside_Face_Crits.en.lrc
 TF2_A_Blast_From_The_Past.en.lrc
@@ -1443,6 +1449,7 @@ TF2_Face_Cam_Fortress_Live_Badwater..en.lrc
 TF2_Face_Cam_Uncrating_50_Beautiful_Boxes_25_Robo_25_Normal.en.lrc
 TF2_Face_Cam_Uncrating_Video_50_Crates_Madness.en.lrc
 TF2_Fat_Guy_Engie.en.lrc
+TF2_Full_Killstreak_Loadout.en.lrc
 TF2_Game_Excitement_and_24hr_Sessions_Tomislav_Heavy.en.lrc
 TF2_Game_Pricing_Perspective_Time_Machine_Casual_Commentary.en.lrc
 TF2_Gameplay_Commentary_Engineer_Badwater_Domination.en.lrc
@@ -1454,6 +1461,7 @@ TF2_Gameplay_Commentary_Scout_Coldfront.en.lrc
 TF2_Gameplay_Commentary_Spy_Hoodoo.en.lrc
 TF2_Gameplay_Commentary_Uber_Update_Soldier_Harvest.en.lrc
 TF2_Gaming_at_The_Olympics_Casual_Commentary.en.lrc
+TF2_Garbage_Guardians.en.lrc
 TF2_Getting_Mad_at_Video_Games_Casual_Commentary.en.lrc
 TF2_Giant_Robot_Heavy.en.lrc
 TF2_Goofy_Shout_Cast_Heavy.en.lrc
@@ -1462,6 +1470,7 @@ TF2_Happy_Thanksgiving_Live_Comm.en.lrc
 TF2_Heavy_Brass_Beast_Kritz_Minigun_Talk.en.lrc
 TF2_Heavy_Coffee_Commentary_Pushing_Up_Badwater.en.lrc
 TF2_Heavy_One_Life_Boxing_Champ_Melee_Discussion.en.lrc
+TF2_Homing_Crit_Rockets.en.lrc
 TF2_How_to_Sawmill_Rollout.en.lrc
 TF2_Huntsman_Being_Sick_Sucks_Casual_Pukementary.en.lrc
 TF2_Huntsman_Class_Changers._Primary_Slot_Discussion_One_Life.en.lrc
@@ -1481,6 +1490,7 @@ TF2_Jerma_Vs._40_Crates.en.lrc
 TF2_Jerma_and_STARs_Upward_Adventure_Live_Nonsense.en.lrc
 TF2_Jerma_is_Mad_pt.2.en.lrc
 TF2_Jerma_is_Mad_pt._3.en.lrc
+TF2_Jerma_is_Miffed_pt_3.1415.en.lrc
 TF2_Jersey_Boys_in_Sentry_Town.en.lrc
 TF2_Journey_of_The_Shpees.en.lrc
 TF2_Lets_Get_Serious_for_a_Second_Casual_Commentary.en.lrc
@@ -1584,6 +1594,7 @@ TF2_Sniper_Last_Point_Anxiety_Casual_Commentary.en.lrc
 TF2_Sniper_Stipulation_No_Scope_Jarate_Only.en.lrc
 TF2_Sniper_Weird_Gaming_Habits_Casual_Commentary.en.lrc
 TF2_Sniper_What_Would_You_Add_Boomerang_Gameplay_Commentary.en.lrc
+TF2_Sock_em_Bopper_Hevies.en.lrc
 TF2_Soldier_Blackbox_Breakdown_Massive_Defense.en.lrc
 TF2_Soldier_Breast_Cancer_Awareness.en.lrc
 TF2_Soldier_Custom_HUDs_and_Original_Jumping.en.lrc
@@ -1625,6 +1636,7 @@ TF2_Spy_You_Wanna_Get_BakeStaybed_Jerma_and_STAR.en.lrc
 TF2_SteamOS_and_The_Future_of_PC_Gaming_Casual_Commentary.en.lrc
 TF2_Steam_Sharing_is_Coming_Casual_Commentary.en.lrc
 TF2_The_Anticlimactic_Medic_Live_Stupidness_with_Boo.en.lrc
+TF2_The_Carnival_is_in_Town.en.lrc
 TF2_The_Classic_TFC_Rifle_Commentary.en.lrc
 TF2_The_Corner_Creeps.en.lrc
 TF2_The_Digital_Takeover_Casual_Commentary.en.lrc
@@ -1665,6 +1677,7 @@ TF2_Watch_Out_For_That_Friendly_Fire.en.lrc
 TF2_Whatmgonnget.en.lrc
 TF2_Whos_That_Poke_Shpee_Live_Dumbness.en.lrc
 TF2_Why_Its_Still_Relevant_Reserve_Shooter_Pyro.en.lrc
+TF2_You_shouldn_t_be_there.en.lrc
 TF2_Zapper_and_The_Guitar_Smasher_Live_Stipulation_Dumbness.en.lrc
 TF2_and_Diablo_3_w_Star_Pre_Recorded.en.lrc
 TF2_x10_OMG_The_Kunai_Live_Fun_w_Sp00nerism.en.lrc
@@ -1717,6 +1730,7 @@ The_Book_of_Potions.en.lrc
 The_Book_of_Spells.en.lrc
 The_Broken_Bus_Driver_Simulation_Game.en.lrc
 The_Bunker.en.lrc
+The_Can_you_make_a_video_out_of_this_Challenge.en.lrc
 The_Carnival_Stream.en.lrc
 The_Chronicles_of_Riddick_Escape_from_Butcher_Bay_Part_1.en.lrc
 The_Chronicles_of_Riddick_Escape_from_Butcher_Bay_Part_2_Finale.en.lrc
@@ -2067,6 +2081,7 @@ jigsaw_puzzle_speedrun_wr_attempt.en.lrc
 ottos_grotto_Jerma_animated.en.lrc
 pours_detergent_on_the_floor_Jerma_Animated.en.lrc
 rare_off_stream_jerma_discord_call_with_ster.en.lrc
+reupload_The_Diable_3_Incident.en.lrc
 teacher_noise_Jerma985_animated.en.lrc
 the_streamer_awards_but_its_just_jerma.en.lrc
 unpaid_intern_but_its_just_jerma.en.lrc
