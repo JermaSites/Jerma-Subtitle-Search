@@ -234,6 +234,7 @@ Dark_Messiah_of_Might_Magic_Part_3_Finale.en.lrc
 Dark_Souls_2_Prepare_to_Buy_Edition.en.lrc
 Dark_Souls_2_is_Destroying_Me.en.lrc
 Dark_Souls_2_with_Ster.en.lrc
+Dark_Souls_3_Adventures.en.lrc
 Dark_Souls_3_Part_1.en.lrc
 Dark_Souls_3_Part_2.en.lrc
 Dark_Souls_3_Part_3.en.lrc
@@ -279,6 +280,7 @@ Death_to_Spies.en.lrc
 Decorating_A_Tree_with_Santa.en.lrc
 Deep_Rock_Galactic_with_Ster.en.lrc
 Def_Jam_Icon.en.lrc
+Definition_of_a_Jerma_Joke.en.lrc
 Deltarune_Chapter_1.en.lrc
 Deltarune_Chapter_2_Part_1.en.lrc
 Deltarune_Chapter_2_Part_2.en.lrc
@@ -322,6 +324,7 @@ DoD_of_Defeat.en.lrc
 Doom_2016.en.lrc
 Dorfromantik.en.lrc
 Dork_Cube.en.lrc
+Double_Action_Boogaloo.en.lrc
 DougDoug_and_Jermas_surprise_Tennis_stream.en.lrc
 Dracula_2_The_Last_Sanctuary.en.lrc
 Dracula_2_The_Last_Sanctuary_Part_2_Finale.en.lrc
@@ -544,6 +547,8 @@ GTA_5_The_Dangers_of_Golf.en.lrc
 GTA_5_The_Mario_Kart_Update.en.lrc
 GTA_5_The_Mario_Kart_Update_Other_Games_with_STAR_.en.lrc
 GTA_5_The_Outdoor_Outrage.en.lrc
+GTA_Club_Tornado_TM.en.lrc
+GTA_End_of_the_World.en.lrc
 GTA_Ghost_World_Insanity.en.lrc
 GTA_Online_Burglar_Bandits.en.lrc
 GTA_Online_Imagination_is_Important.en.lrc
@@ -632,9 +637,11 @@ Hand_of_Fate_2_Part_1.en.lrc
 Hand_of_Fate_2_Part_2.en.lrc
 Hand_of_Fate_2_Part_3.en.lrc
 Hand_of_Fate_Hard_to_Explain.en.lrc
+Handball_Showdown.en.lrc
 Happy_Birthday_Miku_Jerma_Animated.en.lrc
 Happy_Thanksgiving.en.lrc
 Happy_Valentines_Day_Dont_Get_Depressed_Smite_All_Cupid.en.lrc
+Hardline_Officer_of_the_Law.en.lrc
 Hardspace_Shipbreaker.en.lrc
 Harvester_Part_1.en.lrc
 Harvester_Part_2_Finale.en.lrc
@@ -642,6 +649,7 @@ Hatsune_Miku_Logic_PaintS.en.lrc
 Hatsune_Miku_Project_DIVA_Mega_Mix.en.lrc
 Heart_of_Darkness.en.lrc
 Hearthstone.en.lrc
+Helldivers_1.en.lrc
 Helldivers_2_with_Ster_Poke_and_Vinny.en.lrc
 Heroes_of_Might_and_Magic_III_The_Restoration_of_Erathia.en.lrc
 Heroes_of_Might_and_Magic_III_The_Restoration_of_Erathia_Part_2.en.lrc
@@ -798,6 +806,7 @@ Lego_Star_Wars_The_Complete_Saga.en.lrc
 Let_It_Die.en.lrc
 Lethal_Company_Part_2_with_Ster_Etalyx_Criken_Vinny_Ross_Poke_and_More.en.lrc
 Lethal_Company_with_Ster_Poke_and_Vinny.en.lrc
+Lethal_League_3v1_Dumpfest.en.lrc
 Lethal_League_Blaze_with_Ster.en.lrc
 Lethal_League_Dinner_or_Song.en.lrc
 Lethal_League_Insane_Dodgeball_Pong.en.lrc
@@ -943,6 +952,7 @@ My_Time_at_Portia.en.lrc
 MythBusters_The_Game_Crazy_Experiments_Simulator.en.lrc
 NAME_YOUR_PRICE_But_mostly_Jerma_ft._Ludwig_Austin_Show.en.lrc
 NGU_and_Hot_Lava.en.lrc
+NIDHOGG.en.lrc
 Nancy_Drew_Ghost_of_Thornton_Hall_Part_2_Finale.en.lrc
 Nancy_Drew_Midnight_in_Salem_Part_A.en.lrc
 Nancy_Drew_Midnight_in_Salem_Part_B.en.lrc
@@ -1114,6 +1124,7 @@ Rat_Movie_Mystery_of_the_Mayan_Treasure.en.lrc
 Rat_Movie_Reanimated_Collab.en.lrc
 Rat_Simulator.en.lrc
 Ratatouille.en.lrc
+Ravaged_Zombie_Pianists.en.lrc
 Ravens_Cry_is_a_Finished_Game.en.lrc
 Rayman_Jungle_Run_Parkour_Bug_Collecting_Little_Gems.en.lrc
 Recettear_An_Item_Shops_Tale.en.lrc
@@ -1323,6 +1334,7 @@ Steam_Next_Fest_Demos.en.lrc
 Steam_Next_Fest_Demos_Part_2.en.lrc
 Steelrising.en.lrc
 Ster_Stream_Rampage_Knights_w_Jerma.en.lrc
+Sterferge.en.lrc
 Sticks_and_Stones_Black_Ops_2_Pahhtyy_Game.en.lrc
 Stranglehold.en.lrc
 Stream_Awards_2018.en.lrc
@@ -1385,6 +1397,7 @@ TF2_A_Rant_on_In_Game_Currency_Casual_Commentary.en.lrc
 TF2_A_Typical_Day_On_Dustbowl_Live_Dumbness.en.lrc
 TF2_All_Star_Racing_Transformed_Also_Sonic.en.lrc
 TF2_Arena_Madness_Gameplay_Commentary.en.lrc
+TF2_Ask_Nicely_for_Kritz.en.lrc
 TF2_Attack_of_The_Taunting_Bird_Scout.en.lrc
 TF2_Australian_Christmas_Update_All_Items_Explained_Demonstrated.en.lrc
 TF2_Barn_Spy_Live_Session.en.lrc
@@ -1409,6 +1422,7 @@ TF2_Coffee_Commentary_I_Draw_So_Good_Soldier.en.lrc
 TF2_Combat_Engie_Steam_Workshop_Plans_New_Updates.en.lrc
 TF2_Combat_Engineer_What_Would_I_Add_One_Life.en.lrc
 TF2_Combat_Engineer_Widowmaker._Tips_Tricks.en.lrc
+TF2_Contracts_for_Ms._Pauling.en.lrc
 TF2_Counter_Sniping_Idling_Changes_Casual_Commentary.en.lrc
 TF2_Cow_Mangler_Soldier_Jermas_Game_Show.en.lrc
 TF2_Crit_Maniac_Scout_Mann_Vs._Machine.en.lrc
@@ -1674,6 +1688,7 @@ TF2_Valves_Crazy_Community_Payout_Casual_Commentary.en.lrc
 TF2_Volunteer_Work_Commentary.en.lrc
 TF2_WTF_Are_We_Talking_About_Jerma_and_STAR.en.lrc
 TF2_Watch_Out_For_That_Friendly_Fire.en.lrc
+TF2_What_Really_Happened.en.lrc
 TF2_Whatmgonnget.en.lrc
 TF2_Whos_That_Poke_Shpee_Live_Dumbness.en.lrc
 TF2_Why_Its_Still_Relevant_Reserve_Shooter_Pyro.en.lrc
@@ -1684,6 +1699,7 @@ TF2_x10_OMG_The_Kunai_Live_Fun_w_Sp00nerism.en.lrc
 TFC_Team_Fortress_Classic.en.lrc
 TV_Superstars.en.lrc
 Tactical_Intervention_1.6.en.lrc
+Tactical_Intervention_2.0.en.lrc
 Tactical_Interventions_Hilariously_Broken_Highway_Mode.en.lrc
 Talk_to_Transformer.en.lrc
 Talk_to_Transformer_Part_2.en.lrc
@@ -1856,6 +1872,7 @@ The_Surge.en.lrc
 The_TF2_Demake_Gang_Garrison_2_Live_Funzies.en.lrc
 The_Thing.en.lrc
 The_Thing_Part_2_Finale.en.lrc
+The_Three_Triners.en.lrc
 The_Typing_of_the_Dead.en.lrc
 The_Voice_and_Naughty_Bear.en.lrc
 The_Warlock_of_Firetop_Mountain.en.lrc
@@ -2069,6 +2086,7 @@ Youtubers_Life_2.en.lrc
 Zerkin_Off_Jerma_Animated.en.lrc
 Zombie_Computer_Salesman.en.lrc
 Zombie_Dinos_from_Planet_Zeltoid_and_Other_games.en.lrc
+Zombie_Jackass.en.lrc
 Zoo_Tycoon_2.en.lrc
 Zoombinis_Mountain_Rescue.en.lrc
 as_the_shuffler_compilation.en.lrc
