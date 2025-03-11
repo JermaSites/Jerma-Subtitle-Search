@@ -38,7 +38,7 @@ Uses [Mithril](https://github.com/MithrilJS/mithril.js), [MiniSearch](https://gi
 
 <p align='center'>
     <picture>
-        <img src='https://i.imgur.com/vs9bU6E.png' alt='screenshot of webpage search results for the query: "GitHub"'>
+        <img src='https://i.imgur.com/0KqV2cx.png' alt='screenshot of webpage search results for the query: "on GitHub"'>
     </picture>
 </p>
 
