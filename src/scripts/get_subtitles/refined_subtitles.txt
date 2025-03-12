@@ -243,6 +243,9 @@ Dark_Souls_3_Part_5_Bonus.en.lrc
 Dark_Souls_3_The_Ringed_City_DLC_Part_1.en.lrc
 Dark_Souls_3_The_Ringed_City_DLC_Part_2.en.lrc
 Dark_Souls_3_The_Ringed_City_DLC_Part_3_Finale.en.lrc
+Dark_Souls_III_Ashes_of_Ariandel_Part_1.en.lrc
+Dark_Souls_III_Ashes_of_Ariandel_Part_2.en.lrc
+Dark_Souls_III_Ashes_of_Ariandel_Part_3.en.lrc
 Dark_Souls_Prepare_To_Die_Edition_Haha..._Oh_God_Uncensored_Jerma.en.lrc
 Dark_Souls_Remastered_Part_1.en.lrc
 Dark_Souls_Remastered_Part_2.en.lrc
@@ -911,6 +914,7 @@ Mon_Bazou.en.lrc
 Monster_Hunter_3_Ultimate.en.lrc
 Monster_Hunter_3_Ultimate_Part_2.en.lrc
 Monster_Hunter_3_Ultimate_Part_3.en.lrc
+Monster_Hunter_3_Ultimate_Part_4.en.lrc
 Monster_Hunter_Wilds_Part_2_with_Ster_Poke_and_Vinny.en.lrc
 Monster_Hunter_Wilds_with_Ster_Poke_and_Vinny.en.lrc
 Monster_Hunter_World_Part_1_with_Etalyx.en.lrc
@@ -1092,6 +1096,7 @@ Prison_Break_The_Conspiracy.en.lrc
 Probably_getting_lost.en.lrc
 Prototype_for_8_minutes.en.lrc
 Psychopath_Taxi_Drivers.en.lrc
+Public_Domain_Movie_Night_Halloween_2021.en.lrc
 Public_Domain_Movie_Night_Part_2_Halloween_Special.en.lrc
 Punch_Out.en.lrc
 Pupperazzi.en.lrc
@@ -1226,6 +1231,7 @@ Scribblenauts_Unlimited.en.lrc
 Scrolls_Strategy_Card_Battle_Unboxing_Sim_First_Impressions.en.lrc
 Sea_Dogs.en.lrc
 Seaman.en.lrc
+Sega_CD_Games_Part_1.en.lrc
 Sega_CD_Games_Part_1_REUPLOAD.en.lrc
 Sega_CD_Games_Part_2.en.lrc
 Sekiro_Shadows_Die_Twice.en.lrc
@@ -1782,6 +1788,7 @@ The_Frog_Stream.en.lrc
 The_Game_Awards_2018.en.lrc
 The_Game_Awards_2019_and_FTK_Stream_Talk.en.lrc
 The_Game_Awards_2020.en.lrc
+The_Game_Awards_2021.en.lrc
 The_Game_Awards_2022.en.lrc
 The_Game_Awards_2023_with_Ster.en.lrc
 The_Game_Awards_2024_with_Ster.en.lrc
@@ -2015,6 +2022,7 @@ WarioWare_Inc._Mega_Party_Game.en.lrc
 WarioWare_Mario_Maker.en.lrc
 WarioWare_Move_It.en.lrc
 Wash_Hogs.en.lrc
+Watch_Dogs_2.en.lrc
 Watch_Dogs_Legion.en.lrc
 Watching_80s_90s_and_00s_Commercials.en.lrc
 Watching_Infomercials.en.lrc
