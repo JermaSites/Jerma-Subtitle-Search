@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<OpenSearchDescription xmlns='http://a9.com/-/spec/opensearch/1.1/'>
+    <Description>Search through everything Jerma has verbally said online.</Description>
+    <Developer>Bergbok (https://github.com/Bergbok)</Developer>
+    <Image height='16' width='16' type='image/avif'>https://search.jerma.io/assets/images/favicon.avif</Image>
+    <InputEncoding>UTF-8</InputEncoding>
+    <Language>en-us</Language>
+    <Query role='example' searchTerms='shpee' />
+    <ShortName>Jerma Search</ShortName>
+    <Url type='text/html' template='https://search.jerma.io/?/{searchTerms}' />
+</OpenSearchDescription>
