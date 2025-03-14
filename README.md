@@ -3,9 +3,9 @@
 <!-- Statistics -->
 
 ```
-Video Count    : 2112
-Word Count     : 25,834,622
-Duration       : 5515:19:19
+Video Count    : 2122
+Word Count     : 26,008,536
+Duration       : 5547:06:08
 Oldest Video   : 2011-06-11
 Latest Video   : 2025-03-10
 ```
