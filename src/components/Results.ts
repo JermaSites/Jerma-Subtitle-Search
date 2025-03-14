@@ -69,6 +69,7 @@ async function performSearch(query: string, signal: AbortSignal): Promise<Search
     const result: SearchResult[] = subtitles.search(query, {
         combineWith: query.includes('*') ? 'OR' : 'AND',
         fuzzy: false,
+        prefix: useWordBoundaries ? false : true,
         filter: (entry) => {
             queryRegex.lastIndex = 0;
             return queryRegex.test(entry.subtitles);
