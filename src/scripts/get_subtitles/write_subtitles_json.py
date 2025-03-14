@@ -12,6 +12,7 @@ def write_json(subs_path: str, output_path: str):
     seperator_pattern = re.compile(r'[- _]+')
     title_pattern = re.compile(r'stream was "(.*?)"')
     year_estimate_pattern = re.compile(r'\d{4}(?:[\s-]+\d{4})?')
+    title_trim_pattern = re.compile(r'Jerma985\s*Full\s*Stream:\s*|Jerma\s*Streams?\s*-\s*|Jerma985\s*\|\s*', re.IGNORECASE)
 
     processed_dir = os.path.join(subs_path, 'processed')
     os.makedirs(processed_dir, exist_ok=True)
@@ -68,9 +69,11 @@ def write_json(subs_path: str, output_path: str):
                             if int(stream_date[0:4]) < 2010:
                                 stream_date = None
 
+                    title = title_trim_pattern.sub('', data['title'])
+
                     entries.append({
                         'id': data['id'],
-                        'title': data['title'],
+                        'title': title,
                         'duration': data['duration_string'],
                         'thumbnail': data['thumbnail'],
                         'upload_date': parse_date(data['upload_date'], yearfirst=True).strftime('%Y-%m-%d'),
