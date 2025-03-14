@@ -2358,7 +2358,7 @@ def refine_subtitles(subs_path: str):
                     replacement_counts[f'{k} -> {v}'] = replacement_counts.get(f'{k} -> {v}', 0) + count
 
                 abbreviations_ending_with_periods__replacements = {
-                    'dr': 'Dr',
+                    'dr': 'Dr.',
                     'mr': 'Mr.',
                     'mrs': 'Mrs.',
                     'ms': 'Ms.',
