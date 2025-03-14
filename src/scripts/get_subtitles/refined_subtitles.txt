@@ -418,6 +418,7 @@ F.E.A.R..en.lrc
 F.E.A.R._2_Project_Origin.en.lrc
 F.E.A.R._Part_2_Finale.en.lrc
 F2P_The_Future_of_Gaming_Tribes_Ascend.en.lrc
+FATE_Reawakened.en.lrc
 FMV_Games_Part_2.en.lrc
 FMV_Games_Part_3.en.lrc
 FMV_Games_Part_4.en.lrc
@@ -595,6 +596,7 @@ Gotham_Knights_Part_2.en.lrc
 Gotham_Knights_Part_3_With_HasanAbi.en.lrc
 Gothic_1_and_2.en.lrc
 Gothic_3.en.lrc
+Grab_Bag_Game_Night.en.lrc
 Grab_That_Auto_5.en.lrc
 Grandpa_Invades_JermaCraft_Farm_Building_Episode_9.en.lrc
 Grandpa_Invades_JermaCraft_Who_Built_This_Episode_10..en.lrc
