@@ -15,7 +15,7 @@
 3DO_Games_Part_3.en.lrc
 3DO_Games_Part_4.en.lrc
 3DO_Games_Part_5.en.lrc
-3DO_Games_Part_6_Reuploaded_For_Copyright.en.lrc
+3DO_Games_Part_6.en.lrc
 4000_Subs_Computer_Set_Up_Video_and_Who_is_THE_EGG.en.lrc
 700_000_Games.en.lrc
 700_000_Games_Version_2.0.en.lrc
@@ -102,7 +102,7 @@ Big_Brain_Academy_Brain_vs._Brain.en.lrc
 Biglands_A_Game_Made_By_Kids.en.lrc
 Binding_of_Isaac_WotL._Samson_Fun_and_Grandpa_Tries_Livestream_Session.en.lrc
 Binding_of_Isaac_WotL_Going_All_The_Way_Livestream_Session.en.lrc
-Binding_of_Isaac_WotL_Sunburnt_Jerma_Livestream_Session_Re_upload.en.lrc
+Binding_of_Isaac_WotL_Sunburnt_Jerma_Livestream_Session.en.lrc
 Binding_of_Issac_Antibirth_Part_2.en.lrc
 Bio_Inc._Redemption.en.lrc
 Black_Ops_2_Bankrupt_That_Bastard_Sticks_and_Stones_with_Friends.en.lrc
@@ -252,7 +252,7 @@ Dark_Souls_Remastered_Part_2.en.lrc
 Dark_Souls_Remastered_Part_3.en.lrc
 Dark_Souls_Remastered_Part_4.en.lrc
 Dark_Souls_Remastered_Part_5.en.lrc
-Dark_Souls_Remastered_Part_6_Reuploaded.en.lrc
+Dark_Souls_Remastered_Part_6.en.lrc
 Dark_Souls_Remastered_Part_7_Finale.en.lrc
 Dark_Souls_Remastered_Part_8_Bonus.en.lrc
 Dark_Souls_Remastered_Randomizer.en.lrc
@@ -619,7 +619,7 @@ Green_Screen_Movie_Night_Part_7.en.lrc
 Green_Screen_Stream_Part_3.en.lrc
 Grey_Absolutely_Terrifying_HL2_Horror_Mod_Part_2.en.lrc
 Grey_Half_Life_2_Horror_Mod_Get_Scared_Part_1.en.lrc
-Grey_Livestream_Session_Part_3_Get_Pumped_for_Halloween_Re_Upload.en.lrc
+Grey_Livestream_Session_Part_3_Get_Pumped_for_Halloween.en.lrc
 Guest_starring_on_Kitboga.en.lrc
 Gun.en.lrc
 HAPPY_BIRTHDAY_MAN_Jerma_ANIMATED.en.lrc
@@ -1767,6 +1767,7 @@ The_Daedalus_Encounter.en.lrc
 The_Deadliest_Warrior.edu.com.mp4.en.lrc
 The_Death_of_Jerma.en.lrc
 The_Detective_Stream.en.lrc
+The_Diable_3_Incident.en.lrc
 The_Dingus_and_Dungus_Task_Force_CoJ_The_Cartel.en.lrc
 The_Dollhouse_Stream_Behind_the_Scenes.en.lrc
 The_Dollhouse_Stream_Day_1_Overlay_Enabled.en.lrc
@@ -2107,7 +2108,6 @@ jigsaw_puzzle_speedrun_wr_attempt.en.lrc
 ottos_grotto_Jerma_animated.en.lrc
 pours_detergent_on_the_floor_Jerma_Animated.en.lrc
 rare_off_stream_jerma_discord_call_with_ster.en.lrc
-reupload_The_Diable_3_Incident.en.lrc
 teacher_noise_Jerma985_animated.en.lrc
 the_streamer_awards_but_its_just_jerma.en.lrc
 unpaid_intern_but_its_just_jerma.en.lrc
