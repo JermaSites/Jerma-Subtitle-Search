@@ -3,6 +3,7 @@ import re
 import json
 import shutil
 import argparse
+from datetime import datetime
 from argparse import ArgumentDefaultsHelpFormatter
 from dateutil.parser import parse as parse_date, ParserError
 
@@ -67,18 +68,20 @@ def write_json(subs_path: str, output_path: str):
                         year_match = year_estimate_pattern.search(data['description'])
                         if year_match:
                             stream_date = seperator_pattern.sub('-', year_match.group(0))
-                            if int(stream_date[0:4]) < 2010:
-                                stream_date = None
+
+                    if int(stream_date[0:4]) < 2010 or int(stream_date[0:4]) > datetime.now().year:
+                        stream_date = None
 
                     title = title_trim_pattern.sub('', data['title'])
                     thumbnail_url = thumbnail_sqp_pattern.sub('', data['thumbnail'])
+                    upload_date = parse_date(data['upload_date'], yearfirst=True).strftime('%Y-%m-%d')
 
                     entries.append({
                         'id': data['id'],
                         'title': title,
                         'duration': data['duration_string'],
                         'thumbnail': thumbnail_url,
-                        'upload_date': parse_date(data['upload_date'], yearfirst=True).strftime('%Y-%m-%d'),
+                        'upload_date': upload_date,
                         'stream_title': stream_title,
                         'stream_date': stream_date,
                         'subtitle_filename': lrc_filename,
