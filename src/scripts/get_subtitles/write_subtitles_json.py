@@ -13,6 +13,7 @@ def write_json(subs_path: str, output_path: str):
     title_pattern = re.compile(r'stream was "(.*?)"')
     year_estimate_pattern = re.compile(r'\d{4}(?:[\s-]+\d{4})?')
     title_trim_pattern = re.compile(r'Jerma985\s*Full\s*Stream:\s*|Jerma\s*Streams?\s*-\s*|Jerma985\s*\|\s*', re.IGNORECASE)
+    thumbnail_sqp_pattern = re.compile(r'\?sqp=.*')
 
     processed_dir = os.path.join(subs_path, 'processed')
     os.makedirs(processed_dir, exist_ok=True)
@@ -70,12 +71,13 @@ def write_json(subs_path: str, output_path: str):
                                 stream_date = None
 
                     title = title_trim_pattern.sub('', data['title'])
+                    thumbnail_url = thumbnail_sqp_pattern.sub('', data['thumbnail'])
 
                     entries.append({
                         'id': data['id'],
                         'title': title,
                         'duration': data['duration_string'],
-                        'thumbnail': data['thumbnail'],
+                        'thumbnail': thumbnail_url,
                         'upload_date': parse_date(data['upload_date'], yearfirst=True).strftime('%Y-%m-%d'),
                         'stream_title': stream_title,
                         'stream_date': stream_date,
