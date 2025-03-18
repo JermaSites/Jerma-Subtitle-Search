@@ -136,6 +136,7 @@ export const Results = () => {
     let searchQuery: string;
     let searchResults: SearchResult[] = [];
     let visibleResults: SearchResult[] = [];
+    let wordBoundaryPreviouslyEnabled: boolean = false;
 
     const debouncedSearch = debounce(async (query: string) => {
         if (currentSearchController) {
@@ -209,9 +210,12 @@ export const Results = () => {
                 return;
             }
 
-            if (searchQuery !== previousQuery) {
+            const wordBoundaryEnabled = localStorage.getItem('use-word-boundaries') === 'true';
+
+            if (searchQuery !== previousQuery || wordBoundaryEnabled !== wordBoundaryPreviouslyEnabled) {
                 currentPage = 1;
                 previousQuery = searchQuery;
+                wordBoundaryPreviouslyEnabled = wordBoundaryEnabled;
                 debouncedSearch(searchQuery);
             }
 
