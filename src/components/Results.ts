@@ -6,6 +6,7 @@ import '../styles/Results.scss';
 
 let queryRegex: RegExp;
 let useWordBoundaries: boolean;
+let latestPlayedVideoID: string;
 const expandState: Record<string, boolean> = {};
 
 function debounce(func: Function, delay: number) {
@@ -90,10 +91,29 @@ async function performSearch(query: string, signal: AbortSignal): Promise<Search
 };
 
 export async function seekEmbed(videoID: string, second: number) {
+    latestPlayedVideoID = videoID;
     const embed = document.querySelector(`lite-youtube[videoid='${videoID}']`);
     try {
         // @ts-ignore
         const player: YT.Player = await embed.getYTPlayer();
+
+        if (localStorage.getItem('one-player-limit') === 'true') {
+            player.addEventListener('onStateChange', (event: YT.OnStateChangeEvent) => {
+                if (event.data === YT.PlayerState.PLAYING) {
+                    if (videoID !== latestPlayedVideoID) {
+                        player.pauseVideo();
+                    } else {
+                        document.querySelectorAll('lite-youtube > iframe').forEach((iframe) => {
+                            const liteYtEmbed = iframe.closest('lite-youtube');
+                            if (liteYtEmbed && liteYtEmbed.getAttribute('videoid') !== latestPlayedVideoID) {
+                                (iframe as HTMLIFrameElement).contentWindow?.postMessage(JSON.stringify({ event: 'command', func: 'pauseVideo', args: [] }), '*')
+                            }
+                        });
+                    }
+                }
+            });
+        }
+
         player.seekTo(second, true);
         player.playVideo();
     } catch {
@@ -228,7 +248,13 @@ export const Results = () => {
                                 params: 'color=white', // https://developers.google.com/youtube/player_parameters
                                 style: `background-image: url('${result.thumbnail}')`,
                                 title: result.title,
-                                videoid: result.id
+                                videoid: result.id,
+                                onclick: (e: Event) => {
+                                    // @ts-ignore
+                                    e.redraw = false;
+                                    e.preventDefault();
+                                    seekEmbed(result.id, 0);
+                                }
                             })],
                             m('div.video-info', [
                                 m('h3#title', result.title),

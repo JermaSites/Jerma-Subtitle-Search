@@ -14,6 +14,10 @@ document.addEventListener('DOMContentLoaded', () => {
         changeSetting('use-word-boundaries', 'false');
     }
 
+    if (!localStorage.getItem('one-player-limit')) {
+        changeSetting('one-player-limit', 'true');
+    }
+
     const font = localStorage.getItem('font') || 'Courier New, monospace';
     changeSetting('font', font);
 
@@ -154,6 +158,22 @@ export const SettingsModal = () => {
                                     m('mark', 'hi'),
                                     's.'
                                 ])
+                            ]),
+                            m('br'),
+                            m('label', { for: 'one-player-limit' }, [
+                                m('input#one-player-limit', {
+                                    checked: localStorage.getItem('one-player-limit') === 'true',
+                                    type: 'checkbox',
+                                    onchange: (e: Event) => {
+                                        // @ts-ignore
+                                        e.redraw = false;
+                                        const target = e.target as HTMLInputElement;
+                                        changeSetting('one-player-limit', target.checked.toString());
+                                    }
+                                }),
+                                'One player limit',
+                                m('br'),
+                                m('small.setting-description', 'Pauses embeds so that only one plays at a time.')
                             ]),
                             m('br'),
                             m('label', { for: 'render-amount' }, [
