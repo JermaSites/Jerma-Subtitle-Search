@@ -95,6 +95,7 @@ export async function seekEmbed(videoID: string, second: number) {
         // @ts-ignore
         const player: YT.Player = await embed.getYTPlayer();
         player.seekTo(second, true);
+        player.playVideo();
     } catch {
         console.error('Failed to seek video', videoID);
     }
