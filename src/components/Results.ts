@@ -258,14 +258,16 @@ export const Results = () => {
                             })],
                             m('div.video-info', [
                                 m('h3#title', result.title),
-                                m('p#stream-title', [
-                                    m('b', 'Stream Title: '),
-                                    result.stream_title || 'N/A'
-                                ]),
-                                m('p#stream-date', [
-                                    m('b', 'Streamed: '),
-                                    result.stream_date || 'N/A'
-                                ]),
+                                result.stream_title &&
+                                    m('p#stream-title', [
+                                        m('b', 'Stream Title: '),
+                                        result.stream_title
+                                    ]),
+                                result.stream_date &&
+                                    m('p#stream-date', [
+                                        m('b', 'Streamed: '),
+                                        result.stream_date
+                                    ]),
                                 m('p#upload-date', [
                                     m('b', 'Uploaded: '),
                                     result.upload_date
