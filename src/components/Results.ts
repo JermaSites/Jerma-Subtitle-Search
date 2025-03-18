@@ -258,14 +258,6 @@ export const Results = () => {
                             })],
                             m('div.video-info', [
                                 m('h3#title', result.title),
-                                m('p#duration', [
-                                    m('b', 'Duration: '),
-                                    result.duration
-                                ]),
-                                m('p#upload-date', [
-                                    m('b', 'Uploaded: '),
-                                    result.upload_date
-                                ]),
                                 m('p#stream-title', [
                                     m('b', 'Stream Title: '),
                                     result.stream_title || 'N/A'
@@ -273,6 +265,14 @@ export const Results = () => {
                                 m('p#stream-date', [
                                     m('b', 'Streamed: '),
                                     result.stream_date || 'N/A'
+                                ]),
+                                m('p#upload-date', [
+                                    m('b', 'Uploaded: '),
+                                    result.upload_date
+                                ]),
+                                m('p#duration', [
+                                    m('b', 'Duration: '),
+                                    result.duration
                                 ])
                             ]),
                             m('ul.subtitle-matches',
