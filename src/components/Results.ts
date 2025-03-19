@@ -464,7 +464,12 @@ export const Results = () => {
                         m('section#query-tips', [
                             m('ul', [
                                 m('li', 'For numbers: try different combinations of typing out and digitizing.'),
-                                m('li', 'Substitute potential special characters with spaces or a wildcard (*).')
+                                m('li', 'Substitute potential special characters with spaces or a wildcard (*).'),
+                                m('li', [
+                                    'Generally American spelling should be used (',
+                                    m('a', { href: 'https://en.wikipedia.org/wiki/Wikipedia:List_of_spelling_variants' }, 'list of spelling variants'),
+                                    ').'
+                                ])
                             ]),
                             m('p', [
                                 'Wildcard characters (*) match zero or more characters.',
