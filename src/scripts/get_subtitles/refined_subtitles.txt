@@ -183,6 +183,7 @@ Christmas_Eve_Party_Stream.en.lrc
 Christmas_Special_Stream_Awards_2022_Behind_the_Scenes.en.lrc
 Christmas_Special_Stream_Awards_2022_Jerma985_Channel_Version.en.lrc
 Christmas_Special_Stream_Awards_2022_realjermachristmas_Channel_Version.en.lrc
+Chrono_Trigger.en.lrc
 Cities_Skylines.en.lrc
 Cities_Skylines_Part_2.en.lrc
 Citizen_Kabuto_Paladins.en.lrc
