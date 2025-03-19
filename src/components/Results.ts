@@ -278,7 +278,7 @@ export const Results = () => {
                                 ]),
                                 m('p#duration', [
                                     m('b', 'Duration: '),
-                                    result.duration
+                                    result.duration.includes(':') ? result.duration : `0:${result.duration}`
                                 ])
                             ]),
                             m('ul.subtitle-matches',
