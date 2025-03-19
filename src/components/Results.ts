@@ -99,6 +99,10 @@ export async function seekEmbed(videoID: string, second: number) {
 
         if (localStorage.getItem('one-player-limit') === 'true') {
             player.addEventListener('onStateChange', (event: YT.OnStateChangeEvent) => {
+                if (event.data === YT.PlayerState.BUFFERING) {
+                    latestPlayedVideoID = videoID;
+                }
+
                 if (event.data === YT.PlayerState.PLAYING) {
                     if (videoID !== latestPlayedVideoID) {
                         player.pauseVideo();
