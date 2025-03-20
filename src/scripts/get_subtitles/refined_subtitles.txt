@@ -184,6 +184,7 @@ Christmas_Special_Stream_Awards_2022_Behind_the_Scenes.en.lrc
 Christmas_Special_Stream_Awards_2022_Jerma985_Channel_Version.en.lrc
 Christmas_Special_Stream_Awards_2022_realjermachristmas_Channel_Version.en.lrc
 Chrono_Trigger.en.lrc
+Chrono_Trigger_Part_2.en.lrc
 Cities_Skylines.en.lrc
 Cities_Skylines_Part_2.en.lrc
 Citizen_Kabuto_Paladins.en.lrc
@@ -948,6 +949,7 @@ Mordor_Mind_Invader.en.lrc
 Morphies_Law.en.lrc
 Mortal_Kombat_X_The_Silent_Try_hards.en.lrc
 Mortal_Kwombat_Jermany_Vs._The_Sterminator.en.lrc
+Motor_Town_Behind_The_Wheel.en.lrc
 Mount_Blade_Warband.en.lrc
 MultiVersus.en.lrc
 MultiVersus_Part_2_With_Ludwig_Cr1TiKaL_and_HasanAbi.en.lrc
@@ -1124,6 +1126,7 @@ R.E.P.O._with_Ster_Poke_and_Vinny.en.lrc
 R.I.P.D._Pizza_Department.en.lrc
 R.I.P._GTA_4.en.lrc
 RISK_Global_Domination_With_Ludwig_Cr1TiKaL_and_Connor.en.lrc
+ROGUE_LIGHT_DECK_BUILDER.en.lrc
 Radiation_Monster_Vs._The_Goof_Guys.en.lrc
 Rain_World.en.lrc
 Ranboos_Generation_Loss_But_MOSTLY_Jermastream_Edit.en.lrc
