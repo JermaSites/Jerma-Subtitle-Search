@@ -11,7 +11,7 @@ def write_json(subs_path: str, output_path: str):
     date_pattern = re.compile(r'str?eamed\/recorded on (.*?)\)|Streamed (.*?)$')
     metadata_pattern = re.compile(r'\[\D.*?\]\n+')
     seperator_pattern = re.compile(r'[- _]+')
-    title_pattern = re.compile(r'stream was "(.*?)"')
+    stream_title_pattern = re.compile(r'stream was "(.*?)"')
     year_estimate_pattern = re.compile(r'\d{4}(?:[\s-]+\d{4})?')
     title_trim_pattern = re.compile(r'Jerma985\s*Full\s*Stream:\s*|Jerma\s*Streams?\s*-\s*|Jerma985\s*\|\s*', re.IGNORECASE)
     thumbnail_sqp_pattern = re.compile(r'\?sqp=.*')
@@ -47,7 +47,7 @@ def write_json(subs_path: str, output_path: str):
                     with open(info_path, 'r', encoding='utf-8') as f:
                         data = json.load(f)
 
-                    title_match = title_pattern.search(data['description'])
+                    title_match = stream_title_pattern.search(data['description'])
                     stream_title = title_match.group(1) if title_match else None
                     if stream_title == '???':
                         stream_title = None
