@@ -150,7 +150,7 @@ def get_subtitles(urls: list, cookies_path: str, subs_path: str, prefer_autogene
 def rename_files(subs_path: str):
     prefix_pattern = re.compile(r'^(?:Old_)?(?:Jerma(?:985)?(?:_s)?|Livestream)_(?!and|tries)(?:Full_Stream|Stream(?:s)?)?(?:_with_Chat)?[_-]*', flags=re.IGNORECASE)
     seperator_pattern = re.compile(r'[-+_]+')
-    suffix_pattern = re.compile(r'(?:_with_Chat)?(?:_v\d+)?(?=\.)', flags=re.IGNORECASE)
+    suffix_pattern = re.compile(r'(?:_with_Chat)?(?:_v\d+)?(?:_reuploade?d?)?(?=\.)', flags=re.IGNORECASE)
     year_pattern = re.compile(r'(?=\d)0_s')
     _s_pattern = re.compile(r'_s(?=[_.])')
     _S_pattern = re.compile(r'_S(?=[_.])')

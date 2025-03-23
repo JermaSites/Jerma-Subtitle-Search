@@ -13,7 +13,7 @@ def write_json(subs_path: str, output_path: str):
     seperator_pattern = re.compile(r'[- _]+')
     stream_title_pattern = re.compile(r'stream was "(.*?)"')
     year_estimate_pattern = re.compile(r'\d{4}(?:[\s-]+\d{4})?')
-    title_trim_pattern = re.compile(r'Jerma985\s*Full\s*Stream:\s*|Jerma\s*Streams?\s*-\s*|Jerma985\s*\|\s*', re.IGNORECASE)
+    title_trim_pattern = re.compile(r'Jerma985\s*Full\s*Stream:\s*|Jerma\s*Streams?\s*-\s*|Jerma985\s*\|\s*|\s*[([]?reuploade?d?[)]]?', re.IGNORECASE)
     thumbnail_sqp_pattern = re.compile(r'\?sqp=.*')
 
     processed_dir = os.path.join(subs_path, 'processed')
