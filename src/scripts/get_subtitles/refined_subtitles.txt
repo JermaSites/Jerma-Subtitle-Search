@@ -185,6 +185,7 @@ Christmas_Special_Stream_Awards_2022_Jerma985_Channel_Version.en.lrc
 Christmas_Special_Stream_Awards_2022_realjermachristmas_Channel_Version.en.lrc
 Chrono_Trigger.en.lrc
 Chrono_Trigger_Part_2.en.lrc
+Chrono_Trigger_Part_3.en.lrc
 Cities_Skylines.en.lrc
 Cities_Skylines_Part_2.en.lrc
 Citizen_Kabuto_Paladins.en.lrc
@@ -809,6 +810,7 @@ LINCH_and_Lost_Castle_with_Etalyx.en.lrc
 Late_Shift_Part_1.en.lrc
 Late_Shift_Part_2.en.lrc
 Later_Alligator.en.lrc
+Laundry_Store_Simulator.en.lrc
 Leaf_Blower_Revolution_Idle_Game.en.lrc
 Left_4_Dead_2_Survival_Mode_Fails_w_Boo_St3alth_and_Burgah_Boy.en.lrc
 Left_4_Dead_2_Versus_Why_U_No_Work_Survival_Goofballs.en.lrc
@@ -2088,6 +2090,7 @@ Worldbox.en.lrc
 Worms_Revolution_I_m_Terrible_Goofy_Highlights_w_Orb_Shibby.en.lrc
 Worms_W.M.D_with_Ster_Poke_and_Vinny.en.lrc
 Wreckfest.en.lrc
+Wreckfest_2.en.lrc
 Wrestling_Empire.en.lrc
 Wrestling_Empire_Part_2.en.lrc
 Wrestling_Empire_Part_3.en.lrc
