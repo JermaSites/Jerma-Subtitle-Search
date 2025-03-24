@@ -745,6 +745,7 @@ Iron_Lung.en.lrc
 Itch.io_Games_and_Everhood_Part_0.en.lrc
 JERMANIA_2014.en.lrc
 JUICED_but_its_mostly_JERMA_ft._Ludwig_xQc.en.lrc
+JUMP_KING_QUEST.en.lrc
 Jema985_Full_Stream_The_Four_Kings_Casino.en.lrc
 Jerma Streams _ Urban Runner (720p_60fps_H264_128kbit_AAC).en.lrc
 JermaCraft_Cave_Dweller_Episode_3.en.lrc
@@ -1199,6 +1200,7 @@ Risk_of_Rain_2_with_Etalyx.en.lrc
 Road_Redemption_is_Completely_Absurd.en.lrc
 Robert_Ludlums_The_Bourne_Conspiracy.en.lrc
 Roblox_With_Ster_and_Pokelawls.en.lrc
+RoboCop_Rogue_City.en.lrc
 Rogue_Legacy_My_Wonderful_Children_Live_Session.en.lrc
 Rogue_Legacy_Onward_to_the_Forest_Live_Session.en.lrc
 Role_playing_Duck_Gamers.en.lrc
