@@ -481,8 +481,8 @@ export const Results = () => {
                                 'Spaces match non-alphanumeric characters.'
                             ])
                         ]),
-                        m('section#advanced-usage', [
-                            m('h3', 'Advanced Usage'),
+                        m('details#advanced-usage', [
+                            m('summary', 'Advanced Usage'),
                             m('p', [
                                 'You can interact with the underlying ',
                                 m('a', { href: 'https://github.com/lucaong/minisearch' }, 'MiniSearch'),
@@ -493,7 +493,7 @@ export const Results = () => {
                                 '.',
                                 m('br'),
                                 'For example: ',
-                                m('code', `subtitles.search(\'${searchQuery}\', { combineWith: 'OR', fuzzy: true })`)
+                                m('code', `subtitles.search('${searchQuery}', { combineWith: 'OR', fuzzy: true })`)
                             ]),
                             m('p', [
                                 'The subtitle files are also downloadable if you\'d like to search through them externally.',

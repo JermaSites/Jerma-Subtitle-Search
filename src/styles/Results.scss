@@ -152,14 +152,6 @@
             list-style-position: inside;
         }
 
-        section#advanced-usage {
-            font-size: 1rem;
-
-            @media screen and (min-width: 768px) {
-                font-size: 0.8rem;
-            }
-        }
-
         > section:nth-child(1) > p {
             overflow: hidden;
             text-overflow: ellipsis;

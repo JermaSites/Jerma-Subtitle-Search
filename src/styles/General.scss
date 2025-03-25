@@ -65,6 +65,12 @@ mark {
     padding: 0.1rem;
 }
 
+details {
+    summary {
+       cursor: pointer;
+    }
+}
+
 // *,
 // *::before,
 // *::after {
