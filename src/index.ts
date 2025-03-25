@@ -170,4 +170,12 @@ window.addEventListener('keydown', (e: KeyboardEvent) => {
         changeSetting('use-word-boundaries', (!(localStorage.getItem('use-word-boundaries') === 'true')).toString());
         m.redraw();
     }
+
+    if (e.altKey && e.key.toLowerCase() === 'l') {
+        e.preventDefault();
+        const searchBar = document.querySelector('input[name="searchQuery"]') as HTMLInputElement;
+        if (searchBar) {
+            searchBar.focus();
+        }
+    }
 });
