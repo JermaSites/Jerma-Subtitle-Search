@@ -30,7 +30,7 @@ export const ProgressSpinner = () => {
                     break;
             }
 
-            return m('div#loading-indicator', [
+            return m('div#loading-indicator', { title: vnode.attrs.phase }, [
                 m(`div#loading-graphic-container.${containerClass}`, [
                     m('img#loading-graphic', {
                         src: imageSrc,

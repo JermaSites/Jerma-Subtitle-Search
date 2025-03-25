@@ -272,15 +272,15 @@ export const Results = () => {
                                         result.stream_title
                                     ]),
                                 result.stream_date &&
-                                    m('p#stream-date', [
+                                    m('p#stream-date', { title: result.stream_date.length === 4 ? 'YYYY' : 'YYYY-MM-DD' }, [
                                         m('b', 'Streamed: '),
                                         result.stream_date
                                     ]),
-                                m('p#upload-date', [
+                                m('p#upload-date', { title: 'YYYY-MM-DD' }, [
                                     m('b', 'Uploaded: '),
                                     result.upload_date
                                 ]),
-                                m('p#duration', [
+                                m('p#duration', { title: result.duration.split(':').length - 1 === 2 ? 'H:MM:SS' : 'M:SS' }, [
                                     m('b', 'Duration: '),
                                     result.duration.includes(':') ? result.duration : `0:${result.duration}`
                                 ])
@@ -356,7 +356,8 @@ export const Results = () => {
                                                         if (e.currentTarget) {
                                                             e.currentTarget.addEventListener('touchend', () => clearTimeout(timer));
                                                         }
-                                                    }
+                                                    },
+                                                    title: 'HH:MM:SS'
                                                 }, formatTimestamp(timestamp)),
                                                 // This is kinda cursed, but it works
                                                 // Maybe once FlexSearch matures this can be done more elegantly (v0.8 should return highlights along with search results)
@@ -429,7 +430,8 @@ export const Results = () => {
                                                         } else {
                                                             window.open(`https://github.com/JermaSites/Jerma-Subtitle-Search/edit/main/src/assets/subtitles/${result.subtitle_filename}#L4`, '_blank');
                                                         }
-                                                    }
+                                                    },
+                                                    title: 'Edit on GitHub'
                                                 },
                                                 [
                                                     m('svg.icon', { xmlns: 'http://www.w3.org/2000/svg', viewBox: '0 0 24 24', role: 'img', 'aria-label': 'edit icon' }, [

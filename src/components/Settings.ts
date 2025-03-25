@@ -159,6 +159,7 @@ export const SettingsModal = () => {
                                 m('input#render-amount', {
                                     min: 0,
                                     step: 25,
+                                    title: '',
                                     type: 'number',
                                     value: localStorage.getItem('render-amount') || (window.innerWidth <= 768 ? 100 : 200),
                                     onchange: (e: Event) => {
