@@ -5,6 +5,7 @@ import { subtitles, subtitlesLoaded } from '../index.ts';
 import '../styles/Results.scss';
 
 let queryRegex: RegExp;
+let matchLengthLimit: number;
 let useWordBoundaries: boolean;
 let latestPlayedVideoID: string;
 const expandState: Record<string, boolean> = {};
@@ -39,7 +40,6 @@ async function performSearch(query: string, signal: AbortSignal): Promise<Search
 
     // Accounts for punctuation within words, and timestamps between words
     const timeBeforeFilter = performance.now();
-    useWordBoundaries = localStorage.getItem('use-word-boundaries') === 'true';
     const wordBoundary = useWordBoundaries ? '\\b' : '';
 
     queryRegex = new RegExp(
@@ -52,7 +52,7 @@ async function performSearch(query: string, signal: AbortSignal): Promise<Search
                     .map((char, charIndex) => {
                         const isLastCharOfLastTerm = wordIndex === words.length - 1 && charIndex === chars.length - 1;
                         if (char === '*') {
-                            return isLastCharOfLastTerm ? '' : '.*?';
+                            return isLastCharOfLastTerm ? '' : `.${ matchLengthLimit === 0 ? '*' : `{0,${matchLengthLimit}}` }?`;
                         }
                         return isLastCharOfLastTerm ? char : `${char}[^\\[A-Za-z0-9]*?`;
                     })
@@ -134,6 +134,7 @@ export const Results = () => {
     let currentSearchController: AbortController | null = null;
     let matchCount: number;
     let observedResultItem: Element | null = null;
+    let previousMatchLengthLimit: number = -1;
     let previousQuery: string;
     let resultsPerPage: number;
     let searched: boolean = false;
@@ -214,12 +215,18 @@ export const Results = () => {
                 return;
             }
 
-            const wordBoundaryEnabled = localStorage.getItem('use-word-boundaries') === 'true';
+            useWordBoundaries = localStorage.getItem('use-word-boundaries') === 'true';
+            matchLengthLimit = parseInt(localStorage.getItem('wildcard-match-length-limit') || (window.innerWidth <= 768 ? '50' : '100'), 10);
 
-            if (searchQuery !== previousQuery || wordBoundaryEnabled !== wordBoundaryPreviouslyEnabled) {
+            if (isNaN(matchLengthLimit)) {
+                matchLengthLimit = window.innerWidth <= 768 ? 50 : 100;
+            }
+
+            if (searchQuery !== previousQuery || useWordBoundaries !== wordBoundaryPreviouslyEnabled || previousMatchLengthLimit !== matchLengthLimit) {
                 currentPage = 1;
                 previousQuery = searchQuery;
-                wordBoundaryPreviouslyEnabled = wordBoundaryEnabled;
+                wordBoundaryPreviouslyEnabled = useWordBoundaries;
+                previousMatchLengthLimit = matchLengthLimit;
                 debouncedSearch(searchQuery);
             }
 

@@ -19,6 +19,10 @@ document.addEventListener('DOMContentLoaded', () => {
         changeSetting('one-player-limit', 'true');
     }
 
+    if (!localStorage.getItem('wildcard-match-length-limit')) {
+        changeSetting('wildcard-match-length-limit', window.innerWidth <= 768 ? '50' : '100');
+    }
+
     const font = localStorage.getItem('font') || 'Courier New, monospace';
     changeSetting('font', font);
 
@@ -210,6 +214,47 @@ export const SettingsModal = () => {
                                 } results at once`,
                                 m('br'),
                                 m('small.setting-description', 'Enter 0 to load all.')
+                            ]),
+                            m('br'),
+                            m('label', {
+                                for: 'wildcard-match-length-limit'
+                            },
+                            [
+                                m('input#wildcard-match-length-limit', {
+                                    min: 0,
+                                    step: 25,
+                                    title: '',
+                                    type: 'number',
+                                    value: localStorage.getItem('wildcard-match-length-limit') || (window.innerWidth <= 768 ? 50 : 100),
+                                    onchange: (e: Event) => {
+                                        let value = parseInt((e.target as HTMLInputElement).value, 10);
+
+                                        if (isNaN(value)) {
+                                            value = window.innerWidth <= 768 ? 50 : 100;
+                                        }
+
+                                        if (value < 0) {
+                                            value = 25;
+                                        } else if (value > 9000 && !over9000Played) {
+                                            playAudio('/assets/audio/IT\'S-OVER-9000.opus');
+                                            over9000Played = true;
+                                        }
+
+                                        changeSetting('wildcard-match-length-limit', value.toString());
+                                    }
+                                }),
+                                `Limit * matches to ${
+                                    (() => {
+                                        const renderAmount = localStorage.getItem('wildcard-match-length-limit') || (window.innerWidth <= 768 ? 50 : 100);
+                                        return renderAmount === '0' ? '∞' : renderAmount;
+                                    })()
+                                } characters`,
+                                m('br'),
+                                m('small.setting-description',
+                                    'Can prevent overly long wildcard (*) matches.',
+                                    m('br'),
+                                    'Enter 0 to uncap (not recommended).'
+                                )
                             ])
                         ]),
                         m('h3', 'Theme'),
