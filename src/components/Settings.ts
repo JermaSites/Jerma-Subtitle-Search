@@ -1,4 +1,5 @@
 import m from 'mithril';
+import { playAudio } from './Secrets';
 import '../styles/Settings.scss';
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -192,10 +193,7 @@ export const SettingsModal = () => {
                                         if (value < 25 && value !== 0) {
                                             value = 25;
                                         } else if (value > 9000 && !over9000Played) {
-                                            const over9000 = document.createElement('audio');
-                                            over9000.setAttribute('autoplay', 'true');
-                                            over9000.setAttribute('src', '/assets/audio/IT\'S-OVER-9000.opus');
-                                            document.body.appendChild(over9000);
+                                            playAudio('/assets/audio/IT\'S-OVER-9000.opus');
                                             over9000Played = true;
                                         }
 

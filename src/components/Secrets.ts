@@ -2,6 +2,11 @@ import m, { type Vnode } from 'mithril';
 import { seekEmbed } from './Results';
 import '../styles/Secrets.scss';
 
+export function playAudio(url: string) {
+    const audio = new Audio(url);
+    audio.play();
+}
+
 export const Secrets = () => {
     const buffyRegex = new RegExp(/\bbuffy\b/, 'i');
     const gongoRegex = new RegExp(/\bgongo\b/, 'i');
@@ -127,9 +132,9 @@ export const Secrets = () => {
                     setLogoLink('https://www.twitch.tv/greatsphynx/clip/RamshackleUnsightlyBulgogiTwitchRPG-Uzk-4z1kJvKa_KVI');
                     setSecretTheme('osmo');
                     setTitle('OSMO');
+                    playAudio('/assets/audio/OSMO.opus');
 
                     elements.push(
-                        m('audio', { autoplay: true, src: '/assets/audio/OSMO.opus' }),
                         m('img#omoJam', { src: '/assets/images/omoJam.avif', alt: 'osmo from gongo jamming' }),
                         m('img#omoP', { src: '/assets/images/omoP.avif', alt: 'osmo from gongo looking happy' })
                     );
@@ -176,10 +181,7 @@ export const Secrets = () => {
                     break;
                 case scornRegex.test(vnode.attrs.query):
                     setSecretTheme('SCORN');
-
-                    elements.push(
-                        m('audio', { autoplay: true, src: '/assets/audio/SCORN.opus' })
-                    );
+                    playAudio('/assets/audio/SCORN.opus');
                     break;
                 case sphynxRegex.test(vnode.attrs.query):
                     setFavicon('/assets/images/spynx.avif');
