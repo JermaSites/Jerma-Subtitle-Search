@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 let hasPreloadedFonts: boolean = false;
 
-function changeSetting(setting: string, value: string): void {
+export function changeSetting(setting: string, value: string): void {
     localStorage.setItem(setting, value);
 
     switch (setting) {
@@ -137,28 +137,6 @@ export const SettingsModal = () => {
                                 'Synchronous initial load',
                                 m('br'),
                                 m('small.setting-description', 'Speeds up \'Parsing subtitles\' phase significantly, but may briefly freeze.')
-                            ]),
-                            m('br'),
-                            m('label', { for: 'use-word-boundaries' }, [
-                                m('input#use-word-boundaries', {
-                                    checked: localStorage.getItem('use-word-boundaries') === 'true',
-                                    type: 'checkbox',
-                                    onchange: (e: Event) => {
-                                        // @ts-ignore
-                                        e.redraw = false;
-                                        const target = e.target as HTMLInputElement;
-                                        changeSetting('use-word-boundaries', target.checked.toString());
-                                    }
-                                }),
-                                'Use word boundaries',
-                                m('br'),
-                                m('small.setting-description', [
-                                    'Matches whole words only.',
-                                    m('br'),
-                                    "Avoids cases like 'hi' matching t",
-                                    m('mark', 'hi'),
-                                    's.'
-                                ])
                             ]),
                             m('br'),
                             m('label', { for: 'one-player-limit' }, [

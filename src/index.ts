@@ -5,6 +5,7 @@ import { Header } from './components/Header.ts';
 import { SearchBar } from './components/SearchBar.ts';
 import { Results } from './components/Results.ts';
 import { ProgressSpinner } from './components/ProgressSpinner.ts';
+import { changeSetting } from './components/Settings.ts';
 import './styles/General.scss';
 
 export const appleUA = /(iPhone|iPad|Macintosh)/i.test(navigator.userAgent);
@@ -160,5 +161,13 @@ m.route(document.body, '/', {
     },
     '/:query': {
         view: () => m(Page)
+    }
+});
+
+window.addEventListener('keydown', (e: KeyboardEvent) => {
+    if (e.altKey && e.key.toLowerCase() === 'w') {
+        e.preventDefault();
+        changeSetting('use-word-boundaries', (!(localStorage.getItem('use-word-boundaries') === 'true')).toString());
+        m.redraw();
     }
 });
