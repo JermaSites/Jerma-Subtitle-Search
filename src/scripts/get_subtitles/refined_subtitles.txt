@@ -186,6 +186,7 @@ Christmas_Special_Stream_Awards_2022_realjermachristmas_Channel_Version.en.lrc
 Chrono_Trigger.en.lrc
 Chrono_Trigger_Part_2.en.lrc
 Chrono_Trigger_Part_3.en.lrc
+Chrono_Trigger_Part_4.en.lrc
 Cities_Skylines.en.lrc
 Cities_Skylines_Part_2.en.lrc
 Citizen_Kabuto_Paladins.en.lrc
