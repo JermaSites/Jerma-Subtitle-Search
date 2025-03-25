@@ -28,7 +28,7 @@ self.addEventListener('fetch', (e) => {
 
                     return fetch(e.request.clone()).then((networkResponse) => {
                         if (networkResponse.status < 400 && cachedFiles.some(file => networkResponse.url.endsWith(file))) {
-                            return networkResponse.clone().blob().then((bodyBlob) => {
+                            networkResponse.clone().blob().then((bodyBlob) => {
                                 const newHeaders = new Headers(networkResponse.headers);
                                 newHeaders.set('Intercepted-By-Service-Worker', 'true');
 
@@ -39,7 +39,6 @@ self.addEventListener('fetch', (e) => {
                                 });
 
                                 cache.put(e.request, modifiedResponse.clone());
-                                return modifiedResponse;
                             });
                         }
                         return networkResponse;
