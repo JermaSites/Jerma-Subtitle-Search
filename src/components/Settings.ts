@@ -183,10 +183,14 @@ export const SettingsModal = () => {
                                     type: 'number',
                                     value: localStorage.getItem('render-amount') || (window.innerWidth <= 768 ? 100 : 200),
                                     onchange: (e: Event) => {
-                                        const target = e.target as HTMLInputElement;
-                                        let value = target.valueAsNumber;
+                                        let value = parseInt((e.target as HTMLInputElement).value, 10);
+
+                                        if (isNaN(value)) {
+                                            value = window.innerWidth <= 768 ? 100 : 200;
+                                        }
+
                                         if (value < 25 && value !== 0) {
-                                            target.value = '25';
+                                            value = 25;
                                         } else if (value > 9000 && !over9000Played) {
                                             const over9000 = document.createElement('audio');
                                             over9000.setAttribute('autoplay', 'true');
@@ -194,12 +198,13 @@ export const SettingsModal = () => {
                                             document.body.appendChild(over9000);
                                             over9000Played = true;
                                         }
-                                        changeSetting('render-amount', target.value);
+
+                                        changeSetting('render-amount', value.toString());
                                     }
                                 }),
                                 `Render ${
                                     (() => {
-                                        const renderAmount = localStorage.getItem('render-amount');
+                                        const renderAmount = localStorage.getItem('render-amount') || (window.innerWidth <= 768 ? 100 : 200);
                                         return renderAmount === '0' ? 'all' : renderAmount;
                                     })()
                                 } results at once`,
