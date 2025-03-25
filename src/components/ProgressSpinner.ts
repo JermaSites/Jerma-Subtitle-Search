@@ -8,7 +8,7 @@ export const ProgressSpinner = () => {
             let containerClass: string = '';
             let imageSrc: string = '';
             switch (true) {
-                case vnode.attrs.phase === 'Downloading':
+                case vnode.attrs.phase === 'Downloading' || vnode.attrs.phase === 'Using cached index':
                     containerClass = 'download';
                     // jermaT doesn't render, and jermaSpin's transparent background shows up white on WebKit browsers idk why
                     imageSrc = appleUA ? '/assets/images/jermaComet.avif' : '/assets/images/jermaT.avif';

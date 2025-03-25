@@ -44,7 +44,8 @@ async function loadSubtitles(url: string) {
     }
 
     const contentLengthHeader = response.headers.get('Content-Length');
-    [loadingLimit, loadingState] = [contentLengthHeader ? +contentLengthHeader : 0, 'Downloading'];
+    loadingLimit = contentLengthHeader ? +contentLengthHeader : 0
+    loadingState = response.headers.get('Intercepted-By-Service-Worker') === 'true' ? 'Using cached index' : 'Downloading';
 
     // would prefer to use DecompressionStream, but only seemed to work on dev server
     // fails on prod with: JSON.parse: unterminated string at inconsistent position

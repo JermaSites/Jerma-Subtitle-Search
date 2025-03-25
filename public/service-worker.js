@@ -5,10 +5,6 @@ const cachedFiles = [
     'SubtitleIndex.json.gzip'
 ];
 
-self.addEventListener('install', (_e) => {
-    // console.debug('Installing service worker');
-});
-
 self.addEventListener('activate', (e) => {
     e.waitUntil(
         caches.keys().then((keys) => {
@@ -21,29 +17,32 @@ self.addEventListener('activate', (e) => {
 });
 
 self.addEventListener('fetch', (e) => {
-    // console.debug('Handling fetch event for', e.request.url);
-
     e.respondWith(
         caches.open(cacheName).then((cache) => {
             return cache
                 .match(e.request)
                 .then((response) => {
                     if (response) {
-                        console.debug('Found response in cache:', response);
                         return response;
                     }
 
-                    return fetch(e.request.clone()).then((response) => {
-                        // console.debug('Response for %s from network is: %O', e.request.url, response);
+                    return fetch(e.request.clone()).then((networkResponse) => {
+                        if (networkResponse.status < 400 && cachedFiles.some(file => networkResponse.url.endsWith(file))) {
+                            return networkResponse.clone().blob().then((bodyBlob) => {
+                                const newHeaders = new Headers(networkResponse.headers);
+                                newHeaders.set('Intercepted-By-Service-Worker', 'true');
 
-                        if (response.status < 400 && cachedFiles.some(file => response.url.endsWith(file))) {
-                            console.debug('Caching the response to', e.request.url);
-                            cache.put(e.request, response.clone());
-                        } else {
-                            // console.debug('Not caching the response to', e.request.url);
+                                const modifiedResponse = new Response(bodyBlob, {
+                                    headers: newHeaders,
+                                    status: networkResponse.status,
+                                    statusText: networkResponse.statusText
+                                });
+
+                                cache.put(e.request, modifiedResponse.clone());
+                                return modifiedResponse;
+                            });
                         }
-
-                        return response;
+                        return networkResponse;
                     });
                 })
                 .catch((error) => {
