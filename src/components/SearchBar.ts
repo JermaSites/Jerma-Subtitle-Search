@@ -10,16 +10,18 @@ export const SearchBar = () => {
 
     function setRoute(query: string): string {
         if (query === '') {
+            document.title = 'Jerma Search';
             m.route.set('/');
-        }
+        } else {
+            query = query.trim();
 
-        query = query.trim();
-
-        if (query !== previousQuery) {
-            const processedQuery = query.replace(illegalSubmitRegex, '').replace(/\s+/g, '-').replace(wildcardCollapseRegex, '*');
-            m.route.set('/:query', { query: processedQuery });
-            previousQuery = query;
-            return processedQuery.replace(/-/g, ' ');
+            if (query !== previousQuery) {
+                const processedQuery = query.replace(illegalSubmitRegex, '').replace(/\s+/g, '-').replace(wildcardCollapseRegex, '*');
+                document.title = `Jerma Search | ${query}`;
+                m.route.set('/:query', { query: processedQuery });
+                previousQuery = query;
+                return processedQuery.replace(/-/g, ' ');
+            }
         }
 
         return query;
