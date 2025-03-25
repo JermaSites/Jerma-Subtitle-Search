@@ -109,17 +109,50 @@ export const Secrets = () => {
                     setTitle('gongo');
 
                     elements.push(
-                        m('img#mornReal', { src: '/assets/images/mornReal.avif', alt: 'morn from star-trek spinning' }),
-                        m('img#actualEntertainment', { src: '/assets/images/actualEntertainment.avif', alt: 'description of gongo: actual entertainment' }),
-                        m('img#spynxHeart', { src: '/assets/images/spynxHeart.avif', alt: 'color changing text that reads: sphynx <3' }),
-                        m('img#honseWalk', { src: '/assets/images/honseWalk.avif', alt: 'fat horse walking in a circle around a bottle of glue' }),
-                        m('img#spynx', { src: '/assets/images/spynx.avif', alt: 'super tiny spynx' }),
-                        m('img#patGlu', { src: '/assets/images/patGlu.avif', alt: 'bottle of glue' }),
-                        m('img#bounceDoc', { src: '/assets/images/bounceDoc.avif', alt: 'doc from star-trek bouncing up and down' }),
-                        m('img#bounceDok', { src: '/assets/images/bounceDok.avif', alt: 'doc from star-trek bouncing up and down' }),
-                        m('img#phloxB', { src: '/assets/images/phloxB.avif', alt: 'phlox from star-trek suppressing his laughter' }),
-                        m('img#tuvokLUL', { src: '/assets/images/tuvokLUL.avif', alt: 'tuvok from star-trek looking up' }),
-                        m('img#daxMug', { src: '/assets/images/daxMug.avif', alt: 'mug of jadzia dax from star-trek staring at you from behind tuvok' })
+                        m('img#mornReal', {
+                            alt: 'morn from star-trek spinning',
+                            src: '/assets/images/mornReal.avif'
+                        }),
+                        m('img#actualEntertainment', {
+                            alt: 'description of gongo: actual entertainment',
+                            src: '/assets/images/actualEntertainment.avif'
+                        }),
+                        m('img#spynxHeart', {
+                            alt: 'color changing text that reads: sphynx <3',
+                            src: '/assets/images/spynxHeart.avif'
+                        }),
+                        m('img#honseWalk', {
+                            alt: 'fat horse walking in a circle around a bottle of glue',
+                            src: '/assets/images/honseWalk.avif'
+                        }),
+                        m('img#spynx', {
+                            alt: 'super tiny spynx',
+                            src: '/assets/images/spynx.avif'
+                        }),
+                        m('img#patGlu', {
+                            alt: 'bottle of glue',
+                            src: '/assets/images/patGlu.avif'
+                        }),
+                        m('img#bounceDoc', {
+                            alt: 'doc from star-trek bouncing up and down',
+                            src: '/assets/images/bounceDoc.avif'
+                        }),
+                        m('img#bounceDok', {
+                            alt: 'doc from star-trek bouncing up and down',
+                            src: '/assets/images/bounceDok.avif'
+                        }),
+                        m('img#phloxB', {
+                            alt: 'phlox from star-trek suppressing his laughter',
+                            src: '/assets/images/phloxB.avif'
+                        }),
+                        m('img#tuvokLUL', {
+                            alt: 'tuvok from star-trek looking up',
+                            src: '/assets/images/tuvokLUL.avif'
+                        }),
+                        m('img#daxMug', {
+                            alt: 'mug of jadzia dax from star-trek staring at you from behind tuvok',
+                            src: '/assets/images/daxMug.avif'
+                        })
                     );
                     break;
                 case minecraftRegex.test(vnode.attrs.query):
@@ -135,15 +168,24 @@ export const Secrets = () => {
                     playAudio('/assets/audio/OSMO.opus');
 
                     elements.push(
-                        m('img#omoJam', { src: '/assets/images/omoJam.avif', alt: 'osmo from gongo jamming' }),
-                        m('img#omoP', { src: '/assets/images/omoP.avif', alt: 'osmo from gongo looking happy' })
+                        m('img#omoJam', {
+                            alt: 'osmo from gongo jamming',
+                            src: '/assets/images/omoJam.avif'
+                        }),
+                        m('img#omoP', {
+                            alt: 'osmo from gongo looking happy',
+                            src: '/assets/images/omoP.avif'
+                        })
                     );
                     break;
                 case picminRegex.test(vnode.attrs.query):
                     setSecretTheme('picmin');
 
                     elements.push(
-                        m('img#picMin', { src: '/assets/images/picMin.avif', alt: 'picard from star-trek as a pikmin in a dress' })
+                        m('img#picMin', {
+                            alt: 'picard from star-trek as a pikmin in a dress',
+                            src: '/assets/images/picMin.avif'
+                        })
                     );
                     break;
                 case rickrollRegex.test(vnode.attrs.query):
@@ -189,8 +231,14 @@ export const Secrets = () => {
                     setSecretTheme('sphynx');
 
                     elements.push(
-                        m('img#spynxSit', { src: '/assets/images/spynxSit.avif', alt: 'sphynx from gongo sitting awkwardly' }),
-                        m('img#spynxP', { src: '/assets/images/spynxP.avif', alt: 'sphynx from gongo looking happy' }),
+                        m('img#spynxSit', {
+                            alt: 'sphynx from gongo sitting awkwardly',
+                            src: '/assets/images/spynxSit.avif'
+                        }),
+                        m('img#spynxP', {
+                            alt: 'sphynx from gongo looking happy',
+                            src: '/assets/images/spynxP.avif'
+                        }),
                     );
                     break;
             }

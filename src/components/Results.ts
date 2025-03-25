@@ -272,15 +272,24 @@ export const Results = () => {
                                         result.stream_title
                                     ]),
                                 result.stream_date &&
-                                    m('p#stream-date', { title: result.stream_date.length === 4 ? 'YYYY' : 'YYYY-MM-DD' }, [
+                                    m('p#stream-date', {
+                                        title: result.stream_date.length === 4 ? 'YYYY' : 'YYYY-MM-DD'
+                                    },
+                                    [
                                         m('b', 'Streamed: '),
                                         result.stream_date
                                     ]),
-                                m('p#upload-date', { title: 'YYYY-MM-DD' }, [
+                                m('p#upload-date', {
+                                    title: 'YYYY-MM-DD'
+                                },
+                                [
                                     m('b', 'Uploaded: '),
                                     result.upload_date
                                 ]),
-                                m('p#duration', { title: result.duration.split(':').length - 1 === 2 ? 'H:MM:SS' : 'M:SS' }, [
+                                m('p#duration', {
+                                    title: result.duration.split(':').length - 1 === 2 ? 'H:MM:SS' : 'M:SS'
+                                },
+                                [
                                     m('b', 'Duration: '),
                                     result.duration.includes(':') ? result.duration : `0:${result.duration}`
                                 ])
@@ -434,8 +443,15 @@ export const Results = () => {
                                                     title: 'Edit on GitHub'
                                                 },
                                                 [
-                                                    m('svg.icon', { xmlns: 'http://www.w3.org/2000/svg', viewBox: '0 0 24 24', role: 'img', 'aria-label': 'edit icon' }, [
-                                                        m('path', { d: 'M17.263 2.177a1.75 1.75 0 0 1 2.474 0l2.586 2.586a1.75 1.75 0 0 1 0 2.474L19.53 10.03l-.012.013L8.69 20.378a1.753 1.753 0 0 1-.699.409l-5.523 1.68a.748.748 0 0 1-.747-.188.748.748 0 0 1-.188-.747l1.673-5.5a1.75 1.75 0 0 1 .466-.756L14.476 4.963ZM4.708 16.361a.26.26 0 0 0-.067.108l-1.264 4.154 4.177-1.271a.253.253 0 0 0 .1-.059l10.273-9.806-2.94-2.939-10.279 9.813ZM19 8.44l2.263-2.262a.25.25 0 0 0 0-.354l-2.586-2.586a.25.25 0 0 0-.354 0L16.061 5.5Z' })
+                                                    m('svg.icon', {
+                                                        role: 'img', 'aria-label': 'edit icon',
+                                                        viewBox: '0 0 24 24',
+                                                        xmlns: 'http://www.w3.org/2000/svg'
+                                                    },
+                                                    [
+                                                        m('path', {
+                                                            d: 'M17.263 2.177a1.75 1.75 0 0 1 2.474 0l2.586 2.586a1.75 1.75 0 0 1 0 2.474L19.53 10.03l-.012.013L8.69 20.378a1.753 1.753 0 0 1-.699.409l-5.523 1.68a.748.748 0 0 1-.747-.188.748.748 0 0 1-.188-.747l1.673-5.5a1.75 1.75 0 0 1 .466-.756L14.476 4.963ZM4.708 16.361a.26.26 0 0 0-.067.108l-1.264 4.154 4.177-1.271a.253.253 0 0 0 .1-.059l10.273-9.806-2.94-2.939-10.279 9.813ZM19 8.44l2.263-2.262a.25.25 0 0 0 0-.354l-2.586-2.586a.25.25 0 0 0-.354 0L16.061 5.5Z'
+                                                        })
                                                     ])
                                                 ])
                                             ])
@@ -449,16 +465,35 @@ export const Results = () => {
                                 })
                             ),
                             matches.length > 3 &&
-                                m('button.show-more', { onclick: () => expandState[result.id] = !expandState[result.id] }, [
+                                m('button.show-more', {
+                                    onclick: () => expandState[result.id] = !expandState[result.id]
+                                },
+                                [
                                     isExpanded ?
-                                        m('svg.icon', { xmlns: 'http://www.w3.org/2000/svg', viewBox: '0 0 24 24', role: 'img', 'aria-label': 'upwards chevron' }, [
-                                            m('path', { d: 'M18.78 15.78a.749.749 0 0 1-1.06 0L12 10.061 6.28 15.78a.749.749 0 1 1-1.06-1.06l6.25-6.25a.749.749 0 0 1 1.06 0l6.25 6.25a.749.749 0 0 1 0 1.06Z' })
+                                        m('svg.icon', {
+                                            xmlns: 'http://www.w3.org/2000/svg',
+                                            viewBox: '0 0 24 24',
+                                            role: 'img', 'aria-label': 'upwards chevron'
+                                        },
+                                        [
+                                            m('path', {
+                                                d: 'M18.78 15.78a.749.749 0 0 1-1.06 0L12 10.061 6.28 15.78a.749.749 0 1 1-1.06-1.06l6.25-6.25a.749.749 0 0 1 1.06 0l6.25 6.25a.749.749 0 0 1 0 1.06Z'
+                                            })
                                         ])
                                         :
-                                        [`${matches.length - 3} more`,
-                                        m('svg.icon', { xmlns: 'http://www.w3.org/2000/svg', viewBox: '0 0 24 24', role: 'img', 'aria-label': 'downwards chevron' }, [
-                                            m('path', { d: 'M5.22 8.22a.749.749 0 0 0 0 1.06l6.25 6.25a.749.749 0 0 0 1.06 0l6.25-6.25a.749.749 0 1 0-1.06-1.06L12 13.939 6.28 8.22a.749.749 0 0 0-1.06 0Z' })
-                                        ])]
+                                        [
+                                            `${matches.length - 3} more`,
+                                            m('svg.icon', {
+                                                role: 'img', 'aria-label': 'downwards chevron',
+                                                viewBox: '0 0 24 24',
+                                                xmlns: 'http://www.w3.org/2000/svg'
+                                            },
+                                            [
+                                                m('path', {
+                                                    d: 'M5.22 8.22a.749.749 0 0 0 0 1.06l6.25 6.25a.749.749 0 0 0 1.06 0l6.25-6.25a.749.749 0 1 0-1.06-1.06L12 13.939 6.28 8.22a.749.749 0 0 0-1.06 0Z'
+                                                })
+                                            ])
+                                        ]
                                 ])
                         ]);
                     })
@@ -473,7 +508,9 @@ export const Results = () => {
                                 m('li', 'Substitute potential special characters with spaces or a wildcard (*).'),
                                 m('li', [
                                     'Generally American spelling should be used (',
-                                    m('a', { href: 'https://en.wikipedia.org/wiki/Wikipedia:List_of_spelling_variants' }, 'list of spelling variants'),
+                                    m('a', {
+                                        href: 'https://en.wikipedia.org/wiki/Wikipedia:List_of_spelling_variants'
+                                    }, 'list of spelling variants'),
                                     ').'
                                 ])
                             ]),
@@ -487,7 +524,9 @@ export const Results = () => {
                             m('summary', 'Advanced Usage'),
                             m('p', [
                                 'You can interact with the underlying ',
-                                m('a', { href: 'https://github.com/lucaong/minisearch' }, 'MiniSearch'),
+                                m('a', {
+                                    href: 'https://github.com/lucaong/minisearch'
+                                }, 'MiniSearch'),
                                 ' instance in your browser console.',
                                 m('br'),
                                 'It\'s accessible from a global variable called ',
@@ -501,15 +540,21 @@ export const Results = () => {
                                 'The subtitle files are also downloadable if you\'d like to search through them externally.',
                                 m('br'),
                                 'Individual files are on ',
-                                m('a', { href: 'https://github.com/JermaSites/Jerma-Subtitle-Search/tree/main/src/assets/subtitles' }, 'GitHub'),
+                                m('a', {
+                                    href: 'https://github.com/JermaSites/Jerma-Subtitle-Search/tree/main/src/assets/subtitles'
+                                }, 'GitHub'),
                                 ' and the bundled JSON is available ',
-                                m('a', { href: 'https://subtitlefiles.jerma.io/file/jerma-subtitles/Subtitles.json' }, 'here'),
+                                m('a', {
+                                    href: 'https://subtitlefiles.jerma.io/file/jerma-subtitles/Subtitles.json'
+                                }, 'here'),
                                 '.'
                             ])
                         ])
                     ])
                 ]),
-                m(Secrets, { query: vnode.attrs.query })
+                m(Secrets, {
+                    query: vnode.attrs.query
+                })
                 // m('div#page-end', [
                 //     m('h5', "You've reached the end")
                 // ])

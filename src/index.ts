@@ -125,8 +125,15 @@ const Page = () => {
             return [
                 m(Header),
                 m('div#page-container', [
-                    m(SearchBar, { query: searchQuery }),
-                    !subtitlesLoaded && m(ProgressSpinner, { value: loadingValue, limit: loadingLimit, phase: loadingState }),
+                    m(SearchBar, {
+                        query: searchQuery
+                    }),
+                    !subtitlesLoaded &&
+                        m(ProgressSpinner, {
+                            limit: loadingLimit,
+                            phase: loadingState,
+                            value: loadingValue
+                        }),
                     (!searchQuery || !subtitlesLoaded) &&
                         m('div#page-info', [
                             m('section', [
@@ -134,7 +141,9 @@ const Page = () => {
                                 (!subtitlesLoaded && mobileSafariUA) &&
                                     m('h2', [
                                         'Seems like you\'re using Safari. If the site crashes you should try ',
-                                        m('a', { href: 'https://apps.apple.com/us/app/firefox-private-safe-browser/id989804926' }, 'Firefox'),
+                                        m('a', {
+                                            href: 'https://apps.apple.com/us/app/firefox-private-safe-browser/id989804926'
+                                        }, 'Firefox'),
                                         ' and closing all other apps.'
                                     ]),
                                 m('p', 'This page lets you search through transcriptions of all Jerma\'s main channel videos, archived streams and more.')
@@ -144,7 +153,10 @@ const Page = () => {
                                 m('p', `Loaded ${subtitles.documentCount} video's subtitles containing ${subtitles.termCount} unique terms.`),
                             ]),
                         ]),
-                    searchQuery && m(Results, { query: searchQuery })
+                    searchQuery &&
+                        m(Results, {
+                            query: searchQuery
+                        })
                 ])
             ];
         }
