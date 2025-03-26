@@ -248,6 +248,7 @@ Dark_Souls_3_Part_2.en.lrc
 Dark_Souls_3_Part_3.en.lrc
 Dark_Souls_3_Part_4_Finale.en.lrc
 Dark_Souls_3_Part_5_Bonus.en.lrc
+Dark_Souls_3_Seamless_Co_op_and_Randomizer_with_Ster.en.lrc
 Dark_Souls_3_The_Ringed_City_DLC_Part_1.en.lrc
 Dark_Souls_3_The_Ringed_City_DLC_Part_2.en.lrc
 Dark_Souls_3_The_Ringed_City_DLC_Part_3_Finale.en.lrc
