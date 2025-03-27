@@ -60,6 +60,10 @@ bun src/scripts/index-subtitles.js
 bun run dev
 ```
 
+#### Contributing
+
+If you'd like to contribute have a look at [the contributing guide](/CONTRIBUTING.md).
+
 <p align='center'>
     <picture>
         <img src='https://i.imgur.com/O8rbink.png' alt='jermaHeart Twitch Emote' width='56' height='56' />
