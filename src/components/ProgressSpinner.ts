@@ -17,6 +17,9 @@ export const ProgressSpinner = () => {
                     containerClass = 'parse';
                     imageSrc = '/assets/images/jermaIQ.avif';
                     break;
+                case vnode.attrs.phase.startsWith('Searching'):
+                    imageSrc = '/assets/images/jermaIQ.avif';
+                    break;
                 case vnode.attrs.phase.startsWith('Error'):
                     containerClass = 'error';
                     imageSrc = '/assets/images/jermaPain.avif';

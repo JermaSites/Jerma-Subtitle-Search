@@ -55,7 +55,6 @@
         }
 
         #loading-graphic {
-            animation: fade-in 1s ease-in-out;
             border-radius: 0.125rem;
             margin: 0;
             width: clamp(8rem, 20vw, 10rem);
@@ -63,7 +62,7 @@
     }
 
     p {
-        animation: fade-in 1s ease-in-out;
+        animation: fade-in 0.3s ease-in-out;
         color: var(--text-color);
         font-size: 1.2em;
         margin-top: 20px;

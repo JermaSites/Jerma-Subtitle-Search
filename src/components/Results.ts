@@ -1,6 +1,7 @@
 import m, { type Vnode } from 'mithril';
-import { Secrets } from './Secrets.ts';
 import type { SearchResult } from 'minisearch';
+import { Secrets } from './Secrets.ts';
+import { ProgressSpinner } from './ProgressSpinner.ts';
 import { subtitles, subtitlesLoaded } from '../index.ts';
 import '../styles/Results.scss';
 
@@ -137,7 +138,7 @@ export const Results = () => {
     let previousMatchLengthLimit: number = -1;
     let previousQuery: string;
     let resultsPerPage: number;
-    let searched: boolean = false;
+    let searchFinished: boolean = false;
     let searchQuery: string;
     let searchResults: SearchResult[] = [];
     let visibleResults: SearchResult[] = [];
@@ -153,7 +154,7 @@ export const Results = () => {
 
         try {
             searchResults = await performSearch(query, signal);
-            searched = true;
+            searchFinished = true;
 
             matchCount = searchResults.reduce((total, result) => {
                 let count = 0;
@@ -166,9 +167,7 @@ export const Results = () => {
 
             m.redraw();
         } catch (e) {
-            if ((e as DOMException).name === 'AbortError') {
-                // console.debug('Previous search aborted');
-            } else {
+            if ((e as DOMException).name !== 'AbortError') {
                 throw e;
             }
         }
@@ -228,10 +227,15 @@ export const Results = () => {
                 wordBoundaryPreviouslyEnabled = useWordBoundaries;
                 previousMatchLengthLimit = matchLengthLimit;
                 debouncedSearch(searchQuery);
+                searchFinished = false;
             }
 
-            if (!searched) {
-                return;
+            if (!searchFinished) {
+                return m(ProgressSpinner, {
+                    limit: 0,
+                    phase: `Searching for "${searchQuery}"`,
+                    value: 0
+                });
             }
 
             resultsPerPage = parseInt(localStorage.getItem('render-amount') || (window.innerWidth <= 768 ? '100' : '200'));
