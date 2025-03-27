@@ -2,8 +2,9 @@ import m, { type Vnode } from 'mithril';
 import { seekEmbed } from './Results';
 import '../styles/Secrets.scss';
 
-export function playAudio(url: string) {
+export function playAudio(url: string, volume: number = 1) {
     const audio = new Audio(url);
+    audio.volume = volume;
     audio.play();
 }
 
@@ -155,7 +156,7 @@ export const Secrets = () => {
                     setLogoLink('https://www.twitch.tv/greatsphynx/clip/RamshackleUnsightlyBulgogiTwitchRPG-Uzk-4z1kJvKa_KVI');
                     setSecretTheme('osmo');
                     setTitle('OSMO');
-                    playAudio('/assets/audio/OSMO.opus');
+                    playAudio('/assets/audio/OSMO.opus', 0.69);
 
                     elements.push(
                         m('img#omoJam', {
