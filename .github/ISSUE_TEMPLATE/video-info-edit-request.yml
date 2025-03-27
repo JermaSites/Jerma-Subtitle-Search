@@ -1,0 +1,27 @@
+name: Edit video info
+description: Request edits to Subtitles.json.
+title: 'Edit <thumbnail / stream title / stream date> of <video title>'
+labels:
+  - video-info-edit
+assignees:
+  - Bergbok
+body:
+  - type: markdown
+    attributes:
+      value: Please replace the \<placeholders> in the title with appropriate values.
+  - type: input
+    id: video-url
+    attributes:
+      label: Video URL
+      description: Link to the video whose info you want to edit.
+      placeholder: e.g. https://youtu.be/dQw4w9WgXcQ
+    validations:
+      required: true
+  - type: textarea
+    id: edit-info
+    attributes:
+      label: What would you like to edit?
+      description: Thumbnail / stream title / stream date
+      placeholder: 'e.g. I want to change the thumbnail to: https://i.imgur.com/LwDXmTh.jpg'
+    validations:
+      required: true

@@ -1,0 +1,30 @@
+name: Add video transcription
+description: Request video to be transcribed.
+title: 'Transcription request for <video title>'
+labels:
+  - video-info-edit
+assignees:
+  - Bergbok
+body:
+  - type: markdown
+    attributes:
+      value: Please replace the \<placeholder> in the title with the title of the video you want added.
+  - type: input
+    id: video-url
+    attributes:
+      label: Video URL
+      description: Link to the video that you want added.
+      placeholder: e.g. https://youtu.be/dQw4w9WgXcQ
+    validations:
+      required: true
+  - type: checkboxes
+    id: formalities
+    attributes:
+      label: Formalities
+      options:
+        - label: The video is on YouTube
+          required: true
+        - label: "The video's ID isn't already listed in [downloaded.txt](https://github.com/JermaSites/Jerma-Subtitle-Search/blob/main/src/scripts/get_subtitles/downloaded.txt) (Ctrl+F)"
+          required: true
+        - label: The video is not a stream VOD that was uploaded within the past couple days
+          required: true
