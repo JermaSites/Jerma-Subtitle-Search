@@ -21,10 +21,6 @@ export const ProgressSpinner = () => {
                     containerClass = 'error';
                     imageSrc = '/assets/images/jermaPain.avif';
                     break;
-                case vnode.attrs.phase === 'Done':
-                    containerClass = 'done';
-                    imageSrc = '/assets/images/jermaIQ.avif';
-                    break;
                 default:
                     imageSrc = '/assets/images/jermaReal.avif';
                     break;

@@ -62,11 +62,6 @@
         }
     }
 
-    #loading-graphic-container.done + p {
-        animation: none;
-        opacity: 0;
-    }
-
     p {
         animation: fade-in 1s ease-in-out;
         color: var(--text-color);
