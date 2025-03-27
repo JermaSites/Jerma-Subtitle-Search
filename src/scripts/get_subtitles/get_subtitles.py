@@ -202,6 +202,20 @@ def refine_subtitles(subs_path: str):
             with open(os.path.join(subs_path, filename), 'r', encoding='utf-8') as f:
                 print(f'Processing {filename}...')
                 file_content = f.read()
+
+                abbreviations_ending_with_periods_replacements = {
+                    'dr': 'Dr.',
+                    'mr': 'Mr.',
+                    'mrs': 'Mrs.',
+                    'ms': 'Ms.',
+                    'mx': 'Mx.',
+                }
+
+                for k, v in abbreviations_ending_with_periods_replacements.items():
+                    pattern = rf'\b{re.escape(k)}\.?\b'
+                    file_content, count = replace(pattern, v, file_content)
+                    replacement_counts[f'{k} -> {v}'] = replacement_counts.get(f'{k} -> {v}', 0) + count
+
                 case_insensitive_replacements = {
                     ' uk': ' UK',
                     '—': '-',
@@ -2900,18 +2914,6 @@ def refine_subtitles(subs_path: str):
                     file_content, count = replace(pattern, v, file_content)
                     replacement_counts[f'{k} -> {v}'] = replacement_counts.get(f'{k} -> {v}', 0) + count
 
-                abbreviations_ending_with_periods__replacements = {
-                    'dr': 'Dr.',
-                    'mr': 'Mr.',
-                    'mrs': 'Mrs.',
-                    'ms': 'Ms.',
-                    'mx': 'Mx.',
-                }
-
-                for k, v in abbreviations_ending_with_periods__replacements.items():
-                    pattern = rf'\b{re.escape(k)}\.?\b'
-                    file_content, count = replace(pattern, v, file_content)
-                    replacement_counts[f'{k} -> {v}'] = replacement_counts.get(f'{k} -> {v}', 0) + count
                 lines = file_content.splitlines()
 
             new_lines = []
