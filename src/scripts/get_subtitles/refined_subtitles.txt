@@ -1852,6 +1852,7 @@ The_Legend_of_Zelda_Breath_of_the_Wild_Part_8.en.lrc
 The_Legend_of_Zelda_Breath_of_the_Wild_Part_9.en.lrc
 The_LocoCycle_es_Muy_Loco.en.lrc
 The_Long_Drive.en.lrc
+The_Long_Drive_Part_2_with_Ster_Poke_and_Vinny.en.lrc
 The_Lord_of_the_Rings_Gollum.en.lrc
 The_Lord_of_the_Rings_The_Fellowship_of_the_Ring.en.lrc
 The_Lord_of_the_Rings_The_Return_of_the_King.en.lrc
