@@ -23,8 +23,6 @@ export const Secrets = () => {
     let faviconChangedThisSearch: boolean = false;
     let logoLinkChanged: boolean = false;
     let logoLinkChangedThisSearch: boolean = false;
-    let titleChanged: boolean = false;
-    let titleChangedThisSearch: boolean = false;
 
     function setFavicon(url: string) {
         const favicon = document.querySelector('link[rel="icon"]');
@@ -48,7 +46,6 @@ export const Secrets = () => {
 
     function setTitle(title: string) {
         document.title = title;
-        [titleChanged, titleChangedThisSearch] = [true, true];
     }
 
     function resetPage() {
@@ -77,13 +74,6 @@ export const Secrets = () => {
             }
         } else {
             logoLinkChangedThisSearch = false;
-        }
-
-        if (titleChanged && !titleChangedThisSearch) {
-            setTitle('Jerma Search');
-            titleChanged = false;
-        } else {
-            titleChangedThisSearch = false;
         }
     }
 
