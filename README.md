@@ -28,7 +28,7 @@ Timestamps were incorrect on some transcriptions, and the first timestamp would 
 It's also pretty slow, especially if you use some of the bigger models.
 
 Switching to WhisperX _mostly_ solved the aforementioned problems.
-However, it's still far from perfect and does have some [limitations](https://github.com/m-bain/whisperX/tree/49161922461871e6732fbe1aeb20fc1d4cccc9df?tab=readme-ov-file#limitations-%EF%B8%8F).
+However, it's still far from perfect and does have some [limitations](https://github.com/m-bain/whisperX/tree/49161922461871e6732fbe1aeb20fc1d4cccc9df#limitations-%EF%B8%8F).
 
 </details>
 
