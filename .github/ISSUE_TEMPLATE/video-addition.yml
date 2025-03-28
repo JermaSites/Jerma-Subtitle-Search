@@ -2,7 +2,7 @@ name: Add video transcription
 description: Request video to be transcribed.
 title: 'Transcription request for <video title>'
 labels:
-  - video-info-edit
+  - video-addition
 assignees:
   - Bergbok
 body:
