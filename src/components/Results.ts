@@ -98,26 +98,24 @@ export async function seekEmbed(videoID: string, second: number) {
         // @ts-ignore
         const player: YT.Player = await embed.getYTPlayer();
 
-        if (localStorage.getItem('one-player-limit') === 'true') {
-            player.addEventListener('onStateChange', (event: YT.OnStateChangeEvent) => {
-                if (event.data === YT.PlayerState.BUFFERING) {
-                    latestPlayedVideoID = videoID;
-                }
+        player.addEventListener('onStateChange', (event: YT.OnStateChangeEvent) => {
+            if (event.data === YT.PlayerState.BUFFERING) {
+                latestPlayedVideoID = videoID;
+            }
 
-                if (event.data === YT.PlayerState.PLAYING) {
-                    if (videoID !== latestPlayedVideoID) {
-                        player.pauseVideo();
-                    } else {
-                        document.querySelectorAll('lite-youtube > iframe').forEach((iframe) => {
-                            const liteYtEmbed = iframe.closest('lite-youtube');
-                            if (liteYtEmbed && liteYtEmbed.getAttribute('videoid') !== latestPlayedVideoID) {
-                                (iframe as HTMLIFrameElement).contentWindow?.postMessage(JSON.stringify({ event: 'command', func: 'pauseVideo', args: [] }), '*')
-                            }
-                        });
-                    }
+            if (event.data === YT.PlayerState.PLAYING && localStorage.getItem('one-player-limit') === 'true') {
+                if (videoID !== latestPlayedVideoID) {
+                    player.pauseVideo();
+                } else {
+                    document.querySelectorAll('lite-youtube > iframe').forEach((iframe) => {
+                        const liteYtEmbed = iframe.closest('lite-youtube');
+                        if (liteYtEmbed && liteYtEmbed.getAttribute('videoid') !== latestPlayedVideoID) {
+                            (iframe as HTMLIFrameElement).contentWindow?.postMessage(JSON.stringify({ event: 'command', func: 'pauseVideo', args: [] }), '*')
+                        }
+                    });
                 }
-            });
-        }
+            }
+        });
 
         player.seekTo(second, true);
         player.playVideo();
