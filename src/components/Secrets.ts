@@ -2,6 +2,22 @@ import m, { type Vnode } from 'mithril';
 import { seekEmbed } from './Results';
 import '../styles/Secrets.scss';
 
+const buffyRegex = new RegExp(/\bbuffy\b/, 'i');
+const gongoRegex = new RegExp(/\bgongo\b/, 'i');
+const minecraftRegex = new RegExp(/\bminecraft\b/, 'i');
+const osmoRegex = new RegExp(/\bosmo\b/, 'i');
+const picminRegex = new RegExp(/\bpicmin|pikmin\b/, 'i');
+const rickrollRegex = new RegExp(/\brickroll\b/, 'i');
+const scornRegex = new RegExp(/\bscorn\b/, 'i');
+const sphynxRegex = new RegExp(/\bsphynx|spynx\b/, 'i');
+const terrariaRegex = new RegExp(/\bandy|terraria\b/, 'i');
+let backgroundVideoPlaying: boolean = false;
+let backgroundVideoPlayedThisSearch: boolean = false;
+let faviconChanged: boolean = false;
+let faviconChangedThisSearch: boolean = false;
+let logoLinkChanged: boolean = false;
+let logoLinkChangedThisSearch: boolean = false;
+
 export function playAudio(url: string, volume: number = 1) {
     const audio = new Audio(url);
     audio.volume = volume;
@@ -9,22 +25,6 @@ export function playAudio(url: string, volume: number = 1) {
 }
 
 export const Secrets = () => {
-    const buffyRegex = new RegExp(/\bbuffy\b/, 'i');
-    const gongoRegex = new RegExp(/\bgongo\b/, 'i');
-    const minecraftRegex = new RegExp(/\bminecraft\b/, 'i');
-    const osmoRegex = new RegExp(/\bosmo\b/, 'i');
-    const picminRegex = new RegExp(/\bpicmin|pikmin\b/, 'i');
-    const rickrollRegex = new RegExp(/\brickroll\b/, 'i');
-    const scornRegex = new RegExp(/\bscorn\b/, 'i');
-    const sphynxRegex = new RegExp(/\bsphynx|spynx\b/, 'i');
-    const terrariaRegex = new RegExp(/\bandy|terraria\b/, 'i');
-    let backgroundVideoPlaying: boolean = false;
-    let backgroundVideoPlayedThisSearch: boolean = false;
-    let faviconChanged: boolean = false;
-    let faviconChangedThisSearch: boolean = false;
-    let logoLinkChanged: boolean = false;
-    let logoLinkChangedThisSearch: boolean = false;
-
     function setFavicon(url: string) {
         const favicon = document.querySelector('link[rel="icon"]');
         if (favicon) {
@@ -79,6 +79,10 @@ export const Secrets = () => {
     }
 
     return {
+        onremove: () => {
+            document.documentElement.removeAttribute('secret-theme');
+            resetPage();
+        },
         view: (vnode: Vnode<{ query: string }>) => {
             const elements: Vnode[] = [];
 
