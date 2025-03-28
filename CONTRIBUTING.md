@@ -1,4 +1,4 @@
-> All contributions are greatly appreciated. <3
+> All contributions are greatly appreciated. ![](https://i.imgur.com/WTZj4Yu.png)
 
 You'll need a GitHub account to contribute.  
 Sign up here if you don't already have one: https://github.com/signup
@@ -6,7 +6,7 @@ Sign up here if you don't already have one: https://github.com/signup
 # Ways of contributing
 
 - [Adding videos](#adding-videos)
-- [Editing code](#code-improvements) *
+- [Editing code](#code-editing) *
 - [Editing subtitles](#subtitle-editing) *
 - [Editing video info](#video-info-editing)
 
@@ -31,8 +31,8 @@ If you'd like a video to be transcribed and added to the site [open an issue](ht
 
 ## Code Editing
 
-Fonts can be added by editing [_fonts.scss](/src/styles/_fonts.scss) and [Settings.ts](/src/components/Settings.ts).  
-Themes can be added by editing [_variables.scss](/src/styles/_variables.scss) and [Settings.ts](/src/components/Settings.ts).  
+Themes can be added by editing [_variables.scss](/src/styles/_variables.scss) and [Settings.ts](/src/components/Settings.ts#L96).  
+Fonts can be added by editing [_fonts.scss](/src/styles/_fonts.scss), [Settings.ts](/src/components/Settings.ts#L102) and [index.html](/index.html#L17).  
 Secrets/easter eggs can be added by editing [Secrets.ts](/src/components/Secrets.ts) and [Secrets.scss](/src/styles/Secrets.scss).
 
 If you find something that is or could be consistently transcribed wrongly, it could potentially be added to [refine_subtitles in get_subtitles.py](/src/scripts/get_subtitles/get_subtitles.py#200).
@@ -52,11 +52,11 @@ If you find something that is or could be consistently transcribed wrongly, it c
 
 While these technically fall into the categories mentioned [here](#examples-of-valid-replacements), they're too general to replace programmatically and need to be dealt with manually.
 
-- auto -> Otto
+- auto -> [Otto](https://www.youtube.com/watch?v=aXSdCYQOuW0)
 - boulder -> [Boulder](https://en.wikipedia.org/wiki/Boulder,_Colorado)
 - grace -> [Grace](https://en.wikipedia.org/wiki/Grace_(given_name))
 - reading -> [Reading](https://en.wikipedia.org/wiki/Reading,_Berkshire)
-- steam -> Steam
+- steam -> [Steam](https://store.steampowered.com)
 
 ## Subtitle Editing
 
@@ -126,6 +126,6 @@ The only prerequisites are: thumbnails should be 16:9 and SFW.
 
 <p align='center'>
     <picture>
-        <img src='https://i.imgur.com/cTpPmk6.png' alt='jermaOn Twitch Emote' width='56' height='56' />
+        <img src='https://i.imgur.com/BRlWR4g.png' alt='jermaHeartman Emote' width='56' height='56' />
     </picture>
 </p>
