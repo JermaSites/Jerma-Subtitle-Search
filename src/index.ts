@@ -95,8 +95,7 @@ async function loadSubtitles(url: string) {
             storeFields: ['id', 'title', 'duration', 'thumbnail', 'upload_date', 'stream_title', 'stream_date', 'subtitle_filename', 'subtitles']
         }
 
-        let storedSyncLoadingPreference = localStorage.getItem('synchronous-loading');
-        if (storedSyncLoadingPreference === 'true') {
+        if (localStorage.getItem('synchronous-loading') === 'true') {
             await new Promise(resolve => setTimeout(resolve, 500));
             subtitles = MiniSearch.loadJSON(text, minisearchOptions);
         } else {
