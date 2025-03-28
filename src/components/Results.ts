@@ -127,12 +127,13 @@ export async function seekEmbed(videoID: string, second: number) {
 export const Results = () => {
     const contextLevel = 1;
     const timestampRegex = new RegExp(/\[[\d:.]+\]/, 'g');
-    let contextStart: number;
     let contextEnd: number;
+    let contextStart: number;
     let currentPage: number = 1;
     let currentSearchController: AbortController | null = null;
     let matchCount: number;
     let observedResultItem: Element | null = null;
+    let previouslyUsedWordBoundaries: boolean = false;
     let previousMatchLengthLimit: number = -1;
     let previousQuery: string;
     let resultsPerPage: number;
@@ -140,7 +141,6 @@ export const Results = () => {
     let searchQuery: string;
     let searchResults: SearchResult[] = [];
     let visibleResults: SearchResult[] = [];
-    let wordBoundaryPreviouslyEnabled: boolean = false;
 
     const debouncedSearch = debounce(async (query: string) => {
         if (currentSearchController) {
@@ -219,13 +219,13 @@ export const Results = () => {
                 matchLengthLimit = window.innerWidth <= 768 ? 50 : 100;
             }
 
-            if (searchQuery !== previousQuery || useWordBoundaries !== wordBoundaryPreviouslyEnabled || previousMatchLengthLimit !== matchLengthLimit) {
+            if (searchQuery !== previousQuery || useWordBoundaries !== previouslyUsedWordBoundaries || previousMatchLengthLimit !== matchLengthLimit) {
                 currentPage = 1;
-                previousQuery = searchQuery;
-                wordBoundaryPreviouslyEnabled = useWordBoundaries;
+                previouslyUsedWordBoundaries = useWordBoundaries;
                 previousMatchLengthLimit = matchLengthLimit;
-                debouncedSearch(searchQuery);
+                previousQuery = searchQuery;
                 searchFinished = false;
+                debouncedSearch(searchQuery);
             }
 
             if (!searchFinished) {
