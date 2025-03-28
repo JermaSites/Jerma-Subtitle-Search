@@ -1,9 +1,9 @@
-> All contributions are appreciated. <3
+> All contributions are greatly appreciated. <3
 
 You'll need a GitHub account to contribute.  
 Sign up here if you don't already have one: https://github.com/signup
 
-# Ways to contribute
+# Ways of contributing
 
 - [Adding videos](#adding-videos)
 - [Editing code](#code-improvements) *
@@ -17,7 +17,7 @@ Sign up here if you don't already have one: https://github.com/signup
 
 ## Adding Videos
 
-If you'd like me to add a transcription for a video, [open an issue](https://github.com/JermaSites/Jerma-Subtitle-Search/issues/new?template=video-addition.yml).
+If you'd like a video to be transcribed and added to the site [open an issue](https://github.com/JermaSites/Jerma-Subtitle-Search/issues/new?template=video-addition.yml).
 
 ### Prerequisetes
 
@@ -111,7 +111,7 @@ Sometimes after Jerma says goodbye at the end of a stream or video a few words/s
 
 ## Video Info Editing
 
-You can request edits to [Subtitles.json](https://subtitlefiles.jerma.io/file/jerma-subtitles/Subtitles.json) by [opening an issue](https://github.com/JermaSites/Jerma-Subtitle-Search/issues/new?template=video-info-edit-request.yml).
+If you want to edit [Subtitles.json](https://subtitlefiles.jerma.io/file/jerma-subtitles/Subtitles.json) [open an issue](https://github.com/JermaSites/Jerma-Subtitle-Search/issues/new?template=video-info-edit-request.yml).
 
 ### Adding stream dates & titles
 
@@ -122,7 +122,7 @@ Most old streams might not have stream titles or accurate dates available.
 A lot of stream VOD thumbnails are just screenshots from random moments.  
 The only prerequisites are: thumbnails should be 16:9 and SFW.
 
-Contributions that don't fit into any of these categories are welcome too.
+> Contributions that don't fit into any of these categories are welcome too.
 
 <p align='center'>
     <picture>
