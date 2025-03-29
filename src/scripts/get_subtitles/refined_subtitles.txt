@@ -144,7 +144,7 @@ Burnout_Paradise.en.lrc
 Bushido_Blade_1_and_2.en.lrc
 Bust_a_Groove.en.lrc
 CANDLES_Get_These_Imps_Out_of_My_House.en.lrc
-CDawgVAs_Charity_Auction_2024_But_MOSTLY_Jerma.en.lrc
+CDawgVAs_Charity_Auction_2024.en.lrc
 CRIES_in_Minecraft_ANIMATED.en.lrc
 CS_GO_Arms_Race_New_Map_Monastery_Lets_Get_Em..en.lrc
 CS_GO_Arms_Race_The_New_Gun_Game.en.lrc
@@ -495,6 +495,7 @@ Far_Cry_5_Part_1_with_Etalyx.en.lrc
 Far_Cry_5_Part_2_with_Etalyx.en.lrc
 Far_Cry_6_with_Etalyx.en.lrc
 Farmers_Dynasty.en.lrc
+Fast50.en.lrc
 Fast_Draw_Showdown.en.lrc
 Feed_and_Grow_Fish.en.lrc
 Final_Fantasy_XVI_Demo_Part_1.en.lrc
@@ -746,7 +747,7 @@ Inversion_Sh_The_Ground_is_Shakin.en.lrc
 Iron_Lung.en.lrc
 Itch.io_Games_and_Everhood_Part_0.en.lrc
 JERMANIA_2014.en.lrc
-JUICED_but_its_mostly_JERMA_ft._Ludwig_xQc.en.lrc
+JUICED.en.lrc
 JUMP_KING_QUEST.en.lrc
 Jema985_Full_Stream_The_Four_Kings_Casino.en.lrc
 Jerma Streams _ Urban Runner (720p_60fps_H264_128kbit_AAC).en.lrc
@@ -847,7 +848,7 @@ Logical_Journey_of_the_Zoombinis.en.lrc
 Logical_Journey_of_the_Zoombinis_Part_2.en.lrc
 London_2012_and_Beijing_2008.en.lrc
 Lucha_Libre_AAA_Heroes_del_Ring.en.lrc
-Ludwigs_Beerio_Kart_but_its_only_the_Jerma_parts.en.lrc
+Ludwigs_Beerio_Kart.en.lrc
 Lumber_Island_The_Room_Double_Cheese_Scare_Saturburgah.en.lrc
 Luncheon_stream.en.lrc
 MEATGRINDER_ANIMATED.en.lrc
@@ -971,9 +972,9 @@ My_Summer_Car.en.lrc
 My_Summer_Car_Part_2.en.lrc
 My_Time_at_Portia.en.lrc
 MythBusters_The_Game_Crazy_Experiments_Simulator.en.lrc
-Name_Your_Price_with_Ludwig_Mia_Malkova_and_Rich_Campbell.en.lrc
 NGU_and_Hot_Lava.en.lrc
 NIDHOGG.en.lrc
+Name_Your_Price_with_Ludwig_Mia_Malkova_and_Rich_Campbell.en.lrc
 Nancy_Drew_Ghost_of_Thornton_Hall_Part_2_Finale.en.lrc
 Nancy_Drew_Midnight_in_Salem_Part_A.en.lrc
 Nancy_Drew_Midnight_in_Salem_Part_B.en.lrc
@@ -1134,7 +1135,7 @@ RISK_Global_Domination_With_Ludwig_Cr1TiKaL_and_Connor.en.lrc
 ROGUE_LIGHT_DECK_BUILDER.en.lrc
 Radiation_Monster_Vs._The_Goof_Guys.en.lrc
 Rain_World.en.lrc
-Ranboos_Generation_Loss_But_MOSTLY_Jermastream_Edit.en.lrc
+Ranboos_Generation_Loss.en.lrc
 Random_GTA_Online_Stream.en.lrc
 Random_PSVR_Games_Part_1.en.lrc
 Random_PSVR_Games_Part_2.en.lrc
@@ -1897,6 +1898,7 @@ The_Sims_4_Part_6.en.lrc
 The_Sims_Part_2.en.lrc
 The_Stanley_Parable_Ultra_Deluxe.en.lrc
 The_Story_of_Me_Old_Bones_Battlefield_4.en.lrc
+The_Streamer_Awards.en.lrc
 The_Suffering.en.lrc
 The_Surge.en.lrc
 The_Swindle.en.lrc
@@ -1984,6 +1986,7 @@ Universal_Paperclips.en.lrc
 Universal_Studios_Theme_Parks_Adventure.en.lrc
 Unlock_Escape_Adventures.en.lrc
 Unpacking.en.lrc
+Unpaid_Intern.en.lrc
 Unrailed_with_Ster_and_Etalyx.en.lrc
 Until_Dawn_Part_1.en.lrc
 Until_Dawn_Part_2_Finale.en.lrc
@@ -2126,7 +2129,6 @@ Zoo_Tycoon_2.en.lrc
 Zoombinis_Mountain_Rescue.en.lrc
 as_the_shuffler_compilation.en.lrc
 dispute_in_the_jerma_royal_family.en.lrc
-fast50_but_its_ALL_jerma_moments.en.lrc
 iPhone_Update_Stream.en.lrc
 jerald985_cigar_tier_list.en.lrc
 jerma_and_the_earwig_incident.en.lrc
@@ -2135,6 +2137,4 @@ ottos_grotto_Jerma_animated.en.lrc
 pours_detergent_on_the_floor_Jerma_Animated.en.lrc
 rare_off_stream_jerma_discord_call_with_ster.en.lrc
 teacher_noise_Jerma985_animated.en.lrc
-the_streamer_awards_but_its_just_jerma.en.lrc
-unpaid_intern_but_its_just_jerma.en.lrc
 virtually_murders_his_entire_fanbase.en.lrc
