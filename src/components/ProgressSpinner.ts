@@ -44,7 +44,12 @@ export const ProgressSpinner = () => {
                 ]),
                 m('p',
                     vnode.attrs.phase === 'Downloading'
-                        ? `${vnode.attrs.phase} (${String(Math.round((vnode.attrs.value / vnode.attrs.limit) * 100)).padStart(2, '0')}%)`
+                        ?
+                        [
+                            `${vnode.attrs.phase} index`,
+                            m('br'),
+                            `${(vnode.attrs.value / 1e6).toFixed(2)} / ${(vnode.attrs.limit / 1e6).toFixed(2)} MB (${String(Math.round((vnode.attrs.value / vnode.attrs.limit) * 100)).padStart(2, '0')}%)`,
+                        ]
                         : `${vnode.attrs.phase}`
                 )
             ]);
