@@ -69,7 +69,7 @@ def write_json(subs_path: str, output_path: str):
                         if year_match:
                             stream_date = seperator_pattern.sub('-', year_match.group(0))
 
-                    if int(stream_date[0:4]) < 2010 or int(stream_date[0:4]) > datetime.now().year:
+                    if stream_date and (int(stream_date[0:4]) < 2010 or int(stream_date[0:4]) > datetime.now().year):
                         stream_date = None
 
                     title = title_trim_pattern.sub('', data['title'])
