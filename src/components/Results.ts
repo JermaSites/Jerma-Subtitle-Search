@@ -230,9 +230,7 @@ export const Results = () => {
 
             if (!searchFinished) {
                 return m(ProgressSpinner, {
-                    limit: 0,
-                    phase: `Searching for "${searchQuery}"`,
-                    value: 0
+                    phase: `Searching for "${searchQuery}"`
                 });
             }
 

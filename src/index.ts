@@ -84,7 +84,7 @@ async function loadSubtitles(url: string) {
     async function parseSubtitles(text: string) {
         startingTime = performance.now();
 
-        [loadingValue, loadingLimit, loadingState] = [0, 0, 'Parsing subtitles'];
+        loadingState = 'Parsing subtitles';
         m.redraw();
 
         const minisearchOptions = {
@@ -113,7 +113,7 @@ async function loadSubtitles(url: string) {
 
 loadSubtitles(subtitlesURL).catch(e => {
     console.error(`Failed to load subtitles: ${e}`);
-    [loadingLimit, loadingState] = [0, 'Error encountered :('];
+    loadingState = 'Error encountered :(';
     m.redraw();
 });
 // #endregion

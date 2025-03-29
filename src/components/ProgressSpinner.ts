@@ -4,9 +4,12 @@ import '../styles/ProgressSpinner.scss';
 
 export const ProgressSpinner = () => {
     return {
-        view: (vnode: Vnode<{ value: number, limit: number, phase: string }>) => {
+        view: (vnode: Vnode<{ value?: number, limit?: number, phase: string }>) => {
+            vnode.attrs.value = vnode.attrs.value ?? 0;
+            vnode.attrs.limit = vnode.attrs.limit ?? 1;
             let containerClass: string = '';
             let imageSrc: string = '';
+
             switch (true) {
                 case vnode.attrs.phase === 'Downloading' || vnode.attrs.phase === 'Using cached index':
                     containerClass = 'download';
