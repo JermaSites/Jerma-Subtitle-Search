@@ -971,7 +971,7 @@ My_Summer_Car.en.lrc
 My_Summer_Car_Part_2.en.lrc
 My_Time_at_Portia.en.lrc
 MythBusters_The_Game_Crazy_Experiments_Simulator.en.lrc
-NAME_YOUR_PRICE_But_mostly_Jerma_ft._Ludwig_Austin_Show.en.lrc
+Name_Your_Price_with_Ludwig_Mia_Malkova_and_Rich_Campbell.en.lrc
 NGU_and_Hot_Lava.en.lrc
 NIDHOGG.en.lrc
 Nancy_Drew_Ghost_of_Thornton_Hall_Part_2_Finale.en.lrc
