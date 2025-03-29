@@ -81,6 +81,7 @@ Assassins_Creed_Origins.en.lrc
 Asuras_Wrath.en.lrc
 At_Dead_Of_Night.en.lrc
 Attempting_PSVR_Games.en.lrc
+Austin_FLIGHT.en.lrc
 BATTLEBOTS.en.lrc
 Backbreaker.en.lrc
 Bad_Games_Bad_Decisions_Discussion_Blacklight_Retribution_Gameplay.en.lrc
@@ -670,6 +671,7 @@ Helldivers_2_with_Ster_Poke_and_Vinny.en.lrc
 Heroes_of_Might_and_Magic_III_The_Restoration_of_Erathia.en.lrc
 Heroes_of_Might_and_Magic_III_The_Restoration_of_Erathia_Part_2.en.lrc
 Heroes_of_Might_and_Magic_III_The_Restoration_of_Erathia_Part_3.en.lrc
+Hey_Donna.en.lrc
 Hidden_Folks.en.lrc
 Hitman_2.en.lrc
 Hitman_2_Part_2_Finale.en.lrc
@@ -848,6 +850,7 @@ Logical_Journey_of_the_Zoombinis.en.lrc
 Logical_Journey_of_the_Zoombinis_Part_2.en.lrc
 London_2012_and_Beijing_2008.en.lrc
 Lucha_Libre_AAA_Heroes_del_Ring.en.lrc
+Ludwigs_Battleship_Tournament_Day_2.en.lrc
 Ludwigs_Beerio_Kart.en.lrc
 Lumber_Island_The_Room_Double_Cheese_Scare_Saturburgah.en.lrc
 Luncheon_stream.en.lrc
@@ -974,6 +977,7 @@ My_Time_at_Portia.en.lrc
 MythBusters_The_Game_Crazy_Experiments_Simulator.en.lrc
 NGU_and_Hot_Lava.en.lrc
 NIDHOGG.en.lrc
+Name_Your_Price_Part_2_with_Hasan_Pokimane_and_GeorgeNotFound.en.lrc
 Name_Your_Price_with_Ludwig_Mia_Malkova_and_Rich_Campbell.en.lrc
 Nancy_Drew_Ghost_of_Thornton_Hall_Part_2_Finale.en.lrc
 Nancy_Drew_Midnight_in_Salem_Part_A.en.lrc
@@ -1016,6 +1020,7 @@ Noita.en.lrc
 Nosferatu_The_Wrath_of_Malachi.en.lrc
 Nostalgia_and_Replayability_Why_do_I_keep_playing_old_games_Discussion.en.lrc
 ONION_RING_Jerma_ANIMATED.en.lrc
+OTK_Schooled.lrc
 Octodad_Clean_This_Kitchen_You_Slug.en.lrc
 Octodad_Finale_The_Secret_Base_and_a_Dash_of_Rage.en.lrc
 Octodad_Quality_Time_with_The_Kids.en.lrc
@@ -1225,6 +1230,7 @@ SMITE_Beta_What_it_is_and_why_I_love_it._Cupid_Round.en.lrc
 SNOW_The_Physical_and_Metaphorical_Ski_Crash_Game_Alpha.en.lrc
 SOS.en.lrc
 STDWTDOBA_INTBTIAPTLINR.en.lrc
+SUPERFIGHT.en.lrc
 Saints_Row_2.en.lrc
 Saints_Row_2_Part_2.en.lrc
 Saints_Row_2_Who_is_Uglier.en.lrc
@@ -1963,6 +1969,7 @@ True_Crime_Streets_of_LA_Part_2.en.lrc
 Trying_to_Play_Games.en.lrc
 Trying_to_play_Fall_Guys.en.lrc
 Trying_to_play_Zoombinis_Island_Odyssey.en.lrc
+Tummy_Time.en.lrc
 Turbo_Dismount_Look_at_Me_Mommy.en.lrc
 Turmoil.en.lrc
 Twin_Comb_Stream.en.lrc
