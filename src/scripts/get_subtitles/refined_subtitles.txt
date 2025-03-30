@@ -419,7 +419,6 @@ Enter_the_Gungeon.en.lrc
 Erie_Scariest_Game_I_ve_Ever_Played_Scare_Saturdays_RUN.en.lrc
 Eternal_Darkness_Sanitys_Requiem.en.lrc
 Everhood.en.lrc
-Every_Jermasighting_Mention_Since_Retirement_so_far.en.lrc
 Everything.en.lrc
 Evil_Moments.en.lrc
 Evolva.en.lrc
@@ -1111,6 +1110,7 @@ Playstation_2_Games_Part_5.en.lrc
 Pokemon_Channel.en.lrc
 Police_Quest_SWAT.en.lrc
 Post_Carnival_Talk.en.lrc
+Post_retirement_Jerma_Sightings.en.lrc
 PowerWash_Simulator.en.lrc
 PowerWash_Simulator_Part_2.en.lrc
 Pre_Dollhouse_Q_A_Talking_Stream.en.lrc
