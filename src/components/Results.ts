@@ -31,6 +31,37 @@ function formatTimestamp(timestamp: string): string {
     return `${pad(hours)}:${pad(mins)}:${pad(secs)}`;
 };
 
+function formatStreamTitle(title: string): Children[] {
+    const usernameRegex = /@(\w+)/g;
+    let match;
+    let lastIndex = 0;
+    const elements: Children[] = [];
+
+    while ((match = usernameRegex.exec(title)) !== null) {
+        if (match.index > lastIndex) {
+            elements.push(title.slice(lastIndex, match.index));
+        }
+
+        const username = match[1];
+
+        elements.push(
+            m('a', {
+                href: `https://www.twitch.tv/${username.toLowerCase()}`,
+                target: '_blank',
+                rel: 'noopener noreferrer'
+            }, `@${username}`)
+        );
+
+        lastIndex = usernameRegex.lastIndex;
+    }
+
+    if (lastIndex < title.length) {
+        elements.push(title.slice(lastIndex));
+    }
+
+    return elements;
+}
+
 async function performSearch(query: string, signal: AbortSignal): Promise<SearchResult[]> {
     while (!subtitlesLoaded) {
         if (signal.aborted) throw new DOMException('Search aborted', 'AbortError');
@@ -276,7 +307,7 @@ export const Results = () => {
                                 result.stream_title &&
                                     m('p#stream-title', [
                                         m('b', 'Stream Title: '),
-                                        result.stream_title
+                                        formatStreamTitle(result.stream_title)
                                     ]),
                                 result.stream_date &&
                                     m('p#stream-date', {
