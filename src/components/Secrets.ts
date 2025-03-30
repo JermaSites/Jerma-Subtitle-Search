@@ -42,7 +42,9 @@ export const Secrets = () => {
     }
 
     function setSecretTheme(theme: string) {
-        document.documentElement.setAttribute('secret-theme', theme);
+        const currentTheme = document.documentElement.getAttribute('secret-theme');
+        const newTheme = currentTheme ? `${currentTheme}  ${theme}` : theme;
+        document.documentElement.setAttribute('secret-theme', newTheme);
     }
 
     function setTitle(title: string) {
@@ -160,7 +162,11 @@ export const Secrets = () => {
                     setLogoLink('https://www.twitch.tv/greatsphynx/clip/RamshackleUnsightlyBulgogiTwitchRPG-Uzk-4z1kJvKa_KVI');
                     setSecretTheme('osmo');
                     setTitle('OSMO');
-                    playAudio('/assets/audio/OSMO.opus', 0.69);
+                    playAudio('/assets/audio/OSMO.opus', 0.50);
+
+                    if (localStorage.getItem('use-word-boundaries') === 'false') {
+                        setSecretTheme('repeat-background');
+                    }
 
                     elements.push(
                         m('img#omoJam', {
