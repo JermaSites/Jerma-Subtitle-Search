@@ -27,7 +27,7 @@ If you'd like a video to be transcribed and added to the site [open an issue](ht
 ### Ineligible Videos
 
 - Newly uploaded streams - they'll get added as soon as possible.
-- Videos already added - look through [downloaded.txt](/src/scripts/get_subtitles/downloaded.txt) to check (Ctrl+F).
+- Videos already added - look through [downloaded.txt](/src/scripts/get_subtitles/downloaded.txt) to check (<kbd>Ctrl</kbd>+<kbd>F</kbd>).
 
 ## Code Editing
 
