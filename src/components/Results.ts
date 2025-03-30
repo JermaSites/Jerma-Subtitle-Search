@@ -1,4 +1,4 @@
-import m, { type Vnode } from 'mithril';
+import m, { type Children, type Vnode } from 'mithril';
 import type { SearchResult } from 'minisearch';
 import { Secrets } from './Secrets.ts';
 import { ProgressSpinner } from './ProgressSpinner.ts';
@@ -303,7 +303,7 @@ export const Results = () => {
                             ]),
                             m('ul.subtitle-matches',
                                 displayedMatches.map((match) => {
-                                    const elements: Vnode[] = [];
+                                    const elements: Children[] = [];
 
                                     contextStart = match.index - 1;
                                     contextEnd = match.index + match.match.length;
@@ -402,7 +402,8 @@ export const Results = () => {
                                                         return merged;
                                                     }, [] as { start: number; end: number }[]);
 
-                                                    const fragments: (m.Vnode | string)[] = [];
+                                                    const fragments: Children[] = [];
+
                                                     mergedIndices.forEach(({ start, end }) => {
                                                         if (start > offset) {
                                                             fragments.push(text.slice(offset, start));

@@ -1,4 +1,4 @@
-import m, { type Vnode } from 'mithril';
+import m, { type Children, type Vnode } from 'mithril';
 import { seekEmbed } from './Results';
 import '../styles/Secrets.scss';
 
@@ -84,7 +84,7 @@ export const Secrets = () => {
             resetPage();
         },
         view: (vnode: Vnode<{ query: string }>) => {
-            const elements: Vnode[] = [];
+            const elements: Children = [];
 
             document.documentElement.removeAttribute('secret-theme');
 
