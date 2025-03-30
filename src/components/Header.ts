@@ -48,7 +48,8 @@ export const Header = () => {
                     m('a', {
                         href: 'https://github.com/JermaSites/Jerma-Subtitle-Search',
                         target: '_blank',
-                        title: 'please consider starring <3'
+                        title: 'please consider starring <3',
+                        rel: 'noopener'
                     },
                     [
                         m('svg.icon', {
