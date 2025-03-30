@@ -1947,7 +1947,7 @@ Top_5_Games_of_2015_A.D..en.lrc
 Toribash_Why_Is_Everything_So_Dirty_w_STAR.en.lrc
 Total_Distortion.en.lrc
 Total_Overdose.en.lrc
-Totally_Tubular_Youtubers_Life_Fallout_NV.en.lrc
+Totally_Tubular_YouTubers_Life_Fallout_NV.en.lrc
 Toukiden_2_with_Etalyx.en.lrc
 Travellers_Rest.en.lrc
 Trepang2.en.lrc
@@ -2126,7 +2126,7 @@ You_Laugh_You_Lose_and_Baby_Sensory_Videos.en.lrc
 You_Wanna_Ride_My_Rollah_Coastah.en.lrc
 Youre_in_the_Movies.en.lrc
 Youre_in_the_Movies_RERUN.en.lrc
-Youtubers_Life_2.en.lrc
+YouTubers_Life_2.en.lrc
 Zerkin_Off_Jerma_Animated.en.lrc
 Zombie_Computer_Salesman.en.lrc
 Zombie_Dinos_from_Planet_Zeltoid_and_Other_games.en.lrc
