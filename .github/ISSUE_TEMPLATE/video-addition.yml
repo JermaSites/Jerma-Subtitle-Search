@@ -24,7 +24,7 @@ body:
       options:
         - label: The video is on YouTube
           required: true
-        - label: "The video's ID isn't already listed in [downloaded.txt](https://github.com/JermaSites/Jerma-Subtitle-Search/blob/main/src/scripts/get_subtitles/downloaded.txt) (Ctrl+F)"
+        - label: "The video's ID isn't already listed in [downloaded.txt](https://github.com/JermaSites/Jerma-Subtitle-Search/blob/main/src/scripts/get_subtitles/downloaded.txt) (<kbd>Ctrl</kbd>+<kbd>F</kbd>)"
           required: true
         - label: The video is not a stream VOD that was uploaded within the past couple days
           required: true
