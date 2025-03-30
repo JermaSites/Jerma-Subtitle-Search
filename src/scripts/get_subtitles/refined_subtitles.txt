@@ -1365,7 +1365,7 @@ Stay_Out_of_the_House.en.lrc
 Steam_Next_Fest_Demos.en.lrc
 Steam_Next_Fest_Demos_Part_2.en.lrc
 Steelrising.en.lrc
-Ster_Stream_Rampage_Knights_w_Jerma.en.lrc
+Rampage_Knights.en.lrc
 Sterferge.en.lrc
 Sticks_and_Stones_Black_Ops_2_Pahhtyy_Game.en.lrc
 Stranglehold.en.lrc
