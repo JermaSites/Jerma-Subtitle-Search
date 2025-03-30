@@ -724,6 +724,7 @@ Human_Fall_Flat_with_Ster_and_Etalyx.en.lrc
 Hylics.en.lrc
 Hypnospace_Outlaw.en.lrc
 INSTAGIB_Free_Weekend.en.lrc
+IS_JERMA_REAL.en.lrc
 I_Am_The_Pinball_Lord_of_The_Rings_Wizard.en.lrc
 I_REMAIN_Jerma_ANIMATED.en.lrc
 I_Spy_Spooky_Mansion_Deluxe.en.lrc
@@ -833,6 +834,7 @@ Lethal_League_Dinner_or_Song.en.lrc
 Lethal_League_Insane_Dodgeball_Pong.en.lrc
 Lets_Talk_About_Hype.en.lrc
 Lets_talk_about_some_stuff.en.lrc
+Letting_off_Steam.en.lrc
 Lifeline.en.lrc
 Lifeline_Part_2_Finale.en.lrc
 Light_Gun_Games_Part_1.en.lrc
@@ -851,6 +853,7 @@ London_2012_and_Beijing_2008.en.lrc
 Lucha_Libre_AAA_Heroes_del_Ring.en.lrc
 Ludwigs_Battleship_Tournament_Day_2.en.lrc
 Ludwigs_Beerio_Kart.en.lrc
+Ludwigs_Chessboxing.en.lrc
 Lumber_Island_The_Room_Double_Cheese_Scare_Saturburgah.en.lrc
 Luncheon_stream.en.lrc
 MEATGRINDER_ANIMATED.en.lrc
@@ -1141,6 +1144,7 @@ ROGUE_LIGHT_DECK_BUILDER.en.lrc
 Radiation_Monster_Vs._The_Goof_Guys.en.lrc
 Rain_World.en.lrc
 Ranboos_Generation_Loss.en.lrc
+RANKED_2pm_=_Jerma_Games.en.lrc
 Random_GTA_Online_Stream.en.lrc
 Random_PSVR_Games_Part_1.en.lrc
 Random_PSVR_Games_Part_2.en.lrc
@@ -1876,6 +1880,7 @@ The_Movies_Part_3.en.lrc
 The_Movies_Part_4.en.lrc
 The_Movies_Part_5.en.lrc
 The_Movies_Part_6.en.lrc
+The_Official_Podcast_Episode_81.en.lrc
 The_Outer_Worlds.en.lrc
 The_Outer_Worlds_Part_2.en.lrc
 The_Outer_Worlds_Part_3_Finale.en.lrc
@@ -2121,6 +2126,7 @@ Yakuza_0_Part_2.en.lrc
 Yearly_Channel_Doctors_Appointment.en.lrc
 Yooka_Laylee.en.lrc
 Yoostar_2_In_The_Movies.en.lrc
+Youtube_Gaming_Launch_TF2_Cases_Contracts.en.lrc
 YouTube_Tips_Advice_Growing_a_Channel_TF2_Huntsman_CS_GO_Gameplay.en.lrc
 You_Laugh_You_Lose_and_Baby_Sensory_Videos.en.lrc
 You_Wanna_Ride_My_Rollah_Coastah.en.lrc
