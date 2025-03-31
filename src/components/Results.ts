@@ -538,59 +538,59 @@ export const Results = () => {
                     })
                 ]),
                 searchResults.length === 0 &&
-                m('div#page-info', [
-                    m('section', [
-                        m('h2', 'Not finding what you\'re looking for?'),
-                        m('section#query-tips', [
-                            m('ul', [
-                                m('li', 'For numbers: try different combinations of typing out and digitizing.'),
-                                m('li', 'Substitute potential special characters with spaces or a wildcard (*).'),
-                                m('li', [
-                                    'Generally American spelling should be used (',
-                                    m('a', {
-                                        href: 'https://en.wikipedia.org/wiki/Wikipedia:List_of_spelling_variants'
-                                    }, 'list of spelling variants'),
-                                    ').'
+                    m('div#page-info', [
+                        m('section', [
+                            m('h2', 'Not finding what you\'re looking for?'),
+                            m('section#query-tips', [
+                                m('ul', [
+                                    m('li', 'For numbers: try different combinations of typing out and digitizing.'),
+                                    m('li', 'Substitute potential special characters with spaces or a wildcard (*).'),
+                                    m('li', [
+                                        'Generally American spelling should be used (',
+                                        m('a', {
+                                            href: 'https://en.wikipedia.org/wiki/Wikipedia:List_of_spelling_variants'
+                                        }, 'list of spelling variants'),
+                                        ').'
+                                    ])
+                                ]),
+                                m('p', [
+                                    'Wildcard characters (*) match zero or more characters.',
+                                    m('br'),
+                                    'Spaces match non-alphanumeric characters.'
                                 ])
                             ]),
-                            m('p', [
-                                'Wildcard characters (*) match zero or more characters.',
-                                m('br'),
-                                'Spaces match non-alphanumeric characters.'
-                            ])
-                        ]),
-                        m('details#advanced-usage', [
-                            m('summary', 'Advanced Usage'),
-                            m('p', [
-                                'You can interact with the underlying ',
-                                m('a', {
-                                    href: 'https://github.com/lucaong/minisearch'
-                                }, 'MiniSearch'),
-                                ' instance in your browser console.',
-                                m('br'),
-                                'It\'s accessible from a global variable called ',
-                                m('code', 'subtitles'),
-                                '.',
-                                m('br'),
-                                'For example: ',
-                                m('code', `subtitles.search('${searchQuery}', { combineWith: 'OR', fuzzy: true })`)
-                            ]),
-                            m('p', [
-                                'The subtitle files are also downloadable if you\'d like to search through them externally.',
-                                m('br'),
-                                'Individual files are on ',
-                                m('a', {
-                                    href: 'https://github.com/JermaSites/Jerma-Subtitle-Search/tree/main/src/assets/subtitles'
-                                }, 'GitHub'),
-                                ' and the bundled JSON is available ',
-                                m('a', {
-                                    href: 'https://subtitlefiles.jerma.io/file/jerma-subtitles/Subtitles.json'
-                                }, 'here'),
-                                '.'
+                            m('details#advanced-usage', [
+                                m('summary', 'Advanced Usage'),
+                                m('p', [
+                                    'You can interact with the underlying ',
+                                    m('a', {
+                                        href: 'https://github.com/lucaong/minisearch'
+                                    }, 'MiniSearch'),
+                                    ' instance in your browser console.',
+                                    m('br'),
+                                    'It\'s accessible from a global variable called ',
+                                    m('code', 'subtitles'),
+                                    '.',
+                                    m('br'),
+                                    'For example: ',
+                                    m('code', `subtitles.search('${searchQuery}', { combineWith: 'OR', fuzzy: true })`)
+                                ]),
+                                m('p', [
+                                    'The subtitle files are also downloadable if you\'d like to search through them externally.',
+                                    m('br'),
+                                    'Individual files are on ',
+                                    m('a', {
+                                        href: 'https://github.com/JermaSites/Jerma-Subtitle-Search/tree/main/src/assets/subtitles'
+                                    }, 'GitHub'),
+                                    ' and the bundled JSON is available ',
+                                    m('a', {
+                                        href: 'https://subtitlefiles.jerma.io/file/jerma-subtitles/Subtitles.json'
+                                    }, 'here'),
+                                    '.'
+                                ])
                             ])
                         ])
-                    ])
-                ]),
+                    ]),
                 m(Secrets, {
                     query: vnode.attrs.query
                 })
