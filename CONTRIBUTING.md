@@ -100,6 +100,8 @@ Timestamp accuracy tends to dip around previously mentioned types.
 
 #### Incorrect spelling
 
+[Examples](https://github.com/JermaSites/Jerma-Subtitle-Search/commit/1898075f1d4031acd0d48b55d4c964d887ad02c6)
+
 Sometimes words will be spelled or capitalized incorrectly, but won't be able to be corrected programmatically.  
 In addition to ones mentioned [here](#examples-of-invalid-replacements):
 
