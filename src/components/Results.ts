@@ -303,28 +303,28 @@ export const Results = () => {
                                 }
                             })],
                             m('div.video-info', [
-                                m('h3#title', result.title),
+                                m('h3.title', result.title),
                                 result.stream_title &&
-                                    m('p#stream-title', [
+                                    m('p.stream-title', [
                                         m('b', 'Stream Title: '),
                                         formatStreamTitle(result.stream_title)
                                     ]),
                                 result.stream_date &&
-                                    m('p#stream-date', {
+                                    m('p.stream-date', {
                                         title: result.stream_date.length === 4 ? 'YYYY' : 'YYYY-MM-DD'
                                     },
                                     [
                                         m('b', 'Streamed: '),
                                         result.stream_date
                                     ]),
-                                m('p#upload-date', {
+                                m('p.upload-date', {
                                     title: 'YYYY-MM-DD'
                                 },
                                 [
                                     m('b', 'Uploaded: '),
                                     result.upload_date
                                 ]),
-                                m('p#duration', {
+                                m('p.duration', {
                                     title: result.duration.split(':').length - 1 === 2 ? 'H:MM:SS' : 'M:SS'
                                 },
                                 [
