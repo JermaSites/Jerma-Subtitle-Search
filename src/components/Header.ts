@@ -10,7 +10,8 @@ export const Header = () => {
                     m('div#logo', [
                         m('a', {
                             href: 'https://www.twitch.tv/jerma985',
-                            target: '_blank'
+                            target: '_blank',
+                            rel: 'noreferrer'
                         },
                         [
                             m('img#J', {
