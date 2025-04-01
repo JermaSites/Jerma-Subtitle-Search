@@ -50,7 +50,7 @@ form#search-bar {
         }
     }
 
-    button.match-whole-word-toggle {
+    button#match-whole-words-toggle {
         border-radius: 0.25rem;
         height: 69%;
         opacity: 0.5;
@@ -64,7 +64,7 @@ form#search-bar {
         }
     }
 
-    button.search {
+    button#search {
         border-left: none;
         border-radius: 0 0.25rem 0.25rem 0;
         padding: 0.5rem 1rem;
