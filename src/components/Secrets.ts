@@ -2,10 +2,11 @@ import m, { type Children, type Vnode } from 'mithril';
 import { seekEmbed } from './Results';
 import '../styles/Secrets.scss';
 
+const australiaRegex = new RegExp(/\baustralian?s?\b/, 'i');
 const buffyRegex = new RegExp(/\bbuffy\b/, 'i');
 const gongoRegex = new RegExp(/\bgongo\b/, 'i');
 const minecraftRegex = new RegExp(/\bminecraft\b/, 'i');
-const osmoRegex = new RegExp(/\bosmo\b/, 'i');
+const osmoRegex = new RegExp(/\bos?mo\b/, 'i');
 const picminRegex = new RegExp(/\bpicmin|pikmin\b/, 'i');
 const rickrollRegex = new RegExp(/\brickroll\b/, 'i');
 const scornRegex = new RegExp(/\bscorn\b/, 'i');
@@ -91,10 +92,8 @@ export const Secrets = () => {
             document.documentElement.removeAttribute('secret-theme');
 
             switch (true) {
-                case terrariaRegex.test(vnode.attrs.query):
-                    if (localStorage.getItem('font') !== 'OpenDyslexic, sans-serif') {
-                        setSecretTheme('terraria');
-                    }
+                case australiaRegex.test(vnode.attrs.query):
+                    setSecretTheme('australia');
                     break;
                 case buffyRegex.test(vnode.attrs.query):
                     setSecretTheme('buffy');
@@ -241,6 +240,11 @@ export const Secrets = () => {
                             src: '/assets/images/spynxP.avif'
                         }),
                     );
+                    break;
+                case terrariaRegex.test(vnode.attrs.query):
+                    if (localStorage.getItem('font') !== 'OpenDyslexic, sans-serif') {
+                        setSecretTheme('terraria');
+                    }
                     break;
             }
 
