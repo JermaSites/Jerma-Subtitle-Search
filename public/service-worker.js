@@ -1,4 +1,4 @@
-const cacheName = 'cache-1.985.47';
+const cacheName = 'cache-1.985.48';
 const cachedFiles = [
     'jermaT.avif',
     'jermaComet.avif',
