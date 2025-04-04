@@ -8,6 +8,7 @@
 18_Wheels_of_Steel_Across_America.en.lrc
 1v1_Ratz_Instagib.en.lrc
 2000_Subs_Extravaganza.en.lrc
+2007_Voice_Demo.en.lrc
 20_Minutes_Till_Dawn.en.lrc
 20_Minutes_Till_Dawn_Part_2.en.lrc
 3DO_Games.en.lrc
@@ -17,6 +18,7 @@
 3DO_Games_Part_5.en.lrc
 3DO_Games_Part_6.en.lrc
 4000_Subs_Computer_Set_Up_Video_and_Who_is_THE_EGG.en.lrc
+50_000_Subscribers_Human_Sundae_Insanity_Ice_Cream_Party.en.lrc
 700_000_Games.en.lrc
 700_000_Games_Version_2.0.en.lrc
 700_000_Games_Version_2.0_Part_2_Finale.en.lrc
@@ -73,6 +75,7 @@ Another_Awesome_Game_for_Bed_Sorcery.en.lrc
 Another_Brick_in_The_Mall.en.lrc
 Antichamber_The_Mind_Melter_What_the_Hell_Is_Going_on.en.lrc
 Anubis_God_of_the_Dead_SMITE_Beginner_Tips_God_Breakdown.en.lrc
+April_Fools.en.lrc
 Ares_God_of_War_This_Dudes_a_Beast_SMITE_Beginner_Tips_Breakdown.en.lrc
 Armikrog.en.lrc
 Armikrog_Kickstarter_Talk_The_Things_We_Love_TF2_Huntsman_Gameplay.en.lrc
@@ -159,6 +162,7 @@ CS_GO_Mini_Games_Insanity_Jump_Rope_Bombardment_Others.en.lrc
 Call_of_Cthulhu_Dark_Corners_of_the_Earth_Part_0.en.lrc
 Call_of_Cthulhu_Dark_Corners_of_the_Earth_and_Clock_Tower.en.lrc
 Call_of_Duty_Black_Ops_II_Tournament.en.lrc
+Call_of_Duty_Grandpa_is_an_MLG_Pro_Trip_Down_Memory_Lane_S2E4.en.lrc
 Call_of_Juarez_Gunslinger.en.lrc
 Call_of_Juarez_Gunslinger_.en.lrc
 Card_Games_Part_1.en.lrc
@@ -235,6 +239,7 @@ D.en.lrc
 DAVE_THE_DIVER.en.lrc
 DJ_Ster_Strongbox_Crate_Remix.en.lrc
 Da_PAX_East_2013_Video_Hotel_Weirdos_Shenanigans.en.lrc
+Da_TF2_Radio_Show_CANCELED.en.lrc
 Damnation_Breakfast_Time_with_Doofus_and_Goofus.en.lrc
 Danger_Zone_Perception.en.lrc
 Dark_Messiah_of_Might_Magic_Part_1.en.lrc
@@ -317,6 +322,7 @@ Devil_May_Cry_3_Dantes_Awakening.en.lrc
 Devil_May_Cry_3_Dantes_Awakening_Part_2_Finale.en.lrc
 Devils_Third_Fast_Draw_Showdown_WarioWare.en.lrc
 Diablo_3_Adventure_Squad_Introduction_Act_2_Normal.en.lrc
+Diablo_3_Review_Should_You_Get_It_Thoughts_Impressions.en.lrc
 Diablo_II.en.lrc
 Diablo_III_Reaper_of_Souls.en.lrc
 Diablo_II_Part_2_and_Tier_Lists_Part_5.en.lrc
@@ -498,6 +504,7 @@ Farmers_Dynasty.en.lrc
 Fast50.en.lrc
 Fast_Draw_Showdown.en.lrc
 Feed_and_Grow_Fish.en.lrc
+Final_Fantasy_Redux.en.lrc
 Final_Fantasy_XVI_Demo_Part_1.en.lrc
 Final_Fantasy_XVI_Part_2.en.lrc
 Finding_Bigfoot_Part_2_with_Etalyx.en.lrc
@@ -559,6 +566,7 @@ GTA4_Multiplayer_Whats_Dis_in_Road_Smash_w_STAR.en.lrc
 GTA_5_Next_Gen_First_Person_Anger.en.lrc
 GTA_5_People_Are_Crazy.en.lrc
 GTA_5_The_Dangers_of_Golf.en.lrc
+GTA_5_The_Heinous_Haymaker.en.lrc
 GTA_5_The_Mario_Kart_Update.en.lrc
 GTA_5_The_Mario_Kart_Update_Other_Games_with_STAR_.en.lrc
 GTA_5_The_Outdoor_Outrage.en.lrc
@@ -567,6 +575,7 @@ GTA_End_of_the_World.en.lrc
 GTA_Ghost_World_Insanity.en.lrc
 GTA_Online_Burglar_Bandits.en.lrc
 GTA_Online_Imagination_is_Important.en.lrc
+GTA_Online_The_Rules_of_Safety.en.lrc
 GTA_Online_Where_Is_The_Love.en.lrc
 GTA_Online_Wine_Friends.en.lrc
 GTA_Online_with_Etalyx.en.lrc
@@ -611,6 +620,7 @@ Grab_Bag_Game_Night.en.lrc
 Grab_That_Auto_5.en.lrc
 Grandpa_Invades_JermaCraft_Farm_Building_Episode_9.en.lrc
 Grandpa_Invades_JermaCraft_Who_Built_This_Episode_10..en.lrc
+Grandpa_Is_a_MLG_Pro_BF3_Noob_Episode_4_Battlefield_3_Gameplay_Commentary.en.lrc
 Grandpa_Plays_Cube_World_The_Adventure_of_a_Lifetime.en.lrc
 Grandpa_Plays_Dishonored_Start_Slicing.en.lrc
 Grandpa_Plays_Hitman_Blood_Money_Season_2_Sneak_Peak.en.lrc
@@ -618,6 +628,18 @@ Grandpa_Plays_Insaniquarium.en.lrc
 Grandpa_Plays_League_of_Legends_Total_Confusion.en.lrc
 Grandpa_Plays_The_Sims_3_Dream_House_Drama.en.lrc
 Grandpa_Runs_a_Fast_Food_Joint_Papas_Burgeria.en.lrc
+Grandpa_is_a_MLG_Pro_Episode_2_Game_Modes_by_Jerma_Modern_Warfare_3_Gameplay_Commentary.en.lrc
+Grandpa_is_a_MLG_Pro_Episode_3_Tactics_Modern_Warfare_3_Gameplay_Commentary.en.lrc
+Grandpa_is_an_MLG_Pro_Balance_Episode_7_Modern_Warfare_3_Gameplay_Commentary.en.lrc
+Grandpa_is_an_MLG_Pro_Christmas_Special_Episode_6.en.lrc
+Grandpa_is_an_MLG_Pro_Fun_Adventure_Game_Dead_Space.en.lrc
+Grandpa_is_an_MLG_Pro_Holiday_Buyers_Guide_Episode_5.en.lrc
+Grandpa_is_an_MLG_Pro_More_Modern_Warfare_3_Tips_Tricks_S2E2.en.lrc
+Grandpa_is_an_MLG_Pro_Season_2_Trailer.en.lrc
+Grandpa_is_an_MLG_Pro_Snipers_and_Trick_Shots_Episode_10_MW3.en.lrc
+Grandpa_is_an_MLG_Pro_The_Montage_S2E1_Modern_Warfare_3_Gameplay_Montage.en.lrc
+Grandpa_is_an_MLG_Pro_The_Puzzle_Master_Episode_9_Portal_2_Gameplay_Commentary.en.lrc
+Grandpa_is_an_MLG_Pro_Zombeenees_Episode_11_Left_4_Dead_2.en.lrc
 Grandpas_Christmas_Album_2012.en.lrc
 Grandpas_Minecraft_Time_lapse.en.lrc
 Grandpas_Professional_Brain_Surgery_Technique_Surgeon_Simulator_2013.en.lrc
@@ -665,6 +687,7 @@ Hatsune_Miku_Logic_PaintS.en.lrc
 Hatsune_Miku_Project_DIVA_Mega_Mix.en.lrc
 Heart_of_Darkness.en.lrc
 Hearthstone.en.lrc
+Height_Measured_at_TwitchCon_San_Diego_2019.en.lrc
 Helldivers_1.en.lrc
 Helldivers_2_with_Ster_Poke_and_Vinny.en.lrc
 Heroes_of_Might_and_Magic_III_The_Restoration_of_Erathia.en.lrc
@@ -690,6 +713,7 @@ Hitman_Absolution_Terminus_Hotel_Catastrophe_Mission_3_P1.en.lrc
 Hitman_Absolution_Tha_Prologue_Lets_Play_Ep._1.en.lrc
 Hitman_Absolution_Train_Station_Mission_4.en.lrc
 Hitman_Absolution_Upper_Floors_AHHH_FIRE_Mission_3_4.en.lrc
+Hitman_Blood_Money_Grandpa_is_an_MLG_Pro_Expert_Assassin_S2E3.en.lrc
 Hitman_Part_1.en.lrc
 Hitman_Part_2.en.lrc
 Hitman_Part_3_Finale.en.lrc
@@ -720,6 +744,7 @@ House_Flipper_Part_6.en.lrc
 House_Flipper_Part_7.en.lrc
 House_Flipper_Part_8.en.lrc
 House_Flipper_Part_9.en.lrc
+How_to_Make_a_Gameplay_Commentary_Tutorial_Be_Taken_Seriously.en.lrc
 Human_Fall_Flat_with_Ster_and_Etalyx.en.lrc
 Hylics.en.lrc
 Hypnospace_Outlaw.en.lrc
@@ -734,6 +759,7 @@ Immortal_Redneck_Part_2.en.lrc
 Immortal_Redneck_Part_3.en.lrc
 Immortal_Redneck_Part_4.en.lrc
 Immortal_Unchained_and_Google_Feud_Part_2.en.lrc
+Important_Vlog_New_Upload_Schedule_Oh_Ya_Baby.en.lrc
 Impossible_Creatures.en.lrc
 InZOI.en.lrc
 Incredible_Crisis.en.lrc
@@ -753,7 +779,7 @@ JERMANIA_2014.en.lrc
 JUICED.en.lrc
 JUMP_KING_QUEST.en.lrc
 Jema985_Full_Stream_The_Four_Kings_Casino.en.lrc
-Jerma Streams _ Urban Runner (720p_60fps_H264_128kbit_AAC).en.lrc
+JermaCast_Razer_Mouse_up_for_Grabs_PS4_Streaming_Blacklight_Gameplay.en.lrc
 JermaCraft_Cave_Dweller_Episode_3.en.lrc
 JermaCraft_Coal_Chaos_Episode_2.en.lrc
 JermaCraft_Flood_Story_and_Wood_Quest_Episode_5.en.lrc
@@ -802,6 +828,7 @@ Kingdom_Come_Deliverance_Part_2.en.lrc
 Kingdom_Come_Deliverance_Part_3.en.lrc
 Kingdom_Come_Deliverance_Part_4_Finale.en.lrc
 Kingdoms_Rise_from_soil.en.lrc
+Kingpin_The_Game_of_Swears.en.lrc
 Kingsway.en.lrc
 Kung_Fu_Chroma_Key.en.lrc
 Kung_Fu_Rider_and_Start_the_Party.en.lrc
@@ -866,8 +893,13 @@ MS_DOS_Games_Part_5.en.lrc
 MS_DOS_Games_Part_6.en.lrc
 MS_DOS_Games_Part_7.en.lrc
 MS_DOS_Games_Part_8.en.lrc
+MW3_30_4_FFA_Jerma_Grandpa_Say_Thank_You.en.lrc
+MW3_30_8_FFA_My_Thoughts_Impressions.en.lrc
+MW3_Goin_for_a_Comeback_24_7_FFA.en.lrc
 MW3_Grandpa_is_an_MLG_Pro.en.lrc
 MW3_Live_Dual_Comm_w_MLC_St3alth_Kill_Confirmed.en.lrc
+MW3_Sniping_Discussion.en.lrc
+MW3_Using_Assault_Rifles_44_16_Domination_Bootleg.en.lrc
 Mad_Dog_McCree_Gunslinger_Pack.en.lrc
 Mafia_Definitive_Edition.en.lrc
 Mafia_III_Part_1.en.lrc
@@ -995,6 +1027,7 @@ Neon_White.en.lrc
 Neurostory_Electro_Dump.en.lrc
 New_Pokemon_Snap.en.lrc
 New_Series_Little_Gems_Fairway_Solitaire.en.lrc
+New_YouTube_MW3_Kill_Confirmed.en.lrc
 Nightmare_House_1_The_Original_Jump_Scares_Galore.en.lrc
 Nightmare_House_2_Gettin_Jumpy_Tonight._Ch_3_Scare_Saturdays.en.lrc
 Nightmare_House_2_I_Hate_Zombies_Ch_2_Scare_Saturdays.en.lrc
@@ -1024,6 +1057,7 @@ Nosferatu_The_Wrath_of_Malachi.en.lrc
 Nostalgia_and_Replayability_Why_do_I_keep_playing_old_games_Discussion.en.lrc
 ONION_RING_Jerma_ANIMATED.en.lrc
 OTK_Schooled.lrc
+Octo_Man_Gets_Married_New_Dad_New_Octo.en.lrc
 Octodad_Clean_This_Kitchen_You_Slug.en.lrc
 Octodad_Finale_The_Secret_Base_and_a_Dash_of_Rage.en.lrc
 Octodad_Quality_Time_with_The_Kids.en.lrc
@@ -1041,6 +1075,7 @@ Online_Tests.en.lrc
 Only_Up.en.lrc
 Opening_TF2_Crates.en.lrc
 Orcs_Must_Die_3_with_Ster.en.lrc
+Orcs_Must_Die_40_Killstreak_Tutorial_How_To.en.lrc
 Orcs_Must_Die_Impressions_Breast_Cancer_Awareness_Pictures.en.lrc
 Otto_Stream.en.lrc
 Otto_The_Dog_Doesn_t_Understand_Utensils_Quick_Cute_Clip.en.lrc
@@ -1062,11 +1097,11 @@ Overwatch_and_maybe_somethin_else_.en.lrc
 PAC_MAN_WORLD_Re_PAC.en.lrc
 PAX_East_2012_Amazing_Weekend._Interviews_Shenanigans.en.lrc
 PEEPS_THE_HORROR_ANIMATED.en.lrc
+PSA_New_Youtube_Comments_Filtration_System.en.lrc
 PUBLIC_DOMAIN_MOVIE_NIGHT_PART_1.en.lrc
 PaRappa_the_Rapper_1_and_2.en.lrc
 Pac_Man_99.en.lrc
 Pac_Man_Has_Gone_Insane.en.lrc
-Pac_Man_Loves_Halloween.en.lrc
 Pac_Man_Museum_.en.lrc
 Pac_Man_and_The_Ghostly_High_School_Reunion.en.lrc
 Painting_Stream_with_Etalyx.en.lrc
@@ -1112,6 +1147,7 @@ Playstation_2_Games_Part_3.en.lrc
 Playstation_2_Games_Part_4.en.lrc
 Playstation_2_Games_Part_5.en.lrc
 Pokemon_Channel.en.lrc
+Police_Force_Officer_Jerma_Takes_on_Crime.en.lrc
 Police_Quest_SWAT.en.lrc
 Post_Carnival_Talk.en.lrc
 Post_retirement_Jerma_Sightings.en.lrc
@@ -1130,6 +1166,7 @@ Pupperazzi.en.lrc
 Pursuit_of_Justice.en.lrc
 Push_ups_for_Charity_Lets_Do_This.en.lrc
 Q_A_Answers_Jobs_Valves_Steam_Box_SMITE_Gameplay_Zeus.en.lrc
+Q_A_Answers_Orcs_Must_Die_Gameplay_Commentary.en.lrc
 Q_A_Answers_The_Binding_of_Isaac_Mom_Goes_Down.en.lrc
 Q_A_Answers_Video_Left_4_Dead_2_Gameplay..en.lrc
 Q_A_Comb_Stream.en.lrc
@@ -1141,7 +1178,6 @@ R.E.P.O._with_Ster_Poke_and_Vinny.en.lrc
 R.I.P.D._Pizza_Department.en.lrc
 R.I.P._GTA_4.en.lrc
 RANKED_2pm=Jerma_Games.en.lrc
-RANKED_2pm_=_Jerma_Games.en.lrc
 RISK_Global_Domination_With_Ludwig_Cr1TiKaL_and_Connor.en.lrc
 ROGUE_LIGHT_DECK_BUILDER.en.lrc
 Radiation_Monster_Vs._The_Goof_Guys.en.lrc
@@ -1211,6 +1247,7 @@ Rhythm_Heaven_Fever.en.lrc
 Rick_and_Morty_Virtual_Rick_ality.en.lrc
 Ride_Carnival_Tycoon.en.lrc
 Ridiculous_Fishing_Awesome_Arcade_Fish_Shootah_Little_Gems.en.lrc
+Riot_Shield_Shenanigans_MW3.en.lrc
 Risk_of_Rain_2_with_Etalyx.en.lrc
 Road_Redemption_is_Completely_Absurd.en.lrc
 Robert_Ludlums_The_Bourne_Conspiracy.en.lrc
@@ -1243,6 +1280,11 @@ Saints_Row_2_Part_2.en.lrc
 Saints_Row_2_Who_is_Uglier.en.lrc
 Saints_Row_The_Third.en.lrc
 Saltine.en.lrc
+Salty_Swamp.en.lrc
+Salty_Swamp_2_Part_1.en.lrc
+Salty_Swamp_2_Pilot.en.lrc
+Salty_Swamp_Cops.en.lrc
+Salty_Swamp_Sac_Village.en.lrc
 Sam_Max_Beyond_Time_and_Space.en.lrc
 Sam_Max_Beyond_Time_and_Space_Part_2.en.lrc
 Sam_Max_Beyond_Time_and_Space_Part_3.en.lrc
@@ -1265,7 +1307,6 @@ Scrolls_Strategy_Card_Battle_Unboxing_Sim_First_Impressions.en.lrc
 Sea_Dogs.en.lrc
 Seaman.en.lrc
 Sega_CD_Games_Part_1.en.lrc
-Sega_CD_Games_Part_1_REUPLOAD.en.lrc
 Sega_CD_Games_Part_2.en.lrc
 Sekiro_Shadows_Die_Twice.en.lrc
 Sekiro_Shadows_Die_Twice_Part_2.en.lrc
@@ -1462,6 +1503,7 @@ TF2_Coffee_Commentary_I_Draw_So_Good_Soldier.en.lrc
 TF2_Combat_Engie_Steam_Workshop_Plans_New_Updates.en.lrc
 TF2_Combat_Engineer_What_Would_I_Add_One_Life.en.lrc
 TF2_Combat_Engineer_Widowmaker._Tips_Tricks.en.lrc
+TF2_Commentary_Channel_Update_Beta_News.en.lrc
 TF2_Contracts_for_Ms._Pauling.en.lrc
 TF2_Counter_Sniping_Idling_Changes_Casual_Commentary.en.lrc
 TF2_Cow_Mangler_Soldier_Jermas_Game_Show.en.lrc
@@ -1469,6 +1511,7 @@ TF2_Crit_Maniac_Scout_Mann_Vs._Machine.en.lrc
 TF2_DemoKnight_New_Gaming_Series_Inbound.en.lrc
 TF2_DemoKnight_No_One_Plays_CP_Junction.en.lrc
 TF2_DemoKnight_on_Nucleus_Gameplay_Commentary.en.lrc
+TF2_Demo_Heavy_I_Have_8_Stitches_In_My_Head_Crazy_Story_Pics.en.lrc
 TF2_Demo_Sniper_One_Life._Gameplay_Commentary.en.lrc
 TF2_Demo_Spy_Deep_Frying_a_Turkey_Happy_Thanksgiving.en.lrc
 TF2_Demoman_200_Uploads_Personal_Story_Effort.en.lrc
@@ -1487,6 +1530,7 @@ TF2_Diablo_3_Grandpa_Engie_and_NM_Boss_Kill_Pre_Recorded.en.lrc
 TF2_Dictation_Disaster.en.lrc
 TF2_Direct_Hit_Soldier_Are_Video_Games_Plateauing_Discussion.en.lrc
 TF2_Direct_Hit_Soldier_Sentry_Madness.en.lrc
+TF2_Discussion_Live_Spy.en.lrc
 TF2_Distraction_Heavy.en.lrc
 TF2_Dual_Comm_w_Shibby2142_Dat_Crash.en.lrc
 TF2_Duel_Failure.en.lrc
@@ -1569,6 +1613,7 @@ TF2_Medic_Medi_Gun_Vs._Quick_Fix_Discussion.en.lrc
 TF2_Medic_Quick_Fix_Gameplay_Commentary.en.lrc
 TF2_Medic_Tips_Uber_Techniques._Be_a_Better_Doctor..en.lrc
 TF2_Monster_Mash.en.lrc
+TF2_Moonman_Pyro_New_Years_Eve_Plans.en.lrc
 TF2_Moron_Medic_Live.en.lrc
 TF2_MvM_Decoy_Mecha_Engie_Full_Live_Mission.en.lrc
 TF2_MvM_Diaper_Teleporter.en.lrc
@@ -1620,6 +1665,7 @@ TF2_Scout_Lets_Talk_MGE_Mod_1V1_ME_BRO.en.lrc
 TF2_Scout_Managing_Stress_Soda_Popper_Tips.en.lrc
 TF2_Scout_One_Life_The_Sway_Channel_News_Gameplay_Advice.en.lrc
 TF2_Scout_One_Life_Tips.en.lrc
+TF2_Scout_Personal_Story_Illnesses_Disease.en.lrc
 TF2_Scout_Runnin_and_Shootin_Server_FAQ.en.lrc
 TF2_Scout_Sniper_Jerma_and_Grandpa_Season_2_Talk_One_Life.en.lrc
 TF2_Scout_Soda_Popper_Conventions_and_Expos.en.lrc
@@ -1659,11 +1705,13 @@ TF2_Soldier_Getting_Older_Story_Discussion.en.lrc
 TF2_Soldier_Gorge_Tips_and_YouTube_Woes.en.lrc
 TF2_Soldier_I_m_Gonna_Be_an_Uncle_Story_Discussion.en.lrc
 TF2_Soldier_Liberty_Launcha_Update_Hype_Discussion.en.lrc
+TF2_Soldier_More_New_Uploads_KOTH_Sawmill.en.lrc
 TF2_Soldier_One_Life_Gameplay_Commentary.en.lrc
 TF2_Soldier_Picky_Eater_Nutrition_Story_Advice.en.lrc
 TF2_Soldier_Rainy_Day_Original_Casual_Commentary.en.lrc
 TF2_Soldier_The_Hoodoo_Choke_Fest_Coffee_Commentary.en.lrc
 TF2_Soldier_The_Original_Thoughts_and_Discussion.en.lrc
+TF2_Soldier_The_Power_of_Friendship_Experiment.en.lrc
 TF2_Soldier_What_is_the_Future_of_Team_Fortress_One_Life.en.lrc
 TF2_Space_Land.en.lrc
 TF2_Spy_A_Mini_Rant_on_Certain_F2P_Models_Casual_Commentary.en.lrc
@@ -1710,6 +1758,7 @@ TF2_The_Sneeze_Gun_Lets_Get_Trolled_Live_Dumbness.en.lrc
 TF2_The_Sound_it_Makes.en.lrc
 TF2_The_Supah_Computah_and_What_I_m_Thankful_For.en.lrc
 TF2_The_Supah_Serious_Secret_Tips_Video_Not_Really.en.lrc
+TF2_The_Taunt_Workshop_Casual_Commentary.en.lrc
 TF2_The_sort_of_New_Eureka_Effect_Live_Session.en.lrc
 TF2_Tide_Turner_Pinball_Demo_Commentary.en.lrc
 TF2_Tip_of_the_Hats.en.lrc
@@ -1757,6 +1806,7 @@ Team_Fortress_2_and_The_Binding_of_Isaac_Rebirth_October_2015.en.lrc
 Teardown.en.lrc
 Telephone_Stream_2_Akinator_and_Type_Racer.en.lrc
 Tentacle_Wars_Infect_Them_All_Little_Gems.en.lrc
+Terraria_Contest_Rules_TF2_Scout_Gameplay_Commentary_Doublecross.en.lrc
 Terraria_Part_2_with_Ster.en.lrc
 Terraria_Part_3_with_Ster.en.lrc
 Terraria_Part_4_Finale_with_Ster.en.lrc
@@ -1827,6 +1877,7 @@ The_Game_Awards_2021.en.lrc
 The_Game_Awards_2022.en.lrc
 The_Game_Awards_2023_with_Ster.en.lrc
 The_Game_Awards_2024_with_Ster.en.lrc
+The_Gift_of_Flight.en.lrc
 The_Grandpa_Christmas_Story_Animated_Short.en.lrc
 The_Green_Screen_Stream.en.lrc
 The_Green_Screen_Stream_Part_2.en.lrc
@@ -1840,6 +1891,7 @@ The_Incredible_Hulk_Ultimate_Destruction.en.lrc
 The_Incredible_Hulk_Ultimate_Destruction_Part_2_Finale.en.lrc
 The_Infectious_Madness_of_Doctor_Dekker.en.lrc
 The_Inpatient.en.lrc
+The_Insane_President_Fighting_Game.en.lrc
 The_Invisible_Hand.en.lrc
 The_Jackbox_Party_Pack_Part_1.en.lrc
 The_Jackbox_Party_Pack_Part_3.en.lrc
@@ -2048,9 +2100,14 @@ Viva_Pinata_Trouble_in_Paradise.en.lrc
 Viva_Pinata_Trouble_in_Paradise_Part_2.en.lrc
 Vlog_Big_News_Invite_Tournament_and_E3..en.lrc
 Vlog_New_Puppy_Thank_You_For_20_000_Subs.en.lrc
+Vlog_PAX_East_Here_We_Come_Meetup_Info_w_Orb.en.lrc
 Vlog_Partnership_and_TF2_Server.en.lrc
 Vlog_Updates_and_Otto_the_Wonder_Dog.en.lrc
 Voice_Acting_I_m_in_a_Game_Personal_Story.en.lrc
+Voicelines_in_Apotheon.en.lrc
+Voicelines_in_CRYPTARK.en.lrc
+Voicelines_in_GUNHEAD.en.lrc
+Voicelines_in_Galactic_Phantasy_Prelude.en.lrc
 WWE_2K17.en.lrc
 WWE_2K18.en.lrc
 WWE_2K19.en.lrc
@@ -2082,6 +2139,7 @@ We_Love_Katamari_Reroll_Royal_Reverie.en.lrc
 We_Love_Katamari_Reroll_Royal_Reverie_Part_2_Finale.en.lrc
 Webbed.en.lrc
 Weird_Cam_Comb_Stream.en.lrc
+Welcome_to_My_Channel.en.lrc
 Welcome_to_Rat_Burger.en.lrc
 Welcome_to_The_Wild_West.en.lrc
 What_Makes_a_Game_Take_Off_Discussion_SMITE_Loki.en.lrc
@@ -2135,7 +2193,6 @@ You_Laugh_You_Lose_and_Baby_Sensory_Videos.en.lrc
 You_Wanna_Ride_My_Rollah_Coastah.en.lrc
 Youre_in_the_Movies.en.lrc
 Youre_in_the_Movies_RERUN.en.lrc
-Youtube_Gaming_Launch_TF2_Cases_Contracts.en.lrc
 Zerkin_Off_Jerma_Animated.en.lrc
 Zombie_Computer_Salesman.en.lrc
 Zombie_Dinos_from_Planet_Zeltoid_and_Other_games.en.lrc
