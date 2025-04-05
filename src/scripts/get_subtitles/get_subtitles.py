@@ -2383,7 +2383,6 @@ def refine_subtitles(subs_path: str):
                     'solomon': 'Solomon',
                     'somalia': 'Somalia',
                     'somber smithing stone': 'Somber Smithing Stone',
-                    'sonic': 'Sonic',
                     'sony': 'Sony',
                     'sophia': 'Sophia',
                     'souls like': 'soulslike',
