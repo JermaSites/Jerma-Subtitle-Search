@@ -1286,7 +1286,6 @@ Salty_Swamp_2_Part_1.en.lrc
 Salty_Swamp_2_Pilot.en.lrc
 Salty_Swamp_Cops.en.lrc
 Salty_Swamp_Sac_Village.en.lrc
-Salty_Swamp_Sac_Village_Jan_5_2015.en.lrc
 Sam_Max_Beyond_Time_and_Space.en.lrc
 Sam_Max_Beyond_Time_and_Space_Part_2.en.lrc
 Sam_Max_Beyond_Time_and_Space_Part_3.en.lrc
