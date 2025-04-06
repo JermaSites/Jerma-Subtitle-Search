@@ -192,6 +192,7 @@ Chrono_Trigger.en.lrc
 Chrono_Trigger_Part_2.en.lrc
 Chrono_Trigger_Part_3.en.lrc
 Chrono_Trigger_Part_4.en.lrc
+Chrono_Trigger_Part_5.en.lrc
 Cities_Skylines.en.lrc
 Cities_Skylines_Part_2.en.lrc
 Citizen_Kabuto_Paladins.en.lrc
@@ -234,6 +235,7 @@ Cult_of_the_Lamb.en.lrc
 Cuphead_Part_1.en.lrc
 Cuphead_Part_2_Finale.en.lrc
 Cuphead_The_Delicious_Last_Course.en.lrc
+Curse_The_Eye_of_Isis_Part_2.en.lrc
 Custom_Robo.en.lrc
 D.en.lrc
 DAVE_THE_DIVER.en.lrc
