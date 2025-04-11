@@ -3213,6 +3213,7 @@ if __name__ == '__main__':
         'https://youtube.com/playlist?list=PL9wV0Fmo7N_g5X64TzZUY-eQyoZ4xvAf2',         # JermAnimated playlist on 2ndJerma
         # 'https://youtube.com/playlist?list=PL9haG0G7kUOiKVQ-Iw7LO7fgQUG3xx2L9',       # Jerma Deleted Videos / Lost Content
         # 'https://youtube.com/playlist?list=PL_ahY5c4jVEAkFbpd6GniDf8g9pKRYHt-',       # Borderlands 2 Let's Play w/ Drak
+        # 'https://youtube.com/playlist?list=PLLZVyAYonIO6lUcFTWyo6jfcNNvgtM3SZ',       # Jerma + Shibby
         # 'https://archive.org/download/jerma-streams-public-domain-movie-night/PUBLIC%20DOMAIN%20MOVIE%20NIGHT%20PART%201.mp4'
     ], help='List of URLs to obtain subtitles for.')
     parser.add_argument('--cookies-path', type=str, default='cookies.txt', help='Netscape formatted file to read cookies from, can be obtained with: yt-dlp --cookies-from-browser firefox --cookies cookies.txt')
