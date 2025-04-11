@@ -39,6 +39,7 @@ A_Bloodborne_Introspective.en.lrc
 A_Chair_in_a_Room_Greenwater.en.lrc
 A_Game_About_Digging_A_Hole.en.lrc
 A_Gameplay_Commentary_The_Sitcom.en.lrc
+A_Heavy_Demoknight_Gameplay_Y_U_CRASH_TF2_Part_2_Dual_Live_Commentary_with_Jerma.en.lrc
 A_Little_To_The_Left.en.lrc
 A_No_Comb_Comb_Stream.en.lrc
 A_Pirates_Life_For_Me_AC4_Black_Flag.en.lrc
@@ -93,9 +94,13 @@ Bargain_Bin_Beach_Party.en.lrc
 Barn_Finders_Part_0_and_AI_Dungeon_Part_3.en.lrc
 Barn_Finders_Part_1.en.lrc
 Battle_of_the_Executives.en.lrc
+Battlefield_3_Air_Theft_Teamwork_w_Jerma985_BF3_Gameplay_Live_Commentary.en.lrc
 Battlefield_3_Conquest_Playing_the_Objective_w_Shibby2142.en.lrc
 Battlefield_3_Firestorm_Rush_w_Boo_Getting_Back_Into_It.en.lrc
 Battlefield_3_Jerma_and_iPwnstar4hire_Conquest_is_Hard.en.lrc
+Battlefield_3_Jurassic_Park_Kharg_Island_Caravan_w_Jerma985_BF3_Gameplay_Live_Commentary.en.lrc
+Battlefield_3_Old_Dog_New_Tricks_Ep_1_BF3_with_Jermas_Grandpa_Gameplay_Commentary.en.lrc
+Battlefield_3_Old_Dog_New_Tricks_Ep_2_BF3_with_Jermas_Grandpa_Gameplay_Commentary.en.lrc
 Battleship_with_Ludwig.en.lrc
 BeamNG.drive.en.lrc
 Beat_em_up_w_Jerma_then_Nuclear_Throne.en.lrc
@@ -150,15 +155,20 @@ Bust_a_Groove.en.lrc
 CANDLES_Get_These_Imps_Out_of_My_House.en.lrc
 CDawgVAs_Charity_Auction_2024.en.lrc
 CRIES_in_Minecraft_ANIMATED.en.lrc
+CS_GO_Arms_Race_Counter_Strike_Gun_Game_EP1_feat_Jerma_MLC_Stealth.en.lrc
+CS_GO_Arms_Race_Counter_Strike_Gun_Game_EP2_feat_Jerma_MLC_Stealth_Etalyx.en.lrc
 CS_GO_Arms_Race_New_Map_Monastery_Lets_Get_Em..en.lrc
 CS_GO_Arms_Race_The_New_Gun_Game.en.lrc
 CS_GO_Arms_Race_w_IncredibleOrb.en.lrc
+CS_GO_HOW_U_C_KNIFE_Arms_Race_with_Sp00n_Jerma_Etalyx_Counter_Strike_Global.en.lrc
+CS_GO_JERMA_the_WARDEN_Counter_Strike_Global_Offensive_Source_Mod_Spotlight_3.en.lrc
 CS_GO_Jailbreak_Grandpa_Breaks_So_Many_Rules..en.lrc
 CS_GO_Jailbreak_Grandpa_Takes_Control_Warden_Prisoner.en.lrc
 CS_GO_Jailbreak_Listen_Up_Maggots_Jerma_the_Warden.en.lrc
 CS_GO_Jailbreak_Rebellious_Prisoners_Mod_Introduction..en.lrc
 CS_GO_Live_w_MLC_St3alth_2_Dusty_Bastards.en.lrc
 CS_GO_Mini_Games_Insanity_Jump_Rope_Bombardment_Others.en.lrc
+CS_GO_Sp00n_the_TEAMKILLER_Classic_Competitive_Mode_on_Italy_feat_Jerma_Etalyx.en.lrc
 Call_of_Cthulhu_Dark_Corners_of_the_Earth_Part_0.en.lrc
 Call_of_Cthulhu_Dark_Corners_of_the_Earth_and_Clock_Tower.en.lrc
 Call_of_Duty_Black_Ops_II_Tournament.en.lrc
@@ -242,6 +252,7 @@ Custom_Robo.en.lrc
 D.en.lrc
 DAVE_THE_DIVER.en.lrc
 DJ_Ster_Strongbox_Crate_Remix.en.lrc
+DROP_THE_MOAB_Round_2_Part_2_Worms_Revolution_Jerma_Orb.en.lrc
 Da_PAX_East_2013_Video_Hotel_Weirdos_Shenanigans.en.lrc
 Da_TF2_Radio_Show_CANCELED.en.lrc
 Damnation_Breakfast_Time_with_Doofus_and_Goofus.en.lrc
@@ -665,6 +676,7 @@ Guest_starring_on_Kitboga.en.lrc
 Gun.en.lrc
 HAPPY_BIRTHDAY_MAN_Jerma_ANIMATED.en.lrc
 HELLCARD_with_Ster.en.lrc
+HOLY_OVERTIME_FINISH_Round_1_Part_2_Worms_Revolution_Jerma_Orb.en.lrc
 Hacker_and_The_Slacker.en.lrc
 Hades.en.lrc
 Hades_Part_2.en.lrc
@@ -915,6 +927,7 @@ Ludwigs_Chessboxing.en.lrc
 Lumber_Island_The_Room_Double_Cheese_Scare_Saturburgah.en.lrc
 Luncheon_stream.en.lrc
 MEATGRINDER_ANIMATED.en.lrc
+MINI_SENTRY_OP_Round_1_Part_1_Worms_Revolution_Jerma_Orb.en.lrc
 MS_DOS_Games.en.lrc
 MS_DOS_Games_Part_2.en.lrc
 MS_DOS_Games_Part_3.en.lrc
@@ -935,6 +948,7 @@ Mafia_Definitive_Edition.en.lrc
 Mafia_III_Part_1.en.lrc
 Mafia_III_Part_2.en.lrc
 Magicka_Wizard_Wars_Early_Alpha_Preview_Huhuaha.en.lrc
+Magicka_Wizard_Wars_Gameplay_Sneak_Peek_with_STAR_Jerma_Etalyx.en.lrc
 Magus.en.lrc
 Majesty.en.lrc
 Man_O_War_Corsair.en.lrc
@@ -1195,6 +1209,7 @@ Punch_Out.en.lrc
 Pupperazzi.en.lrc
 Pursuit_of_Justice.en.lrc
 Push_ups_for_Charity_Lets_Do_This.en.lrc
+Pyro_Heavy_and_Demoknight_Gameplay_Y_U_CRASH_TF2_Part_1_Dual_Live_Commentary_with_Jerma.en.lrc
 Q_A_Answers_Jobs_Valves_Steam_Box_SMITE_Gameplay_Zeus.en.lrc
 Q_A_Answers_Orcs_Must_Die_Gameplay_Commentary.en.lrc
 Q_A_Answers_The_Binding_of_Isaac_Mom_Goes_Down.en.lrc
@@ -1530,6 +1545,7 @@ TF2_Caffeine_Induced_Valve_Grandma_Rant_Casual_Commentary.en.lrc
 TF2_Chain_Uber_Medic_For_the_Funzies.en.lrc
 TF2_Chaotic_Engineer_Caterpillar_People.en.lrc
 TF2_Chilly_Demo_Live_Session.en.lrc
+TF2_Coal_Town_Mann_vs_Machine_MvM_Gameplay_Epic_FAIL_with_Boo_Jerma_St3alth_Etalyx.en.lrc
 TF2_Coffee_Commentary_I_Draw_So_Good_Soldier.en.lrc
 TF2_Combat_Engie_Steam_Workshop_Plans_New_Updates.en.lrc
 TF2_Combat_Engineer_What_Would_I_Add_One_Life.en.lrc
@@ -1643,6 +1659,7 @@ TF2_Medic_Man_and_Shboonical_Boy.en.lrc
 TF2_Medic_Medi_Gun_Vs._Quick_Fix_Discussion.en.lrc
 TF2_Medic_Quick_Fix_Gameplay_Commentary.en.lrc
 TF2_Medic_Tips_Uber_Techniques._Be_a_Better_Doctor..en.lrc
+TF2_Milkman_Scout_CPU_SLAUGHTER_Mann_vs_Machine_Sp00n_Jerma_Boo_More.en.lrc
 TF2_Monster_Mash.en.lrc
 TF2_Moonman_Pyro_New_Years_Eve_Plans.en.lrc
 TF2_Moron_Medic_Live.en.lrc
@@ -1680,6 +1697,7 @@ TF2_Quiet_Down_Huntsman_Live_Session.en.lrc
 TF2_Rainblower_Headache_and_Engie_Rage_Jerma_and_STAR.en.lrc
 TF2_Randomizer_Insanity_Jerma_Vs._The_Eggs.en.lrc
 TF2_Rapid_Fire_Update_Video.en.lrc
+TF2_Reserve_Shooter_Pyro_Gameplay_PUFF_N_BLAST_Triple_Com_with_Jerma_and_iPwnstar4hire.en.lrc
 TF2_Ruiner_of_Fun.en.lrc
 TF2_Santa_Heavy_Expert_in_Bum_Punching.en.lrc
 TF2_Scout_Backstabber_Gun.en.lrc
@@ -1710,6 +1728,7 @@ TF2_Short_Heavy_Would_you_watch_a_Livestream.en.lrc
 TF2_Shotgun_Heavy_New_Series_Stipulation.en.lrc
 TF2_Shout_Cast_Parody_One_Life_Soldier_I_am_Insane.en.lrc
 TF2_Shoutcast_Kickin_it_Old_School_Scout.en.lrc
+TF2_Shoutcasting_Arena_Gameplay_Teaser_Watchtower_Funzies_Live_Commentary_Jerma_Shibby.en.lrc
 TF2_Shpee_Wars_Episode_3_Return_of_the_Shpee.en.lrc
 TF2_Shpees_Singing_and_STAR_The_Troll_Live_Nonsense.en.lrc
 TF2_Skit_Dual_Comm_w_Grandpa.en.lrc
@@ -1768,6 +1787,7 @@ TF2_Spy_Story_Mode_Setting_Goals_Staying_Motivated.en.lrc
 TF2_Spy_You_Wanna_Get_BakeStaybed_Jerma_and_STAR.en.lrc
 TF2_SteamOS_and_The_Future_of_PC_Gaming_Casual_Commentary.en.lrc
 TF2_Steam_Sharing_is_Coming_Casual_Commentary.en.lrc
+TF2_Strange_Soldier_Gameplay_Fastlane_more_like_CRASHLANE..._Commentary_by_Jerma_and_Shibby.en.lrc
 TF2_The_Anticlimactic_Medic_Live_Stupidness_with_Boo.en.lrc
 TF2_The_Carnival_is_in_Town.en.lrc
 TF2_The_Classic_TFC_Rifle_Commentary.en.lrc
@@ -2139,6 +2159,7 @@ Voicelines_in_Apotheon.en.lrc
 Voicelines_in_CRYPTARK.en.lrc
 Voicelines_in_GUNHEAD.en.lrc
 Voicelines_in_Galactic_Phantasy_Prelude.en.lrc
+WTF_GRANDMA_LOL_Round_2_Part_1_Worms_Revolution_Jerma_Orb.en.lrc
 WWE_2K17.en.lrc
 WWE_2K18.en.lrc
 WWE_2K19.en.lrc
@@ -2152,6 +2173,7 @@ WarioWare_Inc._Mega_Party_Game.en.lrc
 WarioWare_Mario_Maker.en.lrc
 WarioWare_Move_It.en.lrc
 Wash_Hogs.en.lrc
+Wasn_t_Me_A_Lets_Play_Minecraft_7_29_11_Bonus_Clip_Shibby2142_Blames_Jerma_Shenanigans.en.lrc
 Watch_Dogs_2.en.lrc
 Watch_Dogs_Legion.en.lrc
 Watching_80s_90s_and_00s_Commercials.en.lrc
@@ -2228,6 +2250,14 @@ Zerkin_Off_Jerma_Animated.en.lrc
 Zombie_Computer_Salesman.en.lrc
 Zombie_Dinos_from_Planet_Zeltoid_and_Other_games.en.lrc
 Zombie_Jackass.en.lrc
+Zombies_L4D2_Dead_Air_4v4_Versus_1_feat_Jerma_Etalyx_Stealth_Badger_StmyD_Masdeath_Kia.en.lrc
+Zombies_L4D2_Dead_Air_4v4_Versus_2_feat_Jerma_Etalyx_Stealth_Badger_StmyD_Masdeath_Kia.en.lrc
+Zombies_L4D2_Dead_Air_4v4_Versus_3_feat_Jerma_Etalyx_Stealth_Badger_StmyD_Masdeath_Kia.en.lrc
+Zombies_L4D2_Dead_Air_4v4_Versus_4_feat_Jerma_Etalyx_Stealth_Badger_StmyD_Masdeath_Kia.en.lrc
+Zombies_L4D2_No_Mercy_Men_Domination_Part_1_Advanced_Campaign_Boo_Jerma_MLC_Stealth.en.lrc
+Zombies_L4D2_No_Mercy_Men_Domination_Part_2_Advanced_Campaign_Boo_Jerma_MLC_Stealth.en.lrc
+Zombies_L4D2_No_Mercy_Men_Domination_Part_3_Advanced_Campaign_Boo_Jerma_MLC_Stealth.en.lrc
+Zombies_L4D2_Versus_Survival_Round_1_Jerma_Badger_Etalyx_StmyD_MLC_Stealth_Masdeath_Kia.en.lrc
 Zombieville_USA_3D.en.lrc
 Zoo_Tycoon_2.en.lrc
 Zoombinis_Mountain_Rescue.en.lrc
