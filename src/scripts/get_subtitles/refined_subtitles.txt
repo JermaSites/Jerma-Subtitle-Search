@@ -1343,6 +1343,7 @@ Saw_II_Flesh_Blood.en.lrc
 Saw_The_Video_Game.en.lrc
 Saw_The_Video_Game_Part_2_Finale.en.lrc
 Scary_Itch.io_Games.en.lrc
+Scary_Itch.io_Games_Part_2.en.lrc
 Scary_Stories.en.lrc
 Scary_Talking_Stream.en.lrc
 Schedule_I_with_Ster_Poke_and_Vinny.en.lrc
