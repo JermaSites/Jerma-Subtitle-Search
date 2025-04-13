@@ -62,7 +62,7 @@ def get_subtitles(urls: list, cookies_path: str, subs_path: str, prefer_autogene
         # 'playlist_items': '1-3',
         # 'cookiesfrombrowser': {'firefox'},
         'cookiefile': cookies_path,
-        'ignoreerrors': True,
+        'ignoreerrors': False,
         'clean_infojson': True,
         'download_archive': 'downloaded.txt',
         'force_write_download_archive': True,
