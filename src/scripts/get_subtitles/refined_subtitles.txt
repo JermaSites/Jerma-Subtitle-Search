@@ -204,6 +204,7 @@ Chrono_Trigger_Part_3.en.lrc
 Chrono_Trigger_Part_4.en.lrc
 Chrono_Trigger_Part_5.en.lrc
 Chrono_Trigger_Part_6.en.lrc
+Chrono_Trigger_Part_7.en.lrc
 Cities_Skylines.en.lrc
 Cities_Skylines_Part_2.en.lrc
 Citizen_Kabuto_Paladins.en.lrc
@@ -701,6 +702,7 @@ Hardline_Officer_of_the_Law.en.lrc
 Hardspace_Shipbreaker.en.lrc
 Harvester_Part_1.en.lrc
 Harvester_Part_2_Finale.en.lrc
+Haste.en.lrc
 Hatsune_Miku_Logic_PaintS.en.lrc
 Hatsune_Miku_Project_DIVA_Mega_Mix.en.lrc
 Heart_of_Darkness.en.lrc
@@ -964,6 +966,7 @@ Marios_Game_Gallery.en.lrc
 Marios_Game_Gallery_Part_2.en.lrc
 Marlow_Briggs_and_the_Mask_of_Death.en.lrc
 Marvel_Rivals.en.lrc
+Marvel_Rivals_Part_2_with_Ster.en.lrc
 Marvels_Spider_Man_Part_1.en.lrc
 Marvels_Spider_Man_Part_2.en.lrc
 Marvels_Spider_Man_Part_3.en.lrc
