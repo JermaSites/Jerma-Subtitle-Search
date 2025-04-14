@@ -72,7 +72,7 @@ jobs:
           continue-on-error: true
 
         - name: Install Node
-          uses: actions/setup-node@v4.3.0
+          uses: actions/setup-node@v4.4.0
           with:
             node-version: '*'
 
