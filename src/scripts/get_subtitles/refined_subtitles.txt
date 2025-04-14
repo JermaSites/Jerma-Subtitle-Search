@@ -137,6 +137,7 @@ Bloody_Trapland_2_Part_3_with_Etalyx.en.lrc
 Bloody_Trapland_Breaks_Jerma_and_STAR_.en.lrc
 BoI_Rebirth_Screen_Clear_Samson_Live_Session.en.lrc
 Borderlands_2_The_Beginning_Killin_Knuckle_Dragger_Multiplayer.en.lrc
+Borderlands_2_lolz_Why_U_So_Short.en.lrc
 Bot_Colony.en.lrc
 Bouncing_Duck_Simulator.en.lrc
 Bread_Fred_with_Ster.en.lrc
@@ -160,6 +161,7 @@ CS_GO_Arms_Race_Counter_Strike_Gun_Game_EP2_feat_Jerma_MLC_Stealth_Etalyx.en.lrc
 CS_GO_Arms_Race_New_Map_Monastery_Lets_Get_Em..en.lrc
 CS_GO_Arms_Race_The_New_Gun_Game.en.lrc
 CS_GO_Arms_Race_w_IncredibleOrb.en.lrc
+CS_GO_Castle_Siege.en.lrc
 CS_GO_HOW_U_C_KNIFE_Arms_Race_with_Sp00n_Jerma_Etalyx_Counter_Strike_Global.en.lrc
 CS_GO_JERMA_the_WARDEN_Counter_Strike_Global_Offensive_Source_Mod_Spotlight_3.en.lrc
 CS_GO_Jailbreak_Grandpa_Breaks_So_Many_Rules..en.lrc
@@ -168,7 +170,10 @@ CS_GO_Jailbreak_Listen_Up_Maggots_Jerma_the_Warden.en.lrc
 CS_GO_Jailbreak_Rebellious_Prisoners_Mod_Introduction..en.lrc
 CS_GO_Live_w_MLC_St3alth_2_Dusty_Bastards.en.lrc
 CS_GO_Mini_Games_Insanity_Jump_Rope_Bombardment_Others.en.lrc
+CS_GO_Minigames_D_Elevator_Pac_Man_Moon_Knife_More.en.lrc
+CS_GO_Minigames_D_STAR_POWER.en.lrc
 CS_GO_Sp00n_the_TEAMKILLER_Classic_Competitive_Mode_on_Italy_feat_Jerma_Etalyx.en.lrc
+CS_GO_Wonder_Ball_Rage_Arms_Race.en.lrc
 Call_of_Cthulhu_Dark_Corners_of_the_Earth_Part_0.en.lrc
 Call_of_Cthulhu_Dark_Corners_of_the_Earth_and_Clock_Tower.en.lrc
 Call_of_Duty_Black_Ops_II_Tournament.en.lrc
@@ -207,6 +212,8 @@ Chrono_Trigger_Part_6.en.lrc
 Chrono_Trigger_Part_7.en.lrc
 Cities_Skylines.en.lrc
 Cities_Skylines_Part_2.en.lrc
+Citizen_Burger_Disorder_Kitchen_Rats.en.lrc
+Citizen_Burger_Disorder_Quad_Cheese_Lazorz.en.lrc
 Citizen_Kabuto_Paladins.en.lrc
 City_Car_Driving.en.lrc
 Cleaning_up_the_painting_stream.en.lrc
@@ -228,6 +235,7 @@ Condemned_2_Bloodshot_Part_2.en.lrc
 Condemned_2_Bloodshot_Part_3_Finale.en.lrc
 Condemned_Criminal_Origins_Part_1.en.lrc
 Condemned_Criminal_Origins_Part_2_Finale.en.lrc
+Contagion_Zombie_Stalkers.en.lrc
 Content_for_2024.en.lrc
 Cook_Serve_Delicious.en.lrc
 Cook_Serve_Delicious_2.en.lrc
@@ -236,6 +244,7 @@ Cooking_Simulator_Part_1.en.lrc
 Cooking_Simulator_Part_2.en.lrc
 Cooking_Simulator_Part_3.en.lrc
 Counter_Strike_Global_Offensive_Beta_I_Can_t_Wait_for_Mods.en.lrc
+Counter_Strike_Global_Offensive_Still_Fun.en.lrc
 Cowboy_Biff_and_The_Desperados.en.lrc
 Crash_Bandicoot_4_Its_About_Time.en.lrc
 Crashday.en.lrc
@@ -243,6 +252,7 @@ Crazy_Comb_Stream.en.lrc
 Crazy_GTA4_Free_Mode_with_Streamers_Pre_Recorded.en.lrc
 Cry_of_Fear_Co_op_Highlights_Look_Out_For_Those_Zoombies_w_STAR.en.lrc
 Cryptark.en.lrc
+Cube_World_Explore_This_Crazy_World_That_We_Live_In.en.lrc
 Cult_of_the_Lamb.en.lrc
 Cuphead_Part_1.en.lrc
 Cuphead_Part_2_Finale.en.lrc
@@ -298,6 +308,7 @@ Darkwood_Part_2.en.lrc
 Darkwood_Part_3_Finale.en.lrc
 Dastardly_Devil_Boy.en.lrc
 DayZ_Grandpa_is_not_good_at_this_game.en.lrc
+Day_Z_Sweet_Revenge.en.lrc
 Days_Gone.en.lrc
 Dead_Rising.en.lrc
 Dead_Rising_2_Off_the_Record.en.lrc
@@ -532,6 +543,7 @@ Fistful_of_Frags_Follow_Up.en.lrc
 Fistful_of_Frags_Part_2.en.lrc
 Fistful_of_Frags_Part_3.en.lrc
 Fistful_of_Frags_Part_4.en.lrc
+Fistful_of_Frags_Wild_West_Gunslingin.en.lrc
 Fistful_of_Frags_with_Etalyx.en.lrc
 Five_Nights_at_Freddys.en.lrc
 Fixing_his_Router.en.lrc
@@ -559,7 +571,9 @@ GTA4_Multiplayer_Base_Jumping_and_Bad_Behavior.en.lrc
 GTA4_Multiplayer_Big_Goofin_Part_2._w_Boo_and_St3alth.en.lrc
 GTA4_Multiplayer_Big_Goofin_w_Boo_and_St3alth._Part_1.en.lrc
 GTA4_Multiplayer_Businessmen_and_Broken_Models_w_STAR.en.lrc
+GTA4_Multiplayer_Busload_of_Fun_D.en.lrc
 GTA4_Multiplayer_Commence_The_Meeting_of_The_Byeahs.en.lrc
+GTA4_Multiplayer_Explosive_Surprise_D.en.lrc
 GTA4_Multiplayer_Fat_Guys_and_The_Dance_Party_w_STAR.en.lrc
 GTA4_Multiplayer_Fits_of_Laughter_This_Game_is_Gonna_End_Me.en.lrc
 GTA4_Multiplayer_Glitches_Everywhere_So_Much_Funny_w_STAR.en.lrc
@@ -569,18 +583,24 @@ GTA4_Multiplayer_Insane_Pedestrians_and_STAR_The_Hacker.en.lrc
 GTA4_Multiplayer_Invisibility_Butt_Heads_More_Nonsense_w_STAR.en.lrc
 GTA4_Multiplayer_Jerma.exe_Has_Stopped_Working_w_STAR.en.lrc
 GTA4_Multiplayer_Laughter_Is_The_Best_Medicine..en.lrc
+GTA4_Multiplayer_Law_Abiding_Citizen.en.lrc
 GTA4_Multiplayer_Lets_Break_a_Restaurant_w_STAR.en.lrc
 GTA4_Multiplayer_Major_Goofin_Vortex_Jelly_Whirlpool.en.lrc
 GTA4_Multiplayer_One_Day_I_ll_Die_From_Laughter_w_STAR.en.lrc
+GTA4_Multiplayer_ROADKILL_D.en.lrc
 GTA4_Multiplayer_So_Much_Nonsense_The_Bus_Incident.en.lrc
 GTA4_Multiplayer_The_Choppah_Freaks_w_STAR_and_Sp00n.en.lrc
 GTA4_Multiplayer_The_Death_Garage_w_STAR.en.lrc
+GTA4_Multiplayer_The_Great_Race_D.en.lrc
+GTA4_Multiplayer_The_Power_of_IMAGINATION_w_STAR_Jerma_D.en.lrc
 GTA4_Multiplayer_The_Soda_Choke_w_STAR.en.lrc
 GTA4_Multiplayer_Too_Much_Laughing_Instant_Headache.en.lrc
 GTA4_Multiplayer_Welcome_to_The_Zoo_w_STAR.en.lrc
 GTA4_Multiplayer_Whats_Dis_in_Road_Smash_w_STAR.en.lrc
+GTA_4_Multiplayer_God_Mode_O.en.lrc
 GTA_5_Next_Gen_First_Person_Anger.en.lrc
 GTA_5_People_Are_Crazy.en.lrc
+GTA_5_Respect_the_Dead_Free_Roam_Fun.en.lrc
 GTA_5_The_Dangers_of_Golf.en.lrc
 GTA_5_The_Heinous_Haymaker.en.lrc
 GTA_5_The_Mario_Kart_Update.en.lrc
@@ -675,6 +695,7 @@ Grey_Half_Life_2_Horror_Mod_Get_Scared_Part_1.en.lrc
 Grey_Livestream_Session_Part_3_Get_Pumped_for_Halloween.en.lrc
 Guest_starring_on_Kitboga.en.lrc
 Gun.en.lrc
+H1Z1_SNEAK_ATTACK.en.lrc
 HAPPY_BIRTHDAY_MAN_Jerma_ANIMATED.en.lrc
 HELLCARD_with_Ster.en.lrc
 HOLY_OVERTIME_FINISH_Round_1_Part_2_Worms_Revolution_Jerma_Orb.en.lrc
@@ -837,6 +858,7 @@ Kenshi.en.lrc
 Kenshi_Part_2.en.lrc
 Kenshi_Part_3.en.lrc
 Kill_The_Plumber.en.lrc
+Killing_Floor_Noobfest_D.en.lrc
 Kinect_Games.en.lrc
 Kinect_Games_Part_2.en.lrc
 Kinect_Games_Part_3.en.lrc
@@ -867,6 +889,7 @@ Later_Alligator.en.lrc
 Laundry_Store_Simulator.en.lrc
 Leaf_Blower_Revolution_Idle_Game.en.lrc
 Left_4_Dead_2_Survival_Mode_Fails_w_Boo_St3alth_and_Burgah_Boy.en.lrc
+Left_4_Dead_2_Technical_lolz_Difficulties.en.lrc
 Left_4_Dead_2_Versus_Why_U_No_Work_Survival_Goofballs.en.lrc
 Left_4_Dead_2_Versus_with_Buddies_The_Sacrifice_Round_1..en.lrc
 Left_4_Dead_2_Versus_with_Buddies_The_Sacrifice_Round_2.en.lrc
@@ -996,6 +1019,8 @@ Minecraft.en.lrc
 Minecraft_6_Minutes_for_a_Parrot_Timed_Chaos_Build.en.lrc
 Minecraft_7_Minutes_for_a_Witch_Timed_Chaos_Build.en.lrc
 Minecraft_8_Minutes_For_a_Praying_Mantis_Timed_Chaos_Build.en.lrc
+Minecraft_Fail_Builds_8_Minute_Horse.en.lrc
+Minecraft_Fail_Builds_8_Minute_Praying_Mantis.en.lrc
 Minecraft_Mini_Games_Baby_Bow_Spleef_Quakecraft_w_Friends.en.lrc
 Minecraft_Multiplayer_The_Frozen_Caverns_Better_Security_Ep._3.en.lrc
 Minecraft_Multiplayer_The_Frozen_Caverns_Death_is_Fun_Ep._2.en.lrc
@@ -1005,10 +1030,20 @@ Minecraft_Multiplayer_Whoosh_Games_Theme_Park.en.lrc
 Minecraft_Race_Time_Whoosh_Games_Theme_Park.en.lrc
 Minecraft_Sonic_The_Hedgehog_Timed_Chaos_Build_7_Minutes.en.lrc
 Minecraft_The_Burger_Meal_Timed_Chaos_Build_6_Minutes.en.lrc
+Minecraft_The_Frozen_Caverns_Ep.2_Rain_on_the_Parade.en.lrc
+Minecraft_The_Frozen_Caverns_Ep.3_Recovery.en.lrc
+Minecraft_The_Frozen_Caverns_Ep.4_Xtreme_Home_Makeover.en.lrc
+Minecraft_The_Frozen_Caverns_Ep.5_Pro_regress.en.lrc
+Minecraft_The_Frozen_Caverns_Ep.6.en.lrc
+Minecraft_The_Frozen_Caverns_Ep._1.en.lrc
 Minecraft_Timed_Chaos_Build_10_Minutes_for_a_Man.en.lrc
 Minecraft_Timed_Chaos_Build_8_Minutes_for_a_Horse.en.lrc
 Minecraft_VR.en.lrc
 Minecraft_Washers_and_Dryers_The_Grand_Piano_Timed_Chaos_Build.en.lrc
+Minecraft_Woosh_Games_Theme_Park.en.lrc
+Minecraft_Woosh_Games_Theme_Park_Pt.2.en.lrc
+Minecraft_Woosh_Games_Theme_Park_Pt.3.en.lrc
+Minecraft_Woosh_Games_Theme_Park_Pt.4.en.lrc
 Mister_Mosquito.en.lrc
 Modded_Black_Ops_III_Zombies_with_Criken_UberHaxorNova_and_Tomato_Gaming.en.lrc
 Modded_Dark_Souls_3.en.lrc
@@ -1369,6 +1404,7 @@ Shadow_Warrior_2_Part_1.en.lrc
 Shadow_Warrior_2_Part_2.en.lrc
 Shadow_of_Rome.en.lrc
 Shadows_of_Doubt.en.lrc
+Shank_2_Co_op_Survival_Mode_w_Jerma.en.lrc
 Shank_2_Multiplayer_First_Impressions_Survival_Mode_w_Etalyx.en.lrc
 ShootMania_Storm_FPS_Laser_Tag_Style_Thoughts_Impressions.en.lrc
 Showing_Keyboard_and_Talking.en.lrc
@@ -1396,6 +1432,7 @@ Slipstream_Time_Travel_Vehicles.en.lrc
 Sloppy_Fights.en.lrc
 Smash_Bros_Wii_U_Pac_Mans_1v1_Glory_Quest.en.lrc
 Smite.en.lrc
+Smite_NEW_Arena_Mode_w_Friends_Stream_Session.en.lrc
 Sniper_Elite_4_Part_1.en.lrc
 Sniper_Elite_4_Part_2.en.lrc
 Sniper_Ghost_Warrior_3.en.lrc
@@ -1657,6 +1694,8 @@ TF2_Machina_Sniper_Finally.en.lrc
 TF2_Magical_Idea_Ferrari_Casual_Commentary.en.lrc
 TF2_Manglin_Snipin_and_Shpee_Watchin_Laid_Back_Live_Comm.en.lrc
 TF2_Mann_Vs._Machine_Update_Thoughts_Impressions_Medic_Round.en.lrc
+TF2_Mann_vs_Machine_Brass_Beastin.en.lrc
+TF2_Mann_vs_Machine_Wranglin_Robots.en.lrc
 TF2_Manno_Technology_Deus_Ex_UPDATE_Every_Item_explained_demonstrated.en.lrc
 TF2_Mecha_Update_MvM_Talk_Spies_Everywhere_Scout_Heavy.en.lrc
 TF2_Medic_Kritzkrieging_on_Barnblitz_Computer_Upgrades.en.lrc
@@ -1843,6 +1882,7 @@ TF2_and_Diablo_3_w_Star_Pre_Recorded.en.lrc
 TF2_x10_OMG_The_Kunai_Live_Fun_w_Sp00nerism.en.lrc
 TFC_Team_Fortress_Classic.en.lrc
 TV_Superstars.en.lrc
+Tabletop_Simulator_Table_FLIP.en.lrc
 Tactical_Intervention_1.6.en.lrc
 Tactical_Intervention_2.0.en.lrc
 Tactical_Interventions_Hilariously_Broken_Highway_Mode.en.lrc
@@ -1854,10 +1894,13 @@ Talking_and_a_little_of_The_Search_for_Amelia_Earhart.en.lrc
 Talking_for_2_hours.en.lrc
 Talking_with_Stream_and_some_Getting_Over_It.en.lrc
 Team_Fortress_2.en.lrc
+Team_Fortress_2_Item_Addiction_When_Spies_Attack_D.en.lrc
 Team_Fortress_2_Part_2.en.lrc
 Team_Fortress_2_Part_3.en.lrc
 Team_Fortress_2_Part_4_with_Ster_Summer_Update_2023.en.lrc
 Team_Fortress_2_Part_5_Mann_vs._Machine_with_Ster_DougDoug_Ludwig_Poke_Vinny.en.lrc
+Team_Fortress_2_Quadmentary_w_Jerma_MLC_St3alth_Boo.en.lrc
+Team_Fortress_2_Slice_N_Dice_Half_Zatoichi.en.lrc
 Team_Fortress_2_and_The_Binding_of_Isaac_Rebirth_October_2015.en.lrc
 Teardown.en.lrc
 Telephone_Stream_2_Akinator_and_Type_Racer.en.lrc
@@ -2018,6 +2061,7 @@ The_Sims_4_Part_5.en.lrc
 The_Sims_4_Part_6.en.lrc
 The_Sims_Part_2.en.lrc
 The_Stanley_Parable_Ultra_Deluxe.en.lrc
+The_Stomping_Land_Hunter_Survival.en.lrc
 The_Story_of_Me_Old_Bones_Battlefield_4.en.lrc
 The_Streamer_Awards.en.lrc
 The_Suffering.en.lrc
@@ -2113,6 +2157,7 @@ Unrailed_with_Ster_and_Etalyx.en.lrc
 Until_Dawn_Part_1.en.lrc
 Until_Dawn_Part_2_Finale.en.lrc
 Untitled_Goose_Game.en.lrc
+Unturned_Friendly_Fire.en.lrc
 Unturned_Morons.en.lrc
 Urban_Runner.en.lrc
 VRChat_with_Kiwo.en.lrc
@@ -2148,6 +2193,7 @@ Victor_Vran_with_Ster_and_Ashley.en.lrc
 Viewfinder.en.lrc
 Viewtiful_Joe.en.lrc
 Viscera_Cleanup_Detail.en.lrc
+Viscera_Cleanup_Detail_CO_OP_Funny_Moments_FREE_Alpha.en.lrc
 Viscera_Cleanup_Detail_Part_2.en.lrc
 Viscera_Cleanup_Detail_Part_3_with_Ster.en.lrc
 Viscera_Cleanup_Detail_Part_4.en.lrc
@@ -2203,6 +2249,7 @@ Welcome_to_The_Wild_West.en.lrc
 What_Makes_a_Game_Take_Off_Discussion_SMITE_Loki.en.lrc
 Wheel_of_Fortune_Part_2.en.lrc
 Wheelman.en.lrc
+White_Noise_Ghost_Park_Gang.en.lrc
 Who_Paid_You_to_Make_This_Video_TF2_Scout_Community_Discussion.en.lrc
 Who_Wants_To_Be_A_Millionaire.en.lrc
 Who_Will_Replace_ME.en.lrc
