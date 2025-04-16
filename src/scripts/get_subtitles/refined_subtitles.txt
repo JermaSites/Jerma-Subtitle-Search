@@ -87,6 +87,7 @@ At_Dead_Of_Night.en.lrc
 Attempting_PSVR_Games.en.lrc
 Austin_FLIGHT.en.lrc
 BATTLEBOTS.en.lrc
+BEATEN_UP_Pax_Day_2_3.en.lrc
 Backbreaker.en.lrc
 Bad_Games_Bad_Decisions_Discussion_Blacklight_Retribution_Gameplay.en.lrc
 Bakery_Simulator.en.lrc
@@ -444,6 +445,7 @@ Elden_Ring_Part_9.en.lrc
 Elebits.en.lrc
 Electronic_Super_Joy_Annoying_Spaceship_Pope_World_1_P2.en.lrc
 Electronic_Super_Joy_Time_to_Get_Mad_World_1_P1.en.lrc
+Elevator_of_doom_hashtag_being_creepy_Random_Pax_Footage.en.lrc
 Ember_Knights_with_Ster.en.lrc
 Embr_With_Ster.en.lrc
 Enclave.en.lrc
@@ -463,6 +465,7 @@ F.E.A.R..en.lrc
 F.E.A.R._2_Project_Origin.en.lrc
 F.E.A.R._Part_2_Finale.en.lrc
 F2P_The_Future_of_Gaming_Tribes_Ascend.en.lrc
+FAN_MEETUP_w_Jerma_Pax_Day_1.en.lrc
 FATE_Reawakened.en.lrc
 FMV_Games_Part_2.en.lrc
 FMV_Games_Part_3.en.lrc
@@ -1182,6 +1185,7 @@ Overwatch_and_maybe_somethin_else.en.lrc
 Overwatch_and_maybe_somethin_else_.en.lrc
 PAC_MAN_WORLD_Re_PAC.en.lrc
 PAX_East_2012_Amazing_Weekend._Interviews_Shenanigans.en.lrc
+PAX_Prime_2014_VLOG_DEATH_BY_PILLOW.en.lrc
 PEEPS_THE_HORROR_ANIMATED.en.lrc
 PSA_New_Youtube_Comments_Filtration_System.en.lrc
 PUBLIC_DOMAIN_MOVIE_NIGHT_PART_1.en.lrc
@@ -1241,6 +1245,7 @@ Post_retirement_Jerma_Sightings.en.lrc
 PowerWash_Simulator.en.lrc
 PowerWash_Simulator_Part_2.en.lrc
 Pre_Dollhouse_Q_A_Talking_Stream.en.lrc
+Pre_Pax_Shenanigans_Pax_Day_0.en.lrc
 Pretend_Telephone_Stream.en.lrc
 Prison_Break_The_Conspiracy.en.lrc
 Probably_getting_lost.en.lrc
@@ -1507,6 +1512,11 @@ Steam_Next_Fest_Demos_Part_2.en.lrc
 Steelrising.en.lrc
 Sterferge.en.lrc
 Sticks_and_Stones_Black_Ops_2_Pahhtyy_Game.en.lrc
+Sticks_with_Jerma_Boo_pt.1_5_Black_Ops_2.en.lrc
+Sticks_with_Jerma_Boo_pt._2_5_Black_Ops_2.en.lrc
+Sticks_with_Jerma_Boo_pt._3_5_Black_Ops_2.en.lrc
+Sticks_with_Jerma_Boo_pt._4_5_Black_Ops_2.en.lrc
+Sticks_with_Jerma_Boo_pt._5_5_Black_Ops_2.en.lrc
 Stranglehold.en.lrc
 Stream_Awards_2018.en.lrc
 Stream_Awards_2019.en.lrc
@@ -2284,6 +2294,7 @@ World_of_Warcraft_Legion_Part_1.en.lrc
 World_of_Warcraft_Legion_Part_2.en.lrc
 Worldbox.en.lrc
 Worms_Revolution_I_m_Terrible_Goofy_Highlights_w_Orb_Shibby.en.lrc
+Worms_Revolution_with_Jerma_Shibby_1.en.lrc
 Worms_W.M.D_with_Ster_Poke_and_Vinny.en.lrc
 Wreckfest.en.lrc
 Wreckfest_2.en.lrc
