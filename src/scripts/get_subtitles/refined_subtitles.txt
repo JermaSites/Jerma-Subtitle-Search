@@ -210,6 +210,7 @@ Chrono_Trigger_Part_4.en.lrc
 Chrono_Trigger_Part_5.en.lrc
 Chrono_Trigger_Part_6.en.lrc
 Chrono_Trigger_Part_7.en.lrc
+Chrono_Trigger_Part_8_Finale.en.lrc
 Cities_Skylines.en.lrc
 Cities_Skylines_Part_2.en.lrc
 Citizen_Burger_Disorder_Kitchen_Rats.en.lrc
@@ -220,6 +221,7 @@ Cleaning_up_the_painting_stream.en.lrc
 Clive_Barkers_Undying.en.lrc
 Clock_Tower_3.en.lrc
 Clone_Drone_in_the_Danger_Zone.en.lrc
+CloverPit.en.lrc
 Comcast_Protest_and_Kahoot.en.lrc
 Coming_Home.en.lrc
 Command_Conquer_Red_Alert.en.lrc
@@ -705,6 +707,7 @@ Hades_Part_2.en.lrc
 Half_Life_Alyx.en.lrc
 Half_Life_Alyx_Part_2.en.lrc
 Half_Life_Alyx_Part_3_Finale.en.lrc
+Half_Sword.en.lrc
 Halloween_Stream_2019.en.lrc
 Halls_of_Torment.en.lrc
 Halls_of_Torment_Part_2.en.lrc
