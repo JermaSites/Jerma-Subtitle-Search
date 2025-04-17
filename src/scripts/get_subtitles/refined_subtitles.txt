@@ -137,6 +137,7 @@ Bloody_Trapland_2_Part_2_with_Etalyx.en.lrc
 Bloody_Trapland_2_Part_3_with_Etalyx.en.lrc
 Bloody_Trapland_Breaks_Jerma_and_STAR_.en.lrc
 BoI_Rebirth_Screen_Clear_Samson_Live_Session.en.lrc
+Borderlands_2_Multiplayer_w_Jerma_and_Etalyx.en.lrc
 Borderlands_2_The_Beginning_Killin_Knuckle_Dragger_Multiplayer.en.lrc
 Borderlands_2_lolz_Why_U_So_Short.en.lrc
 Bot_Colony.en.lrc
@@ -167,6 +168,7 @@ CS_GO_HOW_U_C_KNIFE_Arms_Race_with_Sp00n_Jerma_Etalyx_Counter_Strike_Global.en.l
 CS_GO_JERMA_the_WARDEN_Counter_Strike_Global_Offensive_Source_Mod_Spotlight_3.en.lrc
 CS_GO_Jailbreak_Grandpa_Breaks_So_Many_Rules..en.lrc
 CS_GO_Jailbreak_Grandpa_Takes_Control_Warden_Prisoner.en.lrc
+CS_GO_Jailbreak_How_To_Win_as_Prisoner.en.lrc
 CS_GO_Jailbreak_Listen_Up_Maggots_Jerma_the_Warden.en.lrc
 CS_GO_Jailbreak_Rebellious_Prisoners_Mod_Introduction..en.lrc
 CS_GO_Live_w_MLC_St3alth_2_Dusty_Bastards.en.lrc
@@ -603,6 +605,7 @@ GTA4_Multiplayer_The_Soda_Choke_w_STAR.en.lrc
 GTA4_Multiplayer_Too_Much_Laughing_Instant_Headache.en.lrc
 GTA4_Multiplayer_Welcome_to_The_Zoo_w_STAR.en.lrc
 GTA4_Multiplayer_Whats_Dis_in_Road_Smash_w_STAR.en.lrc
+GTA_4_Funny_Moments_The_Bus.en.lrc
 GTA_4_Multiplayer_God_Mode_O.en.lrc
 GTA_5_Next_Gen_First_Person_Anger.en.lrc
 GTA_5_People_Are_Crazy.en.lrc
@@ -801,6 +804,7 @@ IS_JERMA_REAL.en.lrc
 I_Am_The_Pinball_Lord_of_The_Rings_Wizard.en.lrc
 I_REMAIN_Jerma_ANIMATED.en.lrc
 I_Spy_Spooky_Mansion_Deluxe.en.lrc
+I_Suck_At_This_Game.en.lrc
 Ikaruga.en.lrc
 Immortal_Redneck_Part_1.en.lrc
 Immortal_Redneck_Part_2.en.lrc
@@ -960,6 +964,7 @@ Lumber_Island_The_Room_Double_Cheese_Scare_Saturburgah.en.lrc
 Luncheon_stream.en.lrc
 MEATGRINDER_ANIMATED.en.lrc
 MINI_SENTRY_OP_Round_1_Part_1_Worms_Revolution_Jerma_Orb.en.lrc
+MLC_St3alth_Rages.en.lrc
 MS_DOS_Games.en.lrc
 MS_DOS_Games_Part_2.en.lrc
 MS_DOS_Games_Part_3.en.lrc
@@ -1416,6 +1421,7 @@ Shadows_of_Doubt.en.lrc
 Shank_2_Co_op_Survival_Mode_w_Jerma.en.lrc
 Shank_2_Multiplayer_First_Impressions_Survival_Mode_w_Etalyx.en.lrc
 ShootMania_Storm_FPS_Laser_Tag_Style_Thoughts_Impressions.en.lrc
+Showdown_with_Boo_..._AND_JERMA.en.lrc
 Showing_Keyboard_and_Talking.en.lrc
 Signal_Simulator.en.lrc
 Silly_Putty_Car_Circus.en.lrc
@@ -1838,6 +1844,7 @@ TF2_Spy_Generational_Jumps_Casual_Commentary.en.lrc
 TF2_Spy_Goldrush_First_Commentary.en.lrc
 TF2_Spy_Hard_to_Kill_Set_up_Anime_Talk.en.lrc
 TF2_Spy_Key_Bindings_and_Gaming_Mice_Hoodoo.en.lrc
+TF2_Spy_Live_w_Jerma_The_Haunted_House_Hacker.en.lrc
 TF2_Spy_Making_Ice_Sculptures_One_Life_Spy_cicle.en.lrc
 TF2_Spy_One_Year_on_YouTube_Kunai_Tips_Discussion.en.lrc
 TF2_Spy_Patience_and_Timing_How_I_Improved.en.lrc
@@ -1921,6 +1928,7 @@ Team_Fortress_2_Part_5_Mann_vs._Machine_with_Ster_DougDoug_Ludwig_Poke_Vinny.en.
 Team_Fortress_2_Quadmentary_w_Jerma_MLC_St3alth_Boo.en.lrc
 Team_Fortress_2_Slice_N_Dice_Half_Zatoichi.en.lrc
 Team_Fortress_2_and_The_Binding_of_Isaac_Rebirth_October_2015.en.lrc
+Team_Fortress_2_with_Best_Friends_Who_is_Who.en.lrc
 Teardown.en.lrc
 Telephone_Stream_2_Akinator_and_Type_Racer.en.lrc
 Tentacle_Wars_Infect_Them_All_Little_Gems.en.lrc
