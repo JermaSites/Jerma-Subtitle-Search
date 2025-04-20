@@ -2077,6 +2077,7 @@ The_Three_Triners.en.lrc
 The_Typing_of_the_Dead.en.lrc
 The_Voice_and_Naughty_Bear.en.lrc
 The_Warlock_of_Firetop_Mountain.en.lrc
+The_Wheel_Of_Time.en.lrc
 The_Worst_Game_Ever_Big_Rigs_Dump_Racing.en.lrc
 The_Zombie_Bros._Play_The_Game.en.lrc
 Theme_Hospital_The_Doctah_Is_In_The_House_Live_Enlighten.en.lrc
@@ -2213,6 +2214,7 @@ Voicelines_in_Apotheon.en.lrc
 Voicelines_in_CRYPTARK.en.lrc
 Voicelines_in_GUNHEAD.en.lrc
 Voicelines_in_Galactic_Phantasy_Prelude.en.lrc
+Voodoo_Kid_and_Wacky_Wheels.en.lrc
 WTF_GRANDMA_LOL_Round_2_Part_1_Worms_Revolution_Jerma_Orb.en.lrc
 WWE_2K17.en.lrc
 WWE_2K18.en.lrc
