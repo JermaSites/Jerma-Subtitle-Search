@@ -118,6 +118,10 @@ Binding_of_Issac_Antibirth_Part_2.en.lrc
 Bio_Inc._Redemption.en.lrc
 Black_Ops_2_Bankrupt_That_Bastard_Sticks_and_Stones_with_Friends.en.lrc
 Black_Ops_2_Grandpa_is_an_MLG_Pro.en.lrc
+Black_Ops_2_Sticks_and_Stones_1_The_Race.en.lrc
+Black_Ops_2_Sticks_and_Stones_2_Bank_Orb.en.lrc
+Black_Ops_2_Sticks_and_Stones_3_Scumbag_Orb.en.lrc
+Black_Ops_2_Sticks_and_Stones_4_Mad_Jerma.en.lrc
 Black_Ops_2_Zombies_Solo_Fail_Tage_Bus_Depot_Survival.en.lrc
 Black_White.en.lrc
 Black_White_2.en.lrc
@@ -137,6 +141,7 @@ Bloody_Trapland_2_Part_2_with_Etalyx.en.lrc
 Bloody_Trapland_2_Part_3_with_Etalyx.en.lrc
 Bloody_Trapland_Breaks_Jerma_and_STAR_.en.lrc
 BoI_Rebirth_Screen_Clear_Samson_Live_Session.en.lrc
+Boo_can_you_play_some_Spy_TF2_w_Jerma.en.lrc
 Borderlands_2_Multiplayer_w_Jerma_and_Etalyx.en.lrc
 Borderlands_2_The_Beginning_Killin_Knuckle_Dragger_Multiplayer.en.lrc
 Borderlands_2_lolz_Why_U_So_Short.en.lrc
@@ -618,6 +623,9 @@ GTA_5_The_Outdoor_Outrage.en.lrc
 GTA_Club_Tornado_TM.en.lrc
 GTA_End_of_the_World.en.lrc
 GTA_Ghost_World_Insanity.en.lrc
+GTA_IV_Funny_Moments_If_This_Catches_Fire....en.lrc
+GTA_IV_Funny_Moments_Ramp_Experiments.en.lrc
+GTA_IV_Funny_Moments_Youre_Under_Arrest.en.lrc
 GTA_Online_Burglar_Bandits.en.lrc
 GTA_Online_Imagination_is_Important.en.lrc
 GTA_Online_The_Rules_of_Safety.en.lrc
@@ -746,6 +754,7 @@ Heroes_of_Might_and_Magic_III_The_Restoration_of_Erathia_Part_2.en.lrc
 Heroes_of_Might_and_Magic_III_The_Restoration_of_Erathia_Part_3.en.lrc
 Hey_Donna.en.lrc
 Hidden_Folks.en.lrc
+Hilarious_Mann_vs_Machine_Rounds_Team_Fortress_2.en.lrc
 Hitman_2.en.lrc
 Hitman_2_Part_2_Finale.en.lrc
 Hitman_2_Part_3.en.lrc
@@ -992,6 +1001,7 @@ Man_O_War_Corsair.en.lrc
 Man_O_War_Corsair_.en.lrc
 Man_of_Medan_with_Etalyx.en.lrc
 Man_vs._Wild.en.lrc
+Mann_vs_Machine_Funny_Intense_Rounds_1_Team_Fortress_2.en.lrc
 Mario_Golf_Super_Rush.en.lrc
 Mario_Kart_8_Deluxe_Tournament.en.lrc
 Mario_Maker_Part_1.en.lrc
@@ -1366,6 +1376,7 @@ SCP_432_The_Scare_Quit_Freakin_Horrifying.en.lrc
 SCP_Containment_Breach_Face_Cam_Scary_Time.en.lrc
 SCP_Secret_Laboratory_with_Criken_and_friends.en.lrc
 SMITE_Agni_Assault_ARAM_Live_Session.en.lrc
+SMITE_Anubis_The_God_of_Oh_Shit_I_m_Dead.en.lrc
 SMITE_Apollo_Music_to_My_Ears_Live_Conquest_w_Boo.en.lrc
 SMITE_Beta_Sobek_Tossin_Q_A_Answers.en.lrc
 SMITE_Beta_What_it_is_and_why_I_love_it._Cupid_Round.en.lrc
@@ -1421,6 +1432,7 @@ Shadows_of_Doubt.en.lrc
 Shank_2_Co_op_Survival_Mode_w_Jerma.en.lrc
 Shank_2_Multiplayer_First_Impressions_Survival_Mode_w_Etalyx.en.lrc
 ShootMania_Storm_FPS_Laser_Tag_Style_Thoughts_Impressions.en.lrc
+Shooting_up_Zombies_in_Killing_Floor.en.lrc
 Showdown_with_Boo_..._AND_JERMA.en.lrc
 Showing_Keyboard_and_Talking.en.lrc
 Signal_Simulator.en.lrc
@@ -1921,6 +1933,8 @@ Talking_for_2_hours.en.lrc
 Talking_with_Stream_and_some_Getting_Over_It.en.lrc
 Team_Fortress_2.en.lrc
 Team_Fortress_2_Item_Addiction_When_Spies_Attack_D.en.lrc
+Team_Fortress_2_Lifesteal_Soldier_w_Jerma_1_2.en.lrc
+Team_Fortress_2_Lifesteal_Soldier_w_Jerma_2_2.en.lrc
 Team_Fortress_2_Part_2.en.lrc
 Team_Fortress_2_Part_3.en.lrc
 Team_Fortress_2_Part_4_with_Ster_Summer_Update_2023.en.lrc
@@ -1930,6 +1944,9 @@ Team_Fortress_2_Slice_N_Dice_Half_Zatoichi.en.lrc
 Team_Fortress_2_and_The_Binding_of_Isaac_Rebirth_October_2015.en.lrc
 Team_Fortress_2_with_Best_Friends_Who_is_Who.en.lrc
 Teardown.en.lrc
+Tearing_it_Up_Boo_vs_Jerma_Team_Fortress_2.en.lrc
+Tearing_it_Up_Heavy_Punchout_Team_Fortress_2.en.lrc
+Tearing_it_Up_Heli_Destruction_Battlefield_3.en.lrc
 Telephone_Stream_2_Akinator_and_Type_Racer.en.lrc
 Tentacle_Wars_Infect_Them_All_Little_Gems.en.lrc
 Terraria_Contest_Rules_TF2_Scout_Gameplay_Commentary_Doublecross.en.lrc
