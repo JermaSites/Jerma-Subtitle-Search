@@ -3213,8 +3213,9 @@ if __name__ == '__main__':
         'https://youtube.com/playlist?list=PL9wV0Fmo7N_g5X64TzZUY-eQyoZ4xvAf2',         # JermAnimated playlist on 2ndJerma
         # 'https://youtube.com/playlist?list=PL9haG0G7kUOiKVQ-Iw7LO7fgQUG3xx2L9',       # Jerma Deleted Videos / Lost Content
         # 'https://youtube.com/playlist?list=PL_ahY5c4jVEAkFbpd6GniDf8g9pKRYHt-',       # Borderlands 2 Let's Play w/ Drak
+        # 'https://youtube.com/playlist?list=PLLZVyAYonIO5rXV9M7VseHyHbt8E1QkH0',       # Jerma + Boo
         # 'https://youtube.com/playlist?list=PLLZVyAYonIO6NTJYz4-tIqxmhNZts1KjB'        # Jerma + Etalyx
-        # 'https://youtube.com/playlist?list=PLLZVyAYonIO4lVtFykS1Ap5HcpRWKhI65',        # Jerma + MLC_St3alth
+        # 'https://youtube.com/playlist?list=PLLZVyAYonIO4lVtFykS1Ap5HcpRWKhI65',       # Jerma + MLC_St3alth
         # 'https://youtube.com/playlist?list=PLLZVyAYonIO7sNe6fKVMFFEglSyO8wolg',       # Jerma + Orb
         # 'https://youtube.com/playlist?list=PLLZVyAYonIO6lUcFTWyo6jfcNNvgtM3SZ',       # Jerma + Shibby
         # 'https://youtube.com/playlist?list=PLLZVyAYonIO6m_Ht96IY82D1E_kPCkvRd',       # MethodGaming
