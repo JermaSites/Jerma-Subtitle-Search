@@ -468,6 +468,7 @@ Everything.en.lrc
 Evil_Moments.en.lrc
 Evolva.en.lrc
 Exanima_Everybody_is_Jell_O.en.lrc
+Extreme_Air.en.lrc
 Extreme_Body_Sliders.en.lrc
 F.E.A.R..en.lrc
 F.E.A.R._2_Project_Origin.en.lrc
@@ -736,6 +737,7 @@ Hand_of_Fate_2_Part_3.en.lrc
 Hand_of_Fate_Hard_to_Explain.en.lrc
 Handball_Showdown.en.lrc
 Happy_Birthday_Miku_Jerma_Animated.en.lrc
+Happy_New_Year.en.lrc
 Happy_Thanksgiving.en.lrc
 Happy_Valentines_Day_Dont_Get_Depressed_Smite_All_Cupid.en.lrc
 Hardline_Officer_of_the_Law.en.lrc
@@ -805,6 +807,7 @@ House_Flipper_Part_6.en.lrc
 House_Flipper_Part_7.en.lrc
 House_Flipper_Part_8.en.lrc
 House_Flipper_Part_9.en.lrc
+House_Tour.en.lrc
 How_to_Make_a_Gameplay_Commentary_Tutorial_Be_Taken_Seriously.en.lrc
 Human_Fall_Flat_with_Ster_and_Etalyx.en.lrc
 Hylics.en.lrc
@@ -1019,6 +1022,7 @@ Marvels_Spider_Man_Part_2.en.lrc
 Marvels_Spider_Man_Part_3.en.lrc
 Marvels_Spider_Man_Part_4_Finale.en.lrc
 Maximum_Action.en.lrc
+Medical_Query.en.lrc
 Mega_Man_Legends.en.lrc
 Mega_Man_Legends_Part_2.en.lrc
 Mega_Man_Legends_Part_3_Finale.en.lrc
@@ -1202,6 +1206,7 @@ Overwatch_and_maybe_somethin_else.en.lrc
 Overwatch_and_maybe_somethin_else_.en.lrc
 PAC_MAN_WORLD_Re_PAC.en.lrc
 PAX_East_2012_Amazing_Weekend._Interviews_Shenanigans.en.lrc
+PAX_East_hotel_room_review.en.lrc
 PAX_Prime_2014_VLOG_DEATH_BY_PILLOW.en.lrc
 PEEPS_THE_HORROR_ANIMATED.en.lrc
 PSA_New_Youtube_Comments_Filtration_System.en.lrc
@@ -2123,6 +2128,7 @@ The_Warlock_of_Firetop_Mountain.en.lrc
 The_Wheel_Of_Time.en.lrc
 The_Worst_Game_Ever_Big_Rigs_Dump_Racing.en.lrc
 The_Zombie_Bros._Play_The_Game.en.lrc
+The_secret_technique.en.lrc
 Theme_Hospital_The_Doctah_Is_In_The_House_Live_Enlighten.en.lrc
 Theme_Hospital_This_Place_is_Disgusting_Live_Highlights.en.lrc
 Thief_Gold.en.lrc
@@ -2144,6 +2150,7 @@ TimeShift.en.lrc
 Tiny_Toon_Adventures_Wacky_Sports_Challenge.en.lrc
 Tokyo_Jungle_Part_1.en.lrc
 Tokyo_Jungle_Part_2_Finale.en.lrc
+Told_ya.en.lrc
 Tom_Clancys_Ghost_Recon_Wildlands.en.lrc
 Tony_Hawk_RIDE_kind_of_and_God_Hand.en.lrc
 Tony_Hawks_Pro_Skater_2.en.lrc
@@ -2188,6 +2195,7 @@ UFO_50_Part_2.en.lrc
 ULTRAKILL.en.lrc
 ULTRAKILL_Part_2.en.lrc
 Ubisoft_Conference_E3_2019.en.lrc
+Uhhhh..en.lrc
 Ultimate_Epic_Battle_Simulator_Part_1.en.lrc
 Ultimate_Epic_Battle_Simulator_Part_2.en.lrc
 Um_Jammer_Lammy.en.lrc
@@ -2294,6 +2302,7 @@ Weird_Cam_Comb_Stream.en.lrc
 Welcome_to_My_Channel.en.lrc
 Welcome_to_Rat_Burger.en.lrc
 Welcome_to_The_Wild_West.en.lrc
+Welp_See_ya_on_Tuesday_for_Monster_Rancher_2_if_I_still_have_a_computer.en.lrc
 What_Makes_a_Game_Take_Off_Discussion_SMITE_Loki.en.lrc
 Wheel_of_Fortune_Part_2.en.lrc
 Wheelman.en.lrc
@@ -2374,3 +2383,4 @@ pours_detergent_on_the_floor_Jerma_Animated.en.lrc
 rare_off_stream_jerma_discord_call_with_ster.en.lrc
 teacher_noise_Jerma985_animated.en.lrc
 virtually_murders_his_entire_fanbase.en.lrc
+wishes_Joel_a_happy_2024.en.lrc
