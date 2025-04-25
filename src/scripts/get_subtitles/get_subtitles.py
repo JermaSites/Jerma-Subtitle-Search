@@ -3219,6 +3219,7 @@ if __name__ == '__main__':
         # 'https://youtube.com/playlist?list=PLLZVyAYonIO7sNe6fKVMFFEglSyO8wolg',       # Jerma + Orb
         # 'https://youtube.com/playlist?list=PLLZVyAYonIO6lUcFTWyo6jfcNNvgtM3SZ',       # Jerma + Shibby
         # 'https://youtube.com/playlist?list=PLLZVyAYonIO6m_Ht96IY82D1E_kPCkvRd',       # MethodGaming
+        # 'https://youtube.com/playlist?list=PLLZVyAYonIO5_xU_blDvwsH4b42EVheOr',       # Twitter posts
         # 'https://archive.org/download/jerma-streams-public-domain-movie-night/PUBLIC%20DOMAIN%20MOVIE%20NIGHT%20PART%201.mp4'
     ], help='List of URLs to obtain subtitles for.')
     parser.add_argument('--cookies-path', type=str, default='cookies.txt', help='Netscape formatted file to read cookies from, can be obtained with: yt-dlp --cookies-from-browser firefox --cookies cookies.txt')
