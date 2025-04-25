@@ -103,6 +103,7 @@ Battlefield_3_Jurassic_Park_Kharg_Island_Caravan_w_Jerma985_BF3_Gameplay_Live_Co
 Battlefield_3_Old_Dog_New_Tricks_Ep_1_BF3_with_Jermas_Grandpa_Gameplay_Commentary.en.lrc
 Battlefield_3_Old_Dog_New_Tricks_Ep_2_BF3_with_Jermas_Grandpa_Gameplay_Commentary.en.lrc
 Battleship_with_Ludwig.en.lrc
+Bazza_meets_Jerma.en.lrc
 BeamNG.drive.en.lrc
 Beat_em_up_w_Jerma_then_Nuclear_Throne.en.lrc
 Beautiful_Katamari.en.lrc
@@ -814,6 +815,7 @@ I_Am_The_Pinball_Lord_of_The_Rings_Wizard.en.lrc
 I_REMAIN_Jerma_ANIMATED.en.lrc
 I_Spy_Spooky_Mansion_Deluxe.en.lrc
 I_Suck_At_This_Game.en.lrc
+I_played_MW3_with_Jerma_D.en.lrc
 Ikaruga.en.lrc
 Immortal_Redneck_Part_1.en.lrc
 Immortal_Redneck_Part_2.en.lrc
@@ -2317,6 +2319,7 @@ World_of_Warcraft_Classic_Hardcore_Part_5_with_Etalyx.en.lrc
 World_of_Warcraft_LOL_Adventures_Get_the_Quest.en.lrc
 World_of_Warcraft_Legion_Part_1.en.lrc
 World_of_Warcraft_Legion_Part_2.en.lrc
+World_of_Warcraft_Seizure_Time_with_MLC_St3alth_Jerma985_and_StrangeLuv.en.lrc
 Worldbox.en.lrc
 Worms_Revolution_I_m_Terrible_Goofy_Highlights_w_Orb_Shibby.en.lrc
 Worms_Revolution_with_Jerma_Shibby_1.en.lrc
