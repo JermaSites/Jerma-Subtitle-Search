@@ -912,6 +912,7 @@ Late_Shift_Part_1.en.lrc
 Late_Shift_Part_2.en.lrc
 Later_Alligator.en.lrc
 Laundry_Store_Simulator.en.lrc
+Layers_of_Fear_Highlights.en.lrc
 Leaf_Blower_Revolution_Idle_Game.en.lrc
 Left_4_Dead_2_Survival_Mode_Fails_w_Boo_St3alth_and_Burgah_Boy.en.lrc
 Left_4_Dead_2_Technical_lolz_Difficulties.en.lrc
