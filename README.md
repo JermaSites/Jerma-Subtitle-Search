@@ -15,7 +15,7 @@ Audio gets downloaded with [yt-dlp](https://github.com/yt-dlp/yt-dlp), which get
 
 Relevant information gets written to a [JSON file](https://subtitlefiles.jerma.io/file/jerma-subtitles/Subtitles.json), which gets indexed and compressed using [a JS script](/src/scripts/index-subtitles.js).
 
-The Python script also supports downloading YouTube's auto-generated subtitles, and optionally only transcribing videos which don't have auto-generated subtitles available.
+The Python script also supports downloading manually added/YouTube's auto-generated subtitles, and optionally only transcribing videos which don't have subtitles available.
 
 <details>
 <summary>Read More</summary>
