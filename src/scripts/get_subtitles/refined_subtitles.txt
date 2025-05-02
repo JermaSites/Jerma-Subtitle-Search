@@ -870,6 +870,7 @@ Jump_King.en.lrc
 Jump_King_Part_3.en.lrc
 Jump_King_Part_4.en.lrc
 Jurassic_The_Hunted.en.lrc
+Just_Act_Natural_with_Ster_Poke_and_Vinny.en.lrc
 Just_Cause_2_Multiplayer_Battle_of_The_Toys.en.lrc
 Just_Cause_4.en.lrc
 Just_Talkin_and_Watching_Old_Videos.en.lrc
@@ -2012,6 +2013,7 @@ The_Elder_Scrolls_III_Morrowind.en.lrc
 The_Elder_Scrolls_IV_Oblivion_Part_1.en.lrc
 The_Elder_Scrolls_IV_Oblivion_Part_2.en.lrc
 The_Elder_Scrolls_IV_Oblivion_Part_3.en.lrc
+The_Elder_Scrolls_IV_Oblivion_Remastered.en.lrc
 The_Emote_Contest.en.lrc
 The_End_is_Nigh.en.lrc
 The_Eternal_Cylinder.en.lrc
@@ -2266,6 +2268,7 @@ Voicelines_in_Apotheon.en.lrc
 Voicelines_in_CRYPTARK.en.lrc
 Voicelines_in_GUNHEAD.en.lrc
 Voicelines_in_Galactic_Phantasy_Prelude.en.lrc
+Void_Crew_with_Ster_Poke_and_Vinny.en.lrc
 Voodoo_Kid_and_Wacky_Wheels.en.lrc
 WTF_GRANDMA_LOL_Round_2_Part_1_Worms_Revolution_Jerma_Orb.en.lrc
 WWE_2K17.en.lrc
