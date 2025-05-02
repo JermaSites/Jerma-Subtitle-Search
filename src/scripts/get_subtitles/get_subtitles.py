@@ -255,6 +255,7 @@ def refine_subtitles(subs_path: str):
                     '…': '...',
                     '>> ': '',
                     '﻿': '',
+                    '—': '-'
                 }
 
                 for k, v in boundaryless_case_insensitive_replacements.items():
@@ -264,7 +265,6 @@ def refine_subtitles(subs_path: str):
 
                 case_insensitive_replacements = {
                     ' uk': ' UK',
-                    '—': '-',
                     '’': "'",
                     '[\\h__\\h]': '🤬',
                     '[Applause]': '👏',
