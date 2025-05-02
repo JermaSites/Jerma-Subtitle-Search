@@ -32,10 +32,10 @@ function formatTimestamp(timestamp: string): string {
 };
 
 function formatStreamTitle(title: string): Children[] {
+    const elements: Children[] = [];
     const usernameRegex = /@(\w+)/g;
     let match;
     let lastIndex = 0;
-    const elements: Children[] = [];
 
     while ((match = usernameRegex.exec(title)) !== null) {
         if (match.index > lastIndex) {
