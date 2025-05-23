@@ -1154,6 +1154,7 @@ Nintendo_Labo_Part_2.en.lrc
 Nintendo_Labo_Part_3.en.lrc
 Nintendo_Labo_Part_4.en.lrc
 Nintendo_Labo_Part_5.en.lrc
+Nintendo_World_Championships_NES_Edition.en.lrc
 Nioh.en.lrc
 No_More_Heroes.en.lrc
 No_More_Heroes_2_Desperate_Struggle.en.lrc
