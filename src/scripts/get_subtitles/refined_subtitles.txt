@@ -2019,6 +2019,7 @@ The_Elder_Scrolls_IV_Oblivion_Part_2.en.lrc
 The_Elder_Scrolls_IV_Oblivion_Part_3.en.lrc
 The_Elder_Scrolls_IV_Oblivion_Remastered.en.lrc
 The_Elder_Scrolls_IV_Oblivion_Remastered_Part_2.en.lrc
+The_Elder_Scrolls_IV_Oblivion_Remastered_Part_3.en.lrc
 The_Emote_Contest.en.lrc
 The_End_is_Nigh.en.lrc
 The_Eternal_Cylinder.en.lrc
