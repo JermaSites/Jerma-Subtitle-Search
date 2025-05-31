@@ -425,6 +425,7 @@ Earth_Defense_Force_Part_3.en.lrc
 Easy_Bake_Oven_Stream.en.lrc
 Echo.en.lrc
 Elden_Ring.en.lrc
+Elden_Ring_Nightreign_Part_2_with_Ster_and_Vinny.en.lrc
 Elden_Ring_Nightreign_with_Ster_and_Poke.en.lrc
 Elden_Ring_Part_10.en.lrc
 Elden_Ring_Part_11.en.lrc
