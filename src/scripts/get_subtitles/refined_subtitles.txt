@@ -1273,6 +1273,7 @@ Post_retirement_Jerma_Sightings.en.lrc
 PowerWash_Simulator.en.lrc
 PowerWash_Simulator_Part_2.en.lrc
 Pre_Dollhouse_Q_A_Talking_Stream.en.lrc
+Pre_House_Flipper_Invitational_3_Talk.en.lrc
 Pre_Pax_Shenanigans_Pax_Day_0.en.lrc
 Pretend_Telephone_Stream.en.lrc
 Prison_Break_The_Conspiracy.en.lrc
