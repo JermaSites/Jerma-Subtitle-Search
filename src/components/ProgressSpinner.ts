@@ -43,14 +43,22 @@ export const ProgressSpinner = () => {
                     })
                 ]),
                 m('p',
-                    vnode.attrs.phase === 'Downloading'
-                        ?
+                    vnode.attrs.phase === 'Downloading' ?
                         [
-                            `${vnode.attrs.phase} index`,
+                            'Downloading index',
                             m('br'),
                             `${(vnode.attrs.value / 1e6).toFixed(2)} / ${(vnode.attrs.limit / 1e6).toFixed(2)} MB (${String(Math.round((vnode.attrs.value / vnode.attrs.limit) * 100)).padStart(2, '0')}%)`,
                         ]
-                        : `${vnode.attrs.phase}`
+                    : vnode.attrs.phase.startsWith('Error') ?
+                        [
+                            vnode.attrs.phase,
+                            m('br'),
+                            'Please try clearing your cache with ',
+                            m('kbd', 'Ctrl'),
+                            ' + ',
+                            m('kbd', 'F5')
+                        ]
+                    : vnode.attrs.phase
                 )
             ]);
         }
