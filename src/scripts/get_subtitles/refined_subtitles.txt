@@ -386,6 +386,7 @@ Double_Action_Boogaloo.en.lrc
 DougDoug_and_Jermas_surprise_Tennis_stream.en.lrc
 Dracula_2_The_Last_Sanctuary.en.lrc
 Dracula_2_The_Last_Sanctuary_Part_2_Finale.en.lrc
+Dracula_3_The_Path_of_the_Dragon.en.lrc
 Dracula_Resurrection.en.lrc
 Dracula_Resurrection_Part_2_Finale.en.lrc
 Dragons_Dogma_Dark_Arisen.en.lrc
@@ -398,6 +399,7 @@ Dreamcast_Games.en.lrc
 Dreamcast_Games_Part_2.en.lrc
 Dreamcast_Games_Part_3.en.lrc
 Dreamcast_Games_Part_4.en.lrc
+Dreamcore.en.lrc
 Dreams.en.lrc
 Dreams_Part_2.en.lrc
 Dreams_Part_3.en.lrc
@@ -2175,6 +2177,8 @@ Total_Distortion.en.lrc
 Total_Overdose.en.lrc
 Totally_Tubular_YouTubers_Life_Fallout_NV.en.lrc
 Toukiden_2_with_Etalyx.en.lrc
+Towerborne_Part_2_with_Ster_Poke_and_Criken.en.lrc
+Towerborne_with_Ster_Poke_and_Criken.en.lrc
 Travellers_Rest.en.lrc
 Trepang2.en.lrc
 Trepang2_Part_2_Finale.en.lrc
@@ -2321,6 +2325,8 @@ What_Makes_a_Game_Take_Off_Discussion_SMITE_Loki.en.lrc
 Wheel_of_Fortune_Part_2.en.lrc
 Wheelman.en.lrc
 White_Knuckle.en.lrc
+White_Knuckle_Part_2.en.lrc
+White_Knuckle_Part_3_with_Ster.en.lrc
 White_Noise_Ghost_Park_Gang.en.lrc
 Who_Paid_You_to_Make_This_Video_TF2_Scout_Community_Discussion.en.lrc
 Who_Wants_To_Be_A_Millionaire.en.lrc
