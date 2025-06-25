@@ -2048,6 +2048,7 @@ The_Green_Screen_Stream_Part_2.en.lrc
 The_Headliners_with_Ster_Poke_and_Vinny.en.lrc
 The_High_Dive.en.lrc
 The_House_Flipper_2_Invitational_3.en.lrc
+The_House_Flipper_2_Invitational_3_Part_2_Finale_with_Ster_Poke_Criken_More.en.lrc
 The_House_Flipper_2_Invitational_with_DougDoug_RTGame_Ster_Vinny_CDawg_More.en.lrc
 The_House_of_the_Dead_Remake.en.lrc
 The_Hunt_Begins_Contagion_w_Buddies.en.lrc
