@@ -5,8 +5,8 @@
       "dependencies": {
         "fflate": "^0.8.2",
         "lite-youtube-embed": "^0.3.3",
-        "minisearch": "^7.1.1",
-        "mithril": "^2.2.12",
+        "minisearch": "^7.1.2",
+        "mithril": "^2.3.3",
       },
       "devDependencies": {
         "@types/mithril": "^2.2.7",
@@ -120,9 +120,9 @@
 
     "micromatch": ["micromatch@4.0.8", "", { "dependencies": { "braces": "^3.0.3", "picomatch": "^2.3.1" } }, "sha512-PXwfBhYu0hBCPw8Dn0E+WDYb7af3dSLVWKi3HGv84IdF4TyFoC0ysxFd0Goxw7nSv4T/PzEJQxsYsEiFCKo2BA=="],
 
-    "minisearch": ["minisearch@7.1.1", "", {}, "sha512-b3YZEYCEH4EdCAtYP7OlDyx7FdPwNzuNwLQ34SfJpM9dlbBZzeXndGavTrC+VCiRWomL21SWfMc6SCKO/U2ZNw=="],
+    "minisearch": ["minisearch@7.1.2", "", {}, "sha512-R1Pd9eF+MD5JYDDSPAp/q1ougKglm14uEkPMvQ/05RGmx6G9wvmLTrTI/Q5iPNJLYqNdsDQ7qTGIcNWR+FrHmA=="],
 
-    "mithril": ["mithril@2.2.12", "", {}, "sha512-EpHb0DkcfwB+83NYvU8WMGBib+/TBtFLzdvYYXijqcW0o1i6cpVPklrCglJi2COXT2MG0Kih81CNPCoZkj0vag=="],
+    "mithril": ["mithril@2.3.3", "", {}, "sha512-SaO21JZsRCqDtv0IK94qabD9dy0fD71jStFlcVKtVxfo7aW4lKWW5dy9EURGjSQJNaJSfV6wNdXfP8hMtr94rg=="],
 
     "nanoid": ["nanoid@3.3.8", "", { "bin": { "nanoid": "bin/nanoid.cjs" } }, "sha512-WNLf5Sd8oZxOm+TzppcYk8gVOgP+l58xNy58D0nbUnOxOWRWvlcCV4kUF7ltmI6PsrLl/BgKEyS4mqsGChFN0w=="],
 
