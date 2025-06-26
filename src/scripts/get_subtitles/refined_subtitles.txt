@@ -1216,6 +1216,7 @@ PAC_MAN_WORLD_Re_PAC.en.lrc
 PAX_East_2012_Amazing_Weekend._Interviews_Shenanigans.en.lrc
 PAX_East_hotel_room_review.en.lrc
 PAX_Prime_2014_VLOG_DEATH_BY_PILLOW.en.lrc
+PEAK_with_Ster_Poke_and_Vinny.en.lrc
 PEEPS_THE_HORROR_ANIMATED.en.lrc
 PSA_New_Youtube_Comments_Filtration_System.en.lrc
 PUBLIC_DOMAIN_MOVIE_NIGHT_PART_1.en.lrc
