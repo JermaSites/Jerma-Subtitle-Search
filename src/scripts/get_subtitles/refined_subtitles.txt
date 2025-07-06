@@ -679,6 +679,7 @@ Gothic_3.en.lrc
 Grab_Bag_Game_Night.en.lrc
 Grab_Bag_Game_Night_Part_2.en.lrc
 Grab_Bag_Game_Night_Part_3.en.lrc
+Grab_Bag_Game_Night_Part_4.en.lrc
 Grab_That_Auto_5.en.lrc
 Grandpa_Invades_JermaCraft_Farm_Building_Episode_9.en.lrc
 Grandpa_Invades_JermaCraft_Who_Built_This_Episode_10..en.lrc
