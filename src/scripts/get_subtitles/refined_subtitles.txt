@@ -116,6 +116,7 @@ Binding_of_Isaac_WotL._Samson_Fun_and_Grandpa_Tries_Livestream_Session.en.lrc
 Binding_of_Isaac_WotL_Going_All_The_Way_Livestream_Session.en.lrc
 Binding_of_Isaac_WotL_Sunburnt_Jerma_Livestream_Session.en.lrc
 Binding_of_Issac_Antibirth_Part_2.en.lrc
+BioForge_Part_2_Finale.en.lrc
 Bio_Inc._Redemption.en.lrc
 Black_Ops_2_Bankrupt_That_Bastard_Sticks_and_Stones_with_Friends.en.lrc
 Black_Ops_2_Grandpa_is_an_MLG_Pro.en.lrc
