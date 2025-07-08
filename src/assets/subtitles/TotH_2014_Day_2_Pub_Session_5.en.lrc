@@ -1,0 +1,1054 @@
+[re:Lavf61.1.100]
+[ve:61.1.100]
+
+[00:00.03]Stick around, the full schedule is below.
+[00:01.51]We've got the big uncrating event with Mr. Lang, Mr. Truck Truck.
+[00:06.98]Tons to come and lots of prizes to be given away, so stick around guys.
+[00:11.70]But now it's going to be Jump Volcanic.
+[00:13.80]Who can tell us about this one?
+[00:16.65]Uh, yeah.
+[00:17.79]It's a map made by Drexen.
+[00:20.65]It's a pretty easy demo map.
+[00:22.61]And I'm playing this because it's generally considered to be the best looking jump map.
+[00:28.75]He spent around 300 hours just into this map, and you'll see, it looks really nice.
+[00:36.68]The problem with this map though is, since it's detailed so well, there's some problem with it that people who play in DX level 8 can't play the map.
+[00:45.35]They just won't connect.
+[00:48.24]So all the people who are in DX level 8 are probably not on the server right now.
+[00:55.23]So we have a question here from the chat.
+[00:57.19]Does FPS play a role in jumping whatsoever?
+[01:02.22]Yes, it does.
+[01:03.16]I think it does, yeah.
+[01:04.14]With airstriking.
+[01:05.94]Of course it's more comfortable to jump with a higher FPS, but in theory it doesn't really matter.
+[01:11.49]Exile used to jump with like, what, 20 FPS or 30?
+[01:17.44]If at all.
+[01:18.47]I mean, it's way harder to jump with that, but in theory you can actually jump as well as someone with 300 FPS on like 10 FPS.
+[01:26.46]I don't think so.
+[01:27.80]No, in theory, not like that it's gonna happen, but... It's harder to jump with it, but... It's not like a... It's not a deciding factor, it doesn't change the game physics or whatever.
+[01:42.50]Oh, you remember that one level on Jump Remember?
+[01:45.62]I just want to shout out really quick that we have a $150 donation from Blue.
+[01:52.05]That is Matthew McNamara.
+[01:54.47]Very, very good friend of mine.
+[01:57.09]If you watch any competitive TF2, you'll know him as the developer of our Advanced Spectator plugin.
+[02:02.42]That's the plugin that gives us outlines when we're doing our casts.
+[02:06.75]Blue is a dear, dear friend of mine.
+[02:08.41]We work together on a lot of projects.
+[02:09.81]Hope to work with him on many, many more.
+[02:12.57]I just want to thank him for that very generous $150 donation.
+[02:15.76]Thanks, Blue.
+[02:19.26]Remember, guys, lots of prizes are going to be given out.
+[02:21.10]We sell the silent auctions.
+[02:22.54]You're going to want to go to our Steam group for that.
+[02:24.57]You can see the link below.
+[02:25.83]That's the star items.
+[02:28.55]We've got the self-made key.
+[02:30.44]tons of stuff to give away, plus all the unusuals in the regular raffles, but right now we're making our way through this volcanic level here.
+[02:45.48]We had a comment in chat, actually, which I find interesting.
+[02:47.64]I'm wondering if this idea has been thrown around a version of the rocket jumper, except for the original.
+[02:54.57]That's an interesting idea.
+[02:55.81]I didn't ever think of that, actually.
+[02:58.32]That's true.
+[03:01.81]It's a bit of a learning curve to learn the original and maybe a little easier for newer users who want to get into that if there was a Rocket Jumper version.
+[03:10.63]I would think it would be easier, but a lot of people see all of the current jump tutorials all being done with the rocket launcher, and since because of that they just think that, oh I should probably be using the rocket launcher.
+[03:22.79]So while it's common to see higher up jumpers using the standard one, just because they've been at it for so long that they're just completely used to it, it is completely viable and almost recommended that you would start out jumping using the original if you're a newer player.
+[03:39.36]Yeah.
+[03:40.10]Do you think that it's mostly older players that use the original who are used to jumping, say, in other games, for example?
+[03:47.39]If you have a Quake background, you're definitely going to be a little bit used to the original.
+[03:52.06]Definitely more so than the standard launcher.
+[04:00.42]So I'm getting a question in chat.
+[04:03.24]What are the frogs we see all over the maps?
+[04:05.97]I have no idea.
+[04:07.05]It's something related to the server.
+[04:08.90]That's not the actual map.
+[04:12.17]Those aren't the timers, are they?
+[04:13.99]I don't know what they are.
+[04:16.41]It might be different checkpoints.
+[04:19.28]I think it's checkpoints.
+[04:22.96]People usually put checkpoints on every jump when you can cheat by going into a teleport room that is at the start.
+[04:31.52]But I'm not sure if there's a teleport room or not.
+[04:34.30]Yeah, there's certain maps that have secret teleport rooms where you can choose which level.
+[04:39.75]Yeah, the frogs are basically checkpoints, so you can't finish your speedrun if you don't touch the frog.
+[04:44.58]Okay, so the frogs are not part of the map.
+[04:46.38]They're put there by the timer plugin.
+[04:48.19]Yeah.
+[04:48.63]Yes.
+[04:50.97]And they look great.
+[04:53.18]Shoutouts to frogs.
+[04:55.61]Who came up with that idea?
+[04:57.94]It's Crank, I think, because it was a default texture, so people didn't have to re-download it or download a custom one when they connected to the servers with the timer on it.
+[05:21.75]There's a question that was from earlier actually for maybe for some of you guys who have worked on making some maps.
+[05:27.18]How long on average would you say it takes to make one of these maps?
+[05:31.63]How many man hours go into it?
+[05:32.85]Because I don't think the map makers get a whole lot of, maybe not as much credit as they need for the work they do.
+[05:39.54]It takes a while.
+[05:41.40]It only differs on the amount of detailing that you put into it.
+[05:44.99]I guess some giant part of the time is thinking about what kind of jump you're going to do.
+[05:50.24]After that, making the jump is probably not going to take up that much time, but detailing it, making the jump look pretty, can take up to, like, this, I don't know how long Drexen took for this map, but someone said like 300 hours or something?
+[06:04.40]Yeah.
+[06:07.34]But you can also make a map in one day, if you really hurry.
+[06:10.51]Yeah, you can.
+[06:11.87]If you don't detail it.
+[06:13.54]It can be quite difficult to come up with original jump concepts just because there are so many maps now that nearly everything has been done.
+[06:27.05]Oof, this level.
+[06:28.09]Last level.
+[06:34.38]We had a donation here I want to mention from user rnc1839.
+[06:40.69]And they said they were going to donate an extra.
+[06:43.22]They donated $100 up front and then said they were going to do an extra $25 for every place above last that Remaxed places in the jump soar rates.
+[06:54.83]So even though Remaxed didn't take first, they still just went and did the maximum of $100.
+[06:58.82]So it's another $100 donation from rnc1839.
+[07:02.14]Thank you so much for that.
+[07:04.00]Amazing.
+[07:05.28]That's it.
+[07:05.78]Yeah, if you didn't catch that, RNC made one of the jumps in the Jump It map.
+[07:10.32]Yeah.
+[07:16.83]Oh yeah, like you see here, there are doors that lead to the jumps, so you could cheat if there wouldn't be the checkpoints in the timer.
+[07:27.94]That's pretty upfront.
+[07:28.72]Some of the maps have sort of way more secretive secret rooms where you can
+[07:34.44]pick the jumps correct it's really at the end of the map like jump pagoda or tholos yeah but once you once you figure out a secret everybody knows it well those teleports actually unlock after you beat the jump the first time so I believe we're gonna be moving on now uh to bomb well yeah we're gonna do jump bomb now you're just doing that?
+[08:03.23]joint census
+[08:14.40]This is going to be our final map and it's going to be with JoinSenses.
+[08:17.34]And so thanks again for everyone that has stuck around and for all the donations.
+[08:21.81]And again, just a reminder, all kinds of silent auctions on our Steam group and all the raffles.
+[08:27.54]All those running until, I believe the silent auction is running at 11 o'clock p.m.
+[08:32.04]Eastern.
+[08:32.88]So still a few hours for those.
+[08:35.18]And we've gotten tons of donations all the way through.
+[08:37.99]We're almost at $76,500.
+[08:40.21]That's thousands.
+[08:44.79]And it's just really fantastic, so keep it up guys.
+[08:55.97]Was this played in the last tip of the huts?
+[08:59.13]Yeah.
+[08:59.31]Yeah, it was raised, I think.
+[09:01.38]Is this the new starting point on the map now?
+[09:04.08]There was a different area.
+[09:05.40]It might have been updated.
+[09:07.41]Maybe your save is there.
+[09:10.59]Let me see.
+[09:11.19]That looks like what it is.
+[09:12.81]Yeah, there's the starting point.
+[09:13.91]There we go.
+[09:18.59]So, yeah, I mean, whenever you're ready, join census, you get to end us off.
+[09:24.66]Finish off with a banger here at the end.
+[09:30.63]I think we still have the blue rocket trail.
+[09:35.10]Which is another gimmick from Gem Volcanic.
+[09:39.20]It's not a gimmick, no, that was a joke.
+[09:43.59]It's probably not intended that you keep the blue rocket trail.
+[09:48.14]It's stylish though, it looks good.
+[09:50.09]Style points.
+[09:50.61]It really does.
+[10:00.16]Oh yeah, but someone asked if there's pyro jumping with a Scorch Shot.
+[10:03.62]There's one map that is really big that actually uses the Scorch Shot jump.
+[10:10.25]If anybody knows the name, because I forgot it.
+[10:13.98]Jump detonator, I think.
+[10:15.63]Oh yeah, Jump Deader, I think.
+[10:18.26]Yeah, Dead R. Dead R. Yeah, if you look for Dead R on the jump.tf forums, or you just ask around there, you're gonna find them.
+[10:28.87]It's the only map, sadly.
+[10:30.71]But I guess it's not that popular.
+[10:34.02]There's not that much that Pyro can do, honestly.
+[10:37.54]How about Scout Jumping?
+[10:38.61]I know there was at least one map that was made with a section for Scout Jumping before the Atomizer came out.
+[10:45.18]I think it's a map that has all three, right?
+[10:47.34]Demo, Soldier, Scout, I believe.
+[10:50.77]Jump Synth, I think it's called?
+[10:52.68]Yes.
+[10:55.16]There's a lot of other Scout Jump maps out there.
+[10:58.57]Yeah, there are.
+[11:00.95]They get pretty stale pretty quick, though.
+[11:02.73]A lot of them were made that were really old before any of the unlocks came out.
+[11:07.35]So people misplay them by using the Atomizer, the Boston Basher, and the Fan.
+[11:15.16]While only a few of them intend those weapons to be used.
+[11:20.61]A Super Cult Jump Hal has a lot of, like, Scout Jump maps on it.
+[11:26.57]Jump King, I think, is on Scout Jump.
+[11:30.26]Not sure.
+[11:33.86]Remember guys, after this jump section, we've got pop times coming up with your buddy Star and some videos.
+[11:38.95]So stick around.
+[11:40.13]I know there's people waiting for those.
+[11:42.40]Lots more donations coming in.
+[11:44.72]We're up to about 4,136 donations.
+[11:49.83]Still blowing my mind.
+[11:59.18]I don't know if we addressed this, who created this map?
+[12:02.24]And can you tell us a bit about this map, we already touched on that.
+[12:07.79]Uh, BombsDude.
+[12:11.55]Yeah, he named the map after himself.
+[12:15.03]Which a lot of people do.
+[12:16.63]Wow.
+[12:17.04]No one in this bubble up.
+[12:19.86]Jump Kuba, jump Glover.
+[12:21.80]Jump Baku, jump Abuk.
+[12:23.98]What else is there, Keeva?
+[12:26.87]Oh, my maps.
+[12:32.10]jump Aurora not being made by Aurora just a coincidence this was maybe one of the maps last year on our jump event that impressed me the most just some of the things are just uh this section here like I can never see myself doing this oh I missed
+[13:07.71]When you're creating a jump, I mean, do you try to put together all of these different skills, like put together, you know, wall climbing and pogos and, you know, any of you guys who have created maps, do you try to throw in whatever you can on a jump, or what's kind of the mindset, or what goes through your mind when you're trying to design and build a jump?
+[13:26.85]Depends what kind of map you're making.
+[13:28.83]I know for some of mine, like Jump Legion...
+[13:31.82]Like, personally I hate wall pogo, but I felt the need to just put a few wall pogo jumps in.
+[13:37.54]So, yeah, it just depends what kind of map you want to make.
+[14:02.48]Transcends is the strong silent type.
+[14:24.67]Which would you say, what number is the hardest jump on this map?
+[14:28.75]Open to anybody.
+[14:30.58]uh... twenty probably which is the final level coming up on it yeah still pretty easy though yeah that's hard to judge for most of the people in here because this map is relatively easy you can actually shoot one button three times since this oh he's doing a long jet zombie yeah I guess he looks more impressive no uh no shortcuts here
+[14:56.16]It's just easier.
+[14:56.88]Some people who have a high sensitivity can't turn that fast.
+[15:00.37]Easily.
+[15:00.69]20 inches.
+[15:02.63]Yeah.
+[15:07.39]Oh, this is the final level.
+[15:09.01]Yeah, this jump requires to get on the skip platform after three wall jumps.
+[15:14.70]And it's kind of hard to get the height for that.
+[15:16.72]It's gotta be just right.
+[15:18.28]Yeah, if you go too high, you just won't be able to shoot the platform.
+[15:22.55]Oh, you just C-tap and go way over.
+[15:24.67]Yeah, that's...
+[15:35.72]The blue rocket right there?
+[15:37.70]Yeah.
+[15:38.10]And that's Jump Bomb.
+[15:46.06]Jump Bomb!
+[15:46.58]And we've got the Taunt!
+[15:51.19]So I think that... I think that that might be all of our jump maps.
+[15:58.24]How do you guys feel?
+[15:59.09]Did you have a good bunch of runs?
+[16:02.13]I'm embarrassed that the NA race was won by Demu and that the EU race was won by an NA soldier.
+[16:10.30]Brock logged out.
+[16:11.54]Cody was doing... I don't know what Cody was doing.
+[16:15.89]It was pretty funny though.
+[16:17.19]I won fair and square.
+[16:19.85]Sorry, go for it.
+[16:20.81]Go for it.
+[16:21.75]He earned it.
+[16:22.55]He won it fair and square, I think.
+[16:23.80]That's how it works.
+[16:26.71]I was going to say, we want to thank all of you guys that came and did all this.
+[16:29.88]Some of the best jumpers, obviously, in the world here.
+[16:32.14]Give you a little chance here for shout-outs.
+[16:35.72]Are there any websites or things you want to shout-out?
+[16:39.67]Don't get too crazy with it, but what do you guys want to call out to?
+[16:44.89]Shout-out to my main man, Ancient Grandpa, for always bringing the laughs in the mumble.
+[16:52.94]I have a few people.
+[16:54.57]Wolski, Chiaki, Alliol, Grandpa, 2Nuts, Whisker, Biscuit, Cody, and Reaper.
+[17:02.77]Shoutout to y'all.
+[17:07.80]Shoutout to Nixie?
+[17:09.93]Shoutout to Nixie, yeah.
+[17:13.71]I'd like to give a shoutout to all of you at JumpTF who are keeping the jumping community alive and strong for all this time.
+[17:21.06]And all of you who started all of the jumps, such as all of the old players like Wonderland and Mike, who developed jumping as much as it is today.
+[17:31.39]Another shoutout to Stimpak for being so helpful in making all the connectors for the JumpIt map.
+[17:39.48]I wouldn't have finished it in time without him.
+[17:42.23]Shoutout to my Zero Open team, Big Pappas.
+[17:46.64]Shoutout to CaptainMap for watching this.
+[17:53.57]Shoutout to Terminal Velocity, obviously.
+[17:59.68]I guess we're done.
+[18:00.52]I guess we need a shoutout to Top Time now.
+[18:03.74]That's true.
+[18:04.46]No you don't.
+[18:05.84]If you guys want to see some entertaining speedruns, go check out Top Time on YouTube.
+[18:12.05]You can probably find it by just searching... The URL is youtube.com slash tftt.
+[18:19.48]TFTT?
+[18:20.06]Or tf2tft.
+[18:21.66]So tf2tft.
+[18:23.18]Okay.
+[18:24.03]Yeah.
+[18:24.47]Just making sure, you know.
+[18:26.59]Fantastic.
+[18:27.13]Again, you guys can check out some more runs by a lot of these guys.
+[18:30.78]They've all been doing it for years and years.
+[18:33.88]Just a blast.
+[18:34.50]It's my favorite part of this event.
+[18:36.83]Second year in a row, the jump section.
+[18:40.43]Hopefully we'll have some more people getting into this jump stuff and logging on some of those servers.
+[18:45.36]Maybe we'll see some of these people here next year.
+[18:47.56]We'll see some new faces.
+[18:50.30]Yeah, the Jumping community is definitely moving along faster than it has for quite a while now, and it's definitely picking up some speed in terms of speedrunning and all of these new players and all of these new names popping up, telling the rest of the Jumping community that, yeah, it's not just a few players who can be good who have been around forever, that there's a lot of new talent coming along.
+[19:13.01]Yeah, definitely I want to say, like...
+[19:14.94]What excites me most about jumping is watching high caliber jumpers, and especially watching underdogs, like people who aren't really known.
+[19:25.57]It's definitely nice to see.
+[19:29.86]Cody and Brock have gone really good.
+[19:32.76]Just a year ago they were completely unknown.
+[19:34.99]Cody came out of nowhere.
+[19:36.23]He surprised me.
+[19:37.01]He used to play on my jump server all the time, and I had no idea who he was.
+[19:40.67]I always played the guessing game until he finally came out and told everyone who he was.
+[19:45.26]Just some random nobody, basically.
+[19:48.13]It's going really good now.
+[19:50.94]So definitely I'll let you guys get into that.
+[19:53.38]We're going to move on now to the next section.
+[19:56.18]We have a video now that we're going to show you guys.
+[19:58.32]And this is a video created by Musilk, who created a video.
+[20:02.51]He's a guy who donated $790 yesterday, which is amazing.
+[20:08.13]And let's toss it right over to the video right now.
+[20:10.36]Hit it.
+[23:29.14]Thank you.
+[23:52.63]My wings are like his, all my words on his lips.
+[24:16.65]is on edge I'm next to the bed where I saw
+[25:12.45]Nothing right now.
+[25:14.80]What's up?
+[25:15.28]We're back.
+[25:16.56]And we've got a full house here now in the mumble for some pub times.
+[25:21.52]I know some people are looking forward to another video, but we've got some more pubbing.
+[25:26.27]We've got Jerma.
+[25:27.61]We've got Mela.
+[25:28.63]We've got Stabby Stabby joining us for the first time today.
+[25:33.32]And we've got Mr. Star as well.
+[25:36.40]Hello.
+[25:37.36]Very hello, everyone.
+[25:38.58]How is it going?
+[25:39.46]I know a lot of people in the chat still want to see Stand Tall for Wrecking Ball, but I've been told that's at the end of this session.
+[25:48.40]So, they're gonna have to put up with us.
+[25:52.46]Yeah, you're gonna have to put up with us for a full hour.
+[25:54.35]Is it an hour?
+[25:56.73]Uh, I think so.
+[25:57.33]I think we're looking at, uh, yeah, half hour to an hour.
+[26:02.02]Yeah, the jump session did go on a little bit over, but that's fine.
+[26:05.42]I actually wasn't here until like two minutes ago.
+[26:08.06]I was out for a little while, but just a nice coincidence that I got back now.
+[26:13.53]So much kush.
+[26:15.86]So much embezzling and various other things that I didn't do.
+[26:21.98]Wow.
+[26:24.65]Yeah, so we got Mail and Jerm as well.
+[26:26.03]How are you guys doing?
+[26:26.65]Did you watch any of the jump section?
+[26:29.84]I was.
+[26:30.26]I was watching.
+[26:30.88]I was in the mumbles just chilling out watching it.
+[26:35.23]I wish I could do like one of those jumps.
+[26:38.86]Ever.
+[26:38.98]Me too.
+[26:39.32]It's like if you want to feel inferior all you have to do is sit down for an hour of jumps watching the best in the world.
+[26:45.11]I used to do it.
+[26:46.30]I'd go on with a couple of buddies and just play it.
+[26:50.46]What's the easy one?
+[26:52.93]Cough for starters.
+[26:54.93]No, jump for starters is the one we were doing.
+[26:57.69]That's the one.
+[26:59.32]You were there too?
+[27:01.10]You were telling me the story and we were on it for some reason.
+[27:03.92]I don't remember why we were on it.
+[27:06.36]Yeah, I couldn't get past, like, stage two.
+[27:09.44]And I, like, gave up.
+[27:10.37]I just got frustrated, and I was like, I can't do this.
+[27:13.25]Hold on, are we live?
+[27:14.53]Are the cameras rolling?
+[27:17.02]This is real!
+[27:17.78]This is real life!
+[27:18.98]Jump in here!
+[27:20.10]Are the cameras on?
+[27:22.40]We all had no idea.
+[27:23.85]Just thinking we were just shooting it.
+[27:25.71]I had to wash my hands.
+[27:28.45]Because I can't game without washing my hands.
+[27:29.87]And I had, like, several potato chips.
+[27:33.76]The bane of gamers everywhere.
+[27:36.13]Did you have anything on them?
+[27:37.05]Because our understanding is you don't put anything on anything, even bagels, you just have by themselves.
+[27:42.38]Wait, you just eat plain bagels?
+[27:44.44]You eat a box of Cheerios with no milk over there?
+[27:47.96]Wait, wait, wait, wait, hold on.
+[27:49.59]No, no, no, I like bagels with cream cheese.
+[27:53.19]But I, I don't know, I like plain bagels.
+[27:55.15]Couldn't find the cream cheese.
+[27:56.35]You're calling me crazy for this, probably, Jerma, but my favorite kind of donut is just plain donuts.
+[28:01.91]What is that?
+[28:02.95]What even is that?
+[28:04.41]No, no, it's just a plain donut.
+[28:05.88]I think they call that a bagel.
+[28:07.66]I love the taste.
+[28:09.10]Don't they call that a bagel?
+[28:11.76]That's just a bagel.
+[28:12.70]No, a bagel is like... Roasted!
+[28:15.19]No, no, no, that's not... No, because plain donuts have that great taste of donut.
+[28:22.87]Like, the donut taste is prime.
+[28:24.57]I guess they are like softer in nature.
+[28:26.04]The bagels are, I guess, traditionally harder on the edges.
+[28:31.49]I'll give you that.
+[28:32.55]You don't butter a donut.
+[28:34.84]Is that the secret?
+[28:36.22]I mean, Nela, do you butter a donut?
+[28:37.72]Let's just get your input on that.
+[28:39.12]That's just weird.
+[28:42.10]I hope people don't do that.
+[28:44.29]Think of all the things you could do to potatoes.
+[28:47.89]No, potatoes were made for experimenting.
+[28:50.03]That's why there's like 20 different kinds of potatoes.
+[28:53.19]That's a totally different story from donuts.
+[28:57.68]I don't know, man.
+[28:58.20]Eating a plain donut to me is like eating cake without a glass of milk.
+[29:01.53]Like, no frosting?
+[29:02.81]No, like, jalapeños?
+[29:06.36]No, uh, Trinidad squawkin'?
+[29:09.22]You don't put nothin' on that?
+[29:10.26]That's... That's just... Otherworldly scuffles.
+[29:16.11]Yeah, I feel like a plain donut, I would just be chewing it for ten minutes, like, you'd never... You'd never be able to eat it.
+[29:21.82]That's a big one.
+[29:22.20]It's so... Oh, man.
+[29:23.20]Whatever, whatever.
+[29:25.07]Take your stupid food preference somewhere else.
+[29:27.01]This is a charity stream.
+[29:28.04]We don't want to hear it.
+[29:29.04]If you guys want to know what to get Mila if you're at an upcoming LAN or something like that, it's plain donuts.
+[29:34.20]That's what you do.
+[29:35.80]Tim Hortons, a large double-double, and a plain donut.
+[29:39.69]You guys have Tim Hortons up there?
+[29:41.35]No way.
+[29:42.19]You have Tim Hortons in New York?
+[29:44.79]Yeah, in Buffalo.
+[29:45.44]That's crazy.
+[29:47.08]I did not know that.
+[29:47.92]Tim Hortons, of course, the religion of Canadians everywhere.
+[29:51.58]Oh, yeah.
+[29:53.35]Kinda like Dunkin' Donuts, but... Yeah, it's so much more than Dunkin' Donuts.
+[30:00.16]It's part of the culture.
+[30:01.82]I know Canadians out there in the Twitch chat can shout it out.
+[30:04.67]Are you a Dunkin' Donuts kind of man, Jerma?
+[30:07.83]I like Dunkin' Donuts because it's quick, it's easy, and their coffee is pretty good.
+[30:11.98]I don't go there for the donuts or the sandwiches, I go there for their easy coffee.
+[30:16.98]What a double kill.
+[30:18.83]I go there for the dunks.
+[30:20.11]Get dunked?
+[30:22.23]Is that their slogan?
+[30:23.07]Get dunked?
+[30:25.43]I wish.
+[30:25.89]I honestly, I've gotten so good with the Huntsman over the past day because this is all I've been doing, just pubbing every hour for two hours with the Huntsman.
+[30:36.94]Yeah, I mean, this is like the most TF2 pubbing I've done in a while in the last two days.
+[30:41.53]This is the most TF2 I've ever played in like a year.
+[30:44.93]Wow, maybe it'd be better if you did this more often.
+[30:47.02]Was that Mirage?
+[30:47.86]Honestly, I think I got 500 times better because I've just been... Like, this is what it's like to bootcamp, if I was a professional gamer, is what it feels like.
+[30:57.29]I've just not stopped playing it.
+[30:59.96]What you're saying, Jerm, is something about a Mirage?
+[31:02.32]no movement mirasmus to screen also one and they don't know when uh... turned on Halloween last night this is today works we're doing it picture trick-or-treaters can you can you can you can you can you can you can you can you can you can you can you can you can you can you can you can you can you can you can you can you can you can you can you can you can you can you can you can you can you can you can you can
+[31:33.19]Those guys are going so hard.
+[31:34.93]Even if I bid on it, I just... Just buy another one.
+[31:39.08]I don't think I... It would be too expensive.
+[31:42.96]How much are they?
+[31:44.69]Well, Strange, the lowest one on the market right now, if we're going by market inflated stupid prices, is like $130.
+[31:51.24]And then Professional gets like $100.
+[31:52.74]Okay.
+[31:54.86]So, I mean, it's still a high class item.
+[31:59.26]And so if you guys have no idea what we're talking about with these signed items and these auctions... There you go, Lang.
+[32:04.35]What a segue.
+[32:05.01]Look at this segue.
+[32:05.69]It's like I'm a professional or something.
+[32:07.30]You can head on over to our Steam Community page.
+[32:09.22]That is steamcommunity.com slash group slash tipofthehats.
+[32:12.79]I've got it up on StreamView right now.
+[32:14.67]And what we are doing is we're running a whole mess...
+[32:17.62]of auctions for signed items from celebrities such as Star, Jerma, DJ Wheat, DJ Mini Wheat, Stabby Stabby, and Banny.
+[32:26.63]You can enter into these auctions to win signed items from them.
+[32:29.22]And if you're any kind of collector, if you like these players, it's definitely something you want to get in on.
+[32:33.86]These auctions are vicious.
+[32:36.01]The bids are climbing pretty quickly, but you can still get in there and get your bids in.
+[32:40.43]And they are closing tonight, too.
+[32:42.80]So if you had any consideration in doing it, I believe it's as soon as the stream ends, or 11 p.m.
+[32:47.13]East?
+[32:47.28]I don't know exactly what time it is.
+[32:48.60]11 p.m.
+[32:48.76]Eastern, that's the one, yep.
+[32:50.81]So even before the stream ends... Yeah, so the last hour of the stream is when we're going to be announcing the winners of these.
+[32:57.30]So you guys want to get to the Steam groups and get your bids in now and keep an eye on it as we get to 11 p.m.
+[33:02.22]Eastern, which is, what, we're looking at two, about two and a half hours from now.
+[33:06.97]So stick around until then.
+[33:09.81]Some crazy auctions in there.
+[33:12.29]And they're definitely climbing up.
+[33:15.27]Even if I don't get that sniper, I've hyped it up so much.
+[33:17.80]Whoever wins it, you're a champion.
+[33:21.24]I think the reason it's going for so much is solely based on the fact that you're trying to outbid people for it.
+[33:28.48]possible.
+[33:28.86]I haven't closely looked at the other auctions, but your conjurer's cow, which I signed for some reason, because you sold it to me to be able to get a cabit land or whatever you needed.
+[33:40.53]That's not as hot of an item.
+[33:43.76]I think it was pretty low, around like $200.
+[33:45.86]It's not just the item, it's the legacy.
+[33:50.81]The legacy of that item is that
+[33:53.76]You sold it to me.
+[33:54.72]That's a pretty big legacy.
+[33:56.34]I'm not... No, I was talking about the... I know, I know what you mean, but this one has a legacy as well.
+[34:00.72]Because if you beat... If you beat Star bidding for his own item, that's a story to tell your kids.
+[34:05.77]That's what they're paying for.
+[34:07.17]Pass it on down.
+[34:08.55]I'm on a 15er.
+[34:09.33]Oh, I just said it.
+[34:11.07]I'm gonna die right now.
+[34:12.41]God, he's gonna snipe me.
+[34:13.71]Spy behind me.
+[34:14.51]I don't know.
+[34:19.84]I might give it one or two more shots, but I...
+[34:23.98]It's crazy out there.
+[34:25.14]It's a dark world.
+[34:28.16]We had a donation from a user named Kun Pal that said, I'm so happy to be part of such a wonderful community.
+[34:33.77]And even though I don't have a lot of money, I still wanted to make a donation to such a wonderful cause.
+[34:38.30]And it's $5.
+[34:39.12]And you know what?
+[34:39.92]Those $5 donations, they add up like crazy.
+[34:42.66]You shouldn't be afraid.
+[34:44.03]you don't have a lot of money to donate a small amount it all counts and it all adds up and we're coming up now on uh we're over 77 000 that's thousand more than a lot of people make in a year that is all going to one step camp no single cent so huge shout outs to all our donators absolutely
+[35:03.97]And while we're on these donation comments, I have a $54 donation from LandBeaver, and he says, And that's actually... There you go.
+[35:17.35]That's actually TruckTruck's brother, so it's very nice of him.
+[35:20.34]He actually stopped by yesterday, dropped off a monitor for us to use.
+[35:23.66]Super, super nice guy.
+[35:24.46]He actually watches our streams every now and then, so shoutout to him.
+[35:27.27]Thanks, LandBeaver.
+[35:28.29]KurtSenpai?
+[35:31.25]Sure.
+[35:34.45]It means best brother.
+[35:37.43]That's sweet.
+[35:39.63]Very accurate is also what it means.
+[35:48.84]Is this you, Jerma?
+[35:49.82]The only person who wears a stupid hat.
+[35:52.14]You in here.
+[35:52.86]That's gotta be you with your stupid hat.
+[35:55.49]The, like, bowl on your head.
+[35:57.77]The cannon hat.
+[35:59.71]Who have you ever seen wear that?
+[36:02.15]Hey, I'm wearing the cannonball head.
+[36:05.40]I've never seen another person use that item.
+[36:08.11]You got a problem with Gonzo the Great?
+[36:12.32]You got a problem with Gonzo?
+[36:13.42]Gonzo the Great?
+[36:16.05]I don't know where this is leading.
+[36:18.03]Oh, yeah, we got Halloween on.
+[36:19.11]Let me see if I got some, uh... Oh, yeah, I can get some... Some chirpy Halloween stuff.
+[36:22.70]I can get some kooky items.
+[36:25.30]Hold on.
+[36:25.54]Hold on, hold on, hold on.
+[36:26.13]That's a Muppets reference.
+[36:27.27]Hold on, hold on, hold on, hold on.
+[36:29.03]Gonzo used to get blown out of a cannon, and he would wear... Come on, it's Gonzo the Great.
+[36:32.64]I know, because you've told me this, like, four times.
+[36:35.76]Ha ha ha.
+[36:41.07]We also have a few more donation comments that we missed during the jump segment.
+[36:45.26]We have a $123.45 donation.
+[36:50.48]That's the classic 1, 2, 3, 4, 5.
+[36:52.57]You keep and score at home.
+[36:53.73]Of course.
+[36:54.57]From Shadow Matter, whose comment is just a heart.
+[36:57.93]Just a heart.
+[36:58.59]Sometimes that's all you need to say.
+[37:01.08]We also have a $500 donation from Mexicano Zaibatsu.
+[37:06.11]who not only has a fantastic alias, he also has a fantastic comment.
+[37:08.98]He says, First donation of any kind that I've made to the gaming community, and I hope it counts.
+[37:13.51]Cheers, mates.
+[37:14.43]It certainly does count.
+[37:15.27]Thank you very much for your generous donation, Mexicano Zaibatsu.
+[37:18.66]Absolutely.
+[37:20.72]A lot of people are asking in chat, and I feel like you've got to let the people know, because they're asking, where did it all begin?
+[37:27.26]Where did it all begin?
+[37:28.44]Where do you see it?
+[37:29.58]It was many years ago in the Ukraine.
+[37:32.50]It was super time.
+[37:34.83]And I have nothing but signpost.
+[37:38.71]And I think to myself, how I defend country with signpost.
+[37:45.00]But in these times of hardship, I could only think one thing.
+[37:52.60]My justice will be swift.
+[37:54.70]You're what?
+[37:55.94]He's Justus.
+[37:56.64]He's Ostrich.
+[37:58.28]Oh, he's Justus.
+[38:01.20]Got it.
+[38:03.30]Stabby Stabby jumped back in here.
+[38:06.11]What's up?
+[38:07.09]Boo.
+[38:08.15]Hi.
+[38:08.53]You're back.
+[38:09.43]Yeah.
+[38:11.23]Hey.
+[38:12.25]I'm on the water.
+[38:14.11]I'm coming to you live from the ocean.
+[38:16.38]So, let me get this straight.
+[38:18.06]You live on a boat.
+[38:20.26]No way you live on a boat.
+[38:22.20]A lot of people do, man.
+[38:23.46]A lot of people do.
+[38:24.82]I'm not alone.
+[38:26.84]Okay, hang on.
+[38:27.68]Let me find a seagull real quick.
+[38:29.65]Anyone in chat live in a boat?
+[38:30.89]Can we get some verification that people live on boats?
+[38:33.67]Represent, chat.
+[38:34.96]Do you have a name for your group?
+[38:37.06]Do you have meetings?
+[38:37.80]Aquadungus.
+[38:39.83]That's inappropriate.
+[38:47.58]The Aquadunguses.
+[38:49.98]You guys see my pumpkin beanie hat?
+[38:52.98]Ah, okay, you know, you see, that was my boat internet cutting out for a good 20 seconds.
+[38:57.41]I went back though.
+[38:59.77]Stabby, will you ever live on land?
+[39:02.85]Ah, I used to.
+[39:04.15]It was alright.
+[39:05.27]Overrated.
+[39:06.37]Overrated.
+[39:07.07]Let's go and let you get it, you owl.
+[39:08.64]Dumb owl.
+[39:10.00]So Stabby, were you in that Captain Phillips movie?
+[39:12.82]The what?
+[39:14.18]That Captain Phillips movie that came out lately?
+[39:16.60]Tom Hanks one?
+[39:18.34]Mm-mm, haven't seen it.
+[39:19.38]I'm guessing there's a boat in it, if you're mentioning it.
+[39:22.54]It's about pirates.
+[39:23.50]It's about real-life pirates.
+[39:24.96]I just... destroyed myself.
+[39:27.67]What a foolish move from a zombie.
+[39:30.81]Oh, I just started to turn.
+[39:31.73]See you guys later.
+[39:34.03]That's, like, the 12th time I've killed you in the last, like... maybe, like, 10 minutes.
+[39:40.92]We have a $25 donation from Rupert, who says, and I quote...
+[39:47.22]I love you, Mela!
+[39:49.90]Cat face.
+[39:52.25]Thank you, Rupert.
+[39:53.65]It's the cat face that lets you know he really cares.
+[39:56.66]Yeah, true facts.
+[39:57.90]And now, just coming in, this is fresh, this is hot off the press.
+[40:02.15]We have a $150 donation from Clopez, who says, great stream, keep up the good work.
+[40:06.96]Thank you for that, Clopez.
+[40:08.18]We certainly appreciate it.
+[40:09.92]I want to unplug our auctions real quick.
+[40:11.36]I'm going to spam the chat here after I stall it by entering subscribers-only mode.
+[40:16.93]If you guys want to check out the links we're spamming here for the auctions, some of them are reaching some pretty cool numbers.
+[40:24.32]The Star Australian Sniper Rifle, signed by Star, is up to $1,400 now, the top bid in that one.
+[40:30.49]What?
+[40:30.65]It was not that the last time people said things.
+[40:32.95]There is a lot of, we have the self-made key that was donated by Bapal, who was in one of our events earlier today.
+[40:40.94]There's some stuff signed by Banny, who's one of the top competitive two players.
+[40:46.19]There's a Jerma auction.
+[40:47.29]There's actually, okay, there's five star auctions.
+[40:49.99]There's a Stabby Stabby one.
+[40:52.49]You can go bid to get some stuff signed by Stabby.
+[40:54.86]So it's basically a set of spy strangers.
+[40:57.10]It's a little bit weird, too.
+[40:58.76]Like, the first time I looked at it, I've never looked at a Steam group discussion, so some of them are a little bit weird to find.
+[41:03.95]Like you said, there are five of mine.
+[41:05.31]There's a longer list now, so it's a little bit... I don't even know exactly how to navigate the thing, Steam.
+[41:12.02]Sorry, that's new to Steam.
+[41:13.12]You heard it here first.
+[41:14.55]Have you been to a Steam group discussion?
+[41:18.51]Looking right at it right now, right on our Steam group.
+[41:21.85]Yeah, well, apparently I'm just not good at internetting.
+[41:26.13]We've got five star auctions.
+[41:27.78]We've got Banny, we've got Jerma, we've got Stabby Stabby, DJ Wheat, DJ Mini Wheat,
+[41:33.85]So much good stuff.
+[41:34.73]It's kind of... We also just put up a timed raffle.
+[41:41.10]Anybody that goes to our donate page right now, if you donate, I guess I'll find out when it expires.
+[41:46.66]But right now, if you donate, you'll be entered in a... The timed raffle prize right now is an Australian Force of Nature.
+[41:53.97]So gold Force of Nature and a collector's flare gun.
+[41:57.31]And there will be two winners for that.
+[41:59.08]To donate a minimum of $5, I believe, to get eligible for that one.
+[42:02.28]I'm going to get in on that right now.
+[42:03.84]I had a thing, but I don't think I have a thing anymore.
+[42:14.41]I have a new hit sound, and I'm so hyped about it, but no one can hear it, so I'm not even gonna talk about it.
+[42:20.54]Solid.
+[42:21.76]Oh my god.
+[42:24.77]What a great conversational piece.
+[42:27.35]That's chill, that is chill.
+[42:29.27]That hit sound's a cowgirl.
+[42:31.84]I like the ear horn, even though it's dumb.
+[42:34.48]could you step that really there where every time you're over were all I get your money I'm going to leave the game is I'm not going to be a good loaded air some I hit me there's some I'm in the country's more all my god
+[43:06.73]There are these people that I've seen in these pubs, with how hard it is to get in here, that are just always around.
+[43:13.16]Like, can we give a quick shoutout to, like, the pub heroes?
+[43:18.59]Level 52 Hat Inspector.
+[43:21.50]Sizer, of course.
+[43:22.42]Sizer's a pub hero.
+[43:23.30]But he has a thing.
+[43:25.64]He has a thing.
+[43:27.00]The reserve slot.
+[43:28.27]Right?
+[43:29.46]I don't know.
+[43:30.10]That doesn't count.
+[43:31.37]I want to shout out to vclocks also as well.
+[43:33.39]Oh yeah, he's here.
+[43:33.87]He's been trying to get in and hasn't been able to.
+[43:35.85]So I'm going to assume he does not have a reserve slot.
+[43:37.87]This is like the first time I think I've actually seen him get in the server.
+[43:41.04]So if anyone wants to kick him, now would be the time.
+[43:44.64]Do it!
+[43:45.50]I've seen car underscore in the server a lot.
+[43:50.61]I interview you as well.
+[43:52.03]He probably has the thing though.
+[43:55.03]I've seen...
+[43:59.16]Register, Gibbous has been on a lot all night.
+[44:03.41]Stabby was on a boat?
+[44:04.61]I don't know.
+[44:08.22]All I know is Stabby was on a boat.
+[44:10.00]60 seconds.
+[44:11.36]I've got to make a final push, Jerma.
+[44:14.91]Now, for the record, I don't normally stream or play competitively from the boat.
+[44:20.76]This is a special thing I'm doing.
+[44:22.48]You're doing both right now.
+[44:23.50]Usually I go to land, but I couldn't do that today.
+[44:27.10]So I'm using my boat setup.
+[44:29.84]You stream from, like, a LAN center?
+[44:33.27]Yes, I have a, you know, a little estate.
+[44:36.95]I heard Sesko tell me all about LAN centers last night.
+[44:39.11]Yeah, Sesko is going to start his own talk show, I think, we were deciding last night.
+[44:45.56]Alright.
+[44:46.42]He's an interesting dude.
+[44:48.02]Does he have a funny man yet?
+[44:49.52]You know, like, the guy that sits next to him and laughs at the things he says?
+[44:53.14]Ray's, I think.
+[44:54.03]Ray's and Sesko, I think.
+[44:55.07]Oh, okay.
+[44:56.39]Well, darn.
+[44:57.99]Sesko's life is just a magical story.
+[45:02.75]It'll take you away to see, and you'll get lost.
+[45:06.44]It's really astounding.
+[45:09.40]We have a $40 donation from Define Prog, who says, I donated $60 yesterday.
+[45:14.77]Might as well make it an even Benjamin.
+[45:17.07]Thank you very much for that, Define Prog.
+[45:23.67]That was funny.
+[45:28.26]there's only like half a bend you before there's a limp on one side he'd be finished but if he's good to put two baby benji's together that's one full bench that's what he did if I had a panda I'd named it benji seems like a good panda name I remember benji that's that that's that dog I remember it was a TV show and he had movies and stuff he was like he was like the new lassie for a little while just didn't have the staying power
+[45:55.77]Thanks.
+[45:57.09]Why can't I not high-five you?
+[45:58.61]I'm trying to high-five this guy, it doesn't work.
+[46:02.62]Oh, he's like sliding around.
+[46:03.66]Oh, he's in like the slide glitch.
+[46:06.14]Oh, I hate that.
+[46:06.76]They said they fixed that too.
+[46:08.20]They did once.
+[46:09.10]They did once.
+[46:11.04]It definitely was fixed for a few months period.
+[46:13.03]I was actually sad about it, but in retrospect, it's pretty annoying.
+[46:17.15]I'm going to have to agree with you.
+[46:18.91]Well, I'll say it's annoying, but for like pre-game, they should enable it for setup phase.
+[46:24.70]Agreed, agreed.
+[46:27.36]I have a perma-high-five script if anyone wants it.
+[46:31.94]You just hit a button and it leaves you in the high-five pose.
+[46:35.07]So you don't have to hold it down.
+[46:36.15]You can just be in high-five as long as you want.
+[46:38.59]The best script ever made for TSM.
+[46:40.73]It's probably the best script ever made.
+[46:47.96]I think I actually did ask you for that once, but it was never received.
+[46:52.37]Okay, I'll do that right now.
+[46:54.16]I don't actually want to I killed you like we're doing it new right for me I'll have them and I'm going to give you a class you start I'm not not like well I don't know why we just passed a thousand roasted in the church at congrats on that new clap your little clapper
+[47:18.34]taking people people subscribe jump to the markets all of them is going to be a different affair credit with the Quick-Fix medic popping for you because snap demo at the sword trapped in the corner with no pills loaded going after this guy one market got my medic and doing that
+[47:46.32]wonder what gibbous stands for gibbouslexa we have a one hundred dollar donation here uh... by user fenoxo is that you Jerma?
+[47:58.37]no it's not you have a nice rocket launcher fenoxo wants you guys to keep at it especially star and Jerma I'm gonna keep doing it you know what
+[48:13.60]I'm gonna do it for the boys back home, even.
+[48:15.49]Keep killing things.
+[48:18.76]I'm gonna do it for the boys back home.
+[48:21.58]Why am I not using a ham?
+[48:22.98]Sorry, medic.
+[48:24.19]I didn't save you.
+[48:25.73]Whoop was just healing me.
+[48:30.56]Uh, I'm gonna give a quick shoutout to PETA, because he donated $20, and his message was that Mela is bad at Counter-Strike, but they didn't read it.
+[48:40.04]And he's crying, so... I'm gonna put an end to that.
+[48:43.42]So many people have followed me back to the spawn.
+[48:45.07]We need to get out of here for the boys back home.
+[48:46.09]We need some DEFENCE.
+[48:46.53]We need some DEFENCE.
+[48:46.97]We need some DEFENCE.
+[48:47.47]We need some DEFENCE.
+[48:47.97]We need some DEFENCE.
+[48:48.47]We need some DEFENCE.
+[48:49.47]We need some DEFENCE.
+[48:49.93]We need some DEFENCE.
+[48:52.48]We need some DEFENCE.
+[48:52.92]We need some DEFENCE.
+[48:53.36]We need some DEFENCE.
+[48:53.80]We need some DEFENCE.
+[48:54.28]We need some DEFENCE.
+[48:54.76]We need some DEFENCE.
+[48:55.20]We need some DEFENCE.
+[48:55.64]We need some DEFENCE.
+[48:56.08]We need some DEFENCE.
+[48:56.52]We need some DEFENCE.
+[48:56.96]We need some DEFENCE.
+[48:57.42]We need some DEFENCE.
+[48:57.87]We need
+[49:04.43]Oh my god, I need to give you this hit sound later, Jerma.
+[49:12.76]You don't understand.
+[49:14.56]What hit sound?
+[49:16.87]Get your camera ready.
+[49:19.93]I have a hit sound of you, actually, that I've still never shown you.
+[49:24.18]Me?
+[49:24.90]No, of Jerma.
+[49:26.64]It's very, very inappropriate.
+[49:29.44]It's an exclamation you yelled when I shot you with a Huntsman in one particular Mad video.
+[49:34.81]It's very good, but not appropriate.
+[49:39.67]I was hoping to trick you into using it, but I've lost motivation.
+[49:46.82]Sure thing!
+[49:48.24]Alright boss!
+[49:51.90]Hey chief, your car is the truth.
+[49:55.67]Oh man, only I get your stupid jokes.
+[50:01.39]No, why am I chasing you?
+[50:02.63]Wait, I know, I have a medic.
+[50:10.46]Somebody get that sniper in the window!
+[50:12.33]Who is that sniper in the window?
+[50:16.89]I'm so scared.
+[50:17.71]Oh, you're the NG?
+[50:19.32]Oh, got the medic!
+[50:22.74]No!
+[50:23.62]He was such a good medic.
+[50:24.83]Gonna heal your dispenser.
+[50:26.51]I'm coming in hot!
+[50:27.77]What the hell?
+[50:29.79]Oh, wow.
+[50:32.22]What a play.
+[50:33.16]That was total.
+[50:33.70]What?
+[50:33.86]The crib went off me for .1 second when I hit this guy.
+[50:38.80]Very disappointed.
+[50:39.88]Very disappointed.
+[50:42.50]At least I got Jerma985.
+[50:43.95]985 of the YouTube channel, Jerma985.
+[50:47.95]Check him out sometime!
+[50:51.32]Join the germs.
+[50:52.78]Did I ever actually use that in the video?
+[50:54.32]I don't remember.
+[50:56.18]But I do remember you saying that and thinking it was very dumb.
+[51:01.11]Check him out!
+[51:05.93]Oh no, I think that might be something else.
+[51:08.36]Mela, I swear.
+[51:09.48]Is that you again in the window?
+[51:12.88]No.
+[51:15.85]Alright, that's it.
+[51:18.21]Okay.
+[51:18.33]Don't listen to him.
+[51:19.07]It is him.
+[51:19.97]I just hear Kurt, like, crying in the other room when I hit you with that.
+[51:24.04]It was a good laugh.
+[51:26.16]I still see your body.
+[51:27.40]I was about to shoot your body again.
+[51:29.74]You pinned me to the wall.
+[51:31.22]Yeah, you were just pinned up to the wall there.
+[51:33.35]Ew.
+[51:36.02]It's time to serve up a little bit of bacon here.
+[51:42.71]Or we're gonna lose right now.
+[51:44.83]No, no, no, no, no, no!
+[51:45.97]Someone else had to draw the fire, you don't understand.
+[51:47.97]It was teamwork, you gotta follow up on the deeps.
+[51:51.54]It wasn't even you.
+[51:53.56]It's the dude wearing this stupid cannonball hat!
+[51:56.96]What just happened?
+[51:57.96]Everyone's coordinating with this cannonball hat and it's throwing off my game.
+[52:02.04]Are you still going back there, Turbo?
+[52:04.81]I'm gone.
+[52:05.21]I'm changing up my game plan a little bit.
+[52:07.57]Uh, you sure?
+[52:08.93]Yeah.
+[52:09.05]You, uh, you sure about- Oh my god!
+[52:13.80]And that is my side as a LAN champion, ladies and gentlemen.
+[52:18.01]What happened?
+[52:19.54]Just, like, jumped past the window and, like, one-directed me.
+[52:24.57]I don't think I've seen him a single time, which is surprising because he's going to kill me and message me on Steam and say, like, link me with pictures of brown sugar.
+[52:33.82]Pictures of roasted brown sugar.
+[52:35.22]All different types.
+[52:37.76]It doesn't... It's different every time.
+[52:40.15]This is weird.
+[52:42.59]Alright, alright, alright, alright, alright.
+[52:44.23]Bump the Jerma miracle shot.
+[52:45.47]He's not even down there.
+[52:48.34]Is that you, Jerma?
+[52:50.41]Ready to serve up some bacon?
+[52:51.87]Hey, get your cameras ready, everybody.
+[52:53.61]Get your cameras ready!
+[52:55.37]Oh my god.
+[52:56.85]Wasn't even you.
+[52:58.29]Wasn't even you.
+[52:59.31]I thought it was you.
+[53:00.43]I just took it.
+[53:01.06]It was Melo, wasn't it?
+[53:01.88]Because he kind of... Oh, I was about to charge you.
+[53:04.70]At least that guy pried.
+[53:07.24]They both hunts me.
+[53:12.55]Why does this guy have such a deep voice?
+[53:15.77]What does that?
+[53:19.08]Oh, the Halloween thing is on, so he could have the Halloween voice changer, something of that effect.
+[53:25.06]Ooh, you like that arrow to the chest, Jerma?
+[53:29.87]Yeah, I'm okay.
+[53:31.79]I'm okay.
+[53:33.21]Oh, you like that dead soldier thing?
+[53:40.12]Which engineer is Jerma?
+[53:41.85]Oh, that one.
+[53:42.69]The not-perky pineapple one.
+[53:44.93]Oh, he's dealt with.
+[53:49.47]which teams are oh my god like I'm gonna play this game a hundred thousand more hours it sound like you don't understand I'm sorry I know you don't understand
+[54:12.11]I want to read a comment here.
+[54:13.19]There's a donation from user Leaf who has donated $150 over the weekend in total over six donations.
+[54:19.44]They love the work Tip of the Hats does.
+[54:21.30]They say it melts my heart to see how the TF2 community loves and cares about the people who suffer from diseases such as cancer and want to have them have fun and normal childhood.
+[54:30.17]Thanks to people, it gives hope for children.
+[54:32.44]Thank you, friend, for the donation.
+[54:36.38]Remember, guys, there's still about two hours left before we start giving away these silent...
+[54:41.93]the steam group fee.
+[54:42.89]Link is below.
+[54:43.90]And some items signed by some of these guys.
+[54:47.25]If I'm not mistaken, hopefully I'm not forgetting anything after this should be the Dota Fortress segment?
+[54:52.58]Correct me if I'm wrong, please.
+[54:54.52]Dota Fortress coming up in about an hour.
+[54:56.70]I believe there's a crate opening in five minutes.
+[54:59.69]Oh yes, the Uncrating.
+[55:00.73]I forgot about the Uncrating.
+[55:02.37]Can't forget about the Uncrating.
+[55:03.73]Then Dota Fortress after that.
+[55:04.94]Looking forward to that.
+[55:06.18]The Uncrating is going to be a big deal.
+[55:08.54]We're going to have some live footage of Mr. Lang and Mr. Truck Truck.
+[55:13.85]How many did they open?
+[55:14.57]200?
+[55:15.09]I don't know about that.
+[55:19.44]Maybe not.
+[55:19.96]Yeah, we'll see.
+[55:22.92]If you guys want to see Lang and TrekTrek live on camera, make sure you just shout it out in Twitch chat.
+[55:28.93]How many blocks is it?
+[55:30.30]Did you guys go over this donation we just received from... I believe a gentleman named Lang?
+[55:35.61]Donated $1,000?
+[55:36.41]Is that the Lang that I know?
+[55:40.88]Is this the Lang right next to me?
+[55:43.32]It was.
+[55:43.80]Look how modest he is.
+[55:44.56]Am I going to hug this Lang man next to me?
+[55:48.55]Donation comments.
+[55:49.55]I am so proud of the entire Tip of the Hats team and the Team Fortress 2 community.
+[55:53.88]We are truly capable of anything.
+[55:55.98]I wouldn't trade this weekend for anything.
+[55:57.54]I love you guys.
+[55:58.42]Let's get to 100k tonight.
+[56:00.49]I just had a beautiful hug with Lang.
+[56:03.41]$1,000 about 20 seconds ago, and back on March 21st at 11.32pm, he donated $5 as well.
+[56:10.98]Can't forget that one.
+[56:12.88]Comment for that donation, this is the first donation.
+[56:15.37]Woohoo.
+[56:19.69]Test.
+[56:20.96]Thank you so much, buddy.
+[56:23.08]I donated $10, guys.
+[56:24.76]I'm poor.
+[56:26.29]I'm down with that $100,000 goal.
+[56:29.82]Let's get there, guys.
+[56:32.23]I believe.
+[56:33.46]Do we have any more of those...
+[56:35.33]Any more Langs out there?
+[56:36.88]Any more of those small, hour-long auctions?
+[56:39.54]There's still a timed raffle going on.
+[56:42.47]The Australian Force of Nature and Collector's Flare Gun.
+[56:45.39]Still, right now, if you donate at least $5, you're going to be in for those.
+[56:49.88]I might get on.
+[56:51.48]Jump right in.
+[56:52.87]I'm a fan of the Force of Nature, so I might...
+[56:57.29]That wasn't a joke, Savvy, and I knew it was going to be you who pointed out the not-joke.
+[57:04.70]Who appreciated the brilliance.
+[57:17.23]Oh no!
+[57:19.33]Thank you, Tag.
+[57:20.69]Thank you for shooting me in the back, Tag.
+[57:23.66]Did someone just appreciate Tag?
+[57:27.83]stemming out of the Texas is uh... you're popping sir uh... yeah right it's kind of cutting out every five seconds I'm just gonna try to kill things in the in-between phase safely in the farm
+[57:44.84]I'll be really happy if someone moves Hag in here.
+[57:47.02]Just for a second.
+[57:47.68]I just need to call him bad.
+[57:48.71]I need to get it out of my system.
+[57:49.81]Yeah, call him bad to remove him.
+[57:51.53]That's all we need.
+[57:52.19]Oh my god, he's so lucky!
+[57:55.19]And he's in here at the perfect time.
+[57:57.66]Alright, it's late.
+[57:58.52]You're so lucky.
+[58:00.90]It's all luck.
+[58:05.07]What do you eat in the morning that makes you so lucky?
+[58:08.67]What do you have?
+[58:09.51]What's a typical tag breakfast?
+[58:10.85]Cinnamon Toast Crunch.
+[58:11.65]Look at you!
+[58:12.05]It's such a good... I had Cinnamon Toast Crunch this morning.
+[58:14.77]Oh my god, I love it.
+[58:16.64]High five right here.
+[58:17.60]It's amazing.
+[58:18.26]The best part is the milk afterwards.
+[58:21.86]No, Star and I had a discussion about Cinnamon Toast Crunch and how it's like a low-mid cereal.
+[58:27.55]Who was talking about Captain Crunch?
+[58:30.29]Mid-tier.
+[58:30.73]It's a mid-tier effect.
+[58:33.84]Low-mid app-esque.
+[58:35.08]What's a high?
+[58:37.34]high cereal I'm not sure I can't remember what exactly you were saying but cinnamon touch crunches love me because it's like after one minute it gets like soggy and disgusting and you're just gonna eat it fast well yeah I'm not a animal what's a hustle in the morning you need your little bit of breakfast before you hustle I mean Malo's a Cheerios guy we all know that we've been through this what we've not what don't put words in my mouth you seem really offended I'm not a Cheerios man
+[59:07.56]What is it?
+[59:13.20]Give us a name.
+[59:16.41]Normally I'm on Star.
+[59:18.71]I know Star can get down with this.
+[59:20.93]I got your back, I'll back your play.
+[59:22.55]Apple Jacks, dude, I bought some today.
+[59:23.89]You're back to my point.
+[59:24.75]Apple Jacks are top tier.
+[59:26.07]They are top tier.
+[59:28.13]Is there any Apple-ness to Apple Jacks at all?
+[59:30.94]Shut up.
+[59:31.38]Or is that just like... Apple Jacks are high tier versions of Fruit Loops.
+[59:37.64]How many buds would you pay for a box of Apple Jacks?
+[59:40.15]That's not even true.
+[59:41.37]That's not even true.
+[59:43.51]Yeah, dude.
+[59:44.05]Fruit Loops are tier one.
+[59:45.43]Jerma probably likes something really stupid.
+[59:47.60]Jerma, what's your favorite cereal?
+[59:50.26]My favorite cereal?
+[59:51.50]No, I don't need any pressure.
+[59:53.58]There's a couple.
+[59:54.63]First of all, Count Chocula.
+[59:57.45]What?
+[59:58.46]Count Chocula.
+[59:59.52]You can stop there.
+[60:01.40]You're fired.
+[60:02.99]Who doesn't like Count Chocula?
+[60:04.77]Apparently all of us.
+[60:06.20]Normal people.
+[60:07.50]Alright, buds, as much as I enjoy this cereal debate conversation summit, I, uh, I could talk about cereal for hours with you.
+[60:16.25]I have one quick announcement.
+[60:17.35]We just put up another auction for a, uh, it's an unusual, exquisite rack, the antlers, I believe, with, uh, sunbeams.
+[60:24.46]Signed by Tag.
+[60:25.44]Oh, I'm getting on that.
+[60:26.46]Say hello, Tag.
+[60:27.59]Wait, signed by Tag?
+[60:31.07]Hello!
+[60:31.55]Hi!
+[60:32.39]The saltiest backup!
+[60:36.86]the saltiest, unsigned, not even legally on my team backup.
+[60:42.37]Hello, I'm a professional backup.
+[60:44.63]Known Cinnamon Toast Crunch eater.
+[60:46.27]Hold up, how long is this going on for?
+[60:48.04]What, the cereal conversation?
+[60:51.32]No!
+[60:55.22]All of our auctions and raffles are going to end at 11 p.m.
+[60:58.61]Eastern, one hour before the stream ends.
+[61:01.33]And the winners will be announced in the last hour.
+[61:02.87]That's a silent auction for the Exquisite Wrap?
+[61:05.21]Yeah, pyroed.
+[61:08.39]Sneap, bud.
+[61:10.59]Exquisite Rack is a silent auction?
+[61:12.19]Yes, yes, that's a silent auction, yes.
+[61:13.57]Uh, the time grapple is separate, and that is going also until 11.
+[61:17.52]Why do you want this so much?
+[61:19.50]Okay, I've been saying this on my stream for, like, weeks, that I want an Exquisite Rack with an unusual effect from a Black Max hat.
+[61:28.97]Yeah, I know.
+[61:29.53]I'll automatically become the worst rumor and invite the second I put it on, but that's the price I'm gonna pay for looking cool.
+[61:35.66]Wow.
+[61:36.38]Should I say the obvious thing here, or...
+[61:40.20]process it was a mean it there's a lot of feeling off for a reason that that's just uh... this entire steamy that's just we're gonna have nightmares but it's for a good cause
+[61:53.81]That's for the kids.
+[61:55.64]So our next hour is going to be the uncrating.
+[61:58.04]Make sure you guys get your entries into the uncrating raffle.
+[62:00.34]That one will actually close at the end of the uncrating hour.
+[62:03.63]That is going to be our next event, but I think we have a video to introduce.
+[62:07.23]I'll let you guys do that.
+[62:08.93]The video introduces itself.
+[62:10.78]Please tell me this disk cuts off.
+[62:12.78]No, it doesn't.
+[62:13.52]It shows me falling down to my death.
+[62:16.10]Oh, good.
+[62:17.41]Look at how good I am.
+[62:18.37]30 seconds ago.
+[62:19.45]Now, the video, it's the Wrecking Ball video.
+[62:23.22]Jerma instigated the bet.
+[62:25.02]He said, I will donate $500 to the charity if you do a full production of Miley Cyrus' Wrecking Ball.
+[62:33.29]So, I made a full production dedicated to the memory of Jerma.
+[62:38.66]985, 985, check him out sometime!
+[62:42.30]Join the germs!
+[62:50.78]If you have any idea, any idea who I am, bang, it's Jerma with a V-Log.
+[62:57.84]Jerma chat everybody wants me to sing one of the worst songs released in 2013 or 2014 tip of the hats says he'll donate five hundred dollars let's go let's get it let's do this what's going on everybody what's that alf what'd you say alf
+[63:26.46]Jerma's on the respawn army now?
+[63:28.38]Is that what you said?
+[63:29.72]T-Pain livin' alive, runnin' for my life, I will always want you.
+[63:37.33]Pull up a chair by the hearth.
+[63:45.97]The devil came in like a wrecking ball, never hit so hard in long.
+[63:50.23]All I want is brick and wall, brick and wall, brick and wall.
+[63:51.87]All you ever did was wreck me, re-re-re-re-re-wreck me.
+[63:53.00]All you did is wreck me, came in like a wrecking ball.
+[63:54.10]Put you up high in the sky.
+[63:59.21]These are bicep curls, baby.
+[64:02.74]There's one.
+[64:05.45]There's two.
+[64:07.71]I need like... It's like from like the Bible, right?
