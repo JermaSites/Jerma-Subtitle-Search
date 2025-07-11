@@ -2,16 +2,16 @@ name: Update subtitles
 
 on:
   push:
-    branches: [ 'main' ]
-    paths: ['src/assets/subtitles/**']
+    branches: [main]
+    paths: [src/assets/subtitles/**]
   workflow_dispatch:
   workflow_run:
-    workflows: ['Run get_subtitles.py']
+    workflows: [Run get_subtitles.py]
     types:
       - completed
 
 concurrency:
-  group: 'subtitle-indexing'
+  group: subtitle-indexing
   cancel-in-progress: true
 
 jobs:
@@ -28,7 +28,7 @@ jobs:
           uses: actions/setup-python@v5.6.0
           with:
             python-version: 3
-            cache: 'pip'
+            cache: pip
             check-latest: true
 
         - name: Install Python packages

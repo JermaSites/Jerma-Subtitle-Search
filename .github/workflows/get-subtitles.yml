@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: 'subtitle-acquisition'
+  group: subtitle-acquisition
   cancel-in-progress: true
 
 jobs:
