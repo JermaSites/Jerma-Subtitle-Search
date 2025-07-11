@@ -708,6 +708,7 @@ Grandpas_Christmas_Album_2012.en.lrc
 Grandpas_Minecraft_Time_lapse.en.lrc
 Grandpas_Professional_Brain_Surgery_Technique_Surgeon_Simulator_2013.en.lrc
 Grannys_Post_Apocalyptic_Gray_Game.en.lrc
+Green_Hell_with_Ster_Poke_and_Vinny.en.lrc
 Green_Screen_Movie_Night_Part_1.en.lrc
 Green_Screen_Movie_Night_Part_2.en.lrc
 Green_Screen_Movie_Night_Part_3_Encore_Edition.en.lrc
@@ -934,6 +935,7 @@ Let_It_Die.en.lrc
 Lethal_Company_Part_2_with_Ster_Etalyx_Criken_Vinny_Ross_Poke_and_More.en.lrc
 Lethal_Company_with_Ster_Poke_and_Vinny.en.lrc
 Lethal_League_3v1_Dumpfest.en.lrc
+Lethal_League_Blaze_Part_2_with_Ster_Poke_and_Vinny.en.lrc
 Lethal_League_Blaze_with_Ster.en.lrc
 Lethal_League_Dinner_or_Song.en.lrc
 Lethal_League_Insane_Dodgeball_Pong.en.lrc
