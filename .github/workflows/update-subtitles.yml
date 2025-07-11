@@ -71,25 +71,25 @@ jobs:
             message: 'docs: update statistics'
           continue-on-error: true
 
-        - name: Install Node
-          uses: actions/setup-node@v4.4.0
+        - name: Install Bun
+          uses: oven-sh/setup-bun@v2.0.2
           with:
-            node-version: '*'
+            bun-version: latest
 
         - name: Install MiniSearch
-          run: npm install minisearch
+          run: bun install minisearch
 
         - name: Update subtitle index
           run: |
-            node src/scripts/index-subtitles.js
+            bun src/scripts/index-subtitles.js
             source venv/bin/activate
             b2 file upload jerma-subtitles public/assets/SubtitleIndex.json.gzip SubtitleIndex.json.gzip &> /dev/null
 
         - name: Bump package.json patch version
           id: bump_version
           run: |
-            npm version patch --git-tag-version false
-            VERSION=$(node -p "require('./package.json').version")
+            bun pm version patch --git-tag-version false
+            VERSION=$(bun -p "require('./package.json').version")
             echo "VERSION=${VERSION}" >> $GITHUB_OUTPUT
             git add package.json
 
