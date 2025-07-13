@@ -91,6 +91,7 @@ BEATEN_UP_Pax_Day_2_3.en.lrc
 Backbreaker.en.lrc
 Bad_Games_Bad_Decisions_Discussion_Blacklight_Retribution_Gameplay.en.lrc
 Bakery_Simulator.en.lrc
+Baldurs_Gate_Dark_Alliance_with_Ster.en.lrc
 Bargain_Bin_Beach_Party.en.lrc
 Barn_Finders_Part_0_and_AI_Dungeon_Part_3.en.lrc
 Barn_Finders_Part_1.en.lrc
@@ -2177,6 +2178,7 @@ Told_ya.en.lrc
 Tom_Clancys_Ghost_Recon_Wildlands.en.lrc
 Tony_Hawk_RIDE_kind_of_and_God_Hand.en.lrc
 Tony_Hawks_Pro_Skater_2.en.lrc
+Tony_Hawks_Pro_Skater_3_4_with_Ster.en.lrc
 Tony_Hawks_Underground.en.lrc
 Tools_Up_with_Ster_and_Etalyx.en.lrc
 Top_5_Games_of_2015_A.D..en.lrc
