@@ -1100,6 +1100,7 @@ Monster_Lab_and_Cabelas_Big_Game_Hunter_2005_Adventures.en.lrc
 Monster_Rancher_2_DX.en.lrc
 Monster_Rancher_2_DX_Part_2.en.lrc
 Monster_Rancher_2_DX_Part_3.en.lrc
+Monster_Rancher_2_DX_Part_4.en.lrc
 Monster_Rancher_2_Part_1.en.lrc
 Monster_Rancher_2_Part_2.en.lrc
 Monster_Rancher_2_Part_3.en.lrc
