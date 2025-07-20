@@ -756,6 +756,7 @@ Harvester_Part_2_Finale.en.lrc
 Haste.en.lrc
 Hatsune_Miku_Logic_PaintS.en.lrc
 Hatsune_Miku_Project_DIVA_Mega_Mix.en.lrc
+He_is_Coming.en.lrc
 Heart_of_Darkness.en.lrc
 Hearthstone.en.lrc
 Height_Measured_at_TwitchCon_San_Diego_2019.en.lrc
@@ -1101,6 +1102,7 @@ Monster_Rancher_2_DX.en.lrc
 Monster_Rancher_2_DX_Part_2.en.lrc
 Monster_Rancher_2_DX_Part_3.en.lrc
 Monster_Rancher_2_DX_Part_4.en.lrc
+Monster_Rancher_2_DX_Part_5_with_Ster.en.lrc
 Monster_Rancher_2_Part_1.en.lrc
 Monster_Rancher_2_Part_2.en.lrc
 Monster_Rancher_2_Part_3.en.lrc
@@ -1132,6 +1134,7 @@ My_Special_Forces_Team_Xperience.en.lrc
 My_Summer_Car.en.lrc
 My_Summer_Car_Part_2.en.lrc
 My_Time_at_Portia.en.lrc
+Mycopunk_with_Ster_Poke_and_Vinny.en.lrc
 Myriad_Fate_of_Sideways_Ep_01.en.lrc
 MythBusters_The_Game_Crazy_Experiments_Simulator.en.lrc
 NGU_and_Hot_Lava.en.lrc
