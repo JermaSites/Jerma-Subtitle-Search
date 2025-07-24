@@ -1,7 +1,7 @@
 {
     "name": "jerma-subtitle-search",
     "private": true,
-    "version": "1.985.93",
+    "version": "1.985.94",
     "type": "module",
     "engines": {
         "npm": ">=10"
