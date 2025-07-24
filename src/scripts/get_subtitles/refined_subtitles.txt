@@ -1612,6 +1612,7 @@ Super_Punch_Out_and_GoldenEye_007.en.lrc
 Superliminal.en.lrc
 Supreme_Cheat_Code_Commander.en.lrc
 Surgeon_Simulator_2013_Open_Heart_Hilarity_FREE_GAME_PC_Mac_Linux.en.lrc
+Switch_Games_Part_2_with_Squeex.en.lrc
 Switch_Games_with_Squeex.en.lrc
 TF2_100%_Crits_Crap_cp_labor_Live_Dumbness.en.lrc
 TF2_100%_Crits_Low_Gravity.en.lrc
