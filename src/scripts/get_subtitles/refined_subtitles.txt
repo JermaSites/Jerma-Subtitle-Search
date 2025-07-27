@@ -37,6 +37,7 @@ ARMORED_CORE_VI_FIRES_OF_RUBICON_Part_2.en.lrc
 A_Blind_Legend.en.lrc
 A_Bloodborne_Introspective.en.lrc
 A_Chair_in_a_Room_Greenwater.en.lrc
+A_Dark_Room.en.lrc
 A_Game_About_Digging_A_Hole.en.lrc
 A_Gameplay_Commentary_The_Sitcom.en.lrc
 A_Heavy_Demoknight_Gameplay_Y_U_CRASH_TF2_Part_2_Dual_Live_Commentary_with_Jerma.en.lrc
@@ -1103,6 +1104,7 @@ Monster_Rancher_2_DX_Part_2.en.lrc
 Monster_Rancher_2_DX_Part_3.en.lrc
 Monster_Rancher_2_DX_Part_4.en.lrc
 Monster_Rancher_2_DX_Part_5_with_Ster.en.lrc
+Monster_Rancher_2_DX_Part_6.en.lrc
 Monster_Rancher_2_Part_1.en.lrc
 Monster_Rancher_2_Part_2.en.lrc
 Monster_Rancher_2_Part_3.en.lrc
