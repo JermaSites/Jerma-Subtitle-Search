@@ -1012,6 +1012,7 @@ Mad_Dog_McCree_Gunslinger_Pack.en.lrc
 Mafia_Definitive_Edition.en.lrc
 Mafia_III_Part_1.en.lrc
 Mafia_III_Part_2.en.lrc
+Mage_Arena_with_Ster_Vinny_Poke_Criken_and_Squeex.en.lrc
 Magicka_Wizard_Wars_Early_Alpha_Preview_Huhuaha.en.lrc
 Magicka_Wizard_Wars_Gameplay_Sneak_Peek_with_STAR_Jerma_Etalyx.en.lrc
 Magus.en.lrc
@@ -1105,6 +1106,7 @@ Monster_Rancher_2_DX_Part_3.en.lrc
 Monster_Rancher_2_DX_Part_4.en.lrc
 Monster_Rancher_2_DX_Part_5_with_Ster.en.lrc
 Monster_Rancher_2_DX_Part_6.en.lrc
+Monster_Rancher_2_Invitational_with_Ster_Vinny_Poke_Criken_and_Squeex.en.lrc
 Monster_Rancher_2_Part_1.en.lrc
 Monster_Rancher_2_Part_2.en.lrc
 Monster_Rancher_2_Part_3.en.lrc
