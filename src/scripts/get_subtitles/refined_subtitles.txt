@@ -404,6 +404,7 @@ Dreamcast_Games_Part_2.en.lrc
 Dreamcast_Games_Part_3.en.lrc
 Dreamcast_Games_Part_4.en.lrc
 Dreamcore.en.lrc
+Dreamcore_Part_2.en.lrc
 Dreams.en.lrc
 Dreams_Part_2.en.lrc
 Dreams_Part_3.en.lrc
@@ -2180,6 +2181,7 @@ Tier_Lists_Part_7.en.lrc
 Tier_Lists_Part_8_and_Browser_Quizzes.en.lrc
 Tier_Lists_Part_9_FromSoftware_Edition.en.lrc
 TimeShift.en.lrc
+Tiny_Aquarium_Social_Fishkeeping.en.lrc
 Tiny_Toon_Adventures_Wacky_Sports_Challenge.en.lrc
 Tokyo_Jungle_Part_1.en.lrc
 Tokyo_Jungle_Part_2_Finale.en.lrc
@@ -2275,6 +2277,7 @@ Untitled_Goose_Game.en.lrc
 Unturned_Friendly_Fire.en.lrc
 Unturned_Morons.en.lrc
 Urban_Runner.en.lrc
+Urge.en.lrc
 VRChat_with_Kiwo.en.lrc
 VR_Games_Part_10_Halloween_Special.en.lrc
 VR_Games_Part_11.en.lrc
