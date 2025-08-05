@@ -2351,6 +2351,7 @@ Watching_80s_90s_and_00s_Commercials.en.lrc
 Watching_Infomercials.en.lrc
 Watching_Infomercials_Part_2.en.lrc
 Watching_Infomercials_Part_3.en.lrc
+Watching_Infomercials_Part_4_and_Commercials.en.lrc
 Watching_More_80s_and_90s_Commercials.en.lrc
 Watching_Old_Streams_and_Videos_Part_4.en.lrc
 Watching_Old_Streams_and_Videos_Part_5.en.lrc
