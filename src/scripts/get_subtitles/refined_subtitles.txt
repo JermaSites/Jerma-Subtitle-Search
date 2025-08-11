@@ -196,6 +196,7 @@ Card_Games_Part_1.en.lrc
 Card_Games_Part_2.en.lrc
 Casino_Inc..en.lrc
 Casino_Inc._Part_2.en.lrc
+Castle_Crashers_with_Ster_Poke_and_Vinny.en.lrc
 Castle_Griffinsteed.en.lrc
 Celeste.en.lrc
 Celeste_Part_2_Finale.en.lrc
@@ -727,6 +728,7 @@ Guest_starring_on_Kitboga.en.lrc
 Gun.en.lrc
 H1Z1_SNEAK_ATTACK.en.lrc
 HAPPY_BIRTHDAY_MAN_Jerma_ANIMATED.en.lrc
+HATES_Viewers_HAMSTER_Animated.en.lrc
 HELLCARD_with_Ster.en.lrc
 HOLY_OVERTIME_FINISH_Round_1_Part_2_Worms_Revolution_Jerma_Orb.en.lrc
 Hacker_and_The_Slacker.en.lrc
@@ -1983,6 +1985,7 @@ Teardown.en.lrc
 Tearing_it_Up_Boo_vs_Jerma_Team_Fortress_2.en.lrc
 Tearing_it_Up_Heavy_Punchout_Team_Fortress_2.en.lrc
 Tearing_it_Up_Heli_Destruction_Battlefield_3.en.lrc
+Teenage_Mutant_Ninja_Turtles_The_Cowabunga_Collection.en.lrc
 Telephone_Stream_2_Akinator_and_Type_Racer.en.lrc
 Tentacle_Wars_Infect_Them_All_Little_Gems.en.lrc
 Terraria_Contest_Rules_TF2_Scout_Gameplay_Commentary_Doublecross.en.lrc
