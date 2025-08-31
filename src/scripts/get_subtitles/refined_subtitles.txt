@@ -409,6 +409,7 @@ Dreamcore_Part_2.en.lrc
 Dreams.en.lrc
 Dreams_Part_2.en.lrc
 Dreams_Part_3.en.lrc
+Drive_Beyond_Horizons_with_Ster_Poke_and_Vinny.en.lrc
 Driver_Parallelogram.en.lrc
 Drug_Dealer_Simulator.en.lrc
 Drug_Dealer_Simulator_Part_2.en.lrc
@@ -555,6 +556,7 @@ Farmers_Dynasty.en.lrc
 Fast50.en.lrc
 Fast_Draw_Showdown.en.lrc
 Feed_and_Grow_Fish.en.lrc
+Fill_Up_The_Hole.en.lrc
 Final_Fantasy_Redux.en.lrc
 Final_Fantasy_XVI_Demo_Part_1.en.lrc
 Final_Fantasy_XVI_Part_2.en.lrc
@@ -1135,6 +1137,7 @@ MultiVersus_Part_5.en.lrc
 MultiVersus_Part_6.en.lrc
 Murder_House.en.lrc
 Murderous_Pursuits.en.lrc
+Music_Guessing_Games_with_Ster_Poke_and_Vinny.en.lrc
 My_Channel_Trailer_Welcome_to_Jerma985_For_New_YouTube_Layout.en.lrc
 My_GTA_IV_Experience.en.lrc
 My_Special_Forces_Team_Xperience.en.lrc
@@ -1199,6 +1202,7 @@ Octodad_Quality_Time_with_The_Kids.en.lrc
 Octogeddon_Part_1.en.lrc
 Octogeddon_Part_2_Finale.en.lrc
 Odama.en.lrc
+Odd_Remedy_with_Ster_Poke_and_Vinny.en.lrc
 Oh_My_Goodness_This_Game..._Ride_to_Hell_Retribution.en.lrc
 Olafs_Demise_F_@%_This_Mod_Amnesia_Custom_Story.en.lrc
 Olympic_Games_Tokyo_2020_The_Official_Video_Game.en.lrc
@@ -1385,6 +1389,7 @@ Resident_Evil_7_Biohazard_Part_3_Finale.en.lrc
 Resident_Evil_Village.en.lrc
 Resident_Evil_Village_Part_2_Finale.en.lrc
 Resident_Evil_Village_Part_3.en.lrc
+Restaurant_Empire.en.lrc
 Rhythm_Heaven_Fever.en.lrc
 Rick_and_Morty_Virtual_Rick_ality.en.lrc
 Ride_Carnival_Tycoon.en.lrc
@@ -2361,6 +2366,7 @@ Watching_Old_Streams_and_Videos_Part_5.en.lrc
 Watching_Old_Videos_Part_2.en.lrc
 Watching_Old_Videos_Part_3.en.lrc
 Watching_Videos_and_Q_A.en.lrc
+Waterpark_Simulator.en.lrc
 Way_of_the_Samurai.en.lrc
 We._The_Revolution.en.lrc
 We_Love_Katamari_Reroll_Royal_Reverie.en.lrc
