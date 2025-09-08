@@ -17,7 +17,7 @@
         "fflate": "^0.8.2",
         "lite-youtube-embed": "^0.3.3",
         "minisearch": "^7.1.2",
-        "mithril": "^2.3.5"
+        "mithril": "^2.3.7"
     },
     "devDependencies": {
         "@types/mithril": "^2.2.7",
