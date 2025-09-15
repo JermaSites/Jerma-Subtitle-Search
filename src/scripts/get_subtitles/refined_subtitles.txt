@@ -394,6 +394,7 @@ Dracula_3_The_Path_of_the_Dragon.en.lrc
 Dracula_3_The_Path_of_the_Dragon_Part_2_Finale.en.lrc
 Dracula_Resurrection.en.lrc
 Dracula_Resurrection_Part_2_Finale.en.lrc
+Dragon_Lore_The_Legend_Begins.en.lrc
 Dragons_Dogma_Dark_Arisen.en.lrc
 Draw_My_Life_MLG_Grandpa_Edition.en.lrc
 Dread_X_Collection.en.lrc
@@ -1991,6 +1992,7 @@ Tearing_it_Up_Boo_vs_Jerma_Team_Fortress_2.en.lrc
 Tearing_it_Up_Heavy_Punchout_Team_Fortress_2.en.lrc
 Tearing_it_Up_Heli_Destruction_Battlefield_3.en.lrc
 Teenage_Mutant_Ninja_Turtles_The_Cowabunga_Collection.en.lrc
+Teenage_Mutant_Ninja_Turtles_The_Cowabunga_Collection_Part_2_with_Squeex.en.lrc
 Telephone_Stream_2_Akinator_and_Type_Racer.en.lrc
 Tentacle_Wars_Infect_Them_All_Little_Gems.en.lrc
 Terraria_Contest_Rules_TF2_Scout_Gameplay_Commentary_Doublecross.en.lrc
@@ -2018,6 +2020,7 @@ The_Binding_of_Isaac_Repentance_Part_3.en.lrc
 The_Binding_of_Isaac_Wrath_of_the_Lamb_DLC_Breakdown_Review.en.lrc
 The_Binding_of_Issac_Rebirth.en.lrc
 The_Black_Masses.en.lrc
+The_Bleakest_Keep.en.lrc
 The_Book_of_Dinosaurs.en.lrc
 The_Book_of_Potions.en.lrc
 The_Book_of_Spells.en.lrc
@@ -2367,6 +2370,8 @@ Watching_Old_Videos_Part_2.en.lrc
 Watching_Old_Videos_Part_3.en.lrc
 Watching_Videos_and_Q_A.en.lrc
 Waterpark_Simulator.en.lrc
+Waterpark_Simulator_Part_2.en.lrc
+Waterpark_Simulator_Part_3.en.lrc
 Way_of_the_Samurai.en.lrc
 We._The_Revolution.en.lrc
 We_Love_Katamari_Reroll_Royal_Reverie.en.lrc
