@@ -895,6 +895,7 @@ KILLS_AN_ALIEN_Jerma_animated.en.lrc
 Kane_Lynch_2_Dog_Days_with_Etalyx.en.lrc
 Katamari_Damacy_REROLL.en.lrc
 Katana_Zero.en.lrc
+Keep_Digging_with_Ster_Poke_and_Vinny.en.lrc
 Keep_Talking_and_Nobody_Explodes_Part_2_with_Joel_Vargskelethor.en.lrc
 Keep_Talking_and_Nobody_Explodes_with_Joel_Vargskelethor.en.lrc
 Kenshi.en.lrc
@@ -1623,6 +1624,7 @@ Super_Monkey_Ball.en.lrc
 Super_Psycho_Baseball.en.lrc
 Super_Punch_Out_and_GoldenEye_007.en.lrc
 Superliminal.en.lrc
+Supermarket_Together_with_Ster_Poke_and_Vinny.en.lrc
 Supreme_Cheat_Code_Commander.en.lrc
 Surgeon_Simulator_2013_Open_Heart_Hilarity_FREE_GAME_PC_Mac_Linux.en.lrc
 Switch_Games_Part_2_with_Squeex.en.lrc
@@ -2088,6 +2090,7 @@ The_Infectious_Madness_of_Doctor_Dekker.en.lrc
 The_Inpatient.en.lrc
 The_Insane_President_Fighting_Game.en.lrc
 The_Invisible_Hand.en.lrc
+The_Jackbox_Party_Pack_7_with_Ster_Poke_and_Vinny.en.lrc
 The_Jackbox_Party_Pack_Part_1.en.lrc
 The_Jackbox_Party_Pack_Part_3.en.lrc
 The_Jackbox_Party_Pack_Part_4.en.lrc
