@@ -1,7 +1,7 @@
 {
     "name": "jerma-subtitle-search",
     "private": true,
-    "version": "1.985.101",
+    "version": "1.985.102",
     "type": "module",
     "engines": {
         "npm": ">=10"
@@ -16,7 +16,7 @@
     "dependencies": {
         "fflate": "^0.8.2",
         "lite-youtube-embed": "^0.3.3",
-        "minisearch": "^7.1.2",
+        "minisearch": "^7.2.0",
         "mithril": "^2.3.7"
     },
     "devDependencies": {
