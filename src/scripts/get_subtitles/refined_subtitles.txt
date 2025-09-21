@@ -395,6 +395,7 @@ Dracula_3_The_Path_of_the_Dragon_Part_2_Finale.en.lrc
 Dracula_Resurrection.en.lrc
 Dracula_Resurrection_Part_2_Finale.en.lrc
 Dragon_Lore_The_Legend_Begins.en.lrc
+Dragon_Lore_The_Legend_Begins_Part_2_Finale.en.lrc
 Dragons_Dogma_Dark_Arisen.en.lrc
 Draw_My_Life_MLG_Grandpa_Edition.en.lrc
 Dread_X_Collection.en.lrc
