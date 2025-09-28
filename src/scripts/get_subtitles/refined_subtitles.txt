@@ -1049,6 +1049,7 @@ Medical_Query.en.lrc
 Mega_Man_Legends.en.lrc
 Mega_Man_Legends_Part_2.en.lrc
 Mega_Man_Legends_Part_3_Finale.en.lrc
+Megabonk.en.lrc
 Mercenaries_2_World_in_Flames.en.lrc
 Metal_Gear_Rising_Revengeance.en.lrc
 Metal_Wolf_Chaos_XD.en.lrc
@@ -1403,6 +1404,7 @@ Road_Redemption_is_Completely_Absurd.en.lrc
 Robert_Ludlums_The_Bourne_Conspiracy.en.lrc
 Roblox_With_Ster_and_Pokelawls.en.lrc
 RoboCop_Rogue_City.en.lrc
+RoboCop_Rogue_City_Part_2.en.lrc
 Rogue_Legacy_My_Wonderful_Children_Live_Session.en.lrc
 Rogue_Legacy_Onward_to_the_Forest_Live_Session.en.lrc
 Role_playing_Duck_Gamers.en.lrc
