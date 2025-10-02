@@ -1185,6 +1185,7 @@ Nintendo_Labo_Part_4.en.lrc
 Nintendo_Labo_Part_5.en.lrc
 Nintendo_World_Championships_NES_Edition.en.lrc
 Nioh.en.lrc
+No_I_m_not_a_Human.en.lrc
 No_More_Heroes.en.lrc
 No_More_Heroes_2_Desperate_Struggle.en.lrc
 No_More_Heroes_2_Desperate_Struggle_Part_2_Finale.en.lrc
@@ -2430,6 +2431,7 @@ Wrestling_Empire_Part_3.en.lrc
 Wrestling_Empire_Part_4.en.lrc
 Wrestling_Revolution_3D.en.lrc
 Writing_A_Childrens_Book.en.lrc
+Wuchang_Fallen_Feathers.en.lrc
 Xbox_Games_Part_2.en.lrc
 Xbox_Games_Part_3.en.lrc
 Xbox_and_Xbox_360_Games.en.lrc
