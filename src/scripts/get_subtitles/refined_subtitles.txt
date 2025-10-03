@@ -593,6 +593,7 @@ Frog_Detective_1_and_2.en.lrc
 Frog_Detective_3_and_Grotto_Beasts_Announcement.en.lrc
 Frogs_in_the_Park.en.lrc
 Frozen_Synapse_Jermas_Brain_is_too_Small_by_Jerma_and_MLC_St3alth.en.lrc
+GONE_Fishing_with_Ster_Poke_and_Vinny.en.lrc
 GTA4_LCPDFR_Mod_Bad_Cops_w_EatMyDiction_and_GassyMexican.en.lrc
 GTA4_Multiplayer_Absolutely_Ridiculous_Obey_the_Rules.en.lrc
 GTA4_Multiplayer_Absurdity_w_STAR_and_Orb_My_God_I_Love_This_Game.en.lrc
@@ -1050,6 +1051,7 @@ Mega_Man_Legends.en.lrc
 Mega_Man_Legends_Part_2.en.lrc
 Mega_Man_Legends_Part_3_Finale.en.lrc
 Megabonk.en.lrc
+Megabonk_Part_2.en.lrc
 Mercenaries_2_World_in_Flames.en.lrc
 Metal_Gear_Rising_Revengeance.en.lrc
 Metal_Wolf_Chaos_XD.en.lrc
@@ -2249,6 +2251,7 @@ Trespasser_Jurassic_Park_Dinosaur_Week_Day_2.en.lrc
 Tribes_Ascend_Go_Get_This_Game_Pathfinder_Live_Session.en.lrc
 Tribes_Ascend_w_STAR_and_St3alth._Late_Night_Nonsense.en.lrc
 Trick_Shot_Simulator.en.lrc
+Tricky_Towers_with_Ster_Poke_and_Vinny.en.lrc
 Trine_4_The_Nightmare_Prince_Part_2_with_Ster_and_Ashley.en.lrc
 Trine_4_The_Nightmare_Prince_with_Ster_and_Ashley.en.lrc
 Trombone_Champ.en.lrc
@@ -2283,6 +2286,7 @@ Um_Jammer_Lammy_Part_2.en.lrc
 Uncle_Jerma_Has_Arrived.en.lrc
 Undertale_Part_1.en.lrc
 Undertale_Part_2.en.lrc
+Unfair_Flips.en.lrc
 Universal_Paperclips.en.lrc
 Universal_Studios_Theme_Parks_Adventure.en.lrc
 Unlock_Escape_Adventures.en.lrc
