@@ -52,7 +52,7 @@ jobs:
           b2 file download b2://jerma-subtitles/Subtitles.json ../assets/Subtitles.json
 
       - name: Write cookie file
-        run: echo "${{ secrets.COOKIES }}" > cookies.txt
+        run: echo "${{ secrets.COOKIES }}" > get_subtitles/cookies.txt
 
       - name: Run get_subtitles.py
         run: |
