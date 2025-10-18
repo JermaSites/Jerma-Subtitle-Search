@@ -926,6 +926,7 @@ L.A._Noire.en.lrc
 L.A._Noire_Part_2.en.lrc
 L.A._Noire_Part_3.en.lrc
 L.A._Noire_Part_4.en.lrc
+LEGO_Party_with_Ster_Poke_and_Vinny.en.lrc
 LEGO_Worlds.en.lrc
 LIFE_IS_PAIN_Jerma_ANIMATED.en.lrc
 LINCH_and_Lost_Castle_with_Etalyx.en.lrc
@@ -1253,6 +1254,7 @@ Pac_Man_99.en.lrc
 Pac_Man_Has_Gone_Insane.en.lrc
 Pac_Man_Museum_.en.lrc
 Pac_Man_and_The_Ghostly_High_School_Reunion.en.lrc
+Painkiller.en.lrc
 Painting_Stream_with_Etalyx.en.lrc
 Papas_Freezeria_Deluxe.en.lrc
 Paranormal_Haunted_House_Sim_w_Cam_Scare_Saturdays.en.lrc
@@ -1269,6 +1271,7 @@ Peppah_Puke_Party_Cave_Story_Chug_Stream_Fun.en.lrc
 Pet_Animal_Games_Mostly.en.lrc
 Phantasmagoria.en.lrc
 Phantasmagoria_A_Puzzle_of_Flesh.en.lrc
+Phantom_Squad_with_Ster_Poke_and_Vinny.en.lrc
 Phasmophobia_Part_2_with_Vinny_Vinesauce_Ross_RubberRoss_and_Liam_Triforce.en.lrc
 Phasmophobia_with_Vinny_Vinesauce_Ross_RubberRoss_Rubberninja_and_Giwi.en.lrc
 Phoning_Home.en.lrc
@@ -1337,6 +1340,7 @@ Radiation_Monster_Vs._The_Goof_Guys.en.lrc
 Rain_World.en.lrc
 Rampage_Knights.en.lrc
 Ranboos_Generation_Loss.en.lrc
+Ranch_Simulator_with_Ster_Poke_and_Vinny.en.lrc
 Random_GTA_Online_Stream.en.lrc
 Random_PSVR_Games_Part_1.en.lrc
 Random_PSVR_Games_Part_2.en.lrc
@@ -1576,6 +1580,7 @@ Stay_Dead_Contradiction.en.lrc
 Stay_Out_of_the_House.en.lrc
 Steam_Next_Fest_Demos.en.lrc
 Steam_Next_Fest_Demos_Part_2.en.lrc
+Steam_Next_Fest_Demos_Part_4.en.lrc
 Steelrising.en.lrc
 Sterferge.en.lrc
 Sticks_and_Stones_Black_Ops_2_Pahhtyy_Game.en.lrc
