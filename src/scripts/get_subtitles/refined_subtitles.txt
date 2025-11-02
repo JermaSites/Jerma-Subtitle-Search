@@ -1214,6 +1214,7 @@ Odd_Remedy_with_Ster_Poke_and_Vinny.en.lrc
 Oh_My_Goodness_This_Game..._Ride_to_Hell_Retribution.en.lrc
 Olafs_Demise_F_@%_This_Mod_Amnesia_Custom_Story.en.lrc
 Olympic_Games_Tokyo_2020_The_Official_Video_Game.en.lrc
+Once_upon_a_KATAMARI.en.lrc
 One_Hand_Clapping.en.lrc
 One_in_the_Chamber_Black_Ops_2_Pahty_Game.en.lrc
 One_in_the_Chamber_Flawless_Baby_Black_Ops_2.en.lrc
@@ -1472,6 +1473,7 @@ Sea_Dogs.en.lrc
 Seaman.en.lrc
 Sega_CD_Games_Part_1.en.lrc
 Sega_CD_Games_Part_2.en.lrc
+Sega_CD_Games_Part_4_Halloween_Special.en.lrc
 Sekiro_Shadows_Die_Twice.en.lrc
 Sekiro_Shadows_Die_Twice_Part_2.en.lrc
 Sekiro_Shadows_Die_Twice_Part_3.en.lrc
@@ -2474,6 +2476,7 @@ Zombieville_USA_3D.en.lrc
 Zoo_Tycoon_2.en.lrc
 Zoombinis_Mountain_Rescue.en.lrc
 as_the_shuffler_compilation.en.lrc
+count_jermas_blood_review.en.lrc
 dispute_in_the_jerma_royal_family.en.lrc
 iPhone_Update_Stream.en.lrc
 jerald985_cigar_tier_list.en.lrc
