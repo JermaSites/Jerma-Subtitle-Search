@@ -1,0 +1,3131 @@
+[re:Lavf61.1.100]
+[ve:61.1.100]
+
+[00:32.58]Hello?
+[00:33.87]Uh, I'm really glad one of the mods made a title, because I just realized I didn't do one.
+[00:39.17]I was like, wait, oh shit, what is this?
+[00:41.38]Does it say I'm playing SEGA CD?
+[00:44.26]No.
+[00:45.12]It says... You know how it goes.
+[00:56.09]Okay, so here's a couple things I want to talk about.
+[00:58.53]I did a bunch of mic settings.
+[00:59.92]I messed with a bunch of...
+[01:00.56]I turned off the equalizer on my microphone.
+[01:04.84]I removed the noise filter.
+[01:08.73]And I put something else on it.
+[01:12.91]So you might hear some mouth sounds.
+[01:14.38]There's no more noise gate.
+[01:17.74]And there's no more equalizer.
+[01:23.73]Last stream I had, I did mess with some audio settings.
+[01:27.97]The trickiest part about doing audio...
+[01:30.62]I've had...
+[01:32.91]let's see, over about 15 or 16 years, I've had maybe seven or eight different mics, at least four or five different audio interfaces over the decades, right?
+[01:48.83]Every single new mic and new interface needs a different, you need to do it differently.
+[01:56.12]Sometimes this one sounds, this one, the lows are hard on that one, the highs are good on this one, they're a little too much.
+[02:06.59]So I... And then you get into that...
+[02:10.72]Audio is weird because then you get in, you go, you know, I'm going to sit down today for like an hour or two and I'm going to get this exactly how I want it.
+[02:19.23]And then you'll do that and then you'll listen to it the next day and go, this sounds awful.
+[02:25.04]And then somebody in the chat here will be like, dude, you sound like you're in a fucking bathroom.
+[02:28.12]This is awful.
+[02:29.26]And it's like, well, I sat here for like 40 minutes and why did I think this was good yesterday?
+[02:37.00]And then you fix it.
+[02:42.03]Yeah.
+[02:45.81]It is what it is.
+[02:50.06]So, to how it was before, how does it sound now?
+[02:55.13]This is with no equalization.
+[02:58.73]No noise removal.
+[02:59.69]I just put something else on it.
+[03:02.18]Does it sound good now?
+[03:02.96]Are we good?
+[03:03.42]I'll give you a test.
+[03:05.22]That should have been fine.
+[03:11.25]That should have been good.
+[03:17.81]Hey, you're muted.
+[03:24.14]I gotta figure that out.
+[03:27.61]You're peaking a little.
+[03:29.89]There's some noise removal when you get loud.
+[03:31.72]That's kind of normal.
+[03:32.66]I don't want to turn the compressor off because the compressor, what it does is it prevents horrific loud noises that come out of my mouth.
+[03:42.55]And it also makes it so when I talk low like this, I don't really want to put a lot of effort in.
+[03:47.20]It makes it so you can hear it better.
+[03:49.64]There will always be a compressor on this stream.
+[03:52.43]But I turned off some of the other stuff.
+[03:59.74]You sound like you're trapped in an underwater cave.
+[04:03.79]Your compressor is too aggressive right now.
+[04:08.15]I don't even have it as aggressive.
+[04:12.18]How's that?
+[04:13.22]Is that better?
+[04:15.88]Hello, welcome!
+[04:16.58]I'm here.
+[04:17.51]And I'm ready to stream.
+[04:20.35]I'm just chillin' and I'm ready to play Katamari.
+[04:23.55]Once upon a time, Katamari.
+[04:28.96]Okay.
+[04:30.76]That sounds good.
+[04:31.84]I'll get it right.
+[04:33.06]I'll get it right.
+[04:35.20]It sounds like you lowered the bitrate of your mic.
+[04:37.43]There's no equalizer on it.
+[04:40.77]I have a pop filter on it.
+[04:42.15]Maybe it's...
+[04:42.73]I just... My voice is so powerful that it goes right through it.
+[04:46.86]And even though it's like... Well, this pop filter kind of sucks ass, if I'm honest.
+[04:57.76]This is like a wind breaking thing for the mic.
+[05:01.10]I kind of hate all audio.
+[05:03.42]You know what I need to do?
+[05:05.27]I need to get one of those things that I can just attach to my cheek.
+[05:09.33]Even if the microphone quality goes down.
+[05:12.50]Having all the mic stuff, all the big arm and the shock mount and the pop filter.
+[05:20.03]I feel like I just want to get rid of all of it.
+[05:23.35]And just have a fucking goofy mic taped to my mouth.
+[05:29.30]The celebrity interview mic.
+[05:30.66]Yeah, that's the one.
+[05:34.28]I was told pretty early on that I had to...
+[05:39.91]The game apparently is...
+[05:42.65]Opens up in like a tiny window.
+[05:44.31]So I did that.
+[05:45.25]There's apparently a cool intro.
+[05:47.16]I want to see it.
+[05:48.86]Is your gain on max?
+[05:50.20]It is not.
+[05:54.20]It is not.
+[05:55.04]It is down...
+[05:56.53]I think it's...
+[05:57.59]I think it's like plus 1 dB.
+[06:01.85]You gotta fix this, man.
+[06:06.17]I don't think it sounds particularly bad.
+[06:08.16]I don't...
+[06:08.68]I...
+[06:09.74]Apparently we got like 10,000 audio engineers in here that can't stand the way that I sound.
+[06:23.98]Everything sounds normal.
+[06:28.71]Okay, I will agree.
+[06:29.88]Last stream, I fucked up.
+[06:32.16]Last stream, I had...
+[06:33.49]I don't even know why I was doing it.
+[06:35.77]I was dropping all of the high end out, and I don't know, I just left it.
+[06:40.72]Last stream, you are absolutely right.
+[06:42.03]I was muffled and sounded weird last stream.
+[06:44.21]That's correct.
+[06:51.24]I am an audio engineer and it sounds good.
+[06:54.83]Alright, let's go.
+[06:55.89]Alright, let's go over a few things.
+[06:57.81]First of all, this year there will be a Halloween stream.
+[07:04.04]It's gonna be the 30th.
+[07:06.96]I'm gonna play Dracula Unleashed for the SEGA CD.
+[07:12.47]And maybe Dracula Regular for the SEGA CD.
+[07:16.57]And maybe even Frankenstein.
+[07:17.99]I got a bunch of fucking SEGA CD Halloween games.
+[07:23.57]There are two Dracula games, one Frankenstein game, and a couple others that we're going to do.
+[07:32.50]I want to give Dracula Unleashed a little time, so we're not going to do like five games.
+[07:36.89]We'll do two or three.
+[07:39.69]But it will be a Dracula-themed event.
+[07:43.03]It's not an event, it's me sitting in a chair.
+[07:45.53]Are you going to wear the Dracula costume?
+[07:48.66]I don't know.
+[07:49.30]I don't know.
+[07:51.62]There will be, I'll tell you, there will be a candle that bleeds.
+[07:57.84]I'm going to have candles behind me, and the wax that comes down is blood.
+[08:03.53]It's an effect candle.
+[08:05.22]I thought it was cool.
+[08:12.33]Are you going to do the secret...
+[08:13.51]I'm not doing... No, I am not wearing a secret penis costume.
+[08:17.33]That's not happening.
+[08:19.51]Get that out of your head.
+[08:20.35]I never even said that.
+[08:22.23]Somebody else said that.
+[08:26.70]Is it going to be... Why did you read that?
+[08:28.18]I don't know, because it's a question.
+[08:35.17]Oh, and I did see this too.
+[08:36.85]Yeah, I know, I like it.
+[08:37.69]I know, I know, I know.
+[08:39.35]Wuthering Realms did get delayed.
+[08:42.33]I thought everyone was just wrong, but they had updated information.
+[08:46.03]They had more updated information than I had.
+[08:48.92]Wuthering Realms is... the actual early access is delayed.
+[08:51.98]It's not... yeah.
+[08:53.66]It's okay.
+[08:55.24]Hey.
+[08:57.00]Take as much time as you want.
+[08:59.89]Take as much time as you want.
+[09:07.67]The Dracula costume could have a secret penis.
+[09:10.97]Okay, get that out of your head.
+[09:14.91]You just said you don't even need to show it.
+[09:17.13]So you're saying that I could be in a Dracula costume and just... That's not...
+[09:23.80]There's a whole shitload of context of this conversation that a ton of people here probably didn't even see.
+[09:30.49]Half of you here right now are probably asking, why am I even saying these words together?
+[09:35.99]Anyways, that's the first thing.
+[09:37.85]Second thing is after the stream on the 30th.
+[09:41.86]I'm not doing a 31st stream, I don't think.
+[09:44.28]No, no, we'll do the 30th.
+[09:49.93]I hope my mother's not watching.
+[09:53.67]My mother specifically said that she may tune in today.
+[09:57.40]And I forgot about that.
+[09:59.60]Ma.
+[10:00.64]Hey, there's a lot of context behind this, Ma.
+[10:04.71]If you're listening.
+[10:10.82]Stop cussing.
+[10:14.73]Okay, anyways, after the Halloween stream, I am not going to be around for a while.
+[10:24.71]Most of the month of November, I'm not going to be around.
+[10:32.76]You may see maybe one or two streams in November, but it's not going to be until the end of November.
+[10:43.96]He has to go recharge.
+[10:45.57]There's just a lot of stuff going on.
+[10:48.69]And some other things that I want to do.
+[10:50.27]Other things that are happening that I'm doing.
+[10:54.59]He ain't going to see me for a little while.
+[10:57.98]I'll be back to stream a little bit in December.
+[10:59.88]So don't worry.
+[11:09.89]He's preparing... God.
+[11:18.20]He really did a one-part SEGA CD bit.
+[11:23.05]You just got here.
+[11:24.79]You just got here.
+[11:26.38]And I know you just got here because the stream on the 30th, this week coming up, is a SEGA CD stream.
+[11:35.19]You just got here, and you didn't pay attention, and you commented without paying attention.
+[11:43.16]We're doing SEGA CD on the 30th.
+[11:45.27]At least three or four SEGA CD games.
+[11:54.49]And hey, I told you it was going to take a while.
+[11:56.53]There's a lot of these SEGA CD games.
+[11:58.13]I don't want to just blow through them all.
+[12:00.31]I want us to cherish all of them.
+[12:04.72]Remember Cliffhanger?
+[12:06.06]What?
+[12:07.62]Dude, Cliffhanger was fucked.
+[12:09.58]You remember that?
+[12:10.51]You were there for that.
+[12:11.57]Hey, who was here?
+[12:12.69]I was here.
+[12:14.23]Who was here?
+[12:14.81]Were you here?
+[12:15.75]Remember that?
+[12:18.25]It's fucked up.
+[12:22.73]Alright, let's play.
+[12:23.59]Apparently there's a significant intro to this game.
+[12:28.06]So I would like to see it.
+[12:30.44]So we're going to watch the intro.
+[12:33.41]I hope the audio is in a good spot.
+[12:34.95]Because if it's not, then I'm going to be in trouble.
+[12:40.28]Here we go.
+[12:43.16]I've been looking forward to this for a while, too.
+[12:45.14]This has been one...
+[12:46.26]I didn't even know this was coming out.
+[12:47.52]I got surprised by this.
+[12:52.18]Audio?
+[12:55.03]Hey, look, the company that's in everything.
+[13:15.64]I'm so glad they're still making these games.
+[13:28.92]Okay.
+[13:37.32]New soundtrack too.
+[13:38.70]I'm excited about that.
+[14:01.62]Almost as good as Spider-Man's soundtrack?
+[14:03.60]That's a good one too.
+[14:27.07]Is there a Battle Royale mode?
+[14:32.17]versus a hundred other princes?
+[15:01.93]Cool.
+[15:02.87]Very cool.
+[15:06.90]Okay, yeah, he pre-played the game.
+[15:08.98]Yes, I did.
+[15:09.62]Because I told you, the game opens in like a 800x600 window.
+[15:14.27]And you can't change it until you go into the game settings in the game.
+[15:22.17]Anyways, let's just start with nothing.
+[15:26.50]I played for...
+[15:27.24]It's six minutes.
+[15:28.00]...
+[15:32.70]also the stream is not going to be like eight hours it's going to be probably about three to four maybe we'll see how we do it three hours four hours the great cosmos a world of mystery
+[15:52.74]The guardian of this gorgeous, beautiful, and brilliant Great Cosmos is loved by you and me, him and her, by Mom and Dad, and everyone else!
+[16:05.38]Somewhat popular, stylish, eccentric, the King of all Cosmos, Mighty King of Kings!
+[16:14.31]Even in the face of various perils, our fabulous King has come to the Great Cosmos' rescue, alongside His Highness's
+[16:23.71]Time and time again, tis a story of love and peace, parent and child, and Katamari and soul across the whole wide world.
+[16:34.52]This is the direct trailer?
+[16:36.38]Katamari Damacy.
+[16:41.61]Hey, well, we've got to say it again.
+[16:42.95]And even today, we find the king with the queen and the prince tidying up the royal abode.
+[16:54.98]Is this the new battlefield?
+[16:56.14]Banned!
+[17:02.43]It looks really good.
+[17:05.07]It's very crispy.
+[17:05.95]I like how crispy it is.
+[17:11.39]This is high def.
+[17:15.92]What's this cat doing?
+[17:19.00]Well, the prince.
+[17:20.64]How's that?
+[17:21.62]Cleaning coming along.
+[17:26.45]Oops-a-daisy.
+[17:29.27]Us?
+[17:29.63]Oh, we're making fabulous progress.
+[17:31.14]See how orderly and tidy this is?
+[17:34.16]Oh, how easy.
+[17:35.26]This thingy, we haven't seen it in ages.
+[17:38.80]Oh, this, too.
+[17:40.95]We thought we'd lost it.
+[17:44.37]And this.
+[17:45.85]What is it?
+[17:47.01]A mushroom-shaped toy of sorts?
+[17:52.60]Hmm.
+[17:52.76]Don't glare at us like that.
+[17:54.08]We're making progress, you know.
+[17:56.98]The Prince, no goofing off.
+[17:58.54]Use this Katamari to tidy things up.
+[18:04.35]What, the controls that you've forgotten how to play?
+[18:07.27]Okay, fine.
+[18:07.99]Instruct you once more.
+[18:08.91]I think I remember how to play.
+[18:12.08]I'm a controller user.
+[18:13.98]I feel like it'd be impossible to do this on keyboard.
+[18:19.11]Alright, these songs, I gotta turn the songs up a little.
+[18:23.26]I could do usual or simple.
+[18:27.05]I think I'm used to this, I think.
+[18:31.25]Yeah, I'm doing usual controls.
+[18:37.24]I think it's a lot easier to do it this way.
+[18:43.33]Yeah, you can turn sideways.
+[18:48.07]Yep.
+[18:49.63]Yep.
+[18:57.61]Alright, here we go.
+[18:58.49]I heard this game is good.
+[19:00.15]I heard this is a good one.
+[19:02.84]Getting used to rolling.
+[19:04.92]We always believed in you.
+[19:07.08]Roll up some stuff to make your katabari bigger.
+[19:10.05]Okay.
+[19:11.11]Here we go.
+[19:18.28]It already feels pretty clean.
+[19:22.33]Hey look, it's like riding a bike.
+[19:23.41]I know exactly what I'm doing.
+[19:29.96]The graphics look... Oh, what does that mean?
+[19:33.32]Bun?
+[19:42.97]Like ass?
+[19:44.01]No, no, no, it was B-U-N. Bro, I played this in Roblox.
+[19:55.44]You're playing a copy of a game.
+[20:02.86]Alright, this track is already...
+[20:03.99]I already love it.
+[20:08.65]Alright, so we gotta go up over that.
+[20:09.67]Yep, you can climb walls.
+[20:16.96]Oh, it's so satisfying.
+[20:23.28]Music's a little low for us?
+[20:25.32]I'll fix that.
+[20:28.79]Try dashing, twirling, experiment with various movements.
+[20:34.42]Press left trigger while rolling to make the Katamari go a little faster, okay.
+[20:39.83]Oh, they can do it the original way or that way?
+[20:41.45]That way's probably better.
+[20:42.13]I don't think I can go to the options yet.
+[20:56.76]Yeah, you can play two different ways.
+[21:10.26]Oh, Prince Turn, okay.
+[21:16.64]Whenever you roll over something that you can pick up for the first time, you just chunk it.
+[21:21.68]Prince View.
+[21:22.29]Oh, you can do first person.
+[21:23.29]Yep.
+[21:27.94]Katamari music is always peak.
+[21:31.42]They just compile some of the most interesting soundtracks you probably could.
+[21:36.57]There's such a range in the Katamari soundtrack.
+[21:39.34]You get fun and cartoony and funny, and then you also get these great piano interludes.
+[21:46.47]Whole orchestras.
+[21:48.33]You get crazy stuff.
+[21:49.09]You get rock songs.
+[21:50.84]It goes into every genre almost.
+[21:53.66]It hits every note.
+[21:54.36]It's crazy.
+[22:04.16]Oh, this is cool.
+[22:04.70]You can actually... Yeah, right.
+[22:05.82]I saw this earlier.
+[22:06.43]You can, like, zoom in and out.
+[22:09.15]It's photo mode for your Katamari.
+[22:21.02]Alright, go get the magnet.
+[22:26.19]Okay.
+[22:28.48]Freebies!
+[22:29.06]Freebies serve various functions.
+[22:30.56]They can increase your Katamari's speed, suck up nearby items, and more.
+[22:35.97]So these are gonna be like vampire survivor items.
+[22:38.15]I already know that because I already saw it.
+[22:40.58]I don't want to spoil it, but I did see it.
+[22:53.04]He pre-played it.
+[22:54.84]I had to pre-play it!
+[23:01.12]Nearby things you can roll up will stick to your katamari.
+[23:04.78]So you gotta get in there and it sucks everything up.
+[23:08.83]Or I could just get stuck, that'd be great.
+[23:12.93]Here we go!
+[23:18.22]That's so cool.
+[23:21.64]That actually is one of the coolest things that I've seen they've added in the game so far.
+[23:25.00]I played the game for three minutes.
+[23:26.78]What do you mean, one of the coolest things I've seen so far?
+[23:29.51]I just got in the- Is this the tutorial?
+[23:32.61]That's gotta be the coolest thing that I've seen so far.
+[23:34.83]You know, I've seen one thing so far.
+[23:38.80]A Cosme!
+[23:42.04]Oh, one of your cousins.
+[23:42.92]Okay, cool.
+[23:47.69]He's talking to himself.
+[23:50.49]My stream is playing in the fucking background!
+[23:54.64]Why is my stream playing?
+[24:07.61]Hey, you're live!
+[24:08.57]I know Twitch, I get it.
+[24:10.43]Okay.
+[24:14.20]Roll up one of the cousins.
+[24:19.55]Can I get up here?
+[24:20.19]Yeah.
+[24:27.42]Even talking to yourself is what streaming is, in a way.
+[24:30.36]This cleaning thing, by the way, we are sick and tired of it.
+[24:37.41]The king wishes to do something else, so listen, prince.
+[24:41.24]You have this much time remaining.
+[24:43.68]Finish this off nice and speedily.
+[24:46.60]Oh, and the Prince, if you get sick cleaning, we recommend pressing X. Alright, get back to work.
+[24:53.59]Alright, so we have a minute to make it as big as possible.
+[24:58.19]Okay.
+[24:59.71]Let's go.
+[25:03.38]Am I big enough for the larger items yet?
+[25:04.96]No.
+[25:12.99]Katamari Damacy!
+[25:14.85]Suck up the world!
+[25:18.28]Peggy, 15.
+[25:22.08]What's the one where it's for everybody?
+[25:25.25]What's the one where it's for everybody?
+[25:29.79]What is it, Peggy?
+[25:30.68]What is it?
+[25:32.38]Peggy, that's it?
+[25:35.74]That's the only one I've ever heard in a commercial.
+[25:37.17]That's why I said that one.
+[25:51.22]Who the fuck is Peggy?
+[25:53.02]It's... That's the ESRB of Europe, right?
+[25:58.47]Is... Peggy?
+[26:09.56]No, Peggy is Hank's wife.
+[26:10.93]It's... Peggy 15.
+[26:14.29]Peggy... Is it Peggy 16?
+[26:15.93]Peggy 16.
+[26:17.46]Peggy 18.
+[26:21.57]It's 3, 7, 12, 15, 16, and 18.
+[26:24.58]That's a lot of them.
+[26:29.23]we hold on we talk about this in a minute in America it's just e for everyone and showing off various tricks twirling it round and round this trick and another trick oh what a talented king he performs marvelous tricks
+[26:56.22]Then, for the grand finale, His Highness flung the scroll high into the air.
+[27:02.21]With tremendous force, the scroll soared, crashing through the ceiling, ascending through the clouds, obliterating all in its path.
+[27:11.74]High, higher and higher it flew.
+[27:14.02]Until... Until that person died down.
+[27:25.82]Did they?
+[27:27.66]I can't tell.
+[27:48.04]Yes!
+[27:48.72]I knew it was coming.
+[27:54.22]Who are we, they ask?
+[27:56.74]Is our introduction even necessary?
+[28:02.31]Hailing from the great cosmos, yes, it's everyone's favorite.
+[28:07.29]The king of all cosmos!
+[28:11.96]As of late, our love for traditional theater has blossomed, you see.
+[28:18.02]We just loosely quoted a kabuki play.
+[28:21.09]Did you get the reference, Prince?
+[28:24.46]Yes, that is us, Kabu King of Kabuki.
+[28:28.22]You're too small to understand.
+[28:31.31]Let's change the subject.
+[28:33.15]Alas, an unfortunate accident occurred.
+[28:36.25]We tossed a scroll into the cosmos and mistakenly obliterated the stars.
+[28:41.94]Talk about deja vu.
+[28:43.48]This is getting annoying.
+[28:46.78]All the stars we worked tirelessly to save.
+[28:50.70]Not only that, but also the Earth and the Moon.
+[28:53.34]Oh, God.
+[28:55.92]You see, that scroll we hurled, it was the Cosmos Scroll.
+[29:03.24]There is data stored within, from generation to generation.
+[29:11.85]From the birth of our outer space itself to the Earth's history in full.
+[29:17.85]And this realization gave us a brilliant, beyond brilliant idea.
+[29:23.80]If you roll your Katamari in other arrows and collect memories of Earth, we could restore the Earth.
+[29:31.71]We could bring it all back.
+[29:33.53]Maybe.
+[29:37.68]How do we travel back in time, you ask?
+[29:41.54]Well, after cleaning up here and there, we discovered a certain contraption.
+[29:46.84]Behold, the SS Prince!
+[29:49.92]We'll omit the details for now.
+[29:52.71]Long story short, from this ship, we may roll to the past.
+[29:58.82]So, Prince, what'll it be?
+[30:01.46]Are you going to travel back in time?
+[30:04.71]Will you roll the Katamari around other eras in Earth's history?
+[30:10.67]Regardless, that seems to be our only option at this point.
+[30:14.13]What are you waiting for?
+[30:15.21]Get out there and get rolling.
+[30:18.21]The Earth, the moon, the stars in the starry sky.
+[30:22.64]Love, peace, hopes, dreams.
+[30:26.32]The past, the future, friends, lovers.
+[30:30.09]Transcending the changing times.
+[30:31.83]We need Katamari.
+[30:33.15]We need Damacy.
+[30:36.51]Roll it all up.
+[30:38.06]Yes, that is indeed Katamari Damacy.
+[30:44.20]Your adventure begins, Prince.
+[30:47.24]Good luck.
+[30:48.52]We'll be watching.
+[30:50.41]Without further ado, let us begin.
+[30:52.43]Katamari Damacy is back once again.
+[30:54.75]I get entertained when he does the voices.
+[31:04.99]He's like a court jester.
+[31:08.28]I mean, I am a court jester.
+[31:09.82]The only difference is I don't get dropped down a fucking lion pit if the king doesn't like what I do.
+[31:17.05]If you guys -2 500 times, I don't get dropped down a trap door and get eaten by lions.
+[31:26.35]Not yet, at least.
+[31:36.68]Are you alive, the Prince?
+[31:38.88]Seems we crashed into something.
+[31:41.25]On the bright side, we've reached our target era.
+[31:44.29]Just leave the SS Prince for now.
+[31:45.99]In the meantime, roll us a Katamari.
+[31:47.97]Let's see.
+[31:49.38]How about 15 centimeters in four minutes?
+[31:55.06]Okay.
+[31:58.23]If you can manage, that would be delightful.
+[32:00.71]You may begin, the Prince.
+[32:01.79]It's all up to you.
+[32:05.01]For a second, I thought my computer had a problem, but we're good.
+[32:08.96]Alright, I want to put the... Let's put this up a little, because people love the music.
+[32:16.64]Alright, I gotta go.
+[32:17.41]I got a few minutes.
+[32:19.31]Your first ever roll-up.
+[32:21.89]What was it?
+[32:22.37]A green dice?
+[32:27.82]You may be small, but you have enormous strength.
+[32:41.38]I only got four minutes.
+[32:44.56]I gotta get I gotta get to it Turn it up I'm going I'm turning it up Alright, what's up Grab
+[33:11.52]Oh, the crown we misplaced.
+[33:15.14]Plenty of spares.
+[33:15.80]Alright, we gotta get that crown.
+[33:18.10]Be a deer and roll that up.
+[33:19.57]Where is it?
+[33:19.93]All the way up there?
+[33:22.09]Okay.
+[33:22.21]You come across one of the king's lost crowns.
+[33:24.05]Roll it up in your katamari.
+[33:25.29]Bye.
+[33:35.96]Oh, this is a good place to farm.
+[33:37.06]Hold on.
+[33:44.66]Oh, look at this cat!
+[33:49.17]You see that you rolled up one of our deer crowns.
+[33:58.11]Okay, what does it do?
+[34:00.37]Are these little eggs?
+[34:01.03]What are these?
+[34:03.81]If you find some more, do not hesitate and roll them up.
+[34:08.14]Okay.
+[34:09.28]Give me all this sushi.
+[34:13.02]Come on.
+[34:13.20]I only have three minutes.
+[34:15.55]I'm not big enough.
+[34:21.37]There's a bunch of shit over here.
+[34:22.85]Alright, good.
+[34:25.56]What is going on?
+[34:31.68]Oh, another crown.
+[34:32.37]Alright, I gotta get in there.
+[34:35.99]Oh, I just got something.
+[34:42.56]Magnet.
+[34:44.99]Come on, give me some more stuff.
+[34:46.19]What is this thing?
+[34:46.75]What's in my way?
+[34:48.95]Oh my god, what a fucking disaster.
+[34:52.40]I got too busy reading.
+[34:53.64]I don't know.
+[34:54.14]What did I press right trigger for?
+[34:55.18]That was stupid.
+[35:00.49]Okay, where did he come out from?
+[35:02.77]I'm going to get that.
+[35:03.39]I'm not going to use it.
+[35:08.46]Where did he come out from?
+[35:09.92]Alright, now use it.
+[35:13.13]Alright, I made it to 15, but I want to get that crown.
+[35:18.04]Where did he come out from?
+[35:20.50]That door there?
+[35:34.04]Oh, your first ever crash.
+[35:36.72]He's right here, right?
+[35:38.20]I don't remember what Dory came out of.
+[35:39.98]I was too busy reading the King's text.
+[35:46.20]Still got a minute.
+[35:51.23]Oh, that way, over there, over there.
+[35:52.61]Can I get up there?
+[35:53.07]I can go this way.
+[35:56.49]I gotta climb all this stuff, though.
+[36:00.66]Come on, go!
+[36:05.90]Am I too big?
+[36:08.54]No!
+[36:10.36]Come on, I can get over there, right?
+[36:13.42]Oh, there's cakes and cookies!
+[36:17.49]How do I get in there?
+[36:29.32]I got another crown, I'm fine.
+[36:35.57]Those little marshmallows?
+[36:42.40]Where'd he get that third crown?
+[36:44.13]He runs in, like, flustered.
+[36:45.55]Do we have to be there when he does it?
+[36:53.02]Crowns unlock extra levels?
+[36:54.30]I think... Let's keep going.
+[36:57.57]It's under the blanket?
+[36:59.29]I thought we had to get in that room.
+[37:02.16]I saw the door open, and I was like, oh my god, I want to go in there.
+[37:09.91]You walk past it.
+[37:10.69]Ah, I'm a reader!
+[37:11.55]I was reading everything the king was saying.
+[37:22.42]Alright, I got 22 centimeters.
+[37:27.29]Passable, yes.
+[37:28.63]Average looks, average size.
+[37:30.19]Roll harder next time, please.
+[37:31.95]We can aim for much, much bigger.
+[37:35.25]Hmm.
+[37:36.85]I had a lot of snacks, a lot of playtime, and a lot of necessities.
+[37:42.04]Snacks Katamari?
+[37:43.68]Is that what's trendy nowadays?
+[37:49.67]We cannot resist the urge to pop this into the cosmos.
+[37:52.45]But without further ado, up, up, and away.
+[38:02.78]What a lovely star.
+[38:03.94]The Biscuit Uranus.
+[38:08.99]So you gotta collect crowns, you get dragged at it.
+[38:13.88]A king token.
+[38:45.32]Oh no.
+[38:50.91]It's funny to see him kind of as a regular guy.
+[38:54.94]I always envisioned him being... a planet tall.
+[39:23.71]Edo, Japan.
+[39:26.26]Cool.
+[39:29.71]Yeah, we're playing through...
+[39:30.91]I think this game is going to be a lot different than the other ones because I think we're going through different historical periods.
+[39:38.65]The Japan of yesteryear.
+[39:41.55]Samurai, men with top knots, ninja, shogunate, kabuki, ichigoya, macha, wabi-sabi, and all that jazz.
+[39:53.57]That's all we know.
+[39:56.08]You can wander around and explore, just don't get lost.
+[40:01.48]Oh dear, we've wedged ourselves in the ground.
+[40:05.24]This may be a problem.
+[40:06.29]Is it broken?
+[40:06.99]You!
+[40:09.05]Go take a look.
+[40:09.89]Right now!
+[40:12.84]Walk around the select scroll and search for tasks to complete.
+[40:17.66]Clear a stage for the first time to receive a King token.
+[40:19.71]They might come in handy later.
+[40:26.07]Okay, in this game, can you go get the different cousins and walk around and have the song get more and more interesting?
+[40:32.03]Because that would be awesome if they did that in this one too.
+[40:42.44]I want to look around first.
+[40:45.37]Whoa!
+[40:51.19]Cute.
+[40:54.32]Your mic got cut off?
+[40:56.15]What did I do?
+[41:08.21]He got too excited.
+[41:09.09]Didn't we did a scream test already?
+[41:10.85]And the scream test was flawless.
+[41:18.92]He said it's cute already.
+[41:20.16]We're fucked.
+[41:21.04]What?
+[41:21.42]This is one of my favorite franchises ever.
+[41:23.27]There's no way that I'm going to call it cute.
+[41:25.60]It is cute!
+[41:30.25]Okay, I think I have to do that.
+[41:39.80]I love Katamari games!
+[41:43.04]I love Katamari, and that's probably a title for one of the games, but it's true.
+[41:50.29]Is it working?
+[41:51.83]Ah yes, it appears functional.
+[41:54.42]It's out of fuel.
+[41:55.30]We can't travel to other areas like this.
+[41:58.23]But if we make stars with our Katamari, we can stock up on energy.
+[42:02.81]Do your thing.
+[42:03.93]Roll that Katamari like you always do.
+[42:07.18]Alright, let's go.
+[42:09.32]Are we in the ship?
+[42:11.58]Here we are inside the SS print.
+[42:14.52]Here you can save the game or load a save file.
+[42:16.64]Alright, that's good to know.
+[42:18.81]There's your collection and the cosmos you're all too familiar with.
+[42:22.89]just poke around and see for yourself oh one more thing try that capsule over there unleash your inner fashionista inner fat obtained re-roll bonus cousin young king wait is that because I owned another game
+[42:42.06]Select your favorite cousin and customize them however you want.
+[42:44.58]Enjoy rolling with your new looks.
+[42:46.93]Your progress is saved automatically when the icon is displayed in the top right corner.
+[42:51.29]Do not turn the power off.
+[42:52.95]We still do that.
+[42:55.20]Into 2025.
+[42:56.02]They've been giving you that warning since the dawn of electricity.
+[43:06.13]If you got the special edition, it comes with extra stuff.
+[43:09.05]Did I get the special edition?
+[43:14.06]Okay.
+[43:15.86]Customized cousin.
+[43:20.85]Um... Me.
+[43:27.28]Alright, I need more cousins.
+[43:30.19]Holy shit, that's a lot of cousins.
+[43:44.95]We can change... Oh, I can just change his...
+[43:47.18]Okay, wait, I can change it.
+[43:48.08]I don't want to change the king's stuff.
+[44:01.84]I'll fuck this whole thing up if I'm given any time to do this.
+[44:13.12]Alright, that's good.
+[44:15.10]When I get more stuff, I'll come back in here.
+[44:25.48]Oh, cool.
+[44:25.84]It worked.
+[44:29.23]Orange and purple is diabolical?
+[44:31.15]I'm just testing it.
+[44:34.92]How fabulous.
+[44:36.42]Still tiny.
+[44:37.99]What, you're curious about that box, telescope, and pic...
+[44:41.07]I can do that better.
+[44:43.06]Well, you're curious about that box, telescope, telescope, and picture story?
+[44:50.29]Just like before, you can view your collection and the cosmos.
+[44:54.66]In addition, we have the memorial.
+[44:56.32]Why not give it a look?
+[44:58.02]Rather than boring objects and stars, we wish to see some old-timey Edo Japan.
+[45:02.57]We need a dose of kabuki right now.
+[45:04.51]We're growing highly impatient.
+[45:07.65]That sounded like this fucking sound that Ster does all the time.
+[45:11.30]I just got like a flashback of him doing it.
+[45:13.86]Uh, let's step inside, because I pressed A. I skipped the dialog.
+[45:25.95]Okay.
+[45:26.07]The FNAF scream?
+[45:32.03]Yes, the FNAF scream.
+[45:38.07]Is it time for me to pee?
+[45:44.62]I gotta pee.
+[45:47.49]I'll be right back.
+[45:48.35]Pee time.
+[45:55.06]Why are you asking us?
+[45:56.54]That's true.
+[45:57.10]There's always time to pee.
+[46:00.22]I drank a coffee earlier and it just went right through me, so... And I made a tea and...
+[46:05.26]I'll be right back.
+[46:06.23]Two, three minutes.
+[46:28.22]you
+[47:10.22]So,
+[47:39.37]you
+[48:36.28]Okay, I'm back.
+[49:05.58]Oh...
+[49:17.70]Alright, let's continue.
+[49:24.63]You can travel to other areas, customize your look.
+[49:26.69]Okay, so this is the ship.
+[49:28.52]You can express, we get emotes.
+[49:32.08]Okay, favorite poses.
+[49:34.85]There's a lot of content in this game, it seems like.
+[49:42.60]Oh look, another blurb of text!
+[49:44.97]It seems there is yet another way to roll.
+[49:47.33]Think of it as adding some spice to the game.
+[49:52.46]You know that your cousins can roll the Katamari too?
+[49:54.74]That's right, me.
+[49:58.35]It means you can be easily replaced by him.
+[50:02.81]Wait, I'm... my name is me.
+[50:06.76]I immediately forgot that.
+[50:09.72]I just remembered while I was just saying that I remembered, okay.
+[50:15.36]To switch Cousins, open the menu and select the Prince and Cousins.
+[50:17.96]Okay.
+[50:21.16]Cool.
+[50:21.28]Ah!
+[50:22.39]Music Gallery.
+[50:23.01]What about Expression?
+[50:23.71]Don't wanna see.
+[50:25.23]We don't have much.
+[50:25.85]We gotta play.
+[50:27.85]Alright, we gotta go.
+[50:29.37]I need content.
+[50:30.41]I need to get content into my brain.
+[50:34.50]Unlock condition as large as... Oh, I need 15.
+[50:40.59]What is this one?
+[50:44.47]Oh, you must be the king.
+[50:45.65]Tea is my love.
+[50:47.31]Tea is my life.
+[50:48.69]I love it.
+[50:49.69]High-class guests are coming soon.
+[50:52.66]I've practiced hard for this moment.
+[50:55.42]So hard, in fact, that I forgot to declutter my tea room.
+[51:03.21]I cannot spread the joys of tea with a cluttered... Could you help me organize before my guests arrive?
+[51:10.40]Alright, it automatically is going through these after I skip the text.
+[51:16.04]He's playing a pre-recorded stream.
+[51:18.32]Shut up!
+[51:20.15]As you clear tasks, you'll become able to change the music.
+[51:30.86]That just gets me so bad.
+[51:35.57]Alright, tidy up.
+[51:37.43]Roll up everything.
+[51:38.51]There's no time limit.
+[51:44.42]Roll up everything.
+[51:49.49]Green tea and Japanese sweets taste excellent together.
+[52:08.64]Wabi-sabi aesthetic.
+[52:10.00]Very Japanese.
+[52:11.04]Oh me.
+[52:11.93]Hello there.
+[52:15.14]We're busy right now with kingly errands.
+[52:18.30]Me, can you handle rolling the Katamari for us today?
+[52:21.15]All the clutter here ruins the authentic Japanese aesthetic.
+[52:27.43]A disorderly home means a disorderly mind.
+[52:30.35]Let the rolling commence.
+[52:31.38]So just get everything.
+[52:46.93]Today, your job is to tidy up here.
+[52:49.93]Compared to the castle storehouse, this really isn't cluttered at all.
+[52:53.64]But still, it bothers us.
+[52:55.64]It bothers our love of order.
+[52:59.19]Okay, there are approximately this many pieces of clutter in this room.
+[53:03.25]Roll them all up as quick as possible.
+[53:07.12]This is how we provide excellent service.
+[53:10.52]Okay, get started, me.
+[53:12.61]Alright, I gotta be analytical here.
+[53:17.41]We can't get this yet.
+[53:18.95]I have to come all the way back up here.
+[53:20.09]So let's go slow.
+[53:31.71]Alright.
+[53:33.70]I can't pick that up yet either.
+[53:34.70]Okay, hold on.
+[53:45.43]Alright, I'm too small for that.
+[53:51.58]Nope, I got it.
+[53:59.07]Okay.
+[53:59.19]Go down here.
+[54:00.65]I have to come back up here anyways.
+[54:07.68]Dude, you're throwing so bad right now.
+[54:11.54]What are you talking about?
+[54:14.43]Oh, I didn't realize.
+[54:15.67]I didn't realize.
+[54:16.21]I didn't realize.
+[54:16.59]I saw this rating.
+[54:18.55]I'm being fucking careful.
+[54:21.96]I have to go way faster.
+[54:23.14]Okay.
+[54:23.48]I saw the rating.
+[54:24.64]I saw it right now.
+[54:25.58]I thought it was just like, pick up and tidy up.
+[54:27.24]And by the way, it's very relaxing.
+[54:39.58]I got dango dumpling?
+[54:54.99]Okay.
+[54:56.92]I got extra time!
+[54:59.38]Use this to roll up pesky things that wriggle around.
+[55:01.82]I need like five more items.
+[55:10.03]Or fifteen.
+[55:15.78]Drop time!
+[55:16.38]Over here?
+[55:23.37]What's left?
+[55:26.09]I'm not going to get S, whatever.
+[55:27.25]Give me that crown.
+[55:36.50]Roll up the world.
+[55:40.43]No, I need A.
+[55:42.33]It's right there.
+[55:47.11]Get up there.
+[55:48.96]96.
+[55:50.92]Give me that present.
+[55:55.61]Yes!
+[55:57.85]Okay, I didn't realize I was being timed.
+[55:59.63]Um, let's do it again.
+[56:11.65]Alright, here we go, I'm ready.
+[56:22.24]Fuck!
+[56:26.66]Start over, start over.
+[56:27.38]How do I start over?
+[56:27.90]Retry.
+[56:29.82]I didn't mean to go all the way off.
+[56:31.14]Oh, I'm gonna get addicted to this bullshit.
+[56:33.65]I gotta get at least an A, right?
+[56:47.03]Come on, get it!
+[57:04.88]Okay.
+[57:07.76]Doing good.
+[57:11.65]A cousin!
+[57:22.62]Alright, I can get off screen.
+[57:29.61]Alright, I think I'm almost done, right?
+[57:37.92]Wait!
+[57:38.60]There's something right there.
+[57:50.62]Get it!
+[57:50.78]Get up there!
+[57:54.94]Alright, 96.
+[57:55.60]97.
+[57:58.23]There's a cigarette over there.
+[58:00.15]98.
+[58:02.15]99.
+[58:08.62]Where's the last piece?
+[58:13.98]Shit, where's the last piece?
+[58:15.58]I need one more thing!
+[58:24.07]Ah, okay, I got it.
+[58:27.56]Oh, it doesn't keep the crowns!
+[58:29.00]I thought it... For some reason, I thought it was gonna keep the crowns.
+[58:32.60]That I got the last time.
+[58:36.29]I had so much time to get it, too.
+[58:47.90]Dude, make an effort.
+[58:49.42]I just made a... Settle down.
+[59:01.18]Keeps the crowns only if you say, all done.
+[59:02.98]Okay, that's good.
+[59:08.09]The only crown that matters is the one on your head, King.
+[59:16.00]I'm turning red!
+[59:18.26]Time that person off for an hour.
+[59:27.80]1.39.
+[59:28.65]This was your cleaning time?
+[59:33.70]Wow, unbelievable.
+[59:40.08]Your dedication to excellent service is brilliant!
+[59:43.04]Me!
+[59:45.34]We may shed kingly tears today.
+[59:47.11]Your cleaning is tear-inducing.
+[59:54.67]We got a metal headband!
+[59:56.74]As a present!
+[59:57.94]Oh.
+[60:02.42]Like a superhero.
+[60:03.50]How handsome is that?
+[60:05.67]I give him our generous heart.
+[60:07.49]Make sure you appreciate.
+[60:10.12]Hmm.
+[60:11.28]It's Second Cousin L'Amour.
+[60:13.84]What were you doing on Earth?
+[60:15.71]What?
+[60:16.21]You were submerged in tea?
+[60:18.93]We have no idea what you're talking about.
+[60:22.09]We cannot resist the urge to pop this into the cosmos.
+[60:24.78]So without further ado, up, up, up, up, and away!
+[60:38.86]Fastidious Nebula.
+[60:42.14]Beautiful.
+[60:44.10]And a King token.
+[60:54.56]What's the one with the yellow over there?
+[60:57.12]I wonder.
+[60:59.61]Lots of fuel.
+[61:01.69]We can go to another era soon.
+[61:03.86]You're doing fine, me.
+[61:04.98]Simply keep rolling.
+[61:07.06]How about the present you rolled up just now?
+[61:09.79]We took great care in choosing that, with our superior fashion sense.
+[61:14.49]You look fabulous.
+[61:16.90]Jump in the dressing room.
+[61:25.19]Well, I'm going to put it on because I just got it.
+[61:37.54]Any new expressions?
+[61:41.77]Okay.
+[61:43.45]Alright, should I...
+[61:46.93]I want to see what this one is.
+[61:49.32]Here it is.
+[61:52.12]Okay.
+[61:53.61]Hey, your highness.
+[61:54.43]I see you work in that modern... whatever it was.
+[61:56.96]I aim to be a modern looking boy.
+[61:58.32]I'm researching every day.
+[61:59.60]But no matter how much I research, I can't figure out your secret.
+[62:08.31]Spill the beans, your highness.
+[62:09.53]How did you become so modern?
+[62:12.96]I've wanted this my whole life.
+[62:16.02]Please tell me.
+[62:16.78]I beg of you.
+[62:19.09]As you clear tasks, your music selection will expand.
+[62:23.32]Okay.
+[62:26.02]Alright, we need 15 centimeters.
+[62:29.29]And we're looking for other stuff.
+[62:36.46]You can edit the playback mode to play one song on loop or even shuffle.
+[62:40.24]Are we unlocking songs?
+[62:48.02]There's like 50 songs in this game.
+[62:56.57]There's 36 songs in this game.
+[63:11.29]Cool.
+[63:20.65]Behold an era of bizarre hairstyles.
+[63:23.04]Do you fancy this, me?
+[63:25.50]Something is missing.
+[63:26.52]What is it?
+[63:28.20]Oh, that's right.
+[63:29.16]Rainbow!
+[63:29.68]That hairstyle lacks pizzazz.
+[63:33.93]As king, we must show them our genuine pizzazz.
+[63:38.11]Only then will they realize how pizzazz-less their hairstyles are.
+[63:43.40]You know what to do, me.
+[63:44.80]Roll us a pizzazzy catamari.
+[63:53.59]Alright, 15 centimeters.
+[63:56.44]At least.
+[64:00.10]Another roll.
+[64:00.74]It's the old-fashioned house again.
+[64:01.86]Royal rainbow!
+[64:02.98]Preparations A-OK.
+[64:04.11]Hurry and make a katamari this big.
+[64:07.03]Get your roll on.
+[64:08.01]One sec.
+[64:13.36]I don't need that anymore.
+[64:14.70]Give us some more real estate.
+[64:15.88]Alright, let's go.
+[64:19.24]You see how good I got that line?
+[64:31.44]Oh, there's a little frog.
+[64:39.47]Come on, I can get that.
+[64:40.50]Come on!
+[64:42.00]Not quite.
+[64:42.52]I gotta come back in here.
+[64:43.50]I can't be huge, though.
+[64:51.07]Ah!
+[64:51.81]Thought I was big enough.
+[64:56.94]I think I can get it now.
+[65:13.82]Let me get it.
+[65:14.52]Where was it?
+[65:14.92]Right over here?
+[65:19.85]Yep, okay.
+[65:20.43]Nice.
+[65:22.57]Can't get that one yet.
+[65:28.98]I'm gonna use this.
+[65:35.77]Get up there!
+[65:36.51]Oh my god, that was a failure.
+[65:45.74]Oh my goodness, where am I going?
+[65:55.36]Any mo- I see a crown.
+[65:59.28]I can't get the crown?
+[66:02.30]Oh god, damn it.
+[66:07.23]Eek!
+[66:07.89]Roll faster, or you'll miss everything that moves.
+[66:12.34]You have to be going at a certain speed?
+[66:20.08]I want that crown right now.
+[66:34.95]Alright, well, I got two.
+[66:37.77]I should be able to finish it right now.
+[67:02.74]Am I not there yet?
+[67:04.49]I'm right there.
+[67:12.61]Where's the last crown?
+[67:13.34]You have a long way to go if you want to be a Katamari pro.
+[67:28.21]I got a C. Holy shit, that's terrible.
+[67:33.39]No, no, no, I got a bee, right?
+[67:38.14]One more, one more try, one more try.
+[67:47.83]I bumped into way too much stuff last time.
+[68:05.00]Okay, already bigger.
+[68:06.08]Already doing way better.
+[68:16.63]Alright, where's the crown that's out here?
+[68:17.77]I want to get that first.
+[68:27.92]Am I not big enough to get any of this?
+[68:36.15]Where's Chrom?
+[69:00.76]Okay.
+[69:01.36]Move!
+[69:09.73]Alright, there's another one down there.
+[69:10.67]I'm almost at the...
+[69:23.92]I almost have it.
+[69:24.92]I don't want to get it yet, though.
+[69:25.68]What about 10, 20 seconds?
+[69:26.81]30 seconds?
+[69:29.87]No!
+[69:29.95]Oh.
+[69:33.43]I thought I was going to be... Ow.
+[69:40.91]That's fine.
+[69:46.30]I'm genuinely just dancing and zoning out.
+[69:48.86]Oh, that's... Hey.
+[69:51.13]You do you.
+[70:00.42]I love the rats making mochi.
+[70:01.92]You should have done it again one more time.
+[70:04.68]That is what they were doing.
+[70:05.70]You're right.
+[70:09.84]Anyway, let's talk about this Katamari you rolled.
+[70:12.46]A time of 1.45.
+[70:13.92]That's prompt.
+[70:14.74]Unbelievably prompt.
+[70:16.87]We thought you might be shirking, so we spied on you from the sky.
+[70:21.73]But you were so prompt, we couldn't even keep up.
+[70:24.68]Your ultra-fast rolling amazed us.
+[70:26.50]Tears in our eyes.
+[70:29.54]Hmm.
+[70:29.64]This Katamari feels Japanese food-ish.
+[70:34.25]Japanese food Katamari.
+[70:35.63]That has a nice ring to it.
+[70:38.73]We cannot resist the urge to pop this into the Cosmo.
+[70:44.08]Without further ado, let's go.
+[70:51.08]What's the best Sunday takeaway food?
+[70:56.85]You gotta hit up the General Gals.
+[71:00.96]General Gals chicken.
+[71:03.49]Side of fried rice.
+[71:05.23]Maybe some noodles.
+[71:07.29]Oh, boy.
+[71:08.18]That is a Sunday afternoon if I... That's a Sunday afternoon for me.
+[71:21.12]Or, I mean, I haven't eaten in a while.
+[71:23.58]It's been a long time since I've had it, but the buffalo chicken with blue cheese.
+[71:30.28]What a sundae.
+[71:38.11]Let me check out the ship.
+[71:55.64]okay so the collection is different probably keep track of the fabulous things you found you can see everything all the fruits and vegetables that's cute a bothersome little devil whose innards can only be accessed by pushing with precise force I love edamame
+[72:25.29]An onion does nothing.
+[72:28.16]Uh, these are cutscenes, I imagine?
+[72:43.31]Yep.
+[72:47.36]I like this music.
+[72:53.67]Can we see other places?
+[72:57.83]Ah, it's everything you've done so far.
+[73:09.69]That's cool.
+[73:14.34]What's your second favorite color?
+[73:16.38]Uh, I like...
+[73:18.40]Blue, teal.
+[73:21.48]Okay, I like teal, aqua, blue, orange, green.
+[73:30.20]Blue, teal, aqua, blue, orange, green.
+[73:40.69]I'm telling you, I played Tower of Latria on the Demon's Souls remake, and all of my favorite colors changed from that game.
+[73:53.25]There's a lot of other places to go.
+[73:54.75]Okay, well, I think we're going to stay in Japan.
+[74:00.60]Is there anywhere else to go?
+[74:03.74]Stick around.
+[74:08.41]What is this?
+[74:12.33]I don't know.
+[74:17.22]This reminds me of the Total Distortion Elevator.
+[74:19.00]If you know what that game is.
+[74:24.93]Uh, how do we go back down?
+[74:30.80]Oh, there we go.
+[74:32.77]Alright, let's do some more.
+[74:40.21]Be the famous king of everyone speaks of.
+[74:43.79]I am an ordinary old man, but I also appraise this and that.
+[74:48.02]That mighty high-value body of yours is worth a fortune, your highness.
+[74:55.19]Worth a whole lot, but not as much as my collection.
+[75:02.01]I have drawers and drawers of high-value stuff worth a whole lot.
+[75:07.02]Say, your highness, do you have an eye for scoping out valuables?
+[75:11.77]okay everything expensive uh I need to change the music back to default restore default background music like that right
+[75:34.80]Oh, it's me.
+[75:46.33]What are we doing, you ask?
+[75:47.63]Saving money, that's what.
+[75:49.73]Money is precious, and we must protect it.
+[75:56.65]Hmm.
+[75:56.79]Roll up expensive objects?
+[75:59.35]That's it.
+[75:59.83]What a simple task.
+[76:01.13]Right up our alley.
+[76:03.32]We can appraise items at a glance.
+[76:05.28]Anything, anytime, anywhere.
+[76:07.80]Try it yourself, me.
+[76:09.11]Time is money.
+[76:09.97]Let's go.
+[76:21.93]Roll up expensive things.
+[76:29.10]Dango dumplings, 6 mon.
+[76:32.31]Soba noodles, 16 mon.
+[76:36.86]White rice, 150 mon.
+[76:38.64]Old currency is so confusing.
+[76:41.59]What is mon?
+[76:42.37]We thought Japan used yen.
+[76:45.62]Let's not get overwhelmed.
+[76:46.81]Roll now, think later.
+[76:49.11]Roll up this many objects and see how much they cost.
+[76:53.51]You might as well roll up the most expensive looking ones you can find.
+[76:57.64]Okay, we need expensive shit.
+[76:59.40]Happy shopping!
+[77:07.25]What are these?
+[77:10.42]Expensive!
+[77:16.74]Shit, I'm too small to get any of this.
+[77:27.12]That thing's expensive, can I get it?
+[77:41.83]Nope.
+[77:41.95]Get this whole plate.
+[77:43.82]Oh my god, I'm already done!
+[77:47.88]What?
+[77:50.52]I've already finished?
+[77:51.58]I already finished the whole thing.
+[77:53.16]What did I... only 50 things?
+[77:55.51]Oh, fuck.
+[77:56.87]Uh, okay, one more time.
+[77:57.81]I...
+[77:58.57]I... Alright, I didn't realize I got that many things.
+[78:04.62]This is gonna be harder than I thought it was gonna be.
+[78:05.99]Alright, so... Is there little things I can get that are not like this?
+[78:11.64]Should I not pick up everything?
+[78:17.12]I've just got two... that's too small!
+[78:24.97]What about these pigeons?
+[78:25.79]Are these pigeons worth anything?
+[78:31.44]These glasses are expensive.
+[78:37.63]Okay, only look for things that are shiny.
+[78:42.34]I picked up a whole plate of food and I ended up losing.
+[78:46.94]Oh, that's it.
+[78:47.48]Whatever.
+[78:47.74]This is expensive.
+[78:50.50]I can't get it yet.
+[78:54.97]What am I running into?
+[78:57.45]Alright, what?
+[78:57.99]I need the expensive ship.
+[79:01.88]This ship's expensive.
+[79:02.56]I need this.
+[79:07.00]Get up there, please.
+[79:09.97]Get up there.
+[79:13.13]Oh, God.
+[79:18.85]Hey!
+[79:21.19]You just made me pick up shit I didn't want!
+[79:27.44]How do I- I gotta be tiny to get that, don't I?
+[79:40.59]Dude, that thing was really expensive.
+[79:54.78]Nice.
+[79:55.58]Alright.
+[79:55.80]I got a ton of...
+[79:56.44]I need crowns now.
+[79:58.36]There's no...
+[79:59.26]I got time.
+[79:59.76]I got plenty of time.
+[80:01.44]There's no timer here.
+[80:07.89]Where's all the crowns?
+[80:09.68]There's one behind the dartboard.
+[80:22.83]What's up, dude?
+[80:31.73]Okay.
+[80:43.83]Okay, I got one.
+[80:50.04]Get away from me!
+[80:51.96]Freeze!
+[80:59.39]I wish I could bump this.
+[81:05.38]Shit.
+[81:06.66]You gotta get that at a very specific time.
+[81:08.06]Where's one more?
+[81:09.18]Where is it?
+[81:12.43]Maybe in there.
+[81:14.73]Why is the cat the size of a snowblower?
+[81:16.39]The cat is a normal cat size.
+[81:17.95]I don't know.
+[81:30.31]His belt?
+[81:39.55]We didn't get a crown on his belt.
+[81:44.32]Well, whatever.
+[81:48.59]Behind the dartboard?
+[81:49.35]Yeah, I'm too big to get back there.
+[81:50.55]You gotta get it at a very specific time.
+[82:00.61]I got S. I'm good.
+[82:04.83]Hey, your voices really collide, but could you stop singing so much, please?
+[82:08.32]I'm gonna sing as much as I want.
+[82:12.12]Sorry, if you don't like it, this is a singing stream.
+[82:14.28]That's what I called it.
+[82:25.76]Oh my god, fabulous.
+[82:30.34]You're rich now, just like that.
+[82:31.98]We literally cannot believe it.
+[82:34.48]You must have excellent taste to roll this luxurious Katamari.
+[82:42.41]I wonder what the mathematical most you could possibly get in that level is.
+[82:48.86]It's Cousin Charlie!
+[82:50.62]What were you doing on Earth?
+[82:52.80]What?
+[82:53.49]You were spinning around and around?
+[82:54.91]Oh, we have no idea what you're talking about.
+[83:01.06]Playtime-ish, this Katamari.
+[83:04.64]Just like all that.
+[83:05.44]I cannot resist the urge to pop it into the cosmos.
+[83:09.93]Let's go.
+[83:18.20]Playing House Planet King Token
+[83:32.55]Hmm, what's happening to the SS Prince?
+[83:35.21]Seems ready to take off and fly to another area.
+[83:38.88]Okay.
+[83:45.41]Leaving Japan.
+[83:53.86]That was kind of loud.
+[83:54.54]But it's all good.
+[84:03.50]The American frontier.
+[84:05.40]Really?
+[84:14.29]We've reached the past.
+[84:16.12]The American frontier, to be exact.
+[84:19.40]Cowboys, gunmen, sunsets on the horizon, wastelands, rodeos, tumbleweeds, railroads, gold nuggets, and all that.
+[84:31.72]That's all we know.
+[84:33.97]You can wander around and explore, just don't get too lost, okay?
+[84:41.40]Interesting Is he just drinking?
+[84:56.85]The prince is here?
+[84:57.77]Where?
+[85:00.29]Oh yeah, the cousins just all walk around
+[85:08.33]Lots of drinks.
+[85:22.99]That's how I start every stream.
+[85:31.24]It's going on, everybody.
+[85:32.32]Welcome to another stream.
+[85:35.35]Howdy!
+[85:37.75]You must be that king fella.
+[85:39.93]I was wondering who'd walk around calling us with a fancy name like that.
+[85:46.02]We got some guts, fella.
+[85:47.61]We're gonna get along just fine.
+[85:49.83]Haha, he did two haha's, by the way.
+[85:51.55]That's exactly what I do.
+[85:54.08]He does the comma?
+[85:54.94]Haha.
+[85:56.06]I'm heading to a shindig after this.
+[85:57.74]Wanna come fro down.
+[86:00.79]I ain't got no drinks, though.
+[86:01.91]You wanna help us get ready?
+[86:05.35]Roll up beverages, you get seven minutes.
+[86:07.35]There's a lot of stuff on this map.
+[86:16.39]This is not a facade.
+[86:17.53]Our kingly magnificence is legitimate.
+[86:20.41]Ah, hello me.
+[86:21.79]You are standing before the kingliest king in the cosmos.
+[86:26.54]Yes, we are amazing.
+[86:28.58]But alas, everyone seems to forget that.
+[86:32.97]Therefore...
+[86:34.56]You must work hard for the sake of our kingliness.
+[86:39.09]Show them the scale of our power, me.
+[86:42.56]Swiftly, roll over Katamari, benefiting... befitting... of our magnificence.
+[86:56.04]Cool.
+[87:01.75]It's going to be a bunch of cars.
+[87:02.67]I'm going to love this area.
+[87:04.11]It's going to be a bunch of cars.
+[87:05.33]Yep.
+[87:05.99]Not cars.
+[87:07.14]Cards.
+[87:07.82]With a D. Welcome to the Wild West.
+[87:12.59]This is where you'll roll today.
+[87:15.37]Are we inside a saloon?
+[87:18.54]There seem to be many beverages.
+[87:21.24]For today's game, you must roll up beverages.
+[87:23.58]Let's see.
+[87:24.12]Give you this much time, good luck.
+[87:26.28]Seven minutes for beverages.
+[87:29.85]Happy rolling.
+[87:32.01]I need 140 beverages.
+[87:41.86]Get everything on the table first.
+[87:43.22]Full table.
+[87:45.45]Oh.
+[87:51.49]I'm not getting off the table yet.
+[88:02.66]I can get those cans.
+[88:03.65]Come on.
+[88:09.27]I want these so bad.
+[88:10.33]I'm going to grow, right?
+[88:11.57]Yes.
+[88:17.84]Alright, whatever.
+[88:18.46]Why am I obsessed with the pool table?
+[88:19.82]Get off.
+[88:24.18]What does the rocket do?
+[88:28.17]Wow, you're way through.
+[88:29.35]It's turned to like a giant missile.
+[88:45.66]I gotta get drinks.
+[88:53.90]There we go.
+[88:54.80]Alright, big enough now.
+[88:56.50]Get the cans?
+[89:08.48]Yep.
+[89:08.58]Look at those two cats.
+[89:10.10]They were drinking coffee and tea.
+[89:12.69]What else were they drinking in there?
+[89:21.48]...
+[89:22.37]What's up here?
+[89:50.35]Way more shit.
+[90:01.90]I might actually be huge by the time I get over there.
+[90:10.40]I still have the rocket as well.
+[90:25.18]Alright, I gotta get down.
+[90:36.85]I need a lot more drinks.
+[90:44.80]I got time though, I got five minutes.
+[90:52.13]Oh, hell yeah.
+[90:54.85]Get me up there.
+[90:57.48]Can I climb this?
+[91:01.46]I can definitely climb that, come on.
+[91:04.18]Come on, I can do it.
+[91:06.22]It's not worth it.
+[91:21.39]I'm just gonna do it.
+[91:24.69]What does this thing even do?
+[91:26.94]I thought I could plow through everything with the rockets!
+[91:33.16]Okay, well I get- I don't- you can't plow through everything.
+[91:47.26]Give me a drink.
+[91:54.41]Look at all these up here.
+[92:03.16]I'm going through the table.
+[92:04.32]Alright, it still worked.
+[92:17.23]These wheels of cheese.
+[92:19.49]Look at all these drinks.
+[92:21.67]Big.
+[92:26.00]Give me that.
+[92:30.04]Big.
+[92:35.51]Okay, I think I gotta go back inside.
+[92:43.40]There's so much other shit down here, though.
+[92:52.31]Give me the time.
+[93:00.94]Come on!
+[93:05.65]I need 40 more drinks?
+[93:08.50]Fuck.
+[93:11.56]There's a bunch where I'm too big, I think, to get in here.
+[93:13.64]I think I'll get it.
+[93:18.23]Get back inside to get here.
+[93:19.63]Alright, here we go.
+[93:23.54]Give me everything.
+[93:28.06]Give me everything.
+[93:30.28]Give me everything.
+[93:35.89]I'm too big.
+[93:36.69]I'm too big.
+[93:37.25]I'm too big.
+[93:37.85]I can't fit.
+[93:38.43]Okay, I got it.
+[93:46.12]I like this one.
+[93:55.39]This one's fun.
+[94:01.24]Now I'm going to get a D. That's just barely a passing grade.
+[94:06.25]Holy fucking smokes.
+[94:08.77]Get me up there.
+[94:09.79]That's an S right there.
+[94:11.11]Get me up in the bar.
+[94:14.15]Yes!
+[94:19.42]Give me a B.
+[94:23.25]Get those last two drinks.
+[94:24.43]They're right there.
+[94:25.39]Come on, get over there.
+[94:28.44]Give me those.
+[94:32.00]Give me the drinks.
+[94:32.85]I can't get those.
+[94:34.35]Back outside.
+[94:50.47]Get over!
+[95:00.38]Please!
+[95:05.30]Come on, there's five somewhere!
+[95:11.69]I almost had an A. I got two crowns though.
+[95:28.03]You gotta plan the route, because when you're just barely big enough to just smash into all the walls and the tables... Are there any more beverages left over around here?
+[95:47.51]Here's one.
+[95:48.15]Oh, it's a Katamari!
+[95:53.41]Okay, maybe we shouldn't overdo it.
+[95:55.51]After all, they say you should only eat until you are 80% full.
+[95:59.82]Overdrinking is bad, we know, but we still want you to try harder.
+[96:03.52]Gluttony is okay in moderation, right?
+[96:06.48]King of the Cosmos was one of the smartest people to ever live.
+[96:13.89]That's a lot of drinks.
+[96:20.57]We cannot resist the urge to pop this.
+[96:25.51]Toss it up there.
+[96:33.67]Overdrinking is bad unless it's here.
+[96:41.74]I keep thinking about what Poke said.
+[96:44.49]He's like, you said you drink.
+[96:46.17]He's like, oh, you said you were drinking a beer.
+[96:47.89]You said you were having a beer.
+[96:49.92]I thought you drank beer.
+[96:51.38]I drank twice on stream with Bush White.
+[96:55.25]He's like, you're one of those guys.
+[97:01.89]I'm not...
+[97:02.55]I just...
+[97:03.11]I just said I was drinking a...
+[97:04.65]I always do that, though.
+[97:05.57]I just, like, crack it.
+[97:06.26]If I'm drinking a Coke, I'll just say a Bush Light.
+[97:08.16]That's why I even...
+[97:09.42]I memed myself and inceptioned myself into drinking those on stream.
+[97:16.75]I thought it was funny to say, oh, there's a nice Bush Light.
+[97:19.11]I'm drinking, like, a fucking Diet Coke.
+[97:28.96]I don't even drink Diet Coke.
+[97:30.25]Liar!
+[97:51.94]Bush Light is better than you.
+[97:56.14]I just read that so wrong.
+[97:57.75]Wait.
+[97:58.63]Bush Light is better...
+[98:02.33]I thought that was somebody talking shit.
+[98:04.55]Like, I don't know, dude, fuck you.
+[98:05.67]Bush Light's better than you.
+[98:07.62]Excuse me, bro.
+[98:08.62]It's not a person.
+[98:10.56]It's a drink.
+[98:12.10]How could it be better than me?
+[98:15.34]They said Bush Light is better for you than Diet Coke.
+[98:19.59]Is that true?
+[98:21.81]I don't think that's true.
+[98:27.96]Diet Coke is aspartame.
+[98:31.91]Bush Light is alcohol.
+[98:33.97]Okay.
+[98:35.96]I think the alcohol is probably worse.
+[98:38.72]I don't think...
+[98:49.01]Aspartame is yummy.
+[98:51.84]I don't...
+[98:52.44]I don't like it.
+[98:53.82]I don't like that.
+[98:56.04]You know what I wish they would do?
+[98:57.82]And they won't do it.
+[99:00.51]I just...
+[99:01.49]I want to scream.
+[99:05.09]Why don't they make half-sweet sodas?
+[99:08.46]Why doesn't Coca-Cola have a half-sweet?
+[99:11.12]Well, like, 25% sweet.
+[99:15.71]I want a half-sweet soda.
+[99:18.10]I don't want a 30 to 40 gram sugar soda.
+[99:21.01]I want a half sweet soda.
+[99:22.79]10 to 15 grams of sugar.
+[99:25.47]Make it taste a little more bitter.
+[99:26.63]I don't give a fuck.
+[99:34.58]You can call it whatever dumb market.
+[99:36.43]Call it like Coke Man.
+[99:39.91]Coke Man.
+[99:42.59]This one's a little more bitter.
+[99:44.73]That's not sweet.
+[99:45.72]That's not sugary.
+[99:46.58]I don't give a fuck how you market it.
+[99:48.42]I want a half sweet soda.
+[99:53.67]It was called Pepsi Next and nobody bought it.
+[99:56.57]I did.
+[100:00.02]I also am the guy who's been saying very clearly since the very beginning of humankind.
+[100:07.58]I begged for a smaller iPhone.
+[100:11.03]That little... the one... how phones used to be.
+[100:13.57]You know like the little iPhone mini that they made?
+[100:15.43]The one that was like the iPhone 4?
+[100:17.77]They made one.
+[100:18.77]It was called the iPhone SE.
+[100:21.36]And everybody... nobody fucking bought it except for me!
+[100:23.74]And I didn't even buy it!
+[100:30.15]I wasn't ready for a new phone!
+[100:33.16]I wasn't ready for a new phone!
+[100:34.53]I just had gotten a new phone, and it's like, well, what the fuck, dude?
+[100:39.13]And now, those things, you can't find them.
+[100:45.30]I ended up getting the other SE, which was just a regular-sized phone, so they made this thing and nobody wanted it, except for me, and I wasn't ready for a new phone, so I didn't even get it.
+[101:01.65]The 13 mini, yes.
+[101:03.59]The little one.
+[101:08.78]You have to check the senior phone section.
+[101:11.36]I know, but no, I don't want one of those senior phones.
+[101:15.97]I don't think, I don't want one of those things with the buttons as big, like, like it's fucking one of the Elmo phones from the Muppets.
+[101:20.84]I don't want one of those.
+[101:22.32]I want a regular ass phone that is a regular ass size to go in a regular ass pocket.
+[101:34.13]Anyways.
+[101:36.98]Um...
+[101:38.81]I want a half-sweet soda.
+[101:45.57]And that's it.
+[101:52.00]And yeah, could I take a Coca-Cola and get a thing of seltzer water or tonic water or something fucking gross?
+[101:59.79]Tonic water is gross.
+[102:00.87]I know it's good for you, right?
+[102:02.13]It's got the quinine... What is in it?
+[102:04.52]What the fuck is in tonic water?
+[102:05.68]It's good for you.
+[102:07.14]It tastes like shit, though.
+[102:10.16]Uh, I could... Oh, yeah, look, I put 50% coke in it and then put 50% soda water.
+[102:14.65]Like, they would...
+[102:15.91]The formulation would be all wrong.
+[102:19.45]It would be awful.
+[102:23.27]But dude, you can't even tell.
+[102:24.41]I'm sorry.
+[102:25.28]I'm gonna have to...
+[102:26.24]I'm fighting everybody on this.
+[102:28.56]When you cross 25 grams of sugar in a 12 ounce beverage, I think you're full of shit if you can tell the difference any further than that.
+[102:39.97]25 grams of sugar, I think after that it's just the same.
+[102:43.42]It's just the same.
+[102:44.98]It's just like, this is sweet.
+[102:46.08]This is really sweet.
+[102:47.76]Well, there's 20 more grams of sugar in that.
+[102:51.20]At 25 grams, I think your body just is like, this is fucking sugary.
+[102:56.81]Hey dude, quinine is bad for you.
+[102:58.37]Okay, well, I don't know what the doctor said last month, okay?
+[103:01.80]I thought that was supposed to be good for you.
+[103:06.83]Get a soda stream, make plant... You know what?
+[103:09.39]I actually thought about that.
+[103:15.08]Could you just DBZ fuse with Northernlion, please?
+[103:19.01]I think you guys underestimate how much smart... what's a... okay.
+[103:23.00]How much smarter... see, I'm already proving it to you.
+[103:25.96]How much... How much smarter than me he is than I.
+[103:34.65]If we fused, it would be like, okay, here comes the big fusion.
+[103:41.27]Northline's got all these interesting takes.
+[103:43.53]He's got all these theories.
+[103:46.20]And he's gonna merge with me, and he's gonna get all these fucking...
+[103:49.12]He's gonna go crazy.
+[103:50.60]It's gonna be like Count Chocula singing the fucking national anthem.
+[103:53.38]And he's gonna go, what the fuck is this, man?
+[103:55.15]I don't want to fuse with this guy.
+[103:57.77]He's got three good takes, and then it's a bunch of Count Chocula doing Fortnite emotes?
+[104:03.54]Get this out of here.
+[104:04.30]I don't want to fuse with anybody.
+[104:08.78]It would be a disaster.
+[104:18.58]What on Earth is this hottie talking about?
+[104:29.90]What are you talking about?
+[104:36.19]What are you talking about?
+[104:40.97]I want to watch Katamari.
+[104:42.28]Alright, we want to get back to Katamari.
+[104:43.98]We had our fun.
+[104:46.63]I want 50% less sweet soda, and that's all there is to it.
+[104:59.03]Alright, tumbleweed.
+[105:00.37]They roll around, they get big, just like a katamari.
+[105:12.07]Take 25 grams of sugar, it should be, that's the way it is.
+[105:17.41]I'll call it, like, Coke Reel.
+[105:26.26]No, they did that already.
+[105:28.08]No, Mountain Dew did that, and it was the guy with the thingy, he was like, oh, it's like old, it's old, and it's Mountain Dew, and it's like real sugar, and it was like fucking 40 grams of sugar.
+[105:37.81]That's Mountain Dew!
+[105:47.09]Yee-hoo!
+[105:49.51]And I'm like, I want...
+[105:50.46]I'll say Yahoo, but I want it to be 20 grams of sugar.
+[105:55.22]Call it Mountain Dew Yahoo!
+[105:58.41]And make it 24 grams of sugar.
+[106:06.12]And get all the food coloring out of it.
+[106:07.96]Call it Mountain Dew Yahoo.
+[106:10.15]It's 24 grams of sugar.
+[106:11.15]There's no food coloring.
+[106:13.31]And...
+[106:15.42]I don't know, put it in a glass bottle so I can recycle that fucking thing.
+[106:22.46]I'm sorry.
+[106:27.93]That's Crystal Pepsi.
+[106:29.77]I'm just going to get a soda stream.
+[106:31.58]I just did an entire infomercial to myself on why I should have one.
+[106:44.18]I just did a giant ad for it.
+[106:46.02]Alright, let me focus.
+[106:47.72]I got 10 minutes to get tumbleweeds.
+[106:52.41]Avoid getting swept off your feet.
+[107:01.09]Does it get high winds?
+[107:14.13]Strong winds on the horizon.
+[107:17.20]The Katamari is small.
+[107:18.66]Can I fight it with a rocket?
+[107:32.60]You're all bigger.
+[107:33.42]Okay.
+[107:34.24]Well, I'm kind of stuck here.
+[107:44.10]Doesn't Ninja make something like that too?
+[107:46.49]Like the Ninja Delicious Drink Machine!
+[108:01.93]The Ninja has like five delicious drink machines and ice cream machines.
+[108:07.34]It's one of them.
+[108:07.96]I think they do it, right?
+[108:14.92]There's a lot over here.
+[108:20.44]Yeah, the brand ninja.
+[108:22.07]What?
+[108:30.40]Give me those.
+[108:31.26]Too small.
+[108:41.47]Come on.
+[108:44.87]Oh my goodness, what the fuck?
+[109:06.08]I might have to restart.
+[109:17.47]Get out!
+[109:26.42]How did I get stuck here?
+[109:28.14]There's no way!
+[109:30.65]Dude, you're losing at Katamari.
+[109:32.75]I'm stuck in the wall!
+[109:34.21]What the hell?
+[109:35.29]Oh, I didn't do the wind.
+[109:38.55]You know, this should make Soda 50% sweeter or whatever he said.
+[109:47.54]It sounds like Bugs Bunny was running for president.
+[109:50.87]And we're going to make soda 50% more sugary, duck.
+[109:55.97]There's going to be 60 grams of sugar, duck.
+[110:02.99]And it's going to be where we'll put more stuff on pizza, duck.
+[110:12.50]What does that mean?
+[110:13.94]I'm sorry.
+[110:14.46]I'm fucked up.
+[110:17.34]I don't know why he wants to put more stuff on pizza.
+[110:20.97]But that sounded cartoonish at the time.
+[110:24.20]I'm sorry.
+[110:26.62]I'm not stoned, I promise.
+[110:28.57]I have not had any fucking marijuana product in like eight and a half months, okay?
+[110:33.66]I am fucking sober.
+[110:46.13]I'd be running for president against him.
+[110:49.50]You see, my opponent here, Doc, he said he wants to do 50% less sugar.
+[110:55.37]What, is he stupid?
+[110:58.29]It's sweet and sugary, and we want it.
+[111:00.28]And the whole crowd would cheer, and I'd be like, no, I just want everybody to be, I just want there to be less sugar in the product.
+[111:17.64]what's next he's gonna tell us we need to have less sodium in our diets too I'm flipping through my papers and it's like oh god page three is like we should be taking in probably a little less salt and explain that to the audience he's roasting me
+[111:45.04]Parks and Rec did this joke already?
+[111:46.66]Oh, right.
+[111:47.21]Well, I'm performing it as Bugs Bunny.
+[111:49.03]That's different.
+[112:00.04]Ah!
+[112:03.99]Somebody said that was Linda Belcher.
+[112:09.01]Okay.
+[112:09.37]Oh!
+[112:12.36]Ha ha ha!
+[112:13.81]Uh, Bobby!
+[112:17.12]No, we can't do that, Bob!
+[112:19.16]Bobby, I wanna have fun tonight!
+[112:21.49]Oh my god, it was...
+[112:31.66]I gotta pay attention.
+[112:32.89]Rocket fuel!
+[112:38.59]I'm actually not doing terribly.
+[112:46.01]I'll get stuck.
+[112:53.96]I really should get- I need that, uh, magnet.
+[112:57.05]This'll clear the whole thing.
+[113:02.06]Who would be your vice president in this scenario?
+[113:05.52]Um... You just stunlocked me when I pressed right trigger!
+[113:11.71]Stop talking for a second.
+[113:24.32]Who would my cartoon...
+[113:26.56]It would have to be a cartoon character.
+[113:29.69]Somebody that could go up against Bugs Bunny's VP.
+[113:34.74]Which would be probably Daffy, right?
+[113:36.84]No, doesn't Bugs hate Daffy?
+[113:39.73]They're always trying to kill each other.
+[113:41.47]I don't think it would be Daffy.
+[113:43.23]It wouldn't be Daffy.
+[113:54.74]Look at all those down there.
+[113:55.69]There's a million over there.
+[113:59.37]The wind is fucking this up.
+[114:06.10]I can go in there.
+[114:06.72]I only got three minutes left.
+[114:16.24]I'm not even close.
+[114:46.36]Actually, I got time.
+[114:47.25]I got plenty of time.
+[114:57.30]I rolled up some weird donut.
+[115:02.03]What does that mean?
+[115:03.79]Can I get another donut?
+[115:06.99]I got plenty of time.
+[115:08.63]I have not even been to this section yet, so we're good.
+[115:13.58]350.
+[115:29.10]Oh, hell yeah.
+[115:31.91]Stay right here.
+[115:36.23]Alright, I have a D right now.
+[115:37.31]I can't be a D streamer.
+[115:40.48]There we go.
+[115:41.26]This will be huge.
+[115:42.38]On the rubes.
+[115:43.97]Rubes?
+[115:44.95]Or rups?
+[115:49.91]Don't fall off.
+[115:57.14]Is it rubes or rups?
+[115:58.40]Rups?
+[116:00.37]Is it rups?
+[116:05.35]I think it's rups.
+[116:20.70]Why can't I get better than the bee?
+[116:23.70]Why can't I get better than the bee?
+[116:25.82]Raggy?
+[116:37.17]There's so many over here, please!
+[116:39.56]I had to get one crown after all that.
+[116:51.58]No!
+[116:52.58]I need to get better than a bee!
+[117:06.18]You scaring the folks at the retirement home?
+[117:11.10]Put on Jeopardy.
+[117:37.95]They flopped with the new soundtrack?
+[117:39.59]I don't think so.
+[117:42.60]I gotta be the donut character, though.
+[117:50.86]I think so far it's been pretty great.
+[118:03.82]It's cousin Banban.
+[118:05.42]What were you doing on Earth?
+[118:07.22]Playing with the wind?
+[118:08.43]Oh no, that's so dangerous.
+[118:11.83]Yes, this is plants.
+[118:13.15]You rolled up quite a few of them.
+[118:16.12]Cannot resist the urge to pop it.
+[118:21.69]Yo, this stream is fun.
+[118:23.45]What does that mean?
+[118:24.23]That's like the third time I've seen that today.
+[118:26.87]Is that like a new thing people are trying to do here?
+[118:30.66]What is that?
+[118:35.07]Buns equals bad.
+[118:36.55]Where did that come from?
+[118:41.58]Buns means butt cheeks.
+[118:52.74]That's been around for a long time.
+[118:54.02]It's an Adventure Time meme?
+[119:07.59]I want to emote.
+[119:20.97]Redditors get out.
+[119:25.25]Redditors?
+[119:29.38]There's another whole other section down here.
+[119:33.69]Well, that means all of us.
+[119:41.78]Somebody says I don't have rhythm?
+[119:54.47]Shut up!
+[119:55.09]I got into a mood in the last 30 minutes.
+[119:59.66]I'm sorry.
+[120:00.08]It's just the way it is.
+[120:01.70]You're all gonna have to put up with me.
+[120:05.14]This is what I call a gold rush!
+[120:09.39]You want some of this gold, too?
+[120:12.22]gonna have to work for.
+[120:13.24]Help me out and I'll give you some gold.
+[120:27.58]Earrings, necklaces, rings, hair accessories, too many to choose from.
+[120:32.66]Oh, it's me.
+[120:34.10]What a lovely opportunity to send a gift to the Queen.
+[120:38.61]Any ideas?
+[120:39.82]Me?
+[120:40.96]Hmm, none.
+[120:41.56]Nothing.
+[120:42.75]You're useless, me.
+[120:44.29]Have you no brain to think with?
+[120:46.72]Fine, we don't need your opinion.
+[120:47.92]Just start rolling the Katamari.
+[121:09.80]Wowie's fancy shiny goldness.
+[121:15.19]Anything and everything is gold.
+[121:16.69]They call this a gold rush, yes?
+[121:18.87]Perfect age for a gorgeous king like us.
+[121:22.56]We almost forgot.
+[121:23.84]You have this much time to roll as much gold as possible.
+[121:27.63]Focus on making a fancy shiny gold Katamari.
+[121:31.23]Alright, let's go.
+[121:33.12]Give me all of them.
+[121:55.55]Give me the bugs.
+[122:02.74]I should get that and just use it right now.
+[122:26.16]Oh boy.
+[122:28.72]Watch out for the bomb I just got a cousin
+[122:56.92]What is this guy doing?
+[122:58.86]Can I talk to this guy?
+[123:00.00]Oh, he wants a bomb.
+[123:07.75]Present!
+[123:12.04]Oh, that's a lot of money.
+[123:23.47]Alright, give me this TNT.
+[123:25.35]Now bring it to the guy.
+[123:30.08]Wait, there's gold in here for sure.
+[123:40.06]Oh, shit.
+[123:48.77]I already got it, so it's going to do better.
+[123:54.12]Get up this.
+[123:59.80]Where's the guy that wants the bomb?
+[124:23.05]It's all so attractive.
+[124:31.15]Hold on, why is my monitor going to turn off?
+[124:48.24]Give me that present.
+[124:50.52]Holy, what's all that gold over there?
+[124:53.46]I got to give this bomb to that guy.
+[124:55.21]He probably lets you in.
+[124:56.01]Where was he?
+[124:57.21]I don't remember.
+[124:59.79]I'm just...
+[125:00.29]There he is.
+[125:01.05]Alright, here.
+[125:01.47]Take it.
+[125:01.73]I got a...
+[125:02.07]I have a bomb.
+[125:08.18]How do I use it?
+[125:09.58]Was I just not big enough?
+[125:23.11]I gotta get all the bombs.
+[125:24.45]Oh, shit.
+[125:37.25]Come on, give me some more gold.
+[125:39.77]You piece of shit.
+[125:41.03]I want to do this one again, I think.
+[125:42.26]No, I got two... No, I'm alright.
+[125:52.51]I just climbed it, please.
+[126:05.26]Okay.
+[126:05.38]Is there anything else I can get?
+[126:14.49]Damn it.
+[126:15.78]No!
+[126:16.70]No!
+[126:21.42]Right when I got over here.
+[126:22.67]And there's probably going to be a million...
+[126:31.76]There's going to be so much money in here.
+[126:34.11]I have one second to get in there.
+[126:39.15]Oh my god.
+[126:48.61]I did it.
+[127:00.15]Right at the last second too, damn.
+[127:13.00]Surprised I did it.
+[127:18.25]I've been asking this for years and you've never answered it.
+[127:22.45]What's your favorite cheese?
+[127:26.34]You must just show up to streams and wait.
+[127:27.76]Guys, I feel like cheese... We've talked about cheese a hundred times.
+[127:32.69]That's like one of the only things I talked about from 2017 to like 2021.
+[127:37.24]What do you mean I haven't talked about cheese?
+[127:46.72]Gouda.
+[127:47.36]Free.
+[127:48.14]Feta.
+[127:49.72]Blue.
+[127:51.62]Gorgonzola.
+[127:52.90]Swiss.
+[127:53.97]American.
+[127:54.81]Cheddar.
+[127:56.03]Havarti.
+[127:59.25]Havarti.
+[128:00.75]Oh, Havarti, yeah.
+[128:02.02]That used to drive my mother crazy.
+[128:05.18]Macadamia nut.
+[128:07.02]Oh, man, she say, y'all, stop naming nuts.
+[128:10.49]Why are you naming all these nuts?
+[128:13.17]Macadamia nuts.
+[128:23.30]Walnuts?
+[128:30.87]That's an Elite reference?
+[128:35.19]Hey.
+[128:37.95]Hey, that's a good movie.
+[128:48.76]Uh, okay, my favorite cheese is probably
+[128:53.02]Cheddar.
+[128:55.96]That's boring.
+[128:56.92]If you want the other non-boring answer.
+[129:02.47]I like Swiss cheese a lot.
+[129:05.12]I like blue cheese a lot.
+[129:07.20]And I like cheddar.
+[129:08.42]There you go.
+[129:18.88]Everyday cheese?
+[129:21.22]I would say I put...
+[129:23.38]a mild cheddar or Havarti on most of the sandwiches I would make.
+[129:30.58]I'm gonna make a turkey sandwich.
+[129:34.39]Turkey might have Swiss on it though, but...
+[129:39.77]Sometimes you go cheeseless too.
+[129:40.89]You don't have to eat cheese for every single meal.
+[129:49.72]I don't like that trend either.
+[129:53.45]Cheese on every, oh my God, it's dunked in cheese.
+[129:56.03]You make me hate cheese.
+[129:57.19]You make me not like to eat it.
+[130:00.07]Because every time I want cheese on something, I just think of those videos or those reels I've seen over the years of just like, oh, dunk the ball.
+[130:08.32]What the, oh, I love cheeses.
+[130:11.85]Cheese is so good when you dunk it.
+[130:13.47]Just, oh my God, shut up.
+[130:16.61]All of you.
+[130:18.52]Everybody here.
+[130:21.90]Your mic cut out in the middle of that?
+[130:27.75]I like cheese on stuff, but every time I think about... Like a whole cheeseburger being dunked in melted nacho cheese sauce.
+[130:37.10]And it just makes me not want it anymore.
+[130:44.07]We can rearrange our place.
+[130:55.63]What do you mean trend?
+[130:56.31]Are you for real?
+[130:57.29]It's a little kid thing.
+[130:59.36]You haven't seen the videos of people dumping giant things of melted cheese on everything?
+[131:12.03]Cheese talk.
+[131:14.88]I remember seeing this pop up all the time.
+[131:19.02]Especially a few years ago.
+[131:23.80]No, you're right.
+[131:24.64]I'm so glad there's one person that said that.
+[131:33.67]Oh, you can change it to be this.
+[131:36.53]That's cool.
+[131:46.95]I like it.
+[131:53.36]I'm gonna keep it like this.
+[132:00.85]All food videos have way too much cheese on everything.
+[132:02.72]That's what I'm saying.
+[132:03.42]I think I can go back down.
+[132:23.50]Survival, we haven't, we've rolled a lot.
+[132:25.88]Do you think it's time to up the ante?
+[132:28.77]I think we can soar to a new era.
+[132:32.69]Oh, one more level, we can do another one?
+[132:37.94]Let's do it.
+[132:38.20]Katamari Ball.
+[132:40.46]We're out of the loop these days, but it's booming in some galaxies.
+[132:45.03]You have to be clueless about Katamari Ball.
+[132:50.55]Okay.
+[132:55.02]Katamari ball?
+[133:00.39]What's that?
+[133:04.02]I bet you love goat cheese.
+[133:05.20]I hate it.
+[133:06.00]I think it's one of the most disgusting substances on Earth.
+[133:09.73]And I will...
+[133:10.61]Yes, I'm going to repeat myself every time somebody brings it up.
+[133:13.57]I don't care.
+[133:14.25]I think it is a vile, disgusting substance.
+[133:20.20]That's it.
+[133:21.20]That's all I'm saying.
+[133:24.40]That's what I think.
+[133:27.07]If you like it, that's fine.
+[133:29.89]Just don't give it to me.
+[133:40.23]I think goat cheese tastes like soil.
+[133:43.09]Like dirt.
+[133:44.63]Like actual dirt from fucking the ground.
+[133:51.65]It just tastes like dirt.
+[133:55.66]But it tastes like dirt as a flavoring.
+[133:59.00]You know when you see those guys in lab coats that are making the flavors?
+[134:04.35]This one's a strawberry banana.
+[134:06.89]This one's, oh, we perfected the smoky hamburger flavor.
+[134:11.51]What's this one?
+[134:12.17]Oh, this is dirt flavor.
+[134:13.95]It tastes just like dirt.
+[134:15.28]It's the strongest dirt flavor.
+[134:17.50]It's a little dropper.
+[134:20.17]and they put like two or three drops and it's that's what it tastes like except it tastes like drinking half the bottle it's like the strongest dirt flavor you could have and again I might have the genetic makeup because we're just repeating the conversation from like a year ago two years ago there are people that think cilantro tastes like soap and they they spit it out they think it's disgusting
+[134:50.75]And I eat cilantro and I go, this tastes good.
+[134:53.07]What are you talking about?
+[134:53.75]And they're like, no, dude, I got the cilantro puke gene.
+[134:57.14]I think I have that for goat cheese.
+[135:09.44]This conversation was two weeks ago.
+[135:11.62]I didn't even stream two weeks ago.
+[135:25.48]I could have pinned this one.
+[135:26.54]I like this comment a lot.
+[135:28.24]It's just funny.
+[135:36.79]That's a good one.
+[135:46.99]That's a straight shooter.
+[135:48.57]You know what I'm saying?
+[135:49.89]That's a straight shooter in the chat.
+[135:58.13]That's made with celery?
+[136:07.00]You really don't like celery?
+[136:12.69]Okay, we're in the same area.
+[136:18.40]I missed a lot of the context on this one.
+[136:19.70]I was too busy getting in a fight and chat about cheese and how one is good and one's not.
+[136:28.61]Okay, gold rush.
+[136:30.69]Just like last time.
+[136:34.06]We mustn't forget.
+[136:35.30]Today we want you to collect approximately this much.
+[136:45.48]Okay, so I gotta just get 561.
+[136:47.68]Alright, let's go.
+[136:52.60]Trying to get a little bigger This goose is getting me
+[137:30.34]Your katamari's as big as two of these?
+[137:37.33]More like 200.
+[137:38.37]Okay, I'm getting there.
+[137:54.57]Uh, I gotta get that crown again.
+[137:57.60]Okay, get out.
+[137:58.06]I'm wasting time.
+[138:08.46]Oh my goodness, get out of my way.
+[138:11.90]What a throw.
+[138:29.82]I think I can just get it just from this area.
+[138:31.49]I definitely can, yeah.
+[138:51.93]And now I'm stuck.
+[138:57.08]Why am I stuck?
+[138:59.14]I'm gonna get a fucking C. What a disaster.
+[139:09.22]What a disaster.
+[139:17.83]In the land of cider, let me tell you, good cider ain't got nothing on an apple cider donut.
+[139:30.59]Sounds pretty good.
+[139:36.31]Do it one more time?
+[139:37.57]Yeah, I think I can do it again.
+[139:38.60]I can do it again, but I want to see the new area.
+[139:46.47]Best part about these games is you can play them a million times and go for better scores, and that's good to go.
+[140:07.10]I made cider from scratch from apples I picked last week, and I gave the owner of the tree sourdough I made.
+[140:12.57]It felt like Stardew Valley.
+[140:19.71]That's fun.
+[140:29.19]Okay.
+[140:29.31]I think I'm ready to...
+[140:31.43]I want to see...
+[140:32.17]I love this area, but... What's the next area?
+[140:39.10]I want to play that Katamari ball as well.
+[140:51.18]Do I not have enough to go to the next area?
+[140:54.05]Oh, let me do this.
+[140:55.65]Where's the donut?
+[141:15.43]Okay, I want him to be a...
+[141:21.41]Oh you can't, okay, I was gonna say I wanna make a... like a glazed donut.
+[141:43.13]It was in this area?
+[141:44.23]Oh shit.
+[142:06.23]Where's Katamari Ball?
+[142:10.07]Wait, that's me!
+[142:25.59]This looks like Katamari Ball.
+[142:32.03]I still don't have any friends.
+[142:33.06]I see you rolling the Katamari around.
+[142:36.96]Katamari Ball.
+[142:38.40]It's a sport that used to be popular on the cosmos.
+[142:40.62]All the cousins gather for a Katamari rolling competition.
+[142:45.35]Okay.
+[142:46.59]Shall we resurrect Katamari Ball?
+[142:48.91]If you rise in the rankings, you can obtain stuff.
+[142:53.12]Okay.
+[142:54.90]You get new Katamaris.
+[143:09.58]Hey dude, I love you, but I'm scared we would hate each other IRL.
+[143:11.58]Well, that's the thing.
+[143:15.04]We don't have to care about that.
+[143:24.12]The point swap will appear under the SS Prince.
+[143:26.40]Come here with a big Katamari to exchange for points.
+[143:34.69]After a while, the SS Prince will move somewhere else.
+[143:37.00]Alright, so you gotta get stuff and deposit stuff.
+[143:39.61]Oh, shit.
+[143:40.33]Alright, well, let's go.
+[144:14.49]I think this would be kind of fun.
+[144:17.40]With real players.
+[144:22.62]Oh shit, not big enough.
+[144:42.61]How much stamina does this take, and is there a stamina way to tell if I can...
+[144:46.27]I said don't do it too much, you'll run out of stamina.
+[144:47.84]Alright, I need to deposit.
+[145:05.02]Where's the depositor?
+[145:21.37]I got two minutes to dump all this.
+[145:27.73]I think I'm out of stamina.
+[145:29.89]I spammed it too much.
+[145:30.64]I was curious to see how much I could do.
+[145:35.51]Where's the depositor?
+[145:56.81]There we go.
+[145:59.09]Wait, what is this?
+[146:03.39]Ooh!
+[146:04.86]A washtub.
+[146:11.48]I can use it?
+[146:12.54]And it...
+[146:13.02]I don't know, dibs?
+[146:18.31]I haven't made one single deposit.
+[146:22.49]Has anybody made a deposit?
+[146:35.62]It's secret.
+[146:50.30]Why am I so slow?
+[146:52.46]Oh my god, there's one right there.
+[146:56.27]Let's try it again.
+[147:02.32]I don't even know how the game works.
+[147:04.62]I just played it for the first time 10 seconds ago.
+[147:07.88]How am I supposed to know what the fuck to do?
+[147:20.21]50 points, let's go!
+[147:21.25]Number of buddies collected.
+[147:31.50]Whatever.
+[147:35.68]The wow bonus number of objects collected.
+[147:38.66]That's gotta be me, right?
+[147:42.69]Yeah, it's me.
+[147:44.09]I'm gonna win just from the bonus stars.
+[147:53.48]Yeah!
+[148:02.47]That's a fuckface win?
+[148:03.58]Oh, it sure is.
+[148:13.61]They couldn't find it either.
+[148:14.71]You can't give me shit if the other players have only dumped 20 points, 50 points, 60 points in.
+[148:21.82]Nobody deposited anything.
+[148:28.21]Ooh.
+[148:35.76]Uh, do I get more for doing it?
+[148:36.84]I'll take the reward, whatever.
+[148:43.94]Alright, we can do it.
+[148:46.54]A new era.
+[149:09.52]The Jurassic period.
+[149:13.43]I like this.
+[149:14.44]A lot.
+[149:22.47]Earth from a long, long time ago.
+[149:25.73]Dinosaurs, big trees, fossils, evolution.
+[149:28.64]Meteors!
+[149:32.48]Ammonites!
+[149:34.35]And all that jazz.
+[149:36.05]You can wander around and explore.
+[149:37.25]Don't get too lost, okay?
+[149:43.49]It's a right bumper to do that, by the way.
+[150:13.02]Get random capsule.
+[150:18.99]New expression added.
+[150:19.95]Oh, this costs king coins.
+[150:25.33]I got a new face and a new expression.
+[150:38.90]Why does this game have Steven Universe background music?
+[150:48.00]No.
+[150:51.91]I've never seen a single episode of that show, but no.
+[151:01.18]My name is Tyrannosaurus Rex.
+[151:02.54]I'm the leader of these island dwellers.
+[151:05.52]Yet as my comrades multiply, I forget their names and faces.
+[151:09.61]Would you roll a Katamari and gather us all together?
+[151:13.03]Thank you for your time.
+[151:14.23]I eagerly await your reply.
+[151:19.96]Okay.
+[151:26.39]We are delighted to be immersed in the natural setting.
+[151:32.28]Somewhat desolate, however, considering the lack of civilization.
+[151:36.78]Dinosaurs, yes, we're familiar with these.
+[151:39.13]They're very big, very big.
+[151:40.37]Well, not as big as us.
+[151:42.29]They are handsome, very handsome, but not as handsome as us.
+[151:46.57]You gonna roll up dinosaurs today, me?
+[151:49.29]In that case, we expect a very big, very handsome Katamari.
+[152:00.35]We need a very big one.
+[152:05.75]Look at how small we are.
+[152:12.66]Crawling with the wildest creatures in all the cosmos.
+[152:16.07]Such long necks they have, such spiky spikes.
+[152:20.07]Flathorah of creatures stranger than all your cousins combined.
+[152:26.62]Okay.
+[152:26.74]Eight minutes is a long time.
+[152:29.95]And we need to do as big as possible.
+[152:32.03]A ton of dinosaurs.
+[152:34.39]Is that a dinosaur?
+[152:35.20]That's a bug.
+[152:36.30]A bug is a dinosaur, right?
+[152:37.64]From like a hundred million years ago?
+[152:48.61]There was definitely some giant cockroach or something that was...
+[152:51.95]The cockroach-a-saurus Rex.
+[153:02.98]Look at all this meat.
+[153:09.11]Look at all this meat.
+[153:19.59]Alright.
+[153:20.61]Wait, the mushroom.
+[153:22.45]I'm not big enough.
+[153:23.21]They're gonna fall.
+[153:31.55]Okay, I need a lot more than this.
+[153:40.42]I'm gonna wait till I get a little bigger.
+[153:47.85]That's good.
+[153:55.20]What are these, watermelons?
+[154:01.34]Oh my goodness.
+[154:03.11]This is huge.
+[154:08.03]Loading!
+[154:11.50]Okay, 80 centimeters, we can go over that.
+[154:12.90]I'm gonna go right now.
+[154:32.17]Oh yeah.
+[154:34.85]Oh yeah.
+[154:40.68]Alright, I'll come back.
+[154:46.16]Am I big enough to get this one?
+[154:49.23]I don't think I am, but we'll see.
+[154:52.89]Freaking hell!
+[155:06.29]I camped here too early.
+[155:07.60]I might have blown it.
+[155:13.22]I'm here way too early.
+[155:14.16]And now I'm stuck here.
+[155:35.32]I have time.
+[155:36.18]It's gonna be tight, but...
+[155:38.16]Okay, that should be good.
+[155:52.19]Now I can go up here.
+[155:54.31]But we're gonna go around back.
+[156:06.58]I fucked up.
+[156:13.87]I gotta get up there.
+[156:14.68]Sharks are not dinosaurs.
+[156:35.37]Can I climb the waterfall?
+[156:36.31]Please say yes.
+[156:40.04]Hey!
+[156:42.42]What just happened?
+[156:45.60]Oh, come on.
+[156:49.29]Can I go the long way?
+[157:04.21]not big enough this is a human get up there you piece of
+[157:36.22]This one's tough.
+[157:36.77]They're really spread out in this one.
+[157:58.26]Here we go.
+[157:59.46]Should get a D.
+[158:19.85]Still not big enough.
+[158:28.26]Alright, I'm going to go all the way to the beginning now.
+[158:54.05]Now give me at least a C. 140, that's so much.
+[159:03.35]I gotta go around this motherfucker.
+[159:23.14]There's a present up there.
+[159:34.12]Can I climb him?
+[159:38.14]I don't think I can climb him.
+[159:49.00]Holy shit!
+[159:57.08]holy shit okay no crowns though that's not good
+[160:20.64]Where the hell am I?
+[160:23.14]Oh, don't get me trapped in here!
+[160:24.62]Shit, they're both too big!
+[160:37.61]Yes!
+[160:42.60]Alright, just go, go, go!
+[160:43.76]I'm huge!
+[160:49.20]Gimme S!
+[160:51.76]Give me S!
+[160:56.03]Come on!
+[161:00.46]Come on, hurry!
+[161:05.77]Hurry!
+[161:08.71]I did it!
+[161:20.98]Very cool.
+[161:22.70]I don't like the one crown, but... Alright, I'm not doing any more voices.
+[161:33.30]You're just getting regular, just chill me.
+[161:37.00]What's up?
+[161:39.37]I don't give a fuck.
+[161:50.55]Whatever.
+[161:53.81]Dude, I fucking care.
+[162:14.06]Somebody said, wow, so cool.
+[162:22.96]Oh, well, that's a voice.
+[162:38.15]Well... Start over.
+[162:47.78]Start over.
+[162:50.00]New timer.
+[162:50.64]Start over.
+[162:53.78]memory planet.
+[163:06.74]What kind of drink would you be if you were to drink a shaken up iced espresso with water?
+[163:13.90]With a little bit of sweetener in it.
+[163:16.44]An Americano.
+[163:29.94]Iced Americano.
+[163:32.11]That's it.
+[163:37.93]You'd be a Diet Coke and seltzer water.
+[163:40.08]No, I would not.
+[163:41.38]Absolutely not.
+[164:04.96]Americans can't have coffee.
+[164:09.71]What kind of take is that?
+[164:11.09]What is this?
+[164:18.80]I like espresso.
+[164:19.63]I like a double espresso.
+[164:21.59]I'll just sip it.
+[164:25.16]I like Americano.
+[164:26.44]Like iced Americano.
+[164:29.56]I like a hazelnut iced coffee.
+[164:30.96]I like a blueberry iced coffee from Dunkin' Donuts.
+[164:34.09]With half the amount of sugar you get in it.
+[164:36.95]So what that means is you're going to get a large...
+[164:39.67]This was my order for many, many years, and I've said it before.
+[164:42.50]Let's not confuse everybody.
+[164:45.48]It was a large blueberry iced coffee with almond milk.
+[164:50.37]With two sugars.
+[164:56.63]I think they normally put four or five in there.
+[165:02.92]Another Katamari Ball?
+[165:07.47]I tried it once, it was okay.
+[165:10.95]Alright, well, get a smaller one.
+[165:12.37]I don't know, people put milk in there.
+[165:17.56]That's the way I drink it.
+[165:22.30]You don't have to, okay, if you order the drink that I order, we all have very specific tastes.
+[165:28.96]It's not like a McDonald's meal, right?
+[165:31.59]It's like, oh, get the Jerma.
+[165:33.96]It's a cheeseburger with fries and there's barbecue sauce.
+[165:38.31]Like that's most people are going to like that.
+[165:41.09]A coffee order is usually pretty specific.
+[165:43.22]I want it to be half decaf.
+[165:46.40]I want it to be over ice.
+[165:48.50]I want it to be hazelnut.
+[165:50.13]I feel like it's not just like a, hey, go get a chicken sandwich.
+[165:52.99]I like the chicken sandwich at McDonald's.
+[165:54.99]It's different.
+[165:56.78]You can't go order somebody else's coffee, take a sip out of it, and go, oh, this is disgusting.
+[166:01.06]I don't like this.
+[166:01.90]Why did he tell me to do this?
+[166:03.57]Well, because that's my coffee order.
+[166:06.25]You probably have your own coffee order that you like.
+[166:20.94]Blueberry iced coffee sounds like an affront to mankind.
+[166:23.74]Alright.
+[166:28.30]Settle down.
+[166:29.19]Oh, they added blueberry flavoring to his iced coffee.
+[166:37.13]What?
+[166:38.20]God would be...
+[166:40.48]I hope God is merciful to us.
+[166:46.37]Can you roll underwater, please, your highness?
+[166:52.93]As large as possible.
+[166:55.56]This one's got to be big.
+[166:57.18]Eight minutes, it's going to be huge.
+[167:02.23]Yeah, your coffee order is your order.
+[167:05.03]You can't really order somebody else's coffee.
+[167:07.48]How many times have you taken a sip out of somebody else's coffee and gone, I wouldn't drink that whole thing.
+[167:13.89]I don't like that.
+[167:20.32]Now, if I take a bite of your double cheeseburger from Burger King, I... That's fine.
+[167:26.15]It's like, oh, can I get a bite of that cheeseburger?
+[167:28.29]Sure, let me get a bite of that chicken sandwich.
+[167:32.58]To me, you can't really change a cheeseburger or a food order to a food that I like to a point that I won't eat it.
+[167:41.09]Yeah, I mean, you could be disgusting and be like, I put anchovies and sardines in this, and you're still going to eat that with your smug face?
+[167:51.28]Most burger toppings I will enjoy.
+[167:53.69]Most coffee things I would have to be specific.
+[168:12.41]I've never been to a Burger King in my whole life.
+[168:17.80]It's fine.
+[168:19.74]I would say Burger King is fine.
+[168:37.51]I tell you, my new favorite burger place is The Habit.
+[168:43.23]That has destroyed...
+[168:44.33]Shake Shack literally took a diarrhea on itself on my tier list.
+[168:50.32]It was S+, and it fell down to D. It's like C- now, D+.
+[169:00.79]I have...
+[169:01.57]I loved Shake Shack.
+[169:03.61]I've gone three or four times.
+[169:06.46]Each time was a... just... it was just not good.
+[169:09.66]It wasn't good.
+[169:10.40]I've been to multiple locations.
+[169:15.76]I'm telling you, I get this one sliver of lettuce.
+[169:20.77]And I don't know, I just don't like it.
+[169:22.45]I used to love it.
+[169:22.95]It used to be my favorite place to eat.
+[169:24.61]I just don't, it just doesn't do it for me anymore at all.
+[169:30.70]And in my opinion, when you go to a place like The Habit, if you've never had The Habit before, it's like, it's nice, crunchy lettuce.
+[169:38.59]The tomato is great.
+[169:40.65]The burger is perfect.
+[169:41.58]It's got that char flavor.
+[169:43.32]They do it right on the grill.
+[169:46.59]I don't know.
+[169:47.37]Shake Shack literally fell completely off for me.
+[169:50.34]Down two or three letter grades.
+[169:58.51]Alright, we gotta get big.
+[170:17.10]Oh, real din, what a quirky quandary.
+[170:21.53]We need to be careful and check our surroundings.
+[170:25.22]Can I fly over there?
+[170:49.52]I want to get a tier bigger, please.
+[170:54.69]What are you doing to me?
+[171:06.85]Get off me, you snail or whatever you are!
+[171:08.59]Get off me!
+[171:34.71]These crabs I can get I think now.
+[171:50.75]There we go.
+[172:01.24]Oh stop hitting them I'm an idiot.
+[172:05.74]This is such a waste.
+[172:06.56]I'm wasting so much time.
+[172:10.21]I might not even do it.
+[172:29.29]What's my favorite sea creature?
+[172:31.99]Um...
+[172:59.30]Eels are cool.
+[173:01.73]I think it's one of the most interesting animals probably in the world.
+[173:04.35]Especially electric eels.
+[173:08.62]What a crazy animal that is.
+[173:10.28]They can literally electrocute stuff.
+[173:13.06]They have magic.
+[173:13.74]They have lightning.
+[173:14.88]They have lightning 1.
+[173:17.67]Imagine getting lightning 1. Who cares about lightning 2, lightning 3, lightning 4?
+[173:23.32]You get lightning 1.
+[173:32.51]How am I still not big enough to get this?
+[173:38.92]Okay, this is going to show, I think, where... Oh, there's a cousin.
+[173:54.18]Alright, got it.
+[173:54.52]Shows crowns, too.
+[173:55.34]That's good.
+[174:04.48]Alright, I gotta beat it now.
+[174:31.68]Alright, I'm big enough to get these.
+[174:34.66]I can pull this whole thing down.
+[174:39.21]Is it gonna crush me?
+[174:40.79]Oh fuck.
+[174:51.71]I'm not big enough to catch that?
+[175:01.21]Of all the things I can pick up?
+[175:06.19]That's a ton of fish and I just got whacked.
+[175:15.58]Holy shit.
+[175:19.16]That's a lot of stuff that I'm getting.
+[175:23.56]Please go up.
+[175:33.65]Boy.
+[175:36.48]Alright, I gotta start steamrolling here.
+[176:04.56]Two crowns?
+[176:05.14]Where's the last one?
+[176:15.11]Alright, I'm gonna go up to the island.
+[176:27.57]Alright, I got them all.
+[176:35.54]I got a lot of time too, I should- I definitely should S. Oh shit, I got the- what is that, a statue?
+[177:06.86]Alright, let me go back up again.
+[177:07.80]I want those other lily pads.
+[177:36.71]260?
+[177:37.51]I don't think I'm gonna get it.
+[177:39.24]I got the big fish!
+[177:48.22]Can I get the castle?
+[177:51.39]Oh!
+[177:55.51]It's not going to be enough.
+[178:09.95]It's going to be close, but it's hard.
+[178:19.94]Oh, Glug.
+[178:20.90]How nice, Glug Glug.
+[178:28.82]Explain fruit-flavored coffee, please.
+[178:44.70]Hey, as a human, you have a sensory profile.
+[178:53.58]It's putting interesting flavors into interesting things.
+[178:59.43]You're having your senses be...
+[179:06.23]It's...
+[179:07.37]I don't know.
+[179:07.79]It tastes good, and I like it.
+[179:13.46]There you go.
+[179:31.38]That's a Bugs Bunny 2028 take.
+[179:43.21]My slogan is, it tastes good and I like it.
+[180:02.75]And everybody thought my VP...
+[180:04.29]I'm announcing my VP pick.
+[180:06.84]Everybody thought it was going to be Porky.
+[180:09.90]Because he's analytical.
+[180:12.28]And likable.
+[180:21.46]But my actual VP pick today...
+[180:27.05]I'm announcing...
+[180:34.78]Sounds like the Poke TTS.
+[181:00.52]Yeah, it's Superman, Doc.
+[181:06.37]He flies in.
+[181:11.66]Greetings citizens.
+[181:33.50]I'm waiting to see...
+[181:42.92]I was seeing how much leeway I was going to get with that.
+[181:51.39]It's Superman and he flies in and says, greeting citizens.
+[181:55.01]I saw at least two or three plus twos to that.
+[181:58.19]I saw quite a couple of minus twos.
+[182:00.35]A lot of you just didn't care.
+[182:01.43]And it's, yeah, multiverses.
+[182:11.52]That's funny.
+[182:12.16]Scroll up.
+[182:12.82]Scroll up.
+[182:13.34]A lot of you just didn't care.
+[182:18.85]Sometimes when I say something to people, ah, come on, man.
+[182:22.07]-2.
+[182:22.59]There was like three minus twos.
+[182:24.11]I think, how many people are just not even paying attention anymore?
+[182:27.94]Wait, what?
+[182:33.76]Wait, he -2'd?
+[182:35.48]What?
+[182:35.70]How did I fucking miss that?
+[182:42.06]I get it.
+[182:44.66]I'm totally cool with being your background sound for your school project or your work evening, late night at the lab, you know, mixing chemicals and stuff, making all new, curing illnesses, saving our world with all the smart stuff that you're doing.
+[183:22.04]You got that surgery tomorrow in the morning?
+[183:25.81]You're a heart surgeon.
+[183:38.28]Okay, 4 minutes, 15 centimeters.
+[183:41.58]Alright, let's go.
+[183:44.77]We need... these.
+[183:50.57]I love that.
+[183:51.05]It's the best part of this game.
+[183:54.78]I'm not going to use this yet.
+[184:08.24]Can I already pick up the cards?
+[184:16.71]See, look.
+[184:17.17]He's got a perfect...
+[184:18.96]Hold on.
+[184:24.21]He's just knocking this one out of the park immediately.
+[184:36.41]Where am I going?
+[184:41.03]Surprising up here.
+[184:46.28]I'm not big enough to get it.
+[184:47.32]Shit.
+[184:51.67]That's not good.
+[185:14.13]Daylight savings ended 10 minutes ago?
+[185:15.95]What are you talking about?
+[185:16.91]Did it really?
+[185:18.49]No, it didn't.
+[185:20.11]I hate that.
+[185:20.61]That sucks if that's true.
+[185:25.66]This is for Europe?
+[185:26.60]Oh, okay.
+[185:43.12]Alright, I gotta get underneath that thing.
+[185:44.50]15 centimeter already?
+[185:47.90]We asked for a 15 centimeter cut to Mari.
+[185:53.95]I'm playing the Guess Who game.
+[185:56.43]Oh, okay.
+[185:57.13]Sometimes they make it exact and I'm hoping I didn't miss that.
+[185:59.57]Alright, where's that other crown?
+[186:14.00]It's underneath this blanket right here.
+[186:19.19]Alright, we should get ass on this one.
+[186:28.94]There's a shitload of stuff up here.
+[186:38.48]Yikes.
+[186:41.61]Oh my goodness, I just picked up like the whole entire room in a second.
+[186:46.43]That was awesome.
+[186:59.71]I'm too big.
+[187:00.25]I picked up the thing that I wanted to roll on to get over there.
+[187:10.82]Alright, just kind of roll around, wherever.
+[187:19.95]Come on, I'm stuck.
+[187:22.79]Don't be stuck, come on.
+[187:24.64]Come on, I could make this so much bigger.
+[187:35.93]Alright, we're good.
+[187:49.75]Kinda got almost everything.
+[187:57.86]Five hundred and ninety-two.
+[188:00.76]I didn't get the present!
+[188:01.68]Shit!
+[188:03.23]I saw it in the very beginning and I forgot about it.
+[188:05.33]How is this pose?
+[188:14.58]Is it pleasing to the eye?
+[188:16.25]Maintaining a cool aesthetic is a must.
+[188:18.39]Should take notes, me.
+[188:22.13]That's the biggest one yet.
+[188:30.70]34 centimeters.
+[188:31.92]Enormous.
+[188:36.77]This Katamari is not only large, but also certifiably stylish.
+[188:42.81]Hmm?
+[188:43.72]It's cousin Lala.
+[188:46.64]What were you doing on Earth?
+[188:48.78]You were imitating Mitarashi Dango.
+[188:53.18]We have no idea what you're talking about.
+[188:54.68]Thank you.
+[189:17.87]You know, it's simple things in life, right?
+[189:20.69]To enjoy.
+[189:26.59]Mladla in 2025, let's go.
+[189:29.76]Wait, I'm sorry, I wasn't paying attention.
+[189:36.81]Planet or planet dust?
+[189:38.85]Oh, we want it to be a planet because it's bigger than this.
+[189:43.50]Look at how much I improved.
+[189:46.70]Replace this planet.
+[189:59.11]How many king coins do I get?
+[190:09.40]Just one?
+[190:09.84]I wanna look around.
+[190:28.44]This is blocked.
+[190:29.18]Okay.
+[190:31.80]A Diablo II Paladin Scepter.
+[190:42.08]I bet you can eat all the snacks in the world.
+[190:44.60]I want to eat tons of snacks and grow big like you.
+[190:46.85]Help me get big.
+[190:47.47]Come on, teach me how.
+[190:52.05]Six minutes for 50 centimeters.
+[190:56.86]Let's do it.
+[191:00.43]What does this game come out for?
+[191:01.60]It's on Steam.
+[191:03.64]I think it's on everything, isn't it?
+[191:06.95]I'm pretty sure it's on all the major consoles.
+[191:09.36]I know it's on Steam for sure.
+[191:12.94]We crave sugar.
+[191:13.77]Oh, it's a piece of candy.
+[191:16.35]Oops, it's only you, me.
+[191:19.94]Only if these are 50% sweet sugar candies.
+[191:53.88]But no, I don't care how much sugar is in candy, because it's candy.
+[192:00.59]Listen.
+[192:02.95]A Reese's is sugar to me.
+[192:05.69]That is, I know I want that.
+[192:06.99]It's sugar.
+[192:07.51]A soda has turned into candy.
+[192:12.04]I want my soda to be quenching, to be a little bit of bite on it, to be satisfying, to be sippable.
+[192:19.67]I don't want it to be candy.
+[192:25.72]Alright, let's see.
+[192:28.16]It's going to be pretty big, but I got a lot of time.
+[192:29.87]Let's go.
+[192:31.91]No, it's not.
+[192:32.83]It's finally happened.
+[192:33.53]We're being ignored.
+[192:36.03]How can we believe anything anymore?
+[192:38.82]Oh, no.
+[192:39.28]Now I feel bad.
+[192:56.87]Reese's?
+[193:00.06]Yeah, it's fine.
+[193:04.21]It's Reese's.
+[193:08.56]It's however I read it on the fucking box, because it's...
+[193:11.62]The king size is going down, okay?
+[193:15.47]I don't care what you call it.
+[193:26.00]I actually don't really love Reese's anymore.
+[193:41.37]I don't know.
+[193:41.69]Maybe it's because I've gotten a little older, but it kind of tastes different.
+[193:44.77]It doesn't taste the way that I wanted it to.
+[193:51.24]The last couple times I've had it, it was just like, eh, don't really...
+[193:54.13]Sorry.
+[193:56.11]You know what, I'll tell you what is... And this is a true statement.
+[194:00.12]Saltwater taffy.
+[194:02.40]Holy shit.
+[194:04.39]It's the greatest candy in the world.
+[194:06.51]Saltwater taffy S tier.
+[194:11.02]Now, obviously, I'm from New England originally.
+[194:13.40]This is a big deal over there.
+[194:21.72]A nice bag of saltwater taffy.
+[194:24.72]What flavor?
+[194:25.33]How can you choose?
+[194:28.15]Honestly, how could you choose?
+[194:33.08]I love a nice...
+[194:34.54]I love a banana saltwater taffy.
+[194:40.07]I love the combos where it's kind of with the stripes on it.
+[194:48.97]Watermelon, saltwater taffy, oh my goodness.
+[194:54.62]Lemon.
+[194:58.29]Ah, lemon's alright.
+[194:59.79]I don't think we really had too much lemon in saltwater taffy.
+[195:03.86]Lemon.
+[195:06.93]But yeah, watermelon and...
+[195:08.29]They do some interesting ones too.
+[195:15.40]I feel like I've had a brown sugar one before and it was insane.
+[195:19.42]Neapolitan?
+[195:20.12]Yep.
+[195:24.39]I'm landlocked.
+[195:25.13]Are the ones in the grocery store the same?
+[195:28.72]Uh...
+[195:30.02]I would say...
+[195:32.74]I don't think you gotta be, like, a candy snob.
+[195:36.21]And, sure, you could say that the stuff from New England or New York or... Is it better?
+[195:45.13]I think, yeah, it is.
+[195:47.05]But is it better to a point of being... Well, no, you can only get saltwater taffy from Boston.
+[195:53.06]No.
+[195:54.22]It's good.
+[195:55.02]I'm sure it's good.
+[196:02.67]Saltwater taffy originates in New Jersey.
+[196:06.21]Yeah, I would believe that.
+[196:09.66]From the beach, right?
+[196:11.42]One of the boardwalks?
+[196:14.50]Got to kind of speed this up here.
+[196:29.67]Taffy pulling machine, it's so cool.
+[196:36.28]I know it would ruin the whole batch, and no one could eat it, and that would be disgusting, but don't you just so badly want to just, right when it's done being cold, just get it with your bare hands.
+[196:47.60]Machine, turn the machine off, and just, like, pull it with your hands, just bite into it Willy Wonka style, like you're about to get sung to from a guy in a top hat.
+[197:10.40]I love that stuff.
+[197:19.73]I'm a little too big.
+[197:20.74]I would love to...
+[197:22.64]Okay, whatever.
+[197:23.02]I'm going this way.
+[197:31.15]There we go.
+[197:33.57]There's a ton of shit concentrated right there.
+[197:39.08]Okay.
+[197:41.13]only a minute come on
+[198:13.51]Oh hell yeah.
+[198:27.53]No crowns at all.
+[198:30.63]That's crazy.
+[198:46.67]No crowns is crazy.
+[198:55.73]So much stuff in there.
+[199:05.72]Okay!
+[199:09.17]Thank god he stopped talking about American food.
+[199:14.65]What would you classify as American food?
+[199:17.44]A hot dog?
+[199:18.90]When did I talk about a hot dog?
+[199:23.79]Saltwater taffy?
+[199:25.11]You're doing the American thing with saltwater taffy?
+[199:29.05]Have you ever had it?
+[199:32.30]I'm sorry, I'm going to have to fight for America here.
+[199:35.18]If you're going to say don't, oh man, American food, gross.
+[199:38.03]Saltwater taffy?
+[199:40.29]I'm sorry.
+[199:42.55]We're gonna have to stand up here.
+[199:44.09]Because it's fucking unbelievable.
+[199:45.61]You need to have it.
+[199:52.78]Saltwater like the sea?
+[199:57.67]Yeah, I mean...
+[199:59.33]I don't think they use saltwater from the beach, but... Saltwater taffy.
+[200:06.68]You're gonna piss off your whole audience with that one.
+[200:09.85]I- Salt American food is good!
+[200:11.95]I'm not gonna hear the, like, oh, well, he likes coffee from America.
+[200:16.42]It sucks.
+[200:21.14]He likes saltwater taffy.
+[200:22.14]Has he ever had a Jerma chocolate cake before?
+[200:26.15]I'm sure it's unbe- yeah, I haven't.
+[200:29.23]It's great.
+[200:30.23]Holy shit, it's unbelievable.
+[200:31.61]S tier.
+[200:33.20]But you ain't ever gonna beat my saltwater taffy.
+[200:35.40]I'm sorry.
+[200:38.83]Don't let Bugs Bunny hear that.
+[201:02.11]Jerma chocolate cake originated in America, by the way.
+[201:05.45]Well, whatever, I was just picking out a random country.
+[201:19.24]A really good baklava, though, I go crazy for.
+[201:23.53]A good one.
+[201:26.65]Cheesecake?
+[201:28.37]You can't get...
+[201:29.17]Okay, American cheesecake?
+[201:31.18]New York cheesecake?
+[201:34.26]Huh?
+[201:45.52]You can't tell me that Americans don't... Let me tell you about America.
+[201:48.86]Okay?
+[201:50.00]Yes, we've got the hot dogs and the hamburgers and the... And it's... Everything's covered in fucking sauce and everything has to be salted and everything has to take... American desserts.
+[202:00.42]They're crazy.
+[202:02.92]And I think they are the top of the food chain there.
+[202:07.45]The pies, American pie, American different cakes, American confectionary stuff.
+[202:17.51]I don't know if you can beat America when it's coming to desserts.
+[202:34.59]Yeah, chocolate we're gonna lose every single time.
+[202:37.23]That's fine.
+[202:54.46]A really good pecan pie is literally unbeatable.
+[202:58.08]Or an apple pie.
+[203:02.14]You want that jokey, like, oh my god.
+[203:04.51]Oh my god thing.
+[203:06.23]Just feed somebody a nice hot apple pie with a scoop of vanilla ice cream.
+[203:09.37]Vanilla bean ice cream.
+[203:11.15]And just...
+[203:12.68]It doesn't matter what else you're putting it up against.
+[203:14.32]And I don't even really like apples.
+[203:16.48]I don't really even love apple pie.
+[203:22.29]But that hits so different.
+[203:26.19]Something about it.
+[203:27.85]Especially when you get a good one.
+[203:32.27]He's been talking about this for at least an hour.
+[203:33.83]What stirs here?
+[203:34.63]American propaganda suck up more to Uncle Sam.
+[203:42.06]Cheesecake is like your favorite food.
+[203:43.92]What are you talking about?
+[203:46.99]Isn't cheesecake like number one on your tier list?
+[203:50.83]A New York style, New Jersey style cheesecake?
+[203:57.94]That's like your favorite food.
+[204:01.51]Cheesecake originated in Greece.
+[204:05.52]I don't give a...
+[204:06.28]I don't give a rat's ass, alright?
+[204:07.94]I like the one from New York.
+[204:22.40]Noise gate?
+[204:27.25]What is wrong with my mic?
+[204:31.48]I got too close?
+[204:35.45]Whatever.
+[204:38.97]Your laugh is cutting off too?
+[204:40.67]Hey, it builds personality, whatever.
+[204:42.62]Don't worry, you got all of November to fix it.
+[204:46.92]Alright, I'm gonna be gone for a little while.
+[204:48.94]I'm getting fucking roasted right now.
+[204:59.14]Okay.
+[204:59.78]So...
+[205:02.30]I do think American desserts... And look, the American version of them, okay?
+[205:07.59]Sure.
+[205:08.49]If you want to tell me, you want to push the glasses up and you want to say, well, you know, the thing is, sugar was actually invented.
+[205:15.18]The first sugar that was ever...
+[205:16.67]They pulled it from a spot.
+[205:18.65]It was in India.
+[205:19.29]There was a spot in India that they pulled it from originally.
+[205:22.26]You know, I... Look...
+[205:23.98]I don't know where it all comes from, but when the Americans decided to make their version of whatever it is, I like it the most.
+[205:37.43]No, I said cheesecake is a pie.
+[205:38.87]That's all I said.
+[205:40.51]Where would you put cheesecake on the dessert tier list?
+[205:49.04]America makes everyone's food better.
+[205:50.92]I am going to disagree with that one, though.
+[205:55.73]I cannot say yes to that.
+[205:57.63]I disagree with that.
+[206:06.58]What did he say?
+[206:06.94]Did he say anything?
+[206:12.55]America invented Chinese food.
+[206:16.54]Dude, what are you talking about?
+[206:26.21]It's kinda true.
+[206:27.17]I love Chinese food.
+[206:40.35]It's so good.
+[206:44.15]Okay, am I...
+[206:47.35]I love crab rangoons.
+[206:50.36]Crab rangoon is like one of my favorite.
+[206:52.76]I love it so much.
+[207:01.03]He's a Crab Rangooner.
+[207:02.97]Okay, dude.
+[207:06.41]I will tell you that nothing in my life has ever hit harder than a spring roll for Crab Rangoon dipped in that hot Chinese mustard.
+[207:17.81]Nothing in my life has ever hit the same.
+[207:20.71]Ever.
+[207:21.03]In my whole life.
+[207:24.38]A spring roll...
+[207:26.34]right into the hot Chinese mustard and you get that oh it makes you feel alive man oh it's the most one of the most okay you have to understand it it's very bad for if you don't like vapor type heat don't do it and do try it very lightly if you can oh jervis said to do this I'm gonna try hot Chinese mustard
+[207:51.94]I don't know why I made you like a dork, but just hear me out.
+[207:55.92]Do a little.
+[207:56.83]Do a little bit.
+[207:59.29]Because if you do too much, it actually, it hurts a lot.
+[208:01.81]It can really fuck you up.
+[208:07.66]Uh, but I love that stuff.
+[208:09.32]What does it say?
+[208:09.91]Dude has never left the USA for real.
+[208:12.35]Why are we turning this on me?
+[208:13.37]I just asked you if you put cheesecake in S tier.
+[208:16.34]Why is it like, well, you've never left the country.
+[208:19.19]You're doing the thing that I'm talking about.
+[208:20.80]You're doing the thing where, well, you know, you've never left the continental North America before, so do you even really know what a cheesecake is?
+[208:31.98]You just did the thing.
+[208:47.58]USA food is shit, is their point.
+[208:51.92]No, dude, what are you talking about?
+[208:55.49]So many people...
+[208:56.75]I'm talking... Let's talk about the early years.
+[208:58.47]So many people came to America to, like... And they made so many great things, so much wonderful food, so many different innovations.
+[209:10.39]I'm a food guy, okay?
+[209:12.31]I'm a big food guy.
+[209:23.76]like Irish immigrants, Italian immigrants, Mexican immigrants.
+[209:28.90]And they made this wonderful, Chinese immigrants, they made this wonderful shit.
+[209:33.11]They made such great fucking delicious things.
+[209:36.28]And sometimes they had to make up stuff.
+[209:37.88]They had to create a fucking new environment.
+[209:44.75]Hey, can you play the game?
+[209:46.18]Okay.
+[210:01.02]If those aren't Americans, hey, I'll tell you something.
+[210:07.20]America is a big, big place.
+[210:11.03]And it's a lot of different people.
+[210:17.46]And if you're an immigrant, and you came here, and you're an American citizen,
+[210:25.97]You are as American as anybody else.
+[210:29.20]In fact, if you came up with the fucking Crab Rangoon...
+[210:35.00]Uh... Hell yeah.
+[210:54.19]Uh, I can go to a new place, right?
+[211:05.60]Please play the game.
+[211:06.67]I'm talking!
+[211:07.51]Uh, is there something I didn't do in this one?
+[211:17.12]I did not.
+[211:17.48]Okay, this one here.
+[211:21.46]Okay, 50 centimeters as fast as possible.
+[211:35.34]Interesting.
+[211:47.89]Making stars from catamaris is a tough job, you know.
+[211:57.42]Perhaps we should take a break to enjoy some snackies.
+[212:07.49]Today we brought a fan favorite, the Queen's famous cookies.
+[212:13.16]What?
+[212:13.50]Me?
+[212:13.86]Why are you staring at us like that?
+[212:15.37]You want cookies too, don't you?
+[212:16.47]You can't fool us.
+[212:18.39]Okay, trade us a Katamari and you can have some.
+[212:22.41]Take a break for some crab rangoons.
+[212:28.84]I love crab rangoon.
+[212:36.78]Think of a lot of Italian cuisine that you like in America.
+[212:42.07]Correct me if I'm wrong, wasn't a lot of that stuff that the Italian immigrants were trying to throw some stuff together to make work?
+[212:58.49]Old recipes that they could maybe turn to different things and different records because they, you know, stuff that could be affordable and...
+[213:09.52]I think it was, it was, it was pretty tough, right?
+[213:14.74]That's literally any food.
+[213:26.64]A lot of modern Italian food is fairly new.
+[213:28.46]Italy didn't even have tomatoes until around 2019.
+[213:30.59]That's a lie.
+[213:37.89]talking about that's just the type of shit that you're just gonna try to you're gonna okay you're gonna write that and there's gonna be 40 replies underneath you you're just that Ken m guy used to do that shit you just okay you're doing the Ken m and you know what that was pretty funny you did you did good
+[214:01.10]Ken M, the best thing from Ken M ever was when he said...
+[214:06.10]It sounded like an airline thing.
+[214:08.02]He's like, oh, you know, Delta Airlines is doing whatever and they're cutting back on this.
+[214:12.39]And in the comment section, I'm going to pair, I don't remember the whole thing, but he says something like, he was a comment troll.
+[214:18.49]And he wrote, it was like under a Yahoo article.
+[214:21.68]Which, by the way, what are you doing in the comment section of a Yahoo article?
+[214:26.20]So he would just go in there and just fuck around.
+[214:30.24]And I think he said, oh, man, it's really terrible what's going on with the airlines nowadays.
+[214:35.23]They made me, my wife, and a bunch of two or three other passengers split soda from the same can.
+[214:40.86]We had to drink out of the same damn can.
+[214:44.48]And it's like, what the fuck are you talking about?
+[214:49.53]Oh, and they made us, they gave us old expired peanuts.
+[214:55.60]And then underneath that is just people replying to him, just being like, you are... What are you talking about?
+[215:01.49]That didn't happen.
+[215:02.39]Like, no way.
+[215:03.01]Are you serious?
+[215:03.77]I got an A. I didn't get tomatoes till 2000.
+[215:19.61]Okay, but you have to be a little bit more believable than that.
+[215:23.63]you 2019 is way too ridiculous if you said like 1970 19 like 75 it'd be like wait what hold on that's old enough to be kind of old but it's not 2019 man you can't say that one that no one's gonna believe that even 1970 is too outlandish
+[216:08.11]I hate to be that guy, but it was like the 16th century.
+[216:17.95]We got a new cousin.
+[216:20.43]Alright, I want to play a level I haven't played yet.
+[216:23.73]I'm going to take a break from talking.
+[216:27.32]The name Mario was invented in Japan.
+[216:29.06]Desert Stomach Satellite.
+[216:40.57]Are you going to fix your SEGA CD's knots on your face?
+[216:44.85]Thanks a lot, Ken M. Of the future.
+[217:01.83]Okay, how do I get back?
+[217:02.34]I want to go back to the dinosaur period.
+[217:10.29]Okay.
+[217:13.34]I think there's gonna be a big one.
+[217:19.91]Uh, okay, gotta be...
+[217:23.49]There's no...
+[217:27.20]It's just six minutes.
+[217:42.50]Pastor says the dinosaurs were made as a test for our belief.
+[217:57.24]He said that God wanted to test if we could see how fossils work.
+[218:06.75]Huh?
+[218:08.11]Wait, where'd you get that?
+[218:09.67]Did your pastor say that to you?
+[218:12.23]Oh, that's Ken M. Oh, shit.
+[218:19.97]What the fuck, dude?
+[218:21.19]It's so easy to just read wrong shit.
+[218:24.71]Be careful out there, guys.
+[218:25.97]Seriously, it's so easy to just read something that's just like, what the fuck is that person saying?
+[218:35.94]Favorite dinosaur?
+[218:58.96]Uh, the one that can fly, because of what?
+[219:04.21]Can you believe something that big could fly around?
+[219:13.31]Wait a minute, where are we?
+[219:14.42]The castle?
+[219:15.00]Wow, it's snazzy.
+[219:16.46]Not as snazzy as our castle though.
+[219:19.19]That armor is snazzy as well.
+[219:20.87]Want to try it on right now?
+[219:22.25]In that case, eat your heart out.
+[219:25.14]You'll get bigger with every bite.
+[219:28.10]You have this much time to eat as much as you can.
+[219:31.34]Me, this is where you come in.
+[219:32.68]Roll him until he's nice and plump.
+[219:35.29]You're going to look so handsome in that armor, noble youngster.
+[219:37.91]140 kilograms.
+[219:48.74]I missed those lemons, or limes.
+[220:04.24]Alright, you can still do that.
+[220:37.83]Oh my goodness, he is getting bigger.
+[220:45.88]All the eating sounds.
+[221:03.82]I'm only 500 pounds, feed me more!
+[221:12.13]I've got the 700 pounds!
+[221:25.61]I can be bigger than that!
+[221:35.11]Come on!
+[221:50.49]Alright, we're going up.
+[221:52.94]Oh, has something begun?
+[221:53.82]Curious.
+[221:54.52]Very curious.
+[221:55.12]Guess what?
+[221:55.54]The armor has moved.
+[221:57.39]Your body is still slim and small.
+[221:58.75]Please go eat.
+[222:10.31]I want that magnet.
+[222:22.50]Sorry, dog.
+[222:26.91]Now we're going to go back in.
+[222:34.72]Hello.
+[222:43.52]No, don't get stuck.
+[222:51.06]Did you ate someone?
+[222:56.78]Okay, I'm 134.
+[222:57.59]I gotta get up there.
+[223:03.59]I'm on the roof?
+[223:08.98]Whoa, that's cool.
+[223:17.11]I want that helmet!
+[223:18.36]It's a crown, whatever.
+[223:23.02]I got a ton of time.
+[223:42.73]Get everything up here.
+[223:55.43]What does that person have?
+[223:56.37]What are they holding?
+[224:06.49]Alright, I'm gonna be S. I can go bigger than that, though.
+[224:14.10]Okay, I'm gonna go back in the house.
+[224:19.23]I've got pretty much everything big from here.
+[224:21.49]How do I get back in the house?
+[224:39.83]Can I knock it in?
+[224:41.91]I think I'm up here until the end.
+[224:46.28]I don't see a way to go back in.
+[224:47.38]Dude, imagine the ants, somebody says.
+[224:54.21]Is there a ladder or something?
+[225:02.90]Oh, right here.
+[225:06.26]No, wait, how do I get back in?
+[225:12.05]I don't know how to get in.
+[225:19.09]Oh shit, right here.
+[225:25.14]Oh, I had time!
+[225:26.46]I wanted to get everything in here.
+[225:31.57]Oh, I got acid, it's fine.
+[225:55.30]That was a good, um...
+[225:58.26]I like that song.
+[225:59.08]It was good.
+[226:09.26]Fabulous.
+[226:11.56]So we're sending them up to space?
+[226:12.64]That's kind of... crazy.
+[226:19.81]Good work, me.
+[226:21.18]The noble youngster seems very pleased, having been properly rolled up.
+[226:26.77]Throw him up there.
+[226:36.12]Sushi roll star.
+[226:44.27]I want to see one more area.
+[226:47.84]Which I think is right now.
+[226:53.10]Alright, it's ready to go.
+[226:55.88]Instead of nagging all the time, let's hop over to the next era.
+[227:05.97]So if you missed the beginning of the stream, the 30th, we're doing a little Halloween stream.
+[227:13.89]I've got some bleeding candles.
+[227:16.90]I'm going to play Dracula games, specifically for the SEGA CD.
+[227:22.90]It should be a really, really swell time.
+[227:30.47]Now we got Dracula, Frankenstein, and Dracula Unleashed.
+[227:34.90]And maybe one or two others.
+[227:40.74]The Past.
+[227:41.54]Perfect setting for a voyage at sea.
+[227:44.39]Sailboats, pirates, parrots, coconuts, skulls, treasure chests, compasses, whales, and all that jazz.
+[227:51.76]Alright, let's see.
+[227:52.68]Here we go.
+[228:07.06]Can you swim?
+[228:09.94]Oh, you fly.
+[228:10.94]I need one more coin.
+[228:30.72]Alright, I'll do this one.
+[228:35.10]Ah, the vast, vast sea, stretching as far as... Oh, were you eavesdropping?
+[228:43.61]Ahoy, I be this ship's captain.
+[228:45.16]Do you adore this?
+[228:46.88]One problem, though.
+[228:47.68]There'd be nothing to do out here.
+[228:50.84]Ah, a Katamari, your highness.
+[228:52.27]Entertain me with a Katamari.
+[228:54.87]One the size of the sea.
+[228:56.63]Impossible?
+[228:57.27]Ah, I suppose so.
+[228:59.74]On that case, I'll take the biggest you have.
+[229:01.92]As big as you can go.
+[229:04.82]1.8 meters.
+[229:10.70]Let's see a spawning point for new beginners.
+[229:16.09]Mother Nature, origin of primordial life.
+[229:20.40]And standing atop these vast waters, a teeny tiny dot named me.
+[229:25.74]A Katamari as large as the sea?
+[229:27.11]Impossible.
+[229:27.65]You must be joking.
+[229:29.59]An ocean-sized Katamari?
+[229:31.31]Absurd.
+[229:32.77]Right, me?
+[229:33.15]Maybe a pool-sized Katamari would suffice.
+[229:37.76]Only one way to find out.
+[229:38.82]Let's try it.
+[229:40.62]Hurry up and dive in.
+[229:52.63]It's cute that it's on the boat.
+[229:56.29]It's so dirty, there's so much shit everywhere.
+[230:11.64]The sea!
+[230:12.90]Oh, the relaxing sound of waves.
+[230:16.24]Oops, I fell asleep.
+[230:17.88]So relaxing, we nearly drifted off.
+[230:19.81]No sleeping, no sleeping.
+[230:23.78]seven minutes for almost a two meter sized katamari if you can manage that be nice okay this song is kind of crazy
+[230:56.03]Alright, let's get down from here.
+[230:58.47]All these guns.
+[231:14.79]I can't pick up the whole coconut, that's weird.
+[231:24.78]Adventure with me?
+[231:30.27]No, I'm more of a hobbit now.
+[231:33.35]I just want my book.
+[231:34.91]And my tea.
+[231:38.38]And my SEGA CD.
+[231:42.02]That's all I want.
+[231:45.11]I want your adventures.
+[231:56.44]Are we going to do a Lord of the Rings watch party?
+[232:07.97]We're never going to do that.
+[232:24.50]...
+[232:26.49]Alright, do you guys- press 1 in chat if you think you can handle the 1 ring.
+[232:35.99]Bunch of liars.
+[232:36.62]Oh my god.
+[233:01.80]Okay, now press 2 in chat if you think you can handle the one replica ring made out of stainless steel tainted that you point towards people, holding your index finger down, aiming it as if you were shooting a laser beam out of it.
+[233:25.75]Okay.
+[233:27.16]I'm not so sure about that.
+[233:30.52]May the Schwartz be with you.
+[233:58.53]I can't be up here yet I'm getting stopped out I'm getting stopped I'm getting crushed out I'm getting attacked
+[234:22.21]Oh, onion rings.
+[234:40.73]Onion.
+[234:54.10]Alright, should be big enough to pick up most of the stuff up here now.
+[235:02.55]Uh-oh.
+[235:03.93]Jump to the next ship?
+[235:12.28]Okay, would my viewer satisfaction rate go up if there was a button that I pressed that was one of the three things that you guys like?
+[235:21.61]Like, every 20 minutes, a sound just played that said, Onion ring!
+[235:27.34]Or, like, la-la.
+[235:28.96]Or, oh, shpee!
+[235:30.76]Would I get extra points for doing that?
+[235:32.65]I'm not going to.
+[235:34.41]I'm disgusted by that notion.
+[235:36.27]It disgusts me.
+[235:37.74]I'm not doing that.
+[235:39.46]Um, but...
+[235:41.64]Curious.
+[235:43.67]I got a cousin.
+[235:51.31]No crown.
+[235:57.92]I'm actually picking up the boxes.
+[235:59.28]What is this?
+[236:08.43]I should get the steamroll a little bit here.
+[236:14.28]Can I get those barrels?
+[236:22.52]I want that crop.
+[236:30.28]Get out of my way!
+[236:37.33]What am I hitting?
+[236:38.85]What is happening?
+[236:39.63]I have to be a little bit bigger.
+[236:46.36]Come on.
+[236:51.94]Here we go.
+[237:12.82]Crown right here.
+[237:20.19]Head back to the other ship probably.
+[237:23.90]Where's this last crown?
+[237:48.52]Probably up.
+[237:48.78]Oh.
+[237:53.67]Give me the tables.
+[238:00.16]Probably in the crow's nest.
+[238:02.54]Shit.
+[238:09.10]Give me the outhouses, I can get those too.
+[238:13.38]No.
+[238:34.42]Alright.
+[238:35.40]I did good.
+[238:40.65]You're done?
+[238:41.23]Oh, okay.
+[238:42.65]Wowies, what a fine Katamari.
+[238:44.38]Chop, chop.
+[238:44.88]Let's skadoodle.
+[238:52.65]Grab Rangoon was invented in Oakland, by the way.
+[238:57.18]That's fine.
+[238:57.52]I don't care where it was invented.
+[239:13.28]That's all fake-ass Chinese food?
+[239:22.76]Hey, I like authentic Chinese.
+[239:25.30]I like authentic Thai.
+[239:26.91]I like authentic Japanese.
+[239:28.85]I love that stuff.
+[239:44.21]One of my favorite things is I love a pad thai, a good pad thai.
+[239:48.70]I like a drunken noodle.
+[239:50.93]I really, really love a.
+[239:55.23]Uh, like a cashew chicken.
+[239:57.98]With that sauce and all the vegetables.
+[240:00.96]Oh my goodness gracious.
+[240:12.83]I don't want to be negative, but Japanese curry is whack.
+[240:19.22]I disagree.
+[240:19.85]You get that katsu chicken with the little potato, the little crunchy potato pieces.
+[240:38.40]I think people are just typing shit.
+[240:42.53]That's funny.
+[240:44.40]You're whack.
+[240:51.44]Everybody's got their food heavyweights, okay?
+[240:54.43]There's so many...
+[240:56.11]Here's what you should be happy about.
+[240:57.47]There are so many different kinds of food.
+[241:00.37]And so many different types of way to prepare it and eat it.
+[241:02.96]So many different cultures around it.
+[241:04.34]You should be ecstatic that there's that much shit to consume.
+[241:08.70]That there's that much... That many things to experience if you want to.
+[241:15.93]I love cream of wheat.
+[241:17.43]I've been really into cream of wheat.
+[241:19.08]But if we all just ate cream of wheat every day... That sounds actually kind of good.
+[241:26.07]I'm a cream of wheat guy.
+[241:30.87]Chopped up strawberries in there.
+[241:51.00]I like a dense cream of wheat.
+[242:21.54]Hey, would you eat cat food for $50?
+[242:23.42]No.
+[242:24.42]And neither should you.
+[242:36.64]The SS Prince's floatie.
+[242:44.10]Another arrow.
+[242:46.61]We just got here.
+[242:47.57]Another arrow?
+[242:48.67]Wait, I want a king token.
+[242:57.65]I'm doing efficient pretzels.
+[243:01.14]Don't be an idiot.
+[243:09.23]A new face.
+[243:17.11]I want to go look at the...
+[243:18.92]I feel like I got a lot of new things.
+[243:30.86]Where's the ship?
+[243:45.18]Would you...
+[243:46.49]I actually like this comment because I'm going to answer it.
+[243:48.97]Would you prefer chicken pate or chunky beef with gravy cat food can?
+[243:54.36]If I had to pick, I would pick chicken pate.
+[243:58.70]If I had to.
+[244:09.76]I don't know.
+[244:10.44]No, no, no.
+[244:11.08]None of the fish ones.
+[244:11.92]Absolutely not.
+[244:14.99]If I would think the chicken pate one sounds to me...
+[244:18.43]They kind of just...
+[244:19.07]It's just ground chicken, probably, and a bunch of other bullshit.
+[244:24.48]The beef one, I don't... No, can't... Something about beef like that... No.
+[244:30.95]I don't think so.
+[244:49.03]Interesting.
+[244:49.73]I like this one.
+[245:04.47]Two person horse.
+[245:08.40]You're funny.
+[245:09.26]Okay, keep this one.
+[245:13.05]It's a little too sad.
+[245:18.22]Sad clown?
+[245:28.63]Cat food doesn't have sugar or salt, that's why he hates it.
+[245:32.24]No, I said I want to reduce my sugar and my salt.
+[245:42.49]What does the person say?
+[245:46.57]People talking about tuna fish in here, like what an all over the place chat room this is.
+[245:55.43]There's like eight different conversations going on over here.
+[246:11.98]There's like an argument going on in here.
+[246:15.07]There's people talking about tuna fish.
+[246:16.33]Somebody talked about shoving a baseball up my ass.
+[246:19.33]I can't follow this chat.
+[246:20.91]It's too much.
+[246:33.41]I'm paraphrasing.
+[246:34.17]Somebody said something like that.
+[246:36.69]All I saw was up your ass.
+[246:38.97]And I was like, okay, well, he probably said the baseball thing.
+[246:44.64]Let me do this dance.
+[246:57.22]Alright, I'll do one more.
+[247:04.15]Let's do whatever one we get next.
+[247:10.46]Sometimes we get lonely because you don't look at us.
+[247:12.70]Looks away bashfully.
+[247:14.78]I actually banned that person.
+[247:26.96]I want that person to get at least a 10 minute timeout.
+[247:31.47]I want them to see the countdown going.
+[247:34.43]With a 10 minute timeout, the countdown is very real and it's right in front of you.
+[247:42.92]Bashfulness is a bannable offense.
+[247:53.96]No, it's just the way that you wrote that.
+[247:57.33]You like, I saw that in my head.
+[248:01.66]You know what I saw in my head?
+[248:03.64]I saw one of the seven fucking dwarves.
+[248:07.74]Doing that thing where he turns his head and his foot, he's kind of sliding his foot on the ground and looking away with his red cheeks.
+[248:17.20]You fucked up.
+[248:27.41]That wasn't a psychic attack, yeah.
+[248:39.92]What's that?
+[248:54.68]It's funny because I feel like that's something I would write in like stirs chat and get everyone would question mark me and be like, what's he doing?
+[249:06.56]And I would just chuckle, be like, oh yeah, it's fun to be like a fucking dickhead.
+[249:16.39]When you become a chatter, you understand what makes chatting fun.
+[249:21.64]It's just kind of... Like, who cares anything that I write?
+[249:33.91]It could be pure shitposting.
+[249:35.45]Yeah.
+[249:38.69]As long as that's where you always keep it, right?
+[249:40.61]There's a little section of your brain that's like a little shitpost-y, but keep it there.
+[249:46.20]Your shitpost part of your brain should never interfere with your regular brain.
+[249:54.50]That's a section, that's a different part of whatever quadrant.
+[250:03.74]Some people can let the shitpost part of their brain get into the real part of their brain.
+[250:09.62]You gotta prevent that from happening.
+[250:17.87]That's called being cooked.
+[250:22.09]It's a little section.
+[250:23.19]You can get your shitpost section.
+[250:24.76]Everybody's got one.
+[250:27.88]Don't go too deep into the sauce.
+[250:29.70]That's all I'm telling you.
+[250:45.68]Alright, Wooden Objects.
+[250:54.23]You ever beat Act 3 in White Knuckle?
+[250:55.91]No.
+[250:57.89]I love that game, though.
+[250:58.74]It's such a wonderful, rage-inducing, addicting experience.
+[251:06.50]I don't think I'll ever beat it, though.
+[251:10.21]Alright, Wood.
+[251:15.08]I like the way this Katamari looks.
+[251:30.76]I like this song.
+[252:07.93]That's a song I want to drive to.
+[252:12.92]This is a driving song.
+[252:29.70]I gotta speed it up here.
+[252:31.48]I'm kind of vibing to the song.
+[252:36.83]...
+[252:46.72]Actually, go back.
+[252:52.39]Saw that.
+[252:52.83]I could definitely get it.
+[252:58.32]Barrels?
+[252:59.02]Nope.
+[253:14.44]Keep going.
+[253:17.66]Oh, the tortoise and the hare, that was cute.
+[253:38.66]And you got a saxophone in this song too?
+[253:42.98]What is this one called?
+[253:43.68]I gotta remember this one.
+[253:57.35]There we go, girls.
+[254:10.77]No.
+[254:26.84]That's a lot of barrels.
+[254:44.98]The cousin, though?
+[254:47.11]Still too small for the cousin?
+[254:53.49]What?
+[254:58.15]Bats.
+[255:10.91]I got plenty of time, I'm good.
+[255:28.13]Ah, I thought I could pick it up.
+[255:30.64]Shit.
+[255:45.04]Sooo bigger.
+[255:45.94]Okay, so much bigger.
+[255:52.99]Alright, this is gonna be a big one.
+[255:54.07]I can already tell.
+[256:02.29]There you go, got a cousin.
+[256:11.14]Holy shit.
+[256:25.70]Got so much time.
+[256:26.78]Two minutes is forever in this game.
+[256:43.24]Give me all those.
+[256:44.33]So many.
+[256:55.98]Yeah.
+[256:56.66]Pick up the houses.
+[257:08.12]Get everything.
+[257:11.67]Don't get stuck.
+[257:21.16]Come on!
+[257:23.25]I'm just a sea!
+[257:24.41]How dogshit can I be?
+[257:50.78]Oh, picking up the house is good.
+[257:58.59]What the fuck am I getting?
+[258:02.23]I got Poseidon.
+[258:08.86]Oh my god.
+[258:29.98]The trees count as wood, right?
+[258:40.46]What just happened?
+[258:46.35]Aww.
+[258:46.45]I almost cleared the whole island.
+[258:51.98]Cool.
+[259:00.79]Yeah, that's good.
+[259:10.37]Talking about Poseidon, I was watching another stream earlier that brought you up.
+[259:16.28]Brought up your Hades playthrough where you met Sisyphus and you said, I was going to guess it's either Hercules or Quasimodo.
+[259:23.15]Is Quasimodo a Greek god?
+[259:24.81]I never said that.
+[259:28.39]I didn't say that.
+[259:34.91]I definitely didn't say that.
+[259:37.66]You're thinking of somebody else.
+[259:50.05]Oh wait, in the mod chat, somebody said, hey, this was the previous message of the person that they, the bashful person.
+[259:55.16]Hey, thanks for introducing me to Chrono Trigger, Big J.
+[259:58.78]We'll unban them for Chrono Trigger and then ban them again for Big J.
+[260:02.01]So the timeout still stands.
+[260:10.08]Are you too old to not remember Quasimodo?
+[260:29.28]I know Quasimodo.
+[260:36.19]Nutsuo!
+[260:43.98]Very cool.
+[260:45.20]Ah, this game is wonderful.
+[260:49.15]I very much enjoy it.
+[260:50.45]I think they did a phenomenal job.
+[260:51.79]I think it's very fun.
+[260:54.05]I like the replayability of adding something else to collect.
+[260:59.40]The crowns I think is really cool.
+[261:06.80]And that's going to be it for today.
+[261:09.21]I was only going to be live for about three or four hours, but here we are.
+[261:17.60]And I will see you guys in a few days.
+[261:21.16]On the 30th, Thursday.
+[261:23.77]I'm gonna set up a little thing behind me.
+[261:26.41]We'll be on cam.
+[261:27.89]And I'm gonna have...
+[261:29.91]It's gonna be spooky in here, okay?
+[261:31.41]That's all you need to know.
+[261:37.94]Wait, let's see the next area.
+[261:42.13]I wanna see what that is first.
+[262:02.74]Ancient Greece.
+[262:07.91]Very cool.
+[262:13.30]Is the 30th a SEGA stream?
+[262:14.56]Yes it is.
+[262:16.46]It is a SEGA CD stream.
+[262:22.05]Playing Dracula Unleashed, Dracula, and Frankenstein.
+[262:32.57]Dracula Unleashed is a full motion video Dracula game.
+[262:39.69]I've been sitting on it for a very long time.
+[262:50.95]Cool, okay.
+[262:53.43]Alright, I'll see you guys in a few days.
+[262:55.83]Happy Halloween, eventually.
+[263:09.58]Talk about all this food.
+[263:14.03]Oh, yeah, man.
+[263:14.57]I'd love, like, a Pad Thai.
+[263:16.39]I'd love the chicken katsu.
+[263:18.40]Oh, I... You know what?
+[263:19.42]I'm gonna have, like, a peanut butter and jelly sandwich.
+[263:24.36]It's the last time you had one of those.
+[263:30.31]Uh, we're gonna start a little later on the 30th, because I want it to be night.
+[263:33.34]Night.
+[263:35.13]So we'll start probably around like 4, 5, 5 p.m. Pacific.
+[263:41.40]I want it to be nighttime.
+[263:49.35]Watch this clip, you coward.
+[264:01.76]Hold on, let me...
+[264:02.99]I gotta exit this.
+[264:16.34]Oh, that's classic.
+[264:20.62]Okay.
+[264:26.45]Let me see this clip.
+[264:35.15]I thought it was Hercules.
+[264:36.47]What's wrong with that?
+[264:39.03]That's the whole clip.
+[264:43.84]I was going to say Hercules or Quasimodo.
+[264:47.65]Is Quasimodo a Greek god?
+[264:52.45]It was like 2017, guys.
+[264:54.74]I was just fucking around.
+[264:59.06]I didn't mean that.
+[264:59.96]I meant that as a joke.
+[265:01.08]Remember, everything I say is a funny thing.
+[265:07.89]Well, whatever.
+[265:16.09]What's the nightmare blunt rotation?
+[265:25.22]I don't know.
+[265:26.64]Ask me that question when we open up on Thursday.
+[265:29.47]I'll answer it.
+[265:45.24]The Jared Leto Joker is one of them.
+[265:51.12]No.
+[265:52.03]If it's a Jared Leto character, it's nobody.
+[265:54.67]Nobody.
+[265:57.61]That's for me.
+[265:58.40]It's not the Joker.
+[266:07.49]He was in Morbius?
+[266:09.31]No.
+[266:09.51]No.
+[266:15.97]I've only seen the trailer for that movie, and I know that that's the character that I want as the Nightmare Blunt rotation.
+[266:35.68]I can't even see that emote.
+[266:49.31]What about any costume ideas?
+[266:53.70]Any costume ideas?
+[266:58.79]I mean, I think I have like a Dracula cape.
+[267:04.12]We'll see.
+[267:05.68]There will be candles.
+[267:10.08]Alright, I'll see you later.
+[267:11.23]Take care.
+[267:11.63]Call your mother.
+[267:12.07]You know the deal.
+[267:13.89]Bye-bye.
+[267:14.87]See you later.
