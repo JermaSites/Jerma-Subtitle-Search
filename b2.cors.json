@@ -1,0 +1,98 @@
+[
+	{
+		"allowedHeaders": [
+			"authorization",
+			"range"
+		],
+		"allowedOperations": [
+			"b2_download_file_by_id",
+			"b2_download_file_by_name"
+		],
+		"allowedOrigins": [
+			"https://search.jerma.io"
+		],
+		"corsRuleName": "downloadFrom-jerma-io",
+		"exposeHeaders": null,
+		"maxAgeSeconds": 3600
+	},
+	{
+		"allowedHeaders": [
+			"authorization",
+			"range"
+		],
+		"allowedOperations": [
+			"s3_head",
+			"s3_get"
+		],
+		"allowedOrigins": [
+			"https://search.jerma.io"
+		],
+		"corsRuleName": "s3DownloadFrom-jerma-io",
+		"exposeHeaders": null,
+		"maxAgeSeconds": 3600
+	},
+	{
+		"allowedHeaders": [
+			"authorization",
+			"range"
+		],
+		"allowedOperations": [
+			"b2_download_file_by_id",
+			"b2_download_file_by_name"
+		],
+		"allowedOrigins": [
+			"https://jerma-subtitle-search-server.vercel.app"
+		],
+		"corsRuleName": "downloadFromThis-vercel-app",
+		"exposeHeaders": null,
+		"maxAgeSeconds": 3600
+	},
+	{
+		"allowedHeaders": [
+			"authorization",
+			"range"
+		],
+		"allowedOperations": [
+			"s3_head",
+			"s3_get"
+		],
+		"allowedOrigins": [
+			"https://jerma-subtitle-search-server.vercel.app"
+		],
+		"corsRuleName": "s3DownloadFrom-vercel-app",
+		"exposeHeaders": null,
+		"maxAgeSeconds": 3600
+	},
+	{
+		"allowedHeaders": [
+			"authorization",
+			"range"
+		],
+		"allowedOperations": [
+			"b2_download_file_by_id",
+			"b2_download_file_by_name"
+		],
+		"allowedOrigins": [
+			"https://jerma-search.paulekas.eu"
+		],
+		"corsRuleName": "downloadFromThis-paulekas-vps",
+		"exposeHeaders": null,
+		"maxAgeSeconds": 3600
+	},
+	{
+		"allowedHeaders": [
+			"authorization",
+			"range"
+		],
+		"allowedOperations": [
+			"s3_head",
+			"s3_get"
+		],
+		"allowedOrigins": [
+			"https://jerma-search.paulekas.eu"
+		],
+		"corsRuleName": "s3DownloadFrom-paulekas-vps",
+		"exposeHeaders": null,
+		"maxAgeSeconds": 3600
+	}
+]
