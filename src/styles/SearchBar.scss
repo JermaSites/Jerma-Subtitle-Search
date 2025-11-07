@@ -1,73 +1,73 @@
 @use './_variables.scss' as *;
 
 form#search-bar {
-    accent-color: var(--form-accent-color);
-    caret-color: var(--form-caret-color);
-    display: flex;
-    justify-content: center;
-    margin: 2rem auto;
-    position: relative;
-    width: 100%;
+	accent-color: var(--form-accent-color);
+	caret-color: var(--form-caret-color);
+	display: flex;
+	justify-content: center;
+	margin: 2rem auto;
+	position: relative;
+	width: 100%;
 
-    input {
-        background-color: var(--input-background-color);
-        border-radius: 0.25rem 0 0 0.25rem;
-        border-right: none;
-        border: 1px solid var(--form-border-color);
-        color: var(--input-text-color);
-        flex: 1;
-        font-family: inherit;
-        font-size: 1rem;
-        min-width: 0;
-        padding: 0.5rem;
+	input {
+		background-color: var(--input-background-color);
+		border-radius: 0.25rem 0 0 0.25rem;
+		border-right: none;
+		border: 1px solid var(--form-border-color);
+		color: var(--input-text-color);
+		flex: 1;
+		font-family: inherit;
+		font-size: 1rem;
+		min-width: 0;
+		padding: 0.5rem;
 
-        &:focus {
-            box-shadow: inset 0 0 0 0.2rem var(--form-accent-color);
-            outline: none;
-        }
+		&:focus {
+			box-shadow: inset 0 0 0 0.2rem var(--form-accent-color);
+			outline: none;
+		}
 
-        &:focus,
-        &:hover {
-            background-color: var(--input-hover-background-color);
-        }
-    }
+		&:focus,
+		&:hover {
+			background-color: var(--input-hover-background-color);
+		}
+	}
 
-    input::placeholder {
-        font-family: var(--fonts);
-    }
+	input::placeholder {
+		font-family: var(--fonts);
+	}
 
-    button {
-        background-color: var(--button-background-color);
-        border: 1px solid var(--form-border-color);
-        cursor: pointer;
+	button {
+		background-color: var(--button-background-color);
+		border: 1px solid var(--form-border-color);
+		cursor: pointer;
 
-        &:hover {
-            background-color: var(--button-hover-background-color);
-        }
+		&:hover {
+			background-color: var(--button-hover-background-color);
+		}
 
-        svg.icon {
-            height: 1.4rem;
-        }
-    }
+		svg.icon {
+			height: 1.4rem;
+		}
+	}
 
-    button#match-whole-words-toggle {
-        border-radius: 0.25rem;
-        height: 69%;
-        opacity: 0.5;
-        position: absolute;
-        right: 3.9rem;
-        top: 50%;
-        transform: translateY(-50%);
+	button#match-whole-words-toggle {
+		border-radius: 0.25rem;
+		height: 69%;
+		opacity: 0.5;
+		position: absolute;
+		right: 3.9rem;
+		top: 50%;
+		transform: translateY(-50%);
 
-        &.active {
-            opacity: 1;
-        }
-    }
+		&.active {
+			opacity: 1;
+		}
+	}
 
-    button#search {
-        border-left: none;
-        border-radius: 0 0.25rem 0.25rem 0;
-        padding: 0.5rem 1rem;
-        width: 3.525rem;
-    }
+	button#search {
+		border-left: none;
+		border-radius: 0 0.25rem 0.25rem 0;
+		padding: 0.5rem 1rem;
+		width: 3.525rem;
+	}
 }

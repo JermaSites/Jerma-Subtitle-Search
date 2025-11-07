@@ -1,76 +1,76 @@
 @use './_variables.scss' as *;
 
 #header {
-    align-items: center;
-    background-color: var(--header-background-color);
-    color: var(--header-text-color);
-    display: flex;
-    justify-content: space-between;
-    padding: 0.625rem 1.25rem;
+	align-items: center;
+	background-color: var(--header-background-color);
+	color: var(--header-text-color);
+	display: flex;
+	justify-content: space-between;
+	padding: 0.625rem 1.25rem;
 
-    svg.icon {
-        height: 2rem;
-    }
+	svg.icon {
+		height: 2rem;
+	}
 
-    #left {
-        align-items: center;
-        display: flex;
+	#left {
+		align-items: center;
+		display: flex;
 
-        #logo {
-            align-items: center;
-            display: none;
-            margin-right: 1.25rem;
+		#logo {
+			align-items: center;
+			display: none;
+			margin-right: 1.25rem;
 
-            @media screen and (min-width: 180px) {
-                display: flex;
-            }
+			@media screen and (min-width: 180px) {
+				display: flex;
+			}
 
-            a {
-                display: inline-flex;
-            }
+			a {
+				display: inline-flex;
+			}
 
-            img {
-                height: 2.5rem;
+			img {
+				height: 2.5rem;
 
-                &#J {
-                    margin-right: -0.69rem;
-                }
+				&#J {
+					margin-right: -0.69rem;
+				}
 
-                &#erma985 {
-                    display: none;
+				&#erma985 {
+					display: none;
 
-                    @media screen and (min-width: 310px) {
-                        display: flex;
-                    }
-                }
-            }
-        }
+					@media screen and (min-width: 310px) {
+						display: flex;
+					}
+				}
+			}
+		}
 
-        nav {
-            display: flex;
+		nav {
+			display: flex;
 
-            a {
-                color: inherit;
-                margin: 0 0.625rem;
-                text-decoration: none;
-            }
-        }
-    }
+			a {
+				color: inherit;
+				margin: 0 0.625rem;
+				text-decoration: none;
+			}
+		}
+	}
 
-    #right {
-        a,
-        button#show-settings-modal {
-            align-items: center;
-            display: inline-flex;
-            justify-content: center;
-            margin-right: 1rem;
-            padding: 0.25rem;
-        }
+	#right {
+		a,
+		button#show-settings-modal {
+			align-items: center;
+			display: inline-flex;
+			justify-content: center;
+			margin-right: 1rem;
+			padding: 0.25rem;
+		}
 
-        button#show-settings-modal {
-            background: none;
-            border: none;
-            cursor: pointer;
-        }
-    }
+		button#show-settings-modal {
+			background: none;
+			border: none;
+			cursor: pointer;
+		}
+	}
 }

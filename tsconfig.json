@@ -1,37 +1,37 @@
 {
-    "compilerOptions": {
-        // Type Checking
-        "alwaysStrict": true,
-        "noFallthroughCasesInSwitch": true,
-        "noPropertyAccessFromIndexSignature": false,
-        "noUnusedLocals": false,
-        "noUnusedParameters": false,
-        "strict": true,
+	"compilerOptions": {
+		// Type Checking
+		"alwaysStrict": true,
+		"noFallthroughCasesInSwitch": true,
+		"noPropertyAccessFromIndexSignature": false,
+		"noUnusedLocals": false,
+		"noUnusedParameters": false,
+		"strict": true,
 
-        // Modules
-        "allowImportingTsExtensions": true,
-        "module": "ESNext",
-        "moduleResolution": "bundler",
+		// Modules
+		"allowImportingTsExtensions": true,
+		"module": "ESNext",
+		"moduleResolution": "bundler",
 
-        // Emit
-        "noEmit": true,
+		// Emit
+		"noEmit": true,
 
-        // JavaScript Support
-        "allowJs": true,
+		// JavaScript Support
+		"allowJs": true,
 
-        // Interop Constraints
-        "isolatedModules": true,
-        "verbatimModuleSyntax": true,
+		// Interop Constraints
+		"isolatedModules": true,
+		"verbatimModuleSyntax": true,
 
-        // Language and Environment
-        // "jsx": "react-jsx",
-        "lib": ["ESNext", "DOM"],
-        "moduleDetection": "force",
-        "target": "ESNext",
-        "useDefineForClassFields": true,
+		// Language and Environment
+		// "jsx": "react-jsx",
+		"lib": ["ESNext", "DOM"],
+		"moduleDetection": "force",
+		"target": "ESNext",
+		"useDefineForClassFields": true,
 
-        // Completeness
-        // "skipLibCheck": true,
-    },
-    "include": ["src"],
+		// Completeness
+		// "skipLibCheck": true,
+	},
+	"include": ["src"],
 }

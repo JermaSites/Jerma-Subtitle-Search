@@ -1,152 +1,152 @@
 @use './_variables.scss' as *;
 
 #settings-dialog {
-    accent-color: var(--form-accent-color);
-    background-color: var(--modal-background-color);
-    border-radius: 8px;
-    border: 1px solid var(--form-border-color);
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    caret-color: var(--form-caret-color);
-    color: var(--dialog-text-color);
-    font-size: 1.2rem;
-    padding: 0;
-    position: relative;
-    width: clamp(20rem, 70%, 32rem);
+	accent-color: var(--form-accent-color);
+	background-color: var(--modal-background-color);
+	border-radius: 8px;
+	border: 1px solid var(--form-border-color);
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+	caret-color: var(--form-caret-color);
+	color: var(--dialog-text-color);
+	font-size: 1.2rem;
+	padding: 0;
+	position: relative;
+	width: clamp(20rem, 70%, 32rem);
 
-    .dialog-container {
-        padding: 1.5rem;
-    }
+	.dialog-container {
+		padding: 1.5rem;
+	}
 
-    .setting-description {
-        display: block;
-        font-size: 1rem;
-        opacity: 0.69;
-        padding-top: 0.5rem;
-    }
+	.setting-description {
+		display: block;
+		font-size: 1rem;
+		opacity: 0.69;
+		padding-top: 0.5rem;
+	}
 
-    #close-button {
-        background: none;
-        border: none;
-        cursor: pointer;
-        position: absolute;
-        right: 0.5rem;
-        top: 0.5rem;
+	#close-button {
+		background: none;
+		border: none;
+		cursor: pointer;
+		position: absolute;
+		right: 0.5rem;
+		top: 0.5rem;
 
-        svg.icon {
-            height: 1.2rem;
+		svg.icon {
+			height: 1.2rem;
 
-            &:hover {
-                fill: var(--close-icon-hover-color);
-            }
-        }
-    }
+			&:hover {
+				fill: var(--close-icon-hover-color);
+			}
+		}
+	}
 
-    #general-settings {
-        input {
-            background-color: var(--input-background-color);
-            border-radius: 0.25rem;
-            border: 1px solid var(--form-border-color);
-            color: var(--input-text-color);
-            font-size: 1rem;
-            padding: 0.125rem;
+	#general-settings {
+		input {
+			background-color: var(--input-background-color);
+			border-radius: 0.25rem;
+			border: 1px solid var(--form-border-color);
+			color: var(--input-text-color);
+			font-size: 1rem;
+			padding: 0.125rem;
 
-            &[type='checkbox'] {
-                height: 1.125rem;
-                margin-right: 0.5rem;
-                width: 3.125rem;
-            }
+			&[type='checkbox'] {
+				height: 1.125rem;
+				margin-right: 0.5rem;
+				width: 3.125rem;
+			}
 
-            &[type='number'] {
-                height: 1.125rem;
-                margin-right: 0.5rem;
-                width: 3.125rem;
-            }
-        }
-    }
+			&[type='number'] {
+				height: 1.125rem;
+				margin-right: 0.5rem;
+				width: 3.125rem;
+			}
+		}
+	}
 
-    #theme-choice {
-        display: flex;
-        gap: 0.5rem;
-        justify-content: space-evenly;
-        margin-bottom: 1rem;
+	#theme-choice {
+		display: flex;
+		gap: 0.5rem;
+		justify-content: space-evenly;
+		margin-bottom: 1rem;
 
-        .circle {
-            border-radius: 50%;
-            border: 2px solid var(--inactive-theme-border-color);
-            cursor: pointer;
-            height: 1.5rem;
-            width: 1.5rem;
+		.circle {
+			border-radius: 50%;
+			border: 2px solid var(--inactive-theme-border-color);
+			cursor: pointer;
+			height: 1.5rem;
+			width: 1.5rem;
 
-            &:hover {
-                transform: scale(1.1);
-            }
+			&:hover {
+				transform: scale(1.1);
+			}
 
-            &.selected {
-                border: 0.2rem solid var(--active-theme-border-color);
-                transform: scale(1.2);
-            }
+			&.selected {
+				border: 0.2rem solid var(--active-theme-border-color);
+				transform: scale(1.2);
+			}
 
-            &#light {
-                background-color: #f5f5f5;
-            }
+			&#light {
+				background-color: #f5f5f5;
+			}
 
-            &#dark {
-                background-color: #191919;
-            }
+			&#dark {
+				background-color: #191919;
+			}
 
-            &#dark-blue {
-                background-color: #012846;
-            }
-        }
-    }
+			&#dark-blue {
+				background-color: #012846;
+			}
+		}
+	}
 
-    #font-choice {
-        display: grid;
-        gap: 0.5rem;
-        grid-template-columns: 1fr;
-        text-wrap: nowrap;
+	#font-choice {
+		display: grid;
+		gap: 0.5rem;
+		grid-template-columns: 1fr;
+		text-wrap: nowrap;
 
-        @media screen and (min-width: 768px) {
-            grid-template-columns: 1fr 1fr;
-        }
+		@media screen and (min-width: 768px) {
+			grid-template-columns: 1fr 1fr;
+		}
 
-        label {
-            &[for=arial] {
-                font-family: 'Arial', 'sans-serif';
-            }
+		label {
+			&[for=arial] {
+				font-family: 'Arial', 'sans-serif';
+			}
 
-            &[for=courier-new] {
-                font-family: 'Courier New', 'monospace';
-            }
+			&[for=courier-new] {
+				font-family: 'Courier New', 'monospace';
+			}
 
-            &[for=garamond] {
-                font-family: 'Garamond', 'serif';
-            }
+			&[for=garamond] {
+				font-family: 'Garamond', 'serif';
+			}
 
-            &[for=georgia] {
-                font-family: 'Georgia', 'serif';
-            }
+			&[for=georgia] {
+				font-family: 'Georgia', 'serif';
+			}
 
-            &[for=open-dyslexic] {
-                font-family: 'OpenDyslexic', 'sans-serif';
-                font-size: 0.85rem;
-            }
+			&[for=open-dyslexic] {
+				font-family: 'OpenDyslexic', 'sans-serif';
+				font-size: 0.85rem;
+			}
 
-            &[for=times-new-roman] {
-                font-family: 'Times New Roman', 'serif';
-            }
+			&[for=times-new-roman] {
+				font-family: 'Times New Roman', 'serif';
+			}
 
-            &[for=va11halla] {
-                font-family: 'CyberpunkWaifus', 'sans-serif';
-            }
+			&[for=va11halla] {
+				font-family: 'CyberpunkWaifus', 'sans-serif';
+			}
 
-            &[for=verdana] {
-                font-family: 'Verdana', 'sans-serif';
-            }
-        }
-    }
+			&[for=verdana] {
+				font-family: 'Verdana', 'sans-serif';
+			}
+		}
+	}
 
-    &::backdrop {
-        background-color: var(--modal-backdrop-color);
-    }
+	&::backdrop {
+		background-color: var(--modal-backdrop-color);
+	}
 }

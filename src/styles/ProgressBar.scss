@@ -1,39 +1,39 @@
 @use './_variables.scss' as *;
 
 #progress-container {
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    position: relative;
-    width: 100%;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	position: relative;
+	width: 100%;
 
-    #progress-bar {
-        border-radius: 0.25rem;
-        height: 2rem;
-        overflow: hidden;
-        width: 100%;
+	#progress-bar {
+		border-radius: 0.25rem;
+		height: 2rem;
+		overflow: hidden;
+		width: 100%;
 
-        @media screen and (min-width: 768px) {
-            height: 1.5rem;
-            width: 60%;
-        }
+		@media screen and (min-width: 768px) {
+			height: 1.5rem;
+			width: 60%;
+		}
 
-        &::-webkit-progress-bar {
-            background-color: var(--progress-bar-background-color);
-        }
+		&::-webkit-progress-bar {
+			background-color: var(--progress-bar-background-color);
+		}
 
-        &::-webkit-progress-value {
-            background-color: var(--progress-bar-color);
-        }
-    }
+		&::-webkit-progress-value {
+			background-color: var(--progress-bar-color);
+		}
+	}
 
-    #progress-label {
-        color: var(--progress-bar-text-color);
-        font-weight: bold;
-        left: 50%;
-        pointer-events: none;
-        position: absolute;
-        top: 50%;
-        transform: translate(-50%, -50%);
-    }
+	#progress-label {
+		color: var(--progress-bar-text-color);
+		font-weight: bold;
+		left: 50%;
+		pointer-events: none;
+		position: absolute;
+		top: 50%;
+		transform: translate(-50%, -50%);
+	}
 }

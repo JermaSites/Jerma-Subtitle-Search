@@ -1,34 +1,34 @@
 {
-    "name": "jerma-subtitle-search",
-    "private": true,
-    "version": "1.985.111",
-    "type": "module",
-    "engines": {
-        "npm": ">=10"
-    },
-    "author": {
-        "name": "Bergbok",
-        "url": "https://github.com/Bergbok"
-    },
-    "homepage": "https://search.jerma.io",
-    "repository": "github.com:JermaSites/Jerma-Subtitle-Search",
-    "bugs": "https://github.com/JermaSites/Jerma-Subtitle-Search/issues",
-    "scripts": {
-        "dev": "vite",
-        "build": "vite build",
-        "preview": "vite preview"
-    },
-    "dependencies": {
-        "fflate": "^0.8.2",
-        "lite-youtube-embed": "^0.3.3",
-        "minisearch": "^7.2.0",
-        "mithril": "^2.3.7"
-    },
-    "devDependencies": {
-        "@types/mithril": "^2.2.7",
-        "@types/youtube": "^0.1.2",
-        "sass": "^1.93.3",
-        "typescript": "^5.9.3",
-        "vite": "^4.5.14"
-    }
+	"name": "jerma-subtitle-search",
+	"private": true,
+	"version": "1.985.111",
+	"type": "module",
+	"engines": {
+		"npm": ">=10"
+	},
+	"author": {
+		"name": "Bergbok",
+		"url": "https://github.com/Bergbok"
+	},
+	"homepage": "https://search.jerma.io",
+	"repository": "github.com:JermaSites/Jerma-Subtitle-Search",
+	"bugs": "https://github.com/JermaSites/Jerma-Subtitle-Search/issues",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"dependencies": {
+		"fflate": "^0.8.2",
+		"lite-youtube-embed": "^0.3.3",
+		"minisearch": "^7.2.0",
+		"mithril": "^2.3.7"
+	},
+	"devDependencies": {
+		"@types/mithril": "^2.2.7",
+		"@types/youtube": "^0.1.2",
+		"sass": "^1.93.3",
+		"typescript": "^5.9.3",
+		"vite": "^4.5.14"
+	}
 }
