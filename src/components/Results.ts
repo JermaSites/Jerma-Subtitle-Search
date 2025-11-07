@@ -1,126 +1,15 @@
 import m, { type Children, type Vnode } from 'mithril';
-import type { SearchResult } from 'minisearch';
-import { Secrets } from './Secrets.ts';
 import { ProgressSpinner } from './ProgressSpinner.ts';
-import { subtitles, subtitlesLoaded } from '../index.ts';
+import { Secrets } from './Secrets.ts';
 import '../styles/Results.scss';
+import type {
+	SearchResult,
+	ServerResponse,
+	SubtitleLine
+} from 'jerma-subtitle-search-types';
 
-let queryRegex: RegExp;
-let matchLengthLimit: number;
-let useWordBoundaries: boolean;
-let latestPlayedVideoID: string;
 const expandState: Record<string, boolean> = {};
-
-function debounce(func: Function, delay: number) {
-	let timeoutId: ReturnType<typeof setTimeout>;
-
-	return (...args: any[]) => {
-		clearTimeout(timeoutId);
-		timeoutId = setTimeout(() => func(...args), delay);
-	};
-};
-
-function formatTimestamp(timestamp: string): string {
-	const [minutes, seconds] = timestamp.split(':').map(Number);
-	let totalSeconds = Math.floor(minutes * 60 + seconds);
-	const hours = Math.floor(totalSeconds / 3600);
-	totalSeconds %= 3600;
-	const mins = Math.floor(totalSeconds / 60);
-	const secs = totalSeconds % 60;
-	const pad = (num: number) => num.toString().padStart(2, '0');
-	return `${pad(hours)}:${pad(mins)}:${pad(secs)}`;
-};
-
-function formatStreamTitle(title: string): Children[] {
-	const elements: Children[] = [];
-	const usernameRegex = /@(\w+)/g;
-	let match;
-	let lastIndex = 0;
-
-	while ((match = usernameRegex.exec(title)) !== null) {
-		if (match.index > lastIndex) {
-			elements.push(title.slice(lastIndex, match.index));
-		}
-
-		const username = match[1];
-
-		elements.push(
-			m('a', {
-				href: `https://www.twitch.tv/${username.toLowerCase()}`,
-				target: '_blank',
-				rel: 'noopener noreferrer'
-			}, `@${username}`)
-		);
-
-		lastIndex = usernameRegex.lastIndex;
-	}
-
-	if (lastIndex < title.length) {
-		elements.push(title.slice(lastIndex));
-	}
-
-	return elements;
-}
-
-async function performSearch(query: string, signal: AbortSignal): Promise<SearchResult[]> {
-	while (!subtitlesLoaded) {
-		if (signal.aborted) throw new DOMException('Search aborted', 'AbortError');
-		await new Promise(resolve => setTimeout(resolve, 1000));
-	}
-
-	if (signal.aborted) throw new DOMException('Search aborted', 'AbortError');
-
-	// Accounts for punctuation within words, and timestamps between words
-	const timeBeforeFilter = performance.now();
-	const wordBoundary = useWordBoundaries ? '\\b' : '';
-
-	queryRegex = new RegExp(
-		'(?<=[^\\d\\[:.])' + wordBoundary +
-		query
-			.split(/\s+/)
-			.map((word, wordIndex, words) => {
-				const chars = word.split('');
-				return chars
-					.map((char, charIndex) => {
-						const isLastCharOfLastTerm = wordIndex === words.length - 1 && charIndex === chars.length - 1;
-						if (char === '*') {
-							return isLastCharOfLastTerm ? '' : `.${ matchLengthLimit === 0 ? '*' : `{0,${matchLengthLimit}}` }?`;
-						}
-						return isLastCharOfLastTerm ? char : `${char}[^\\[A-Za-z0-9]*?`;
-					})
-					.join('') + '(?:\\[[\\d:.]+\\])?';
-			})
-			.join('')
-			.slice(0, -1) + '{0}' + wordBoundary,
-		'gi'
-	);
-
-	// console.debug('Query regex:', queryRegex);
-
-	if (signal.aborted) throw new DOMException('Search aborted', 'AbortError');
-
-	const result: SearchResult[] = subtitles.search(query, {
-		combineWith: query.includes('*') ? 'OR' : 'AND',
-		fuzzy: false,
-		prefix: useWordBoundaries ? false : true,
-		filter: (entry) => {
-			queryRegex.lastIndex = 0;
-			return queryRegex.test(entry.subtitles);
-		}
-	});
-
-	console.debug(`Search took ${performance.now() - timeBeforeFilter}ms`);
-
-	if (signal.aborted) throw new DOMException('Search aborted', 'AbortError');
-
-	// console.debug('Search results:', result);
-
-	Object.keys(expandState).forEach((key) => {
-		delete expandState[key];
-	});
-
-	return result;
-};
+let latestPlayedVideoID: string;
 
 export async function seekEmbed(videoID: string, second: number) {
 	latestPlayedVideoID = videoID;
@@ -153,27 +42,179 @@ export async function seekEmbed(videoID: string, second: number) {
 	} catch {
 		console.error('Failed to seek video', videoID);
 	}
-};
+}
+
+async function performSearch(
+	query: string,
+	useWordBoundaries: boolean,
+	wildcardMatchLimit: number,
+	contextLevel: number,
+	start: number,
+	limit: number,
+	signal: AbortSignal
+): Promise<ServerResponse> {
+	const params = new URLSearchParams({
+		q: query,
+		wordBoundaries: useWordBoundaries.toString(),
+		wildcardMatchLimit: wildcardMatchLimit.toString(),
+		contextLevel: contextLevel.toString(),
+		start: start.toString(),
+		limit: limit.toString()
+	});
+
+	const baseUrl = window.location.hostname === 'localhost' ? 'http://localhost:3000' : 'https://jerma-search.paulekas.eu';
+	const response = await fetch(`${baseUrl}/search?${params}`, { signal });
+
+	return response.json();
+}
+
+function formatStreamTitle(title: string): Children[] {
+	const elements: Children[] = [];
+	const usernameRegex = /@(\w+)/g;
+	let match;
+	let lastIndex = 0;
+
+	while ((match = usernameRegex.exec(title)) !== null) {
+		if (match.index > lastIndex) {
+			elements.push(title.slice(lastIndex, match.index));
+		}
+
+		const username = match[1];
+		elements.push(
+			m('a', {
+				href: `https://www.twitch.tv/${username.toLowerCase()}`,
+				target: '_blank',
+				rel: 'noopener noreferrer'
+			}, `@${username}`)
+		);
+
+		lastIndex = usernameRegex.lastIndex;
+	}
+
+	if (lastIndex < title.length) {
+		elements.push(title.slice(lastIndex));
+	}
+
+	return elements;
+}
+
+function formatTimestamp(timestamp: string): string {
+	const [minutes, seconds] = timestamp.split(':').map(Number);
+	let totalSeconds = Math.floor(minutes * 60 + seconds);
+	const hours = Math.floor(totalSeconds / 3600);
+	totalSeconds %= 3600;
+	const mins = Math.floor(totalSeconds / 60);
+	const secs = totalSeconds % 60;
+	const pad = (num: number) => num.toString().padStart(2, '0');
+	return `${pad(hours)}:${pad(mins)}:${pad(secs)}`;
+}
+
+function renderSubtitleLine(line: SubtitleLine, videoID: string, subtitleFilename: string): Children {
+	const splitTimestamp = line.timestamp.split(':');
+	const second = parseInt(splitTimestamp[0]) * 60 + parseInt(splitTimestamp[1]);
+
+	const textFragments: Children[] = [];
+	let offset = 0;
+
+	if (line.highlights && line.highlights.length > 0) {
+		line.highlights.forEach(({ start, end }) => {
+			if (start > offset) {
+				textFragments.push(line.text.slice(offset, start));
+			}
+			textFragments.push(m('mark', line.text.slice(start, end)));
+			offset = end;
+		});
+	}
+
+	if (offset < line.text.length) {
+		textFragments.push(line.text.slice(offset));
+	}
+
+	return m('li.line', [
+		m('button.seek', {
+			onclick: (e: Event) => {
+				// @ts-ignore
+				e.redraw = false;
+				seekEmbed(videoID, second);
+			},
+			oncontextmenu: (e: MouseEvent) => {
+				// @ts-ignore
+				e.redraw = false;
+				e.preventDefault();
+			},
+			onmouseup: (e: MouseEvent) => {
+				// @ts-ignore
+				e.redraw = false;
+				if (e.button === 1) {
+					e.preventDefault();
+					window.open(`https://www.youtube.com/watch?v=${videoID}&t=${second}s`, '_blank');
+				} else if (e.button === 2) {
+					e.preventDefault();
+					navigator.clipboard.writeText(`https://www.youtube.com/watch?v=${videoID}&t=${second}s`);
+				}
+			},
+			ontouchstart: (e: TouchEvent) => {
+				// @ts-ignore
+				e.redraw = false;
+				const touchDuration = 420;
+				const timer = setTimeout(() => {
+					window.open(`https://www.youtube.com/watch?v=${videoID}&t=${second}s`, '_blank');
+				}, touchDuration);
+				if (e.currentTarget) {
+					e.currentTarget.addEventListener('touchend', () => clearTimeout(timer));
+				}
+			},
+			title: 'HH:MM:SS'
+		}, formatTimestamp(line.timestamp)),
+		textFragments,
+		m('button.edit', {
+			onclick: (e: Event) => {
+				// @ts-ignore
+				e.redraw = false;
+				const timestampEscaped = line.timestamp.replace('.', '\\.');
+				const match = new RegExp(timestampEscaped).exec(subtitleFilename);
+				const lineCount = match && match.index >= 0 ?
+					(subtitleFilename.slice(0, match.index).match(/\[/g) || []).length + 3 : 4;
+				window.open(`https://github.com/JermaSites/Jerma-Subtitle-Search/edit/main/src/assets/subtitles/${subtitleFilename}#L${lineCount}`, '_blank');
+			},
+			title: 'Edit on GitHub'
+		},
+		[
+			m('svg.icon', {
+				role: 'img', 'aria-label': 'edit icon',
+				viewBox: '0 0 24 24',
+				xmlns: 'http://www.w3.org/2000/svg'
+			},
+			[
+				m('path', {
+					d: 'M17.263 2.177a1.75 1.75 0 0 1 2.474 0l2.586 2.586a1.75 1.75 0 0 1 0 2.474L19.53 10.03l-.012.013L8.69 20.378a1.753 1.753 0 0 1-.699.409l-5.523 1.68a.748.748 0 0 1-.747-.188.748.748 0 0 1-.188-.747l1.673-5.5a1.75 1.75 0 0 1 .466-.756L14.476 4.963ZM4.708 16.361a.26.26 0 0 0-.067.108l-1.264 4.154 4.177-1.271a.253.253 0 0 0 .1-.059l10.273-9.806-2.94-2.939-10.279 9.813ZM19 8.44l2.263-2.262a.25.25 0 0 0 0-.354l-2.586-2.586a.25.25 0 0 0-.354 0L16.061 5.5Z'
+				})
+			])
+		])
+	]);
+}
 
 export const Results = () => {
-	const contextLevel = 1;
-	const timestampRegex = new RegExp(/\[[\d:.]+\]/, 'g');
-	let contextEnd: number;
-	let contextStart: number;
-	let currentPage: number = 1;
+	let allResults: SearchResult[] = [];
+	let currentLimit: number = 50;
 	let currentSearchController: AbortController | null = null;
-	let matchCount: number;
+	let currentStart: number = 0;
+	let errorMessage: string = '';
 	let observedResultItem: Element | null = null;
-	let previouslyUsedWordBoundaries: boolean = false;
-	let previousMatchLengthLimit: number = -1;
 	let previousQuery: string;
-	let resultsPerPage: number;
+	let previousUseWordBoundaries: boolean = false;
+	let previousWildcardMatchLimit: number = -1;
 	let searchFinished: boolean = false;
 	let searchQuery: string;
-	let searchResults: SearchResult[] = [];
-	let visibleResults: SearchResult[] = [];
+	let searchResponse: ServerResponse | null = null;
 
-	const debouncedSearch = debounce(async (query: string) => {
+   	const performSearchWithState = async (
+		query: string,
+		useWordBoundaries: boolean,
+		wildcardMatchLimit: number,
+		contextLevel: number,
+		append: boolean = false
+	) => {
 		if (currentSearchController) {
 			currentSearchController.abort();
 		}
@@ -182,32 +223,52 @@ export const Results = () => {
 		const { signal } = currentSearchController;
 
 		try {
-			searchResults = await performSearch(query, signal);
+			const limit = parseInt(localStorage.getItem('render-amount') || (window.innerWidth <= 768 ? '100' : '200'));
+			currentLimit = limit === 0 ? 10000 : limit;
+
+			searchResponse = await performSearch(
+				query,
+				useWordBoundaries,
+				wildcardMatchLimit,
+				contextLevel,
+				append ? currentStart : 0,
+				currentLimit,
+				signal
+			);
+
+			if (append) {
+				allResults = [...allResults, ...searchResponse.results];
+			} else {
+				allResults = searchResponse.results;
+				currentStart = 0;
+			}
+
+			currentStart = Math.min(searchResponse.totalResults, searchResponse.start + searchResponse.limit);
 			searchFinished = true;
-
-			matchCount = searchResults.reduce((total, result) => {
-				let count = 0;
-				queryRegex.lastIndex = 0;
-				while (queryRegex.exec(result.subtitles) !== null) {
-					count++;
-				}
-				return total + count;
-			}, 0);
-
+			errorMessage = '';
 			m.redraw();
 		} catch (e) {
 			if ((e as DOMException).name !== 'AbortError') {
-				throw e;
+				errorMessage = (e as Error).message;
+				searchFinished = true;
+				m.redraw();
 			}
 		}
-	}, 690);
+	};
 
 	let paginationObserver = new IntersectionObserver(
 		(entries: IntersectionObserverEntry[]) => {
 			const lastResultItem = entries[0];
-			if (!lastResultItem.isIntersecting || searchResults.length <= currentPage * resultsPerPage) return;
-			currentPage++;
-			m.redraw();
+			if (!lastResultItem.isIntersecting || !searchResponse) return;
+
+			const end = Math.min(searchResponse.totalResults, searchResponse.start + searchResponse.limit);
+			if (end >= searchResponse.totalResults) return;
+
+			const contextLevel = 1;
+			const useWordBoundaries = localStorage.getItem('use-word-boundaries') === 'true';
+			const wildcardMatchLimit = parseInt(localStorage.getItem('wildcard-match-length-limit') || (window.innerWidth <= 768 ? '50' : '100'), 10);
+
+			performSearchWithState(searchQuery, useWordBoundaries, wildcardMatchLimit, contextLevel, true);
 		},
 		{
 			root: null,
@@ -218,7 +279,7 @@ export const Results = () => {
 
 	return {
 		onupdate: () => {
-			if (subtitlesLoaded) {
+			if (allResults.length > 0) {
 				const lastResultItem = document.querySelector('.result-item:last-child');
 				if (lastResultItem && lastResultItem !== observedResultItem) {
 					if (observedResultItem) {
@@ -230,33 +291,39 @@ export const Results = () => {
 			}
 
 			const resultCountElement = document.querySelector('#results > h2');
-			if (resultCountElement) {
-				resultCountElement.textContent = searchResults.length === 0
+			if (resultCountElement && searchResponse) {
+				const matchCount = allResults.reduce((total, result) =>
+					total + result.matches.length, 0
+				);
+				resultCountElement.textContent = searchResponse.totalResults === 0
 					? 'Found no matches'
-					: `Found ${matchCount} ${matchCount > 1 ? 'matches across' : 'match in'} ${searchResults.length} ${searchResults.length > 1 ? 'videos' : 'video'}`;
+					: `Found ${matchCount} ${matchCount > 1 ? 'matches across' : 'match in'} ${searchResponse.totalResults} ${searchResponse.totalResults > 1 ? 'videos' : 'video'}`;
 			}
 		},
 		view: (vnode: Vnode<{ query: string }>) => {
 			searchQuery = vnode.attrs.query;
 
-			if (!searchQuery || !subtitlesLoaded) {
+			if (!searchQuery) {
 				return;
 			}
 
-			useWordBoundaries = localStorage.getItem('use-word-boundaries') === 'true';
-			matchLengthLimit = parseInt(localStorage.getItem('wildcard-match-length-limit') || (window.innerWidth <= 768 ? '50' : '100'), 10);
+			const contextLevel = 1;
+			const useWordBoundaries = localStorage.getItem('use-word-boundaries') === 'true';
+			const wildcardMatchLimit = parseInt(localStorage.getItem('wildcard-match-length-limit') || (window.innerWidth <= 768 ? '50' : '100'), 10);
 
-			if (isNaN(matchLengthLimit)) {
-				matchLengthLimit = window.innerWidth <= 768 ? 50 : 100;
-			}
-
-			if (searchQuery !== previousQuery || useWordBoundaries !== previouslyUsedWordBoundaries || previousMatchLengthLimit !== matchLengthLimit) {
-				currentPage = 1;
-				previouslyUsedWordBoundaries = useWordBoundaries;
-				previousMatchLengthLimit = matchLengthLimit;
+			if (searchQuery !== previousQuery ||
+				useWordBoundaries !== previousUseWordBoundaries ||
+				previousWildcardMatchLimit !== wildcardMatchLimit) {
+				currentStart = 0;
+				previousUseWordBoundaries = useWordBoundaries;
+				previousWildcardMatchLimit = wildcardMatchLimit;
 				previousQuery = searchQuery;
 				searchFinished = false;
-				debouncedSearch(searchQuery);
+				searchResponse = null;
+				allResults = [];
+				Object.keys(expandState).forEach(key => delete expandState[key]);
+
+				performSearchWithState(searchQuery, useWordBoundaries, wildcardMatchLimit, contextLevel, false);
 			}
 
 			if (!searchFinished) {
@@ -265,27 +332,26 @@ export const Results = () => {
 				});
 			}
 
-			resultsPerPage = parseInt(localStorage.getItem('render-amount') || (window.innerWidth <= 768 ? '100' : '200'));
-			visibleResults = resultsPerPage === 0 ? searchResults : searchResults.slice(0, currentPage * resultsPerPage);
+			if (errorMessage) {
+				return m('div#results', [
+					m('h1', `Results for "${searchQuery}"`),
+					m(ProgressSpinner, {
+						phase: errorMessage
+					})
+				]);
+			}
+
+			if (!searchResponse) {
+				return null;
+			}
 
 			return m('div#results', [
 				m('h1', `Results for "${searchQuery}"`),
 				m('h2'),
-				m('ul#results-list', [
-					visibleResults.map((result) => {
-						let match: RegExpExecArray | null;
-						const matches: { index: number; match: string }[] = [];
-
-						queryRegex.lastIndex = 0;
-
-						while (match = queryRegex.exec(result.subtitles)) {
-							matches.push({ index: match.index, match: match[0] });
-						}
-
-						if (matches.length === 0) return;
-
+				m('ul#results-list',
+					allResults.map((result) => {
 						const isExpanded = expandState[result.id] || false;
-						const displayedMatches = isExpanded ? matches : matches.slice(0, 3);
+						const displayedMatches = isExpanded ? result.matches : result.matches.slice(0, 3);
 
 						return m('li.result-item', [
 							[m('lite-youtube.video-embed', {
@@ -333,177 +399,16 @@ export const Results = () => {
 								])
 							]),
 							m('ul.subtitle-matches',
-								displayedMatches.map((match) => {
-									const elements: Children[] = [];
-
-									contextStart = match.index - 1;
-									contextEnd = match.index + match.match.length;
-									let bracketsFound = 0;
-
-									while (contextStart > 0 && bracketsFound < contextLevel + 1) {
-										contextStart--;
-										if (result.subtitles[contextStart] === '[') {
-											bracketsFound++;
-										}
-									}
-
-									bracketsFound = 0;
-
-									while (contextEnd < result.subtitles.length && bracketsFound < contextLevel + 1) {
-										if (result.subtitles[contextEnd + 1] === '[') {
-											bracketsFound++;
-										}
-										contextEnd++;
-									}
-
-									const context = result.subtitles.slice(contextStart, contextEnd);
-									const highlights = context.match(queryRegex)[0].split(timestampRegex) || [];
-
-									const contextLines = context.split('[').slice(1);
-									contextLines.forEach((line: string) => {
-										const [timestamp, text] = line.split(']');
-										const splitTimestamp = timestamp.split(':');
-										const second = parseInt(splitTimestamp[0]) * 60 + parseInt(splitTimestamp[1]);
-
-										elements.push(
-											m('li.line', [
-												m('button.seek', {
-													onclick: (e: Event) => {
-														// @ts-ignore
-														e.redraw = false;
-														seekEmbed(result.id, second);
-													},
-													oncontextmenu: (e: MouseEvent) => {
-														// @ts-ignore
-														e.redraw = false;
-														e.preventDefault();
-													},
-													onmouseup: (e: MouseEvent) => {
-														// @ts-ignore
-														e.redraw = false;
-														if (e.button === 1) {
-															e.preventDefault();
-															window.open(`https://www.youtube.com/watch?v=${result.id}&t=${second}s`, '_blank');
-														} else if (e.button === 2) {
-															e.preventDefault();
-															navigator.clipboard.write([
-																new ClipboardItem({
-																	'text/plain': `https://www.youtube.com/watch?v=${result.id}&t=${second}s`
-																})
-															]);
-														}
-													},
-													ontouchstart: (e: TouchEvent) => {
-														// @ts-ignore
-														e.redraw = false;
-														const touchDuration = 420;
-														const timer = setTimeout(() => {
-															window.open(`https://www.youtube.com/watch?v=${result.id}&t=${second}s`, '_blank');
-														}, touchDuration);
-														if (e.currentTarget) {
-															e.currentTarget.addEventListener('touchend', () => clearTimeout(timer));
-														}
-													},
-													title: 'HH:MM:SS'
-												}, formatTimestamp(timestamp)),
-												// This is kinda cursed, but it works
-												// Maybe once FlexSearch matures this can be done more elegantly (v0.8 should return highlights along with search results)
-												(() => {
-													let offset = 0;
-													const indices: { start: number; end: number }[] = [];
-													const lowerText = text.toLowerCase();
-
-													highlights.forEach((h: string) => {
-														const lowerHighlight = h.toLowerCase();
-														let pos = 0;
-														while ((pos = lowerText.indexOf(lowerHighlight, pos)) !== -1) {
-															indices.push({ start: pos, end: pos + h.length });
-															pos += h.length;
-														}
-													});
-
-													indices.sort((a, b) => a.start - b.start);
-
-													const mergedIndices = indices.reduce((merged, current) => {
-														if (merged.length === 0 || current.start > merged[merged.length - 1].end) {
-															merged.push(current);
-														} else {
-															merged[merged.length - 1].end = Math.max(merged[merged.length - 1].end, current.end);
-														}
-														return merged;
-													}, [] as { start: number; end: number }[]);
-
-													const fragments: Children[] = [];
-
-													mergedIndices.forEach(({ start, end }) => {
-														if (start > offset) {
-															fragments.push(text.slice(offset, start));
-														}
-
-														if (useWordBoundaries) {
-															const charBefore = start === 0 ? '' : text.charAt(start - 1);
-															const charAfter = end >= text.length ? '' : text.charAt(end);
-
-															if (!((start === 0 || !/\w/.test(charBefore)) && (end === text.length || !/\w/.test(charAfter)))) {
-																fragments.push(text.slice(start, end));
-																offset = end;
-																return;
-															}
-														} else if (searchQuery.includes('*', 1) && (end - start) === 1) {
-															fragments.push(text.slice(start, end));
-															offset = end;
-															return;
-														}
-
-														fragments.push(m('mark', text.slice(start, end)));
-														offset = end;
-													});
-
-													if (offset < text.length) {
-														fragments.push(text.slice(offset));
-													}
-
-													return fragments;
-												})(),
-												m('button.edit', {
-													onclick: (e: Event) => {
-														// @ts-ignore
-														e.redraw = false;
-
-														const match = new RegExp(timestamp.replace('.', '\.')).exec(result.subtitles);
-														if (match && match.index >= 0) {
-															const precedingText = result.subtitles.slice(0, match.index);
-															const lineCount = (precedingText.match(/\[/g) || []).length + 3;
-															window.open(`https://github.com/JermaSites/Jerma-Subtitle-Search/edit/main/src/assets/subtitles/${result.subtitle_filename}#L${lineCount}`, '_blank');
-														} else {
-															window.open(`https://github.com/JermaSites/Jerma-Subtitle-Search/edit/main/src/assets/subtitles/${result.subtitle_filename}#L4`, '_blank');
-														}
-													},
-													title: 'Edit on GitHub'
-												},
-												[
-													m('svg.icon', {
-														role: 'img', 'aria-label': 'edit icon',
-														viewBox: '0 0 24 24',
-														xmlns: 'http://www.w3.org/2000/svg'
-													},
-													[
-														m('path', {
-															d: 'M17.263 2.177a1.75 1.75 0 0 1 2.474 0l2.586 2.586a1.75 1.75 0 0 1 0 2.474L19.53 10.03l-.012.013L8.69 20.378a1.753 1.753 0 0 1-.699.409l-5.523 1.68a.748.748 0 0 1-.747-.188.748.748 0 0 1-.188-.747l1.673-5.5a1.75 1.75 0 0 1 .466-.756L14.476 4.963ZM4.708 16.361a.26.26 0 0 0-.067.108l-1.264 4.154 4.177-1.271a.253.253 0 0 0 .1-.059l10.273-9.806-2.94-2.939-10.279 9.813ZM19 8.44l2.263-2.262a.25.25 0 0 0 0-.354l-2.586-2.586a.25.25 0 0 0-.354 0L16.061 5.5Z'
-														})
-													])
-												])
-											])
-										);
-									});
-
-									return m('li.match', [
-										elements,
+								displayedMatches.map((match, _idx) =>
+									m('li.match', [
+										match.lines.map(line =>
+											renderSubtitleLine(line, result.id, result.subtitle_filename)
+										),
 										m('hr')
-									]);
-								})
+									])
+								)
 							),
-							matches.length > 3 &&
+							result.matches.length > 3 &&
 								m('button.show-more', {
 									onclick: () => expandState[result.id] = !expandState[result.id]
 								},
@@ -521,7 +426,7 @@ export const Results = () => {
 										])
 										:
 										[
-											`${matches.length - 3} more`,
+											`${result.matches.length - 3} more`,
 											m('svg.icon', {
 												role: 'img', 'aria-label': 'downwards chevron',
 												viewBox: '0 0 24 24',
@@ -534,10 +439,10 @@ export const Results = () => {
 											])
 										]
 								])
-						]);
+						])
 					})
-				]),
-				searchResults.length === 0 &&
+				),
+				searchResponse.totalResults === 0 &&
 					m('div#page-info', [
 						m('section', [
 							m('h2', 'Not finding what you\'re looking for?'),
@@ -562,21 +467,7 @@ export const Results = () => {
 							m('details#advanced-usage', [
 								m('summary', 'Advanced Usage'),
 								m('p', [
-									'You can interact with the underlying ',
-									m('a', {
-										href: 'https://github.com/lucaong/minisearch'
-									}, 'MiniSearch'),
-									' instance in your browser console.',
-									m('br'),
-									'It\'s accessible from a global variable called ',
-									m('code', 'subtitles'),
-									'.',
-									m('br'),
-									'For example: ',
-									m('code', `subtitles.search('${searchQuery}', { combineWith: 'OR', fuzzy: true })`)
-								]),
-								m('p', [
-									'The subtitle files are also downloadable if you\'d like to search through them externally.',
+									'The subtitle files are downloadable if you\'d like to search through them externally.',
 									m('br'),
 									'Individual files are on ',
 									m('a', {
