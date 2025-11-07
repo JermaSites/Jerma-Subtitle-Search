@@ -19,9 +19,7 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
-		"fflate": "^0.8.2",
 		"lite-youtube-embed": "^0.3.3",
-		"minisearch": "^7.2.0",
 		"mithril": "^2.3.7"
 	},
 	"devDependencies": {
