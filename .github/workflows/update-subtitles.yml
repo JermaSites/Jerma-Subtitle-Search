@@ -93,11 +93,6 @@ jobs:
             echo "VERSION=${VERSION}" >> $GITHUB_OUTPUT
             git add package.json
 
-        - name: Update service-worker.js cache version
-          run: |
-            sed -i "1s/^.*$/const cacheName = 'cache-${{ steps.bump_version.outputs.VERSION }}';/" public/service-worker.js
-            git add public/service-worker.js
-
         - name: Commit
           uses: qoomon/actions--create-commit@v1.2.3
           with:
