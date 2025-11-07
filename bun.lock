@@ -11,6 +11,7 @@
       "devDependencies": {
         "@types/mithril": "^2.2.7",
         "@types/youtube": "^0.1.2",
+        "jerma-subtitle-search-types": "^1.0.0",
         "sass": "^1.93.3",
         "typescript": "^5.9.3",
         "vite": "^4.5.14",
@@ -115,6 +116,8 @@
     "is-glob": ["is-glob@4.0.3", "", { "dependencies": { "is-extglob": "^2.1.1" } }, "sha512-xelSayHH36ZgE7ZWhli7pW34hNbNl8Ojv5KVmkJD4hBdD3th8Tfk9vYasLM+mXWOZhFkgZfxhLSnrwRr4elSSg=="],
 
     "is-number": ["is-number@7.0.0", "", {}, "sha512-41Cifkg6e8TylSpdtTpeLVMqvSBEVzTttHvERD741+pnZ8ANv0004MRL43QKPDlK9cGvNp6NZWZUBlbGXYxxng=="],
+
+    "jerma-subtitle-search-types": ["jerma-subtitle-search-types@1.0.0", "", { "peerDependencies": { "typescript": "^5" } }, "sha512-XezBIl016PrWb6Gq93wLxDCLdYaFgpVHdNf0Yq8/2bwNoA9SkCPBo/ijkd+UchHxKIKGhn9vYY/FPjyNqOh8DQ=="],
 
     "lite-youtube-embed": ["lite-youtube-embed@0.3.3", "", {}, "sha512-gFfVVnj6NRjxVfJKo3qoLtpi0v5mn3AcR4eKD45wrxQuxzveFJUb+7Cr6uV6n+DjO8X3p0UzPPquhGt0H/y+NA=="],
 
