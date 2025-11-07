@@ -6,8 +6,13 @@
     "engines": {
         "npm": ">=10"
     },
+    "author": {
+        "name": "Bergbok",
+        "url": "https://github.com/Bergbok"
+    },
     "homepage": "https://search.jerma.io",
-    "repository": "https://github.com/JermaSites/Jerma-Subtitle-Search",
+    "repository": "github.com:JermaSites/Jerma-Subtitle-Search",
+    "bugs": "https://github.com/JermaSites/Jerma-Subtitle-Search/issues",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
