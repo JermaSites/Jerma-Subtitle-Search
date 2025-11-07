@@ -1,0 +1,30 @@
+# convert indentation to tabs
+2e2d5652e74e746b9f6f798fe07990d3fbc600c6
+# remove unnecessary quotes from workflows
+74e8f0f310130b1631c5d2aa7d575a42fbecd232
+# indent conditional element
+1d173fede83dff03a24297a4ff2ed388a72fb560
+# alphabetically order and place attributes on their own lines
+c79bb4381e25c98b3fbdd46df00511f5d333e121
+# replace " with '
+ea732705e36b0bfdf3d3871686ec190fd77cd280
+# replace " with '
+44aeaa24c3e273f11c16e47fca7ef1fa3318fb4b
+# remove trailing whitespace from Action workflows
+74c99794b2e9fc885568da556444d117f9cf4d51
+# indent conditional elements
+52138e1c2d2081ba7a2b771fb1f4fbb0286a25fc
+# format dark theme colors the same as other themes
+81e218fb3f70ed3e921bd346bd0811cc9f9a89a6
+# revise inconsistent indentation
+658a022592cc3fd539008669580a5f2317b8f72c
+# revise usage of semicolons and commas
+c52ba7238a7944f15f089bcbfe6eaa0b534fde6d
+# remove trailing whitespace
+617f8f573a4a5ab873bc3975b265ef32be208bba
+# add missing spaces
+491558614b4f1032ed5977d60977fca1e38ffeb1
+# indent multiline ternary expressions
+04d21ffc076348ab9cc3f12d59906cd288b4d65d
+# remove quotation marks from Dependabot config
+62ae6dd29d41041bd6c3383da81da9882a874d9b
