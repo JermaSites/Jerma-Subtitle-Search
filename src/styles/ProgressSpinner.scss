@@ -3,6 +3,7 @@
 
 #loading-indicator {
 	align-items: center;
+	animation: fade-in 0.5s ease-in-out 0.5s both;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -14,12 +15,7 @@
 		position: relative;
 		z-index: 1;
 
-		&.done {
-			opacity: 0
-		}
-
-		&.parse,
-		&.download {
+		&.loading {
 			&::after,
 			&::before {
 				animation: 3.33s border-spin linear infinite;
@@ -33,24 +29,13 @@
 				width: 100%;
 				z-index: -1;
 			}
-		}
 
-		&.parse {
 			&::after {
-				background-image: conic-gradient(from var(--angle), transparent 90%, var(--loading-parse-color));
-			}
-			&::before  {
-				background-image: conic-gradient(from calc(var(--angle) + 180deg), transparent 90%, var(--loading-parse-color));
-			}
-		}
-
-		&.download {
-			&::after {
-				background-image: conic-gradient(from var(--angle), transparent 90%, var(--loading-download-color));
+				background-image: conic-gradient(from var(--angle), transparent 90%, var(--loading-spinner-color));
 			}
 
 			&::before {
-				background-image: conic-gradient(from calc(var(--angle) + 180deg), transparent 90%, var(--loading-download-color));
+				background-image: conic-gradient(from calc(var(--angle) + 180deg), transparent 90%, var(--loading-spinner-color));
 			}
 		}
 
@@ -62,7 +47,6 @@
 	}
 
 	p {
-		animation: fade-in 0.3s ease-in-out;
 		color: var(--text-color);
 		font-size: 1.2em;
 		margin-top: 20px;

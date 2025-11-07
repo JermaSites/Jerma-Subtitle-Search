@@ -3,8 +3,8 @@ import { playAudio } from './Secrets';
 import '../styles/Settings.scss';
 
 document.addEventListener('DOMContentLoaded', () => {
-	if (!localStorage.getItem('synchronous-loading')) {
-		changeSetting('synchronous-loading', 'false');
+	if (!localStorage.getItem('one-player-limit')) {
+		changeSetting('one-player-limit', 'true');
 	}
 
 	if (!localStorage.getItem('render-amount')) {
@@ -13,10 +13,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
 	if (!localStorage.getItem('use-word-boundaries')) {
 		changeSetting('use-word-boundaries', 'false');
-	}
-
-	if (!localStorage.getItem('one-player-limit')) {
-		changeSetting('one-player-limit', 'true');
 	}
 
 	if (!localStorage.getItem('wildcard-match-length-limit')) {
@@ -28,6 +24,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
 	const theme = localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
 	changeSetting('theme', theme);
+
+	if (parseInt(localStorage.getItem('render-amount')!) > 1500) {
+		changeSetting('render-amount', '1500');
+	}
+
+	if (parseInt(localStorage.getItem('wildcard-match-length-limit')!) > 500) {
+		changeSetting('wildcard-match-length-limit', '500');
+	}
 });
 
 let hasPreloadedFonts: boolean = false;
@@ -142,25 +146,6 @@ export const SettingsModal = () => {
 						m('h2', 'Settings'),
 						m('div#general-settings', [
 							m('label', {
-								for: 'synchronous-loading'
-							},
-							[
-								m('input#synchronous-loading', {
-									checked: localStorage.getItem('synchronous-loading') === 'true',
-									type: 'checkbox',
-									onchange: (e: Event) => {
-										// @ts-ignore
-										e.redraw = false;
-										const target = e.target as HTMLInputElement;
-										changeSetting('synchronous-loading', target.checked.toString());
-									}
-								}),
-								'Synchronous initial load',
-								m('br'),
-								m('small.setting-description', 'Speeds up \'Parsing subtitles\' phase significantly, but may briefly freeze.')
-							]),
-							m('br'),
-							m('label', {
 								for: 'one-player-limit'
 							},
 							[
@@ -203,17 +188,16 @@ export const SettingsModal = () => {
 											over9000Played = true;
 										}
 
+										if (value > 1500) {
+											value = 1500;
+										}
+
 										changeSetting('render-amount', value.toString());
 									}
 								}),
-								`Render ${
-									(() => {
-										const renderAmount = localStorage.getItem('render-amount') || (window.innerWidth <= 768 ? 100 : 200);
-										return renderAmount === '0' ? 'all' : renderAmount;
-									})()
-								} results at once`,
+								`Render ${localStorage.getItem('render-amount') || (window.innerWidth <= 768 ? 100 : 200)} results at once`,
 								m('br'),
-								m('small.setting-description', 'Enter 0 to load all.')
+								m('small.setting-description', 'Max is 1500.')
 							]),
 							m('br'),
 							m('label', {
@@ -240,20 +224,19 @@ export const SettingsModal = () => {
 											over9000Played = true;
 										}
 
+										if (value > 500) {
+											value = 500;
+										}
+
 										changeSetting('wildcard-match-length-limit', value.toString());
 									}
 								}),
-								`Limit * matches to ${
-									(() => {
-										const renderAmount = localStorage.getItem('wildcard-match-length-limit') || (window.innerWidth <= 768 ? 50 : 100);
-										return renderAmount === '0' ? '∞' : renderAmount;
-									})()
-								} characters`,
+								`Limit * matches to ${localStorage.getItem('wildcard-match-length-limit') || (window.innerWidth <= 768 ? 50 : 100)} characters`,
 								m('br'),
 								m('small.setting-description',
-									'Can prevent overly long wildcard (*) matches.',
+									'Lower this to prevent overly long wildcard (*) matches.',
 									m('br'),
-									'Enter 0 to uncap (not recommended).'
+									'Max is 500.'
 								)
 							])
 						]),
