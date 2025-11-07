@@ -2,7 +2,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "dev server",
+            "label": "client dev",
             "type": "shell",
             "command": "bun run dev",
             "isBackground": true,
@@ -16,7 +16,8 @@
             },
             "runOptions": {
                 "runOn": "folderOpen"
-            }
+            },
+			"problemMatcher": []
         }
     ]
 }
