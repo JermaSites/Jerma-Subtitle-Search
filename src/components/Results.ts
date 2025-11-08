@@ -64,8 +64,13 @@ async function performSearch(
 
 	const baseUrl = window.location.hostname === 'localhost' ? 'http://localhost:3000' : 'https://jerma-search.paulekas.eu';
 	const response = await fetch(`${baseUrl}/search?${params}`, { signal });
+    const data = await response.json();
 
-	return response.json();
+    if (data.error || !response.ok) {
+        throw new Error(data.message || 'Search failed');
+    }
+
+    return data;
 }
 
 function formatStreamTitle(title: string): Children[] {
