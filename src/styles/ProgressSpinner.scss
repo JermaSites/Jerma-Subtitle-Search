@@ -3,7 +3,6 @@
 
 #loading-indicator {
 	align-items: center;
-	animation: fade-in 0.5s ease-in-out 0.5s both;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -16,6 +15,8 @@
 		z-index: 1;
 
 		&.loading {
+			animation: fade-in 0.4s ease-in-out 0.4s both;
+
 			&::after,
 			&::before {
 				animation: 3.33s border-spin linear infinite;
@@ -47,6 +48,7 @@
 	}
 
 	p {
+		animation: fade-in 0.4s ease-in-out 0.4s both;
 		color: var(--text-color);
 		font-size: 1.2em;
 		margin-top: 20px;
