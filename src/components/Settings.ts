@@ -181,7 +181,7 @@ export const SettingsModal = () => {
 											value = window.innerWidth <= 768 ? 100 : 200;
 										}
 
-										if (value < 25 && value !== 0) {
+										if (value < 25) {
 											value = 25;
 										} else if (value > 9000 && !over9000Played) {
 											playAudio('/assets/audio/IT\'S-OVER-9000.opus', 0.69);
@@ -217,8 +217,8 @@ export const SettingsModal = () => {
 											value = window.innerWidth <= 768 ? 50 : 100;
 										}
 
-										if (value < 0) {
-											value = 25;
+										if (value <= 0) {
+											value = 1;
 										} else if (value > 9000 && !over9000Played) {
 											playAudio('/assets/audio/IT\'S-OVER-9000.opus', 0.69);
 											over9000Played = true;
