@@ -77,7 +77,7 @@ jobs:
             bun-version: latest
 
         - name: Install MiniSearch
-          run: bun install minisearch
+          run: bun install minisearch --no-save
 
         - name: Update subtitle index
           run: |
