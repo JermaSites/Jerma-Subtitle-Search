@@ -20,7 +20,7 @@
 	},
 	"dependencies": {
 		"lite-youtube-embed": "^0.3.3",
-		"mithril": "^2.3.7"
+		"mithril": "^2.3.8"
 	},
 	"devDependencies": {
 		"@types/mithril": "^2.2.7",
