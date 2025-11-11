@@ -25,7 +25,7 @@
 	"devDependencies": {
 		"@types/mithril": "^2.2.7",
 		"@types/youtube": "^0.1.2",
-		"jerma-subtitle-search-types": "^1.0.0",
+		"jerma-subtitle-search-types": "^1.0.1",
 		"sass": "^1.93.3",
 		"typescript": "^5.9.3",
 		"vite": "^4.5.14"
