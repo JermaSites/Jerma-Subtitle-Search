@@ -4,7 +4,7 @@
     "": {
       "dependencies": {
         "lite-youtube-embed": "^0.3.3",
-        "mithril": "^2.3.7",
+        "mithril": "^2.3.8",
       },
       "devDependencies": {
         "@types/mithril": "^2.2.7",
@@ -119,7 +119,7 @@
 
     "micromatch": ["micromatch@4.0.8", "", { "dependencies": { "braces": "^3.0.3", "picomatch": "^2.3.1" } }, "sha512-PXwfBhYu0hBCPw8Dn0E+WDYb7af3dSLVWKi3HGv84IdF4TyFoC0ysxFd0Goxw7nSv4T/PzEJQxsYsEiFCKo2BA=="],
 
-    "mithril": ["mithril@2.3.7", "", {}, "sha512-igRr/o79tNDTL2wa4ta16V7B0A0KdtjPcRVBdw2BMHF0c08xpCk4GxN+Ws04NYq2kGDBA0En1QHF/dgCw1oIIw=="],
+    "mithril": ["mithril@2.3.8", "", {}, "sha512-za/Yo7qXEckjm5syrSfaaI9Utf4tCUT3T1IOIYqH6Lrj7G0OZuYYLAY9SV4ygoaAf0+CNqU92MBt+7pmo53JVQ=="],
 
     "nanoid": ["nanoid@3.3.8", "", { "bin": { "nanoid": "bin/nanoid.cjs" } }, "sha512-WNLf5Sd8oZxOm+TzppcYk8gVOgP+l58xNy58D0nbUnOxOWRWvlcCV4kUF7ltmI6PsrLl/BgKEyS4mqsGChFN0w=="],
 
