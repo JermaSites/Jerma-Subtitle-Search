@@ -3,7 +3,7 @@
   "workspaces": {
     "": {
       "dependencies": {
-        "lite-youtube-embed": "^0.3.3",
+        "lite-youtube-embed": "^0.3.4",
         "mithril": "^2.3.8",
       },
       "devDependencies": {
@@ -115,7 +115,7 @@
 
     "jerma-subtitle-search-types": ["jerma-subtitle-search-types@1.0.1", "", { "peerDependencies": { "typescript": "^5" } }, "sha512-TYyPQEwOvXRhcZG2DMGflf6FETXhlaIkVIzjOL6znV8BI03FjtqjHvntgm1NSZejPN4xWRg4M2q6i/HZ8yvdKg=="],
 
-    "lite-youtube-embed": ["lite-youtube-embed@0.3.3", "", {}, "sha512-gFfVVnj6NRjxVfJKo3qoLtpi0v5mn3AcR4eKD45wrxQuxzveFJUb+7Cr6uV6n+DjO8X3p0UzPPquhGt0H/y+NA=="],
+    "lite-youtube-embed": ["lite-youtube-embed@0.3.4", "", {}, "sha512-aXgxpwK7AIW58GEbRzA8EYaY4LWvF3FKak6B9OtSJmuNyLhX2ouD4cMTxz/yR5HFInhknaYd2jLWOTRTvT8oAw=="],
 
     "micromatch": ["micromatch@4.0.8", "", { "dependencies": { "braces": "^3.0.3", "picomatch": "^2.3.1" } }, "sha512-PXwfBhYu0hBCPw8Dn0E+WDYb7af3dSLVWKi3HGv84IdF4TyFoC0ysxFd0Goxw7nSv4T/PzEJQxsYsEiFCKo2BA=="],
 
