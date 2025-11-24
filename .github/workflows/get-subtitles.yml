@@ -17,7 +17,7 @@ jobs:
         working-directory: ./src/scripts
     steps:
       - name: Checkout
-        uses: actions/checkout@v5.0.1
+        uses: actions/checkout@v6.0.0
 
       - name: Setup FFmpeg
         uses: federicocarboni/setup-ffmpeg@v3.1
