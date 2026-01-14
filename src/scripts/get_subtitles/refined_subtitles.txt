@@ -19,6 +19,7 @@
 3DO_Games_Part_6.en.lrc
 4000_Subs_Computer_Set_Up_Video_and_Who_is_THE_EGG.en.lrc
 50_000_Subscribers_Human_Sundae_Insanity_Ice_Cream_Party.en.lrc
+5_second_review_of_Overwatch.en.lrc
 700_000_Games.en.lrc
 700_000_Games_Version_2.0.en.lrc
 700_000_Games_Version_2.0_Part_2_Finale.en.lrc
@@ -120,6 +121,7 @@ Binding_of_Isaac_WotL_Sunburnt_Jerma_Livestream_Session.en.lrc
 Binding_of_Issac_Antibirth_Part_2.en.lrc
 BioForge_Part_2_Finale.en.lrc
 Bio_Inc._Redemption.en.lrc
+Bits_Bops.en.lrc
 Black_Ops_2_Bankrupt_That_Bastard_Sticks_and_Stones_with_Friends.en.lrc
 Black_Ops_2_Grandpa_is_an_MLG_Pro.en.lrc
 Black_Ops_2_Sticks_and_Stones_1_The_Race.en.lrc
@@ -344,6 +346,7 @@ Definition_of_a_Jerma_Joke.en.lrc
 Deltarune_Chapter_1.en.lrc
 Deltarune_Chapter_2_Part_1.en.lrc
 Deltarune_Chapter_2_Part_2.en.lrc
+Dementium_The_Ward.en.lrc
 Demon_Lord_at_Freddys.en.lrc
 Demons_Souls_Part_1.en.lrc
 Demons_Souls_Part_2.en.lrc
@@ -758,6 +761,8 @@ Happy_Birthday_Miku_Jerma_Animated.en.lrc
 Happy_New_Year.en.lrc
 Happy_Thanksgiving.en.lrc
 Happy_Valentines_Day_Dont_Get_Depressed_Smite_All_Cupid.en.lrc
+Hard_Time_III.en.lrc
+Hard_Time_III_Part_2.en.lrc
 Hardline_Officer_of_the_Law.en.lrc
 Hardspace_Shipbreaker.en.lrc
 Harvester_Part_1.en.lrc
@@ -848,6 +853,7 @@ Important_Vlog_New_Upload_Schedule_Oh_Ya_Baby.en.lrc
 Impossible_Creatures.en.lrc
 InZOI.en.lrc
 Incredible_Crisis.en.lrc
+Incredicer.en.lrc
 Infectonator_Zombies_Everywhere_Spread_the_Infection_Little_Gems.en.lrc
 Infinity_Nikki.en.lrc
 Insaniquarium_Deluxe.en.lrc
@@ -1159,6 +1165,7 @@ NIDHOGG.en.lrc
 Name_Your_Price_Part_2_with_Hasan_Pokimane_and_GeorgeNotFound.en.lrc
 Name_Your_Price_with_Ludwig_Mia_Malkova_and_Rich_Campbell.en.lrc
 Nancy_Drew_Ghost_of_Thornton_Hall_Part_2_Finale.en.lrc
+Nancy_Drew_Last_Train_to_Blue_Moon_Canyon.en.lrc
 Nancy_Drew_Midnight_in_Salem_Part_A.en.lrc
 Nancy_Drew_Midnight_in_Salem_Part_B.en.lrc
 Nancy_Drew_Sea_of_Darkness.en.lrc
@@ -1229,6 +1236,7 @@ Otto_Stream.en.lrc
 Otto_The_Dog_Doesn_t_Understand_Utensils_Quick_Cute_Clip.en.lrc
 Ottos_Big_Adventure_2_The_Great_Cookie_Mystery_Full_Movie.en.lrc
 Ottos_Big_Adventure_A_Dogs_Day_Out_Full_Movie.en.lrc
+Ottos_Christmas_Chat_and_More.en.lrc
 Ottos_Dog_Farts...Messin_Up_My_Game_Uncensored_Jerma.en.lrc
 Outer_Wilds.en.lrc
 Outer_Wilds_Part_2_Finale.en.lrc
@@ -1238,6 +1246,12 @@ Overcooked_2_Part_1_with_Etalyx.en.lrc
 Overcooked_2_Part_2_with_Etalyx.en.lrc
 Overwatch.en.lrc
 Overwatch_Before_Rumble.en.lrc
+Overwatch_Beta_Part_2_with_Ster_and_Boo.en.lrc
+Overwatch_Beta_Part_3_with_Ster.en.lrc
+Overwatch_Beta_Part_4_with_Ster.en.lrc
+Overwatch_Beta_Part_5_with_Ster.en.lrc
+Overwatch_Beta_Part_6.en.lrc
+Overwatch_Beta_with_Ster.en.lrc
 Overwatch_Music.en.lrc
 Overwatch_Support_Done_Right.en.lrc
 Overwatch_and_maybe_somethin_else.en.lrc
@@ -1337,6 +1351,7 @@ R.I.P._GTA_4.en.lrc
 RANKED_2pm=Jerma_Games.en.lrc
 RISK_Global_Domination_With_Ludwig_Cr1TiKaL_and_Connor.en.lrc
 ROGUE_LIGHT_DECK_BUILDER.en.lrc
+RV_There_Yet_with_Ster_Poke_and_Vinny.en.lrc
 Radiation_Monster_Vs._The_Goof_Guys.en.lrc
 Rain_World.en.lrc
 Rampage_Knights.en.lrc
@@ -1392,6 +1407,7 @@ Resident_Evil_4_Remake_Part_3.en.lrc
 Resident_Evil_4_Remake_Part_4_Finale.en.lrc
 Resident_Evil_4_Remake_Part_5.en.lrc
 Resident_Evil_4_Remake_Part_6.en.lrc
+Resident_Evil_6_Part_2_with_Ster.en.lrc
 Resident_Evil_6_with_Etalyx.en.lrc
 Resident_Evil_7_Biohazard.en.lrc
 Resident_Evil_7_Biohazard_DLC.en.lrc
@@ -1402,6 +1418,7 @@ Resident_Evil_Village.en.lrc
 Resident_Evil_Village_Part_2_Finale.en.lrc
 Resident_Evil_Village_Part_3.en.lrc
 Restaurant_Empire.en.lrc
+Restaurats_with_Ster_Poke_and_Vinny.en.lrc
 Rhythm_Heaven_Fever.en.lrc
 Rick_and_Morty_Virtual_Rick_ality.en.lrc
 Ride_Carnival_Tycoon.en.lrc
@@ -1474,6 +1491,7 @@ Seaman.en.lrc
 Sega_CD_Games_Part_1.en.lrc
 Sega_CD_Games_Part_2.en.lrc
 Sega_CD_Games_Part_4_Halloween_Special.en.lrc
+Sega_CD_Games_Part_5.en.lrc
 Sekiro_Shadows_Die_Twice.en.lrc
 Sekiro_Shadows_Die_Twice_Part_2.en.lrc
 Sekiro_Shadows_Die_Twice_Part_3.en.lrc
@@ -1566,6 +1584,7 @@ Spy_Party_Its_Always_The_Monopoly_Guy_w_STAR.en.lrc
 Spy_Party_Its_Always_The_Morgan_Freeman_Guy.en.lrc
 Square_Enix_Conference_E3_2019.en.lrc
 Square_Enix_Conference_E3_2021_with_Ster.en.lrc
+Squeakross_Home_Squeak_Home.en.lrc
 Stalked_Hilarious_Indie_Horror_Burgah_Boy_Puke_2.0.en.lrc
 Stand_Tall_for_Turtlefall.en.lrc
 Star_Wars_Jedi_Knight_Jedi_Academy.en.lrc
@@ -2011,6 +2030,7 @@ Teenage_Mutant_Ninja_Turtles_The_Cowabunga_Collection.en.lrc
 Teenage_Mutant_Ninja_Turtles_The_Cowabunga_Collection_Part_2_with_Squeex.en.lrc
 Telephone_Stream_2_Akinator_and_Type_Racer.en.lrc
 Tentacle_Wars_Infect_Them_All_Little_Gems.en.lrc
+Terminator_2D_NO_FATE.en.lrc
 Terraria_Contest_Rules_TF2_Scout_Gameplay_Commentary_Doublecross.en.lrc
 Terraria_Part_2_with_Ster.en.lrc
 Terraria_Part_3_with_Ster.en.lrc
@@ -2086,6 +2106,7 @@ The_Game_Awards_2021.en.lrc
 The_Game_Awards_2022.en.lrc
 The_Game_Awards_2023_with_Ster.en.lrc
 The_Game_Awards_2024_with_Ster.en.lrc
+The_Game_Awards_2025_with_Ster.en.lrc
 The_Gift_of_Flight.en.lrc
 The_Grandpa_Christmas_Story_Animated_Short.en.lrc
 The_Green_Screen_Stream.en.lrc
@@ -2404,6 +2425,9 @@ Welp_See_ya_on_Tuesday_for_Monster_Rancher_2_if_I_still_have_a_computer.en.lrc
 What_Makes_a_Game_Take_Off_Discussion_SMITE_Loki.en.lrc
 Wheel_of_Fortune_Part_2.en.lrc
 Wheelman.en.lrc
+Where_Winds_Meet_Part_2_with_Ster.en.lrc
+Where_Winds_Meet_with_Ster.en.lrc
+Whisper_Mountain_Outbreak_with_Ster.en.lrc
 White_Knuckle.en.lrc
 White_Knuckle_Part_2.en.lrc
 White_Knuckle_Part_3_with_Ster.en.lrc
@@ -2418,6 +2442,10 @@ Whos_Driving_This_Ambulance_Surgeon_Simulator_2013_Steam_Version.en.lrc
 Wild_Hearts_With_Vinny_Vinesauce.en.lrc
 Wildermyth_With_Ster_and_Strippin.en.lrc
 Windshield_Sling_Shooter_McGee_FlatOut_3_Stuntman_Mode.en.lrc
+Withering_Rooms.en.lrc
+Withering_Rooms_Part_2.en.lrc
+Withering_Rooms_Part_3.en.lrc
+Withering_Rooms_Part_4.en.lrc
 Wizorb.en.lrc
 WoW_Mists_of_Pandaria_Launch_Chaos.en.lrc
 Wobbledogs.en.lrc
@@ -2488,3 +2516,4 @@ rare_off_stream_jerma_discord_call_with_ster.en.lrc
 teacher_noise_Jerma985_animated.en.lrc
 virtually_murders_his_entire_fanbase.en.lrc
 wishes_Joel_a_happy_2024.en.lrc
+with_the_tooth_tunes.en.lrc
