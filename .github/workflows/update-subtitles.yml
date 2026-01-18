@@ -24,39 +24,38 @@ jobs:
         - name: Checkout
           uses: actions/checkout@v6.0.1
 
-        - name: Setup Python
-          uses: actions/setup-python@v6.1.0
+        - name: Install uv
+          uses: astral-sh/setup-uv@v7.2.0
           with:
-            python-version: 3
-            cache: pip
-            check-latest: true
+            version: latest
+            python-version: 3.13
 
         - name: Install Python packages
           run: |
-            python -m venv venv
-            source venv/bin/activate
-            pip install b2[full]
+            uv venv
+            source .venv/bin/activate
+            uv pip install b2[full]
             deactivate
 
             cd src/scripts/get_subtitles
-            python -m venv venv
-            source venv/bin/activate
-            pip install python-dateutil
+            uv venv
+            source .venv/bin/activate
+            uv pip install python-dateutil
 
         - name: Authenticate B2 CLI
           run: |
-            source venv/bin/activate
+            source .venv/bin/activate
             b2 account authorize "${{ secrets.B2_APP_KEY_ID }}" "${{ secrets.B2_APP_KEY }}" &> /dev/null
 
         - name: Download Subtitles.json
           run: |
-            source venv/bin/activate
+            source .venv/bin/activate
             b2 file download b2://jerma-subtitles/Subtitles.json src/assets/Subtitles.json
 
         - name: Run write_subtitles_json.py
           run: |
             cd src/scripts/get_subtitles
-            source venv/bin/activate
+            source .venv/bin/activate
             python write_subtitles_json.py
 
         - name: Run update_stats.py

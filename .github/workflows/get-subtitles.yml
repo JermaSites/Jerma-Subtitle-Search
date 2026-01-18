@@ -19,36 +19,41 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6.0.1
 
-      - name: Setup FFmpeg
+      - name: Install Bun
+        uses: oven-sh/setup-bun@v2.1.0
+        with:
+          bun-version: latest
+
+      - name: Install FFmpeg
         uses: federicocarboni/setup-ffmpeg@v3.1
 
-      - name: Setup Python
-        uses: actions/setup-python@v6.1.0
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7.2.0
         with:
-          python-version: '3.13'
-        continue-on-error: true
+          version: latest
+          python-version: 3.13
 
       - name: Install Python packages
         run: |
-          python -m venv venv
-          source venv/bin/activate
-          pip install b2[full]
+          uv venv
+          source .venv/bin/activate
+          uv pip install b2[full]
           deactivate
 
           cd get_subtitles
-          python -m venv venv
-          source venv/bin/activate
-          pip install -r requirements.txt
-          pip install --upgrade --pre yt-dlp
+          uv venv
+          source .venv/bin/activate
+          uv pip install -r requirements.txt
+          uv pip install --upgrade --pre yt-dlp
 
       - name: Authenticate B2 CLI
         run: |
-          source venv/bin/activate
+          source .venv/bin/activate
           b2 account authorize "${{ secrets.B2_APP_KEY_ID }}" "${{ secrets.B2_APP_KEY }}" &> /dev/null
 
       - name: Download Subtitles.json
         run: |
-          source venv/bin/activate
+          source .venv/bin/activate
           b2 file download b2://jerma-subtitles/Subtitles.json ../assets/Subtitles.json
 
       - name: Write cookie file
@@ -58,25 +63,33 @@ jobs:
         run: |
           set +e
           cd get_subtitles
-          source venv/bin/activate
-          while true; do
-            echo 'Running get_subtitles.py...'
-            python get_subtitles.py
+          source .venv/bin/activate
+          MAX_TRIES=8
+          ATTEMPT=0
+          while [ $ATTEMPT -lt $MAX_TRIES ]; do
+            ATTEMPT=$((ATTEMPT + 1))
+            echo "Running get_subtitles.py (attempt $ATTEMPT/$MAX_TRIES)..."
+
+            TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD=true python get_subtitles.py
 
             EXIT_CODE=$?
-
             if [ $EXIT_CODE -eq 0 ]; then
               echo 'Script completed successfully.'
               break
             else
-              echo "Script crashed with exit code $EXIT_CODE. Restarting in 10 seconds..."
-              sleep 10
+              if [ $ATTEMPT -lt $MAX_TRIES ]; then
+                echo "Script crashed with exit code $EXIT_CODE. Restarting in 10 seconds..."
+                sleep 10
+              else
+                echo "Script failed after $MAX_TRIES attempts. Giving up."
+                exit 1
+              fi
             fi
           done
 
       - name: Upload Subtitles.json
         run: |
-          source venv/bin/activate
+          source .venv/bin/activate
           b2 file upload jerma-subtitles ../assets/Subtitles.json Subtitles.json &> /dev/null
 
       - name: Commit
@@ -86,11 +99,13 @@ jobs:
           new_entries=()
 
           for file in $(git ls-files --others --exclude-standard src/assets/subtitles/*.lrc); do
-            new_entry="$(basename "$file" .en.lrc)"
-            new_entry="${new_entry//_/ }"
-            new_entries+=("$new_entry")
+            filename=$(basename "$file")
+
+            title=$(jq -r --arg fname "$filename" '.[] | select(.subtitle_filename == $fname) | .title' src/assets/Subtitles.json)
+
+            new_entries+=("$title")
             git add "$file"
-            git commit -m "chore: add subtitles for $new_entry"
+            git commit -m "chore: add subtitles for $title"
           done
 
           git add src/scripts/get_subtitles/downloaded.txt
