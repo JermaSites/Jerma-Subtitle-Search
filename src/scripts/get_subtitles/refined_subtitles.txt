@@ -79,6 +79,7 @@ Another_Brick_in_The_Mall.en.lrc
 Antichamber_The_Mind_Melter_What_the_Hell_Is_Going_on.en.lrc
 Anubis_God_of_the_Dead_SMITE_Beginner_Tips_God_Breakdown.en.lrc
 April_Fools.en.lrc
+Arctic_Eggs.en.lrc
 Ares_God_of_War_This_Dudes_a_Beast_SMITE_Beginner_Tips_Breakdown.en.lrc
 Armikrog.en.lrc
 Armikrog_Kickstarter_Talk_The_Things_We_Love_TF2_Huntsman_Gameplay.en.lrc
