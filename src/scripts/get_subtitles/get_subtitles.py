@@ -137,18 +137,24 @@ def get_subtitles(urls: list, cookies_path: str, subs_path: str, prefer_existing
 		warnings.simplefilter('ignore', category=UserWarning)
 		warnings.simplefilter('ignore', category=FutureWarning)
 		warnings.simplefilter('ignore', category=ReproducibilityWarning)
+
 		model = whisperx.load_model(whisper_model, device=whisper_device, compute_type=whisper_compute_type, language='en')
 		model_a, metadata = whisperx.load_align_model(language_code='en', device=whisper_device)
 		subtitle_writer = get_writer('srt', '.')
+
 		processed_dir = os.path.join(subs_path, 'processed')
 		os.makedirs(processed_dir, exist_ok=True)
+
 		starting_whisper_batch_size = whisper_batch_size
 		for filename in audio_files:
+			whisper_batch_size = starting_whisper_batch_size
+
 			audio_path = os.path.join(subs_path, filename)
 			audio = whisperx.load_audio(audio_path)
-			whisper_batch_size = starting_whisper_batch_size
-			result = None
+
 			aligned_result = None
+			result = None
+
 			while result == None:
 				try:
 					print(f'Generating subtitles for {filename}')
@@ -163,6 +169,7 @@ def get_subtitles(urls: list, cookies_path: str, subs_path: str, prefer_existing
 				except Exception as e:
 					print(f'Error: {e}')
 					print('Retrying...')
+
 			print(f'Aligning subtitles for {filename}')
 			aligned_result = whisperx.align(result['segments'], model_a, metadata, audio, whisper_device, return_char_alignments=False)
 			aligned_result['language'] = result['language'] # type: ignore
