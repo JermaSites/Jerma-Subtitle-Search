@@ -81,7 +81,7 @@ jobs:
         - name: Update subtitle index
           run: |
             bun src/scripts/index-subtitles.js
-            source venv/bin/activate
+            source .venv/bin/activate
             b2 file upload jerma-subtitles public/assets/SubtitleIndex.json.gzip SubtitleIndex.json.gzip &> /dev/null
 
         - name: Bump package.json patch version
