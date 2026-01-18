@@ -2,7 +2,6 @@ import os
 import re
 import sys
 import copy
-import json
 import shutil
 import ffmpeg
 import logging
@@ -11,6 +10,10 @@ import argparse
 from yt_dlp import YoutubeDL
 from write_subtitles_json import write_json
 from argparse import ArgumentDefaultsHelpFormatter
+
+warnings.filterwarnings('ignore', category=SyntaxWarning)
+warnings.filterwarnings('ignore', category=UserWarning, module='pyannote.*')
+
 from pyannote.audio.utils.reproducibility import ReproducibilityWarning
 
 logging.getLogger('speechbrain.utils.quirks').setLevel(logging.WARNING)
@@ -66,9 +69,10 @@ def get_subtitles(urls: list, cookies_path: str, subs_path: str, prefer_existing
 		'clean_infojson': True,
 		'download_archive': 'downloaded.txt',
 		'force_write_download_archive': True,
-		'forcejson': True,
+		'js_runtimes': {'bun': {'path': shutil.which('bun')}},
 		'outtmpl': '%(title)s.%(ext)s',
 		'paths': {'home': subs_path},
+		'remote_components': ['ejs:npm'],
 		'restrictfilenames': True,
 		'simulate': False,
 		'writeinfojson': True
@@ -102,17 +106,15 @@ def get_subtitles(urls: list, cookies_path: str, subs_path: str, prefer_existing
 			files_by_title = {}
 
 			for file in subtitle_files:
-				match = pattern.match(file)
-				if match:
-					title = match.group('title')
-					files_by_title.setdefault(title, []).append(file)
+				if match := pattern.match(file):
+					files_by_title.setdefault(match.group('title'), []).append(file)
 
 			for title, files in files_by_title.items():
-				manual_files = [f for f in files if '-' in f and 'orig' not in f]
-				if manual_files:
-					keep = sorted(manual_files)[0]
-				else:
-					keep = f'{title}.en.lrc'
+				if len(files) == 1:
+					continue
+
+				manual = [f for f in files if '-' in f and 'orig' not in f]
+				keep = min(manual) if manual else f'{title}.en.lrc'
 
 				for f in files:
 					if f != keep:
@@ -158,7 +160,7 @@ def get_subtitles(urls: list, cookies_path: str, subs_path: str, prefer_existing
 			while result == None:
 				try:
 					print(f'Generating subtitles for {filename}')
-					result = model.transcribe(audio, batch_size=whisper_batch_size, print_progress=True, combined_progress=False, verbose=False)
+					result = model.transcribe(audio, batch_size=whisper_batch_size, chunk_size=10, combined_progress=False, print_progress=True, verbose=False)
 				except RuntimeError as e:
 					print(f'Runtime Error: {e}')
 					if e.args[0] == 'CUDA failed with error out of memory':
@@ -172,7 +174,7 @@ def get_subtitles(urls: list, cookies_path: str, subs_path: str, prefer_existing
 
 			print(f'Aligning subtitles for {filename}')
 			aligned_result = whisperx.align(result['segments'], model_a, metadata, audio, whisper_device, return_char_alignments=False)
-			aligned_result['language'] = result['language'] # type: ignore
+			aligned_result['language'] = result['language']
 			subtitle_writer(aligned_result, 'output.srt', {'max_line_width': None, 'max_line_count': None, 'highlight_words': False})
 			ffmpeg.input('output.srt').output(os.path.join(subs_path, f'{os.path.splitext(filename)[0]}.en.lrc')).overwrite_output().run()
 			shutil.move(audio_path, os.path.join(processed_dir, filename))
