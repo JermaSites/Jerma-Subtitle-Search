@@ -1344,6 +1344,7 @@ Q_A_Answers_Video_Left_4_Dead_2_Gameplay..en.lrc
 Q_A_Comb_Stream.en.lrc
 Q_A_Need_Some_Questions_TF2_Late_Night_Demoman.en.lrc
 Q_Remastered.en.lrc
+Quarantine_Zone_The_Last_Check.en.lrc
 Quick_Talking_Stream.en.lrc
 Quite_Possibly_The_Dumbest_Military_Game_Ever.en.lrc
 R.E.P.O._with_Ster_Poke_and_Vinny.en.lrc
@@ -2447,6 +2448,7 @@ Withering_Rooms.en.lrc
 Withering_Rooms_Part_2.en.lrc
 Withering_Rooms_Part_3.en.lrc
 Withering_Rooms_Part_4.en.lrc
+Withering_Rooms_Part_5_Finale.en.lrc
 Wizorb.en.lrc
 WoW_Mists_of_Pandaria_Launch_Chaos.en.lrc
 Wobbledogs.en.lrc
