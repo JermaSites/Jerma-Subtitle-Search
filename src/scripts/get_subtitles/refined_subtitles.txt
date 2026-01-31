@@ -112,6 +112,7 @@ BeamNG.drive.en.lrc
 Beat_em_up_w_Jerma_then_Nuclear_Throne.en.lrc
 Beautiful_Katamari.en.lrc
 Beautiful_Katamari_Part_2_Finale.en.lrc
+Berry_Bury_Berry.en.lrc
 Bethesda_Conference_E3_2018.en.lrc
 Bethesda_Conference_E3_2019.en.lrc
 Big_Brain_Academy_Brain_vs._Brain.en.lrc
@@ -268,6 +269,7 @@ Crash_Bandicoot_4_Its_About_Time.en.lrc
 Crashday.en.lrc
 Crazy_Comb_Stream.en.lrc
 Crazy_GTA4_Free_Mode_with_Streamers_Pre_Recorded.en.lrc
+Crime_Simulator.en.lrc
 Cry_of_Fear_Co_op_Highlights_Look_Out_For_Those_Zoombies_w_STAR.en.lrc
 Cryptark.en.lrc
 Cube_World_Explore_This_Crazy_World_That_We_Live_In.en.lrc
@@ -857,6 +859,7 @@ Incredible_Crisis.en.lrc
 Incredicer.en.lrc
 Infectonator_Zombies_Everywhere_Spread_the_Infection_Little_Gems.en.lrc
 Infinity_Nikki.en.lrc
+Infinity_Nikki_Part_2.en.lrc
 Insaniquarium_Deluxe.en.lrc
 Inscryption.en.lrc
 Inside.en.lrc
@@ -933,6 +936,7 @@ L.A._Noire.en.lrc
 L.A._Noire_Part_2.en.lrc
 L.A._Noire_Part_3.en.lrc
 L.A._Noire_Part_4.en.lrc
+LANESPLIT.en.lrc
 LEGO_Party_with_Ster_Poke_and_Vinny.en.lrc
 LEGO_Worlds.en.lrc
 LIFE_IS_PAIN_Jerma_ANIMATED.en.lrc
@@ -1009,6 +1013,7 @@ Lumber_Island_The_Room_Double_Cheese_Scare_Saturburgah.en.lrc
 Luncheon_stream.en.lrc
 MEATGRINDER_ANIMATED.en.lrc
 MINI_SENTRY_OP_Round_1_Part_1_Worms_Revolution_Jerma_Orb.en.lrc
+MISERY.en.lrc
 MLC_St3alth_Rages.en.lrc
 MS_DOS_Games.en.lrc
 MS_DOS_Games_Part_2.en.lrc
@@ -1500,6 +1505,7 @@ Sekiro_Shadows_Die_Twice_Part_3.en.lrc
 Sekiro_Shadows_Die_Twice_Part_4.en.lrc
 Sekiro_Shadows_Die_Twice_Part_5_Finale.en.lrc
 Shadow_Man.en.lrc
+Shadow_Waiters_2.en.lrc
 Shadow_Warrior_2_Part_1.en.lrc
 Shadow_Warrior_2_Part_2.en.lrc
 Shadow_of_Rome.en.lrc
