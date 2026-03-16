@@ -8,7 +8,7 @@
         "mithril": "^2.3.8",
       },
       "devDependencies": {
-        "@types/mithril": "^2.2.7",
+        "@types/mithril": "^2.2.8",
         "@types/youtube": "^0.1.2",
         "jerma-subtitle-search-types": "^1.0.1",
         "sass": "^1.97.3",
@@ -90,7 +90,7 @@
 
     "@parcel/watcher-win32-x64": ["@parcel/watcher-win32-x64@2.5.0", "", { "os": "win32", "cpu": "x64" }, "sha512-lPrxve92zEHdgeff3aiu4gDOIt4u7sJYha6wbdEZDCDUhtjTsOMiaJzG5lMY4GkWH8p0fMmO2Ppq5G5XXG+DQw=="],
 
-    "@types/mithril": ["@types/mithril@2.2.7", "", {}, "sha512-uetxoYizBMHPELl6DSZUfO6Q/aOm+h0NUCv9bVAX2iAxfrdBSOvU9KKFl+McTtxR13F+BReYLY814pJsZvnSxg=="],
+    "@types/mithril": ["@types/mithril@2.2.8", "", {}, "sha512-FN9Tv1+Nlr0LNPGnIL/xOxLJfu5WW2n8HAFeo4yxF+/O0per/8g080xlXoo+xj8baowAcfsNI3k80DxyLY34gQ=="],
 
     "@types/youtube": ["@types/youtube@0.1.2", "", {}, "sha512-n1/KqusanheyQRWHamNZv8K3kydlRqyEsZEKxMTeNWXQTC15lZprITCUt+WgL1vAIvKHCjPBIWz/gf/KQLsB3g=="],
 
