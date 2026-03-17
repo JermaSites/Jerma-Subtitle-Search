@@ -23,7 +23,7 @@
 		"mithril": "^2.3.8"
 	},
 	"devDependencies": {
-		"@types/mithril": "^2.2.7",
+		"@types/mithril": "^2.2.8",
 		"@types/youtube": "^0.1.2",
 		"jerma-subtitle-search-types": "^1.0.1",
 		"sass": "^1.97.3",
