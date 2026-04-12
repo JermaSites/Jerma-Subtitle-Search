@@ -10,7 +10,7 @@
       "devDependencies": {
         "@types/mithril": "^2.2.8",
         "@types/youtube": "^0.1.2",
-        "jerma-subtitle-search-types": "^1.0.1",
+        "jerma-subtitle-search-types": "^1.0.2",
         "sass": "^1.98.0",
         "typescript": "^6.0.2",
         "vite": "^8.0.3",
@@ -114,7 +114,7 @@
 
     "is-number": ["is-number@7.0.0", "", {}, "sha512-41Cifkg6e8TylSpdtTpeLVMqvSBEVzTttHvERD741+pnZ8ANv0004MRL43QKPDlK9cGvNp6NZWZUBlbGXYxxng=="],
 
-    "jerma-subtitle-search-types": ["jerma-subtitle-search-types@1.0.1", "", { "peerDependencies": { "typescript": "^5" } }, "sha512-TYyPQEwOvXRhcZG2DMGflf6FETXhlaIkVIzjOL6znV8BI03FjtqjHvntgm1NSZejPN4xWRg4M2q6i/HZ8yvdKg=="],
+    "jerma-subtitle-search-types": ["jerma-subtitle-search-types@1.0.2", "", { "peerDependencies": { "typescript": ">=5.0.0" } }, "sha512-XJedh5hI4BxQru9sfoDmhxcElWE4ov9RyvUTmzVvUXNFAp9w4MTJbPqfIy2b6l8+2QA0WC9cY8UnkqtYZCSgrw=="],
 
     "lightningcss": ["lightningcss@1.32.0", "", { "dependencies": { "detect-libc": "^2.0.3" }, "optionalDependencies": { "lightningcss-android-arm64": "1.32.0", "lightningcss-darwin-arm64": "1.32.0", "lightningcss-darwin-x64": "1.32.0", "lightningcss-freebsd-x64": "1.32.0", "lightningcss-linux-arm-gnueabihf": "1.32.0", "lightningcss-linux-arm64-gnu": "1.32.0", "lightningcss-linux-arm64-musl": "1.32.0", "lightningcss-linux-x64-gnu": "1.32.0", "lightningcss-linux-x64-musl": "1.32.0", "lightningcss-win32-arm64-msvc": "1.32.0", "lightningcss-win32-x64-msvc": "1.32.0" } }, "sha512-NXYBzinNrblfraPGyrbPoD19C1h9lfI/1mzgWYvXUTe414Gz/X1FD2XBZSZM7rRTrMA8JL3OtAaGifrIKhQ5yQ=="],
 
