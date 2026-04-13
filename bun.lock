@@ -9,7 +9,7 @@
       },
       "devDependencies": {
         "@types/mithril": "^2.2.8",
-        "@types/youtube": "^0.1.2",
+        "@types/youtube": "^0.2.0",
         "jerma-subtitle-search-types": "^1.0.2",
         "sass": "^1.99.0",
         "typescript": "^6.0.2",
@@ -92,7 +92,7 @@
 
     "@types/mithril": ["@types/mithril@2.2.8", "", {}, "sha512-FN9Tv1+Nlr0LNPGnIL/xOxLJfu5WW2n8HAFeo4yxF+/O0per/8g080xlXoo+xj8baowAcfsNI3k80DxyLY34gQ=="],
 
-    "@types/youtube": ["@types/youtube@0.1.2", "", {}, "sha512-n1/KqusanheyQRWHamNZv8K3kydlRqyEsZEKxMTeNWXQTC15lZprITCUt+WgL1vAIvKHCjPBIWz/gf/KQLsB3g=="],
+    "@types/youtube": ["@types/youtube@0.2.0", "", {}, "sha512-Y+y6RKuqhurm5yWfUt3eT2QdHZNl09+OT86I2yOKGfJzTZCaR5eSf6m7zIGnlUHiUuYm4i/hUTDJ++E53OVh0g=="],
 
     "braces": ["braces@3.0.3", "", { "dependencies": { "fill-range": "^7.1.1" } }, "sha512-yQbXgO/OSZVD2IsiLlro+7Hf6Q18EJrKSEsdoMzKePKXct3gvD8oLcOQdIzGupr5Fj+EDe8gO/lxc1BzfMpxvA=="],
 

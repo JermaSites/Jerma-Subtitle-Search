@@ -24,7 +24,7 @@
 	},
 	"devDependencies": {
 		"@types/mithril": "^2.2.8",
-		"@types/youtube": "^0.1.2",
+		"@types/youtube": "^0.2.0",
 		"jerma-subtitle-search-types": "^1.0.2",
 		"sass": "^1.99.0",
 		"typescript": "^6.0.2",
