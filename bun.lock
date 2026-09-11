@@ -8,7 +8,7 @@
         "mithril": "^2.3.8",
       },
       "devDependencies": {
-        "@types/mithril": "^2.2.8",
+        "@types/mithril": "^2.2.9",
         "@types/youtube": "^0.3.0",
         "jerma-subtitle-search-types": "^1.0.2",
         "sass": "^1.102.0",
@@ -80,7 +80,7 @@
 
     "@rolldown/pluginutils": ["@rolldown/pluginutils@1.0.1", "", {}, "sha512-2j9bGt5Jh8hj+vPtgzPtl72j0yRxHAyumoo6TNfAjsLB04UtpSvPbPcDcBMxz7n+9CYB0c1GxQFxYRg2jimqGw=="],
 
-    "@types/mithril": ["@types/mithril@2.2.8", "", {}, "sha512-FN9Tv1+Nlr0LNPGnIL/xOxLJfu5WW2n8HAFeo4yxF+/O0per/8g080xlXoo+xj8baowAcfsNI3k80DxyLY34gQ=="],
+    "@types/mithril": ["@types/mithril@2.2.9", "", {}, "sha512-iYsECKwDTTdL3eYKFE5I+qEPmnh9U/gcDYXqBiX1B4emKWf1A9jYw5d/ULqe4tI/C4lBPPQUfWMQ0I9FdVDCEA=="],
 
     "@types/youtube": ["@types/youtube@0.3.0", "", {}, "sha512-a+JnwvmYfCShUv2fPs9JL/rUr9JGx5BPjSn7sp3V5UEyyj2AIVkSCRlVoe4CjFBrkBIv9jMpOPakfitMq7tegA=="],
 
