@@ -11,7 +11,7 @@
         "@types/mithril": "^2.2.9",
         "@types/youtube": "^0.3.0",
         "jerma-subtitle-search-types": "^1.0.2",
-        "sass": "^1.105.0",
+        "sass": "^1.107.1",
         "typescript": "^6.0.3",
         "vite": "^8.3.5",
       },
@@ -150,9 +150,9 @@
 
     "rolldown": ["rolldown@1.2.16", "", { "dependencies": { "@oxc-project/types": "=0.156.0", "@rolldown/pluginutils": "^1.0.0" }, "optionalDependencies": { "@rolldown/binding-android-arm-eabi": "1.2.16", "@rolldown/binding-android-arm64": "1.2.16", "@rolldown/binding-darwin-arm64": "1.2.16", "@rolldown/binding-darwin-x64": "1.2.16", "@rolldown/binding-freebsd-x64": "1.2.16", "@rolldown/binding-linux-arm-gnueabihf": "1.2.16", "@rolldown/binding-linux-arm64-gnu": "1.2.16", "@rolldown/binding-linux-arm64-musl": "1.2.16", "@rolldown/binding-linux-ppc64-gnu": "1.2.16", "@rolldown/binding-linux-s390x-gnu": "1.2.16", "@rolldown/binding-linux-x64-gnu": "1.2.16", "@rolldown/binding-linux-x64-musl": "1.2.16", "@rolldown/binding-openharmony-arm64": "1.2.16", "@rolldown/binding-win32-arm64-msvc": "1.2.16", "@rolldown/binding-win32-x64-msvc": "1.2.16" }, "bin": { "rolldown": "./bin/cli.mjs" } }, "sha512-bWvlMpFKiTfDKfnK7FC2MPgPeWCf/Kpwsq49ApdW+FQaBZb6O6dZ4MAPbPUjp7hYQrw/RobqCzn64BRrQecGHw=="],
 
-    "sass": ["sass@1.105.0", "", { "dependencies": { "chokidar": "^5.0.0", "immutable": "^5.1.5", "source-map-js": ">=0.6.2 <2.0.0" }, "optionalDependencies": { "@parcel/watcher": "^2.4.1" }, "bin": { "sass": "sass.js" } }, "sha512-4EjSuRTyG8M4yRXXY1PT9OUV5zz23xBxJkbIAprohKHqf6HOU4MCpE3U3vAC+iO1gxobBjESNbcj8rYAQZWnyA=="],
+    "sass": ["sass@1.107.1", "", { "dependencies": { "chokidar": "^5.0.0", "immutable": "^5.1.5", "source-map-js": ">=0.6.2 <2.0.0" }, "optionalDependencies": { "@parcel/watcher": "^2.4.1" }, "bin": { "sass": "sass.js" } }, "sha512-aJ1/LvxOOb04YhmiBjzZn3jVwdHKol+OVhoMV6fFl02fF9T3i+5Mg9l/CnzqtM+NX5Jn5o3lAbs/ZJivTCLHfQ=="],
 
-    "source-map-js": ["source-map-js@1.2.1", "", {}, "sha512-UXWMKhLOwVKb728IUtQPXxfYU+usdybtUrK/8uGE8CQMvrhOpwvzDBwj0QhSL7MQc7vIsISBG8VQ8+IDQxpfQA=="],
+    "source-map-js": ["source-map-js@1.2.2", "", {}, "sha512-KGj/8Y43x35aZVDtt+J4mK1hoLGHULMYfSkODJNQjNDC3oW1PqPoxMwo0pLUsWM/UEGzON/NxeHywEfNXNP3Vw=="],
 
     "tinyglobby": ["tinyglobby@0.2.17", "", { "dependencies": { "fdir": "^6.5.0", "picomatch": "^4.0.4" } }, "sha512-wXR/dYpcqKmfWpEdZjiKJOwCNFndD0DMnrW/cYjVGttEkBfVgcLFHoNrlj47mjOVic9yyNu65alsgF4NQyTa2g=="],
 
@@ -165,8 +165,6 @@
     "lightningcss/detect-libc": ["detect-libc@2.1.2", "", {}, "sha512-Btj2BOOO83o3WyH59e8MgXsxEQVcarkUOpEYrubB0urwnN10yQ364rsiByU11nZlqWYZm05i/of7io4mzihBtQ=="],
 
     "micromatch/picomatch": ["picomatch@2.3.1", "", {}, "sha512-JU3teHTNjmE2VCGFzuY8EXzCDVwEqB2a8fsIvwaStHhAWJEeVd1o1QD80CU6+ZdEXXSLbSsuLwJjkCBWqRQUVA=="],
-
-    "postcss/source-map-js": ["source-map-js@1.2.2", "", {}, "sha512-KGj/8Y43x35aZVDtt+J4mK1hoLGHULMYfSkODJNQjNDC3oW1PqPoxMwo0pLUsWM/UEGzON/NxeHywEfNXNP3Vw=="],
 
     "tinyglobby/picomatch": ["picomatch@4.0.4", "", {}, "sha512-QP88BAKvMam/3NxH6vj2o21R6MjxZUAd6nlwAS/pnGvN9IVLocLHxGYIzFhg6fUQ+5th6P4dv4eW9jX3DSIj7A=="],
   }
