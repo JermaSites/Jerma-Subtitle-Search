@@ -1,3 +1,5 @@
+007_First_Light.en.lrc
+007_First_Light_Part_2.en.lrc
 1001_Spikes_Ouch.en.lrc
 100_Uploads_Personal_Story_Important_Message.en.lrc
 100k_Smite_Tournament.en.lrc
@@ -49,6 +51,7 @@ A_Way_Out_with_Etalyx.en.lrc
 Absolver.en.lrc
 Action_Movie_Boogaloo.en.lrc
 Afrika.en.lrc
+Agent_64_Spies_Never_Die_with_Ster_Poke_and_Vinny.en.lrc
 Agent_Roswell.en.lrc
 Albert_Weskers_7_Minutes_of_Pain.en.lrc
 Alien_Engineer_Frog_Actor.en.lrc
@@ -92,6 +95,7 @@ Austin_FLIGHT.en.lrc
 BATTLEBOTS.en.lrc
 BEATEN_UP_Pax_Day_2_3.en.lrc
 Backbreaker.en.lrc
+Backyard_Baseball.en.lrc
 Bad_Games_Bad_Decisions_Discussion_Blacklight_Retribution_Gameplay.en.lrc
 Bakery_Simulator.en.lrc
 Baldurs_Gate_Dark_Alliance_with_Ster.en.lrc
@@ -116,7 +120,11 @@ Berry_Bury_Berry.en.lrc
 Berry_Bury_Berry_Part_2.en.lrc
 Bethesda_Conference_E3_2018.en.lrc
 Bethesda_Conference_E3_2019.en.lrc
+Big_Ambitions.en.lrc
+Big_Ambitions_Part_2.en.lrc
+Big_Ambitions_Part_3.en.lrc
 Big_Brain_Academy_Brain_vs._Brain.en.lrc
+Big_Walk_with_Ster_Poke_and_Vinny.en.lrc
 Biglands_A_Game_Made_By_Kids.en.lrc
 Binding_of_Isaac_WotL._Samson_Fun_and_Grandpa_Tries_Livestream_Session.en.lrc
 Binding_of_Isaac_WotL_Going_All_The_Way_Livestream_Session.en.lrc
@@ -139,6 +147,8 @@ Black_White_Part_2.en.lrc
 Blacklight_Retribution._Free_Hacks_=_Less_Hackers_Discussion.en.lrc
 Blackwake.en.lrc
 Blade_and_Sorcery_Part_2.en.lrc
+Blades_of_Fire.en.lrc
+Blades_of_Fire_Part_2.en.lrc
 Blind_in_Vegas.en.lrc
 Blitz_The_League_II.en.lrc
 Blitz_The_League_II_Part_2_Finale.en.lrc
@@ -170,6 +180,7 @@ Building_a_Computer.en.lrc
 Burnout_Paradise.en.lrc
 Bushido_Blade_1_and_2.en.lrc
 Bust_a_Groove.en.lrc
+Bylina.en.lrc
 CANDLES_Get_These_Imps_Out_of_My_House.en.lrc
 CDawgVAs_Charity_Auction_2024.en.lrc
 CRIES_in_Minecraft_ANIMATED.en.lrc
@@ -209,6 +220,7 @@ Celeste.en.lrc
 Celeste_Part_2_Finale.en.lrc
 Chat_Playing_Bloons_Tower_Defense_5.en.lrc
 Chat_and_Jerma_Playing_Games.en.lrc
+Chef_Knight.en.lrc
 Chibi_Robo_Part_0.en.lrc
 Chibi_Robo_Part_1.en.lrc
 Chibi_Robo_Part_2a.en.lrc
@@ -272,6 +284,7 @@ Crash_Bandicoot_4_Its_About_Time.en.lrc
 Crashday.en.lrc
 Crazy_Comb_Stream.en.lrc
 Crazy_GTA4_Free_Mode_with_Streamers_Pre_Recorded.en.lrc
+Creature_Kitchen.en.lrc
 Crime_Simulator.en.lrc
 Cry_of_Fear_Co_op_Highlights_Look_Out_For_Those_Zoombies_w_STAR.en.lrc
 Cryptark.en.lrc
@@ -346,6 +359,7 @@ Deadly_Night.en.lrc
 Deadly_Premonition_The_Directors_Cut.en.lrc
 Death_to_Spies.en.lrc
 Decorating_A_Tree_with_Santa.en.lrc
+Deep_Rock_Galactic_Rogue_Core_with_Ster_Poke_and_Vinny.en.lrc
 Deep_Rock_Galactic_with_Ster.en.lrc
 Def_Jam_Icon.en.lrc
 Definition_of_a_Jerma_Joke.en.lrc
@@ -378,10 +392,15 @@ Diablo_II.en.lrc
 Diablo_III_Reaper_of_Souls.en.lrc
 Diablo_II_Part_2_and_Tier_Lists_Part_5.en.lrc
 Diablo_II_Part_3.en.lrc
+Diablo_II_Resurrected.en.lrc
+Diablo_II_Resurrected_Part_2.en.lrc
+Diablo_II_Resurrected_Part_3.en.lrc
+Diablo_II_Resurrected_Part_4.en.lrc
 Diablo_IV_and_Nancy_Drew_The_White_Wolf_of_Icicle_Creek_Part_1.en.lrc
 Diary_a_of_a_Dungeon_Stratholme_WoW.en.lrc
 Die_Hard_Trilogy.en.lrc
 Dino_Crisis.en.lrc
+Dinoblade.en.lrc
 Dinosaur_Fossil_Hunter.en.lrc
 Dinosaur_Week_Day_1.en.lrc
 Dinosaur_Week_Day_3.en.lrc
@@ -481,14 +500,20 @@ Elevator_of_doom_hashtag_being_creepy_Random_Pax_Footage.en.lrc
 Ember_Knights_with_Ster.en.lrc
 Embr_With_Ster.en.lrc
 Enclave.en.lrc
+Endacopia.en.lrc
+Endacopia_Part_2.en.lrc
+Endacopia_Part_3.en.lrc
+Endacopia_Part_4_Finale.en.lrc
 Enhance.Computer_and_The_Higher_Lower_Game.en.lrc
 Enlighten_Heart_of_Darkness.en.lrc
 Enlighten_The_Neverhood.en.lrc
 Enter_the_Gungeon.en.lrc
 Erie_Scariest_Game_I_ve_Ever_Played_Scare_Saturdays_RUN.en.lrc
+Escape_the_Backrooms_with_Ster.en.lrc
 Eternal_Darkness_Sanitys_Requiem.en.lrc
 Everhood.en.lrc
 Everything.en.lrc
+Everything_is_Crab_The_Animal_Evolution_Roguelite.en.lrc
 Evil_Moments.en.lrc
 Evolva.en.lrc
 Exanima_Everybody_is_Jell_O.en.lrc
@@ -505,6 +530,7 @@ FMV_Games_Part_3.en.lrc
 FMV_Games_Part_4.en.lrc
 FMV_Games_Part_5.en.lrc
 FPS_MAN_First_Person_Horror_Pac_Man_Haha_What.en.lrc
+FROGGY_HATES_SNOW.en.lrc
 FTK_Stream.en.lrc
 FTK_Stream_2.en.lrc
 F_ZERO_99.en.lrc
@@ -559,12 +585,14 @@ Family_Computer_System_Part_2.en.lrc
 Family_Feud_2012.en.lrc
 Family_Feud_Part_1.en.lrc
 Family_Feud_Part_2.en.lrc
+Family_Guy_Video_Game.en.lrc
 Fan_Games.en.lrc
 Fan_Websites.en.lrc
 Far_Cry_4_Stardew_Valley.en.lrc
 Far_Cry_5_Part_1_with_Etalyx.en.lrc
 Far_Cry_5_Part_2_with_Etalyx.en.lrc
 Far_Cry_6_with_Etalyx.en.lrc
+Far_Far_West_with_Ster_Poke_and_Vinny.en.lrc
 Farmers_Dynasty.en.lrc
 Fast50.en.lrc
 Fast_Draw_Showdown.en.lrc
@@ -590,6 +618,8 @@ Flash_Games.en.lrc
 Flash_Games_Part_2.en.lrc
 Flash_Games_Part_3.en.lrc
 Flash_Games_Part_4.en.lrc
+Flash_Games_Part_5.en.lrc
+Flash_Games_Part_6.en.lrc
 Flashing_Lights.en.lrc
 Flatout_4_Total_Insanity.en.lrc
 FlyKnight_with_Ster_Poke_and_Vinny.en.lrc
@@ -604,6 +634,7 @@ Frog_Detective_1_and_2.en.lrc
 Frog_Detective_3_and_Grotto_Beasts_Announcement.en.lrc
 Frogs_in_the_Park.en.lrc
 Frozen_Synapse_Jermas_Brain_is_too_Small_by_Jerma_and_MLC_St3alth.en.lrc
+Funnel_Runners_with_Ster_Poke_and_Vinny.en.lrc
 GONE_Fishing_with_Ster_Poke_and_Vinny.en.lrc
 GTA4_LCPDFR_Mod_Bad_Cops_w_EatMyDiction_and_GassyMexican.en.lrc
 GTA4_Multiplayer_Absolutely_Ridiculous_Obey_the_Rules.en.lrc
@@ -662,6 +693,8 @@ GTA_Online_Wine_Friends.en.lrc
 GTA_Online_with_Etalyx.en.lrc
 GTA_Truck_Punchline.en.lrc
 Gabe_The_Glue_Man_Degrossi_BBall.en.lrc
+Gamble_With_Your_Friends_with_Ster_Poke_and_Vinny.en.lrc
+Game_Music_Trivia_with_Ster_Poke_and_Vinny.en.lrc
 Game_Show_Games_and_Wheel_of_Fortune_Part_1.en.lrc
 Game_Show_Week_Day_1.en.lrc
 Game_Show_Week_Day_2.en.lrc
@@ -687,6 +720,8 @@ God_Hand.en.lrc
 Going_Away_Party_with_Guests.en.lrc
 Golden_Train_Chest_Fistful_of_Frags.en.lrc
 Golf_It_with_Ster_and_Poke.en.lrc
+Golf_With_Your_Friends_Part_2_with_Ster_Poke_Vinny_and_More.en.lrc
+Golf_With_Your_Friends_with_Ster_Poke_and_Vinny.en.lrc
 Good_Prince_Evil_Prince_Jerma_ANIMATED.en.lrc
 Google_Feud_Part_1.en.lrc
 Gotcha_Force.en.lrc
@@ -701,7 +736,10 @@ Grab_Bag_Game_Night.en.lrc
 Grab_Bag_Game_Night_Part_2.en.lrc
 Grab_Bag_Game_Night_Part_3.en.lrc
 Grab_Bag_Game_Night_Part_4.en.lrc
+Grab_Bag_Game_Night_Part_5_with_Ster_Poke_and_Vinny.en.lrc
 Grab_That_Auto_5.en.lrc
+Grand_Theft_Auto_VI.en.lrc
+Grand_Theft_Auto_VI_Part_2.en.lrc
 Grandpa_Invades_JermaCraft_Farm_Building_Episode_9.en.lrc
 Grandpa_Invades_JermaCraft_Who_Built_This_Episode_10..en.lrc
 Grandpa_Is_a_MLG_Pro_BF3_Noob_Episode_4_Battlefield_3_Gameplay_Commentary.en.lrc
@@ -763,6 +801,7 @@ Hand_Simulator.en.lrc
 Hand_of_Fate_2_Part_1.en.lrc
 Hand_of_Fate_2_Part_2.en.lrc
 Hand_of_Fate_2_Part_3.en.lrc
+Hand_of_Fate_2_Part_4.en.lrc
 Hand_of_Fate_Hard_to_Explain.en.lrc
 Handball_Showdown.en.lrc
 Happy_Birthday_Miku_Jerma_Animated.en.lrc
@@ -784,11 +823,13 @@ Hearthstone.en.lrc
 Height_Measured_at_TwitchCon_San_Diego_2019.en.lrc
 Helldivers_1.en.lrc
 Helldivers_2_with_Ster_Poke_and_Vinny.en.lrc
+Hello_Neighbor.en.lrc
 Heroes_of_Might_and_Magic_III_The_Restoration_of_Erathia.en.lrc
 Heroes_of_Might_and_Magic_III_The_Restoration_of_Erathia_Part_2.en.lrc
 Heroes_of_Might_and_Magic_III_The_Restoration_of_Erathia_Part_3.en.lrc
 Hey_Donna.en.lrc
 Hidden_Folks.en.lrc
+High_School_Musical_3_Senior_Year_Dance.en.lrc
 Hilarious_Mann_vs_Machine_Rounds_Team_Fortress_2.en.lrc
 Hitman_2.en.lrc
 Hitman_2_Part_2_Finale.en.lrc
@@ -821,6 +862,7 @@ Hollow_Knight_Part_4.en.lrc
 Hollow_Knight_Part_5_Finale.en.lrc
 Horizon_Zero_Dawn.en.lrc
 Horripilant.en.lrc
+Horse_Magnifier_The_Full_Horse.en.lrc
 Horsey_Game.en.lrc
 Hotline_Miami.en.lrc
 Hotline_Miami_2_Wrong_Number.en.lrc
@@ -842,7 +884,9 @@ House_Flipper_Part_7.en.lrc
 House_Flipper_Part_8.en.lrc
 House_Flipper_Part_9.en.lrc
 House_Tour.en.lrc
+How_to_Fish_with_Ster_Poke_and_Vinny.en.lrc
 How_to_Make_a_Gameplay_Commentary_Tutorial_Be_Taken_Seriously.en.lrc
+Hozy.en.lrc
 Human_Fall_Flat_with_Ster_and_Etalyx.en.lrc
 Hylics.en.lrc
 Hypnospace_Outlaw.en.lrc
@@ -875,6 +919,7 @@ Insurgency_Rebellion_Uprising_Revolt_1.6.en.lrc
 Internet_Cafe_Simulator_2.en.lrc
 Intruder_with_Criken_and_friends.en.lrc
 Inversion_Sh_The_Ground_is_Shakin.en.lrc
+Invokyr_with_Ster_Poke_and_Vinny.en.lrc
 Iron_Lung.en.lrc
 Itch.io_Games_and_Everhood_Part_0.en.lrc
 JERMANIA_2014.en.lrc
@@ -899,6 +944,9 @@ Jerma_tries_to_stream_Dark_Souls_Remastered.en.lrc
 Jerma_tries_to_stream_Red_Dead_Redemption.en.lrc
 Jermania_Stream_Edition.en.lrc
 Jermas_Birthday_Talking.en.lrc
+Jermas_Most_Impactful_Game_List.en.lrc
+Jermas_Most_Impactful_Game_List_Part_2.en.lrc
+Jermas_Most_Impactful_Game_List_Part_3_Finale.en.lrc
 Jermaversary_An_Animated_Collab.en.lrc
 Jigsaw_Puzzle_Stream.en.lrc
 Judge_Jerma_I_am_The_Law.en.lrc
@@ -934,6 +982,8 @@ Kingdom_Come_Deliverance_Part_3.en.lrc
 Kingdom_Come_Deliverance_Part_4_Finale.en.lrc
 Kingdoms_Rise_from_soil.en.lrc
 Kingpin_The_Game_of_Swears.en.lrc
+Kings_Field.en.lrc
+Kings_Field_Part_2.en.lrc
 Kingsway.en.lrc
 Kung_Fu_Chroma_Key.en.lrc
 Kung_Fu_Rider_and_Start_the_Party.en.lrc
@@ -960,6 +1010,7 @@ Left_4_Dead_2_Versus_Why_U_No_Work_Survival_Goofballs.en.lrc
 Left_4_Dead_2_Versus_with_Buddies_The_Sacrifice_Round_1..en.lrc
 Left_4_Dead_2_Versus_with_Buddies_The_Sacrifice_Round_2.en.lrc
 Legendary.en.lrc
+Lego_Batman_Legacy_of_the_Dark_Knight.en.lrc
 Lego_City_Undercover.en.lrc
 Lego_Star_Wars_The_Complete_Saga.en.lrc
 Let_It_Die.en.lrc
@@ -997,6 +1048,7 @@ Lets_Play_Borderlands_Episode_9_Buttrapage_Boss.en.lrc
 Lets_Talk_About_Hype.en.lrc
 Lets_talk_about_some_stuff.en.lrc
 Letting_off_Steam.en.lrc
+Life_Update_and_Watching_Infomercials_Part_5.en.lrc
 Lifeline.en.lrc
 Lifeline_Part_2_Finale.en.lrc
 Light_Gun_Games_Part_1.en.lrc
@@ -1012,6 +1064,16 @@ Local_Co_op_Games_Part_2_with_Etalyx.en.lrc
 Logical_Journey_of_the_Zoombinis.en.lrc
 Logical_Journey_of_the_Zoombinis_Part_2.en.lrc
 London_2012_and_Beijing_2008.en.lrc
+Look_Outside.en.lrc
+Look_Outside_Part_10_Finale.en.lrc
+Look_Outside_Part_2.en.lrc
+Look_Outside_Part_3.en.lrc
+Look_Outside_Part_4.en.lrc
+Look_Outside_Part_5.en.lrc
+Look_Outside_Part_6.en.lrc
+Look_Outside_Part_7.en.lrc
+Look_Outside_Part_8.en.lrc
+Look_Outside_Part_9.en.lrc
 Lucha_Libre_AAA_Heroes_del_Ring.en.lrc
 Ludwigs_Battleship_Tournament_Day_2.en.lrc
 Ludwigs_Beerio_Kart.en.lrc
@@ -1019,6 +1081,8 @@ Ludwigs_Chessboxing.en.lrc
 Lumber_Island_The_Room_Double_Cheese_Scare_Saturburgah.en.lrc
 Luncheon_stream.en.lrc
 MEATGRINDER_ANIMATED.en.lrc
+MECCHA_CHAMELEON_Part_2_with_Ster_Poke_Vinny_and_More.en.lrc
+MECCHA_CHAMELEON_with_Ster_Poke_and_Vinny.en.lrc
 MINI_SENTRY_OP_Round_1_Part_1_Worms_Revolution_Jerma_Orb.en.lrc
 MISERY.en.lrc
 MLC_St3alth_Rages.en.lrc
@@ -1037,6 +1101,7 @@ MW3_Grandpa_is_an_MLG_Pro.en.lrc
 MW3_Live_Dual_Comm_w_MLC_St3alth_Kill_Confirmed.en.lrc
 MW3_Sniping_Discussion.en.lrc
 MW3_Using_Assault_Rifles_44_16_Domination_Bootleg.en.lrc
+Machine_Party_with_Ster_Poke_and_Vinny.en.lrc
 Mad_Dog_McCree_Gunslinger_Pack.en.lrc
 Mafia_Definitive_Edition.en.lrc
 Mafia_III_Part_1.en.lrc
@@ -1047,6 +1112,7 @@ Magicka_Wizard_Wars_Gameplay_Sneak_Peek_with_STAR_Jerma_Etalyx.en.lrc
 Magus.en.lrc
 Majesty.en.lrc
 Making_Clay_Creatures.en.lrc
+Mamas_Sleeping_Angels_with_Ster_Poke_and_Vinny.en.lrc
 Man_O_War_Corsair.en.lrc
 Man_O_War_Corsair_.en.lrc
 Man_of_Medan_with_Etalyx.en.lrc
@@ -1088,6 +1154,7 @@ Middle_Earth_Shadow_of_War_Part_1.en.lrc
 Middle_Earth_Shadow_of_War_Part_2.en.lrc
 Middle_Earth_Shadow_of_War_Part_3.en.lrc
 Midnight_Ghost_Hunt_With_Vinny_Ross_Criken_Jolly_Liam_Zamsire_Shesez.en.lrc
+Mina_the_Hollower.en.lrc
 Mindjack_and_Haze.en.lrc
 Mindshow.en.lrc
 Minecraft.en.lrc
@@ -1148,6 +1215,7 @@ Monster_Rancher_4.en.lrc
 Monster_Rancher_4_Part_2.en.lrc
 Monster_Rancher_4_Part_3.en.lrc
 Monster_Rancher_Part_2.en.lrc
+Moon_Sweepers_with_Ster_Poke_and_Vinny.en.lrc
 Mordhau.en.lrc
 Mordhau_Part_2.en.lrc
 Mordor_Mind_Invader.en.lrc
@@ -1156,6 +1224,7 @@ Mortal_Kombat_X_The_Silent_Try_hards.en.lrc
 Mortal_Kwombat_Jermany_Vs._The_Sterminator.en.lrc
 Motor_Town_Behind_The_Wheel.en.lrc
 Mount_Blade_Warband.en.lrc
+Mouse_P.I._For_Hire.en.lrc
 MultiVersus.en.lrc
 MultiVersus_Part_2_With_Ludwig_Cr1TiKaL_and_HasanAbi.en.lrc
 MultiVersus_Part_3.en.lrc
@@ -1174,6 +1243,7 @@ My_Time_at_Portia.en.lrc
 Mycopunk_with_Ster_Poke_and_Vinny.en.lrc
 Myriad_Fate_of_Sideways_Ep_01.en.lrc
 MythBusters_The_Game_Crazy_Experiments_Simulator.en.lrc
+NBA_THE_RUN_with_Ster.en.lrc
 NGU_and_Hot_Lava.en.lrc
 NIDHOGG.en.lrc
 Name_Your_Price_Part_2_with_Hasan_Pokimane_and_GeorgeNotFound.en.lrc
@@ -1210,6 +1280,7 @@ Nintendo_Labo_Part_5.en.lrc
 Nintendo_World_Championships_NES_Edition.en.lrc
 Nioh.en.lrc
 No_I_m_not_a_Human.en.lrc
+No_Mans_Sky.en.lrc
 No_More_Heroes.en.lrc
 No_More_Heroes_2_Desperate_Struggle.en.lrc
 No_More_Heroes_2_Desperate_Struggle_Part_2_Finale.en.lrc
@@ -1220,6 +1291,27 @@ No_More_Heroes_Part_2_Finale.en.lrc
 No_Time.en.lrc
 No_Umbrellas_Allowed.en.lrc
 Noita.en.lrc
+Nopixel_V.en.lrc
+Nopixel_V_Part_10.en.lrc
+Nopixel_V_Part_11.en.lrc
+Nopixel_V_Part_12.en.lrc
+Nopixel_V_Part_13.en.lrc
+Nopixel_V_Part_14.en.lrc
+Nopixel_V_Part_15.en.lrc
+Nopixel_V_Part_16.en.lrc
+Nopixel_V_Part_17.en.lrc
+Nopixel_V_Part_18.en.lrc
+Nopixel_V_Part_19.en.lrc
+Nopixel_V_Part_2.en.lrc
+Nopixel_V_Part_20.en.lrc
+Nopixel_V_Part_21.en.lrc
+Nopixel_V_Part_3.en.lrc
+Nopixel_V_Part_4.en.lrc
+Nopixel_V_Part_5.en.lrc
+Nopixel_V_Part_6.en.lrc
+Nopixel_V_Part_7.en.lrc
+Nopixel_V_Part_8.en.lrc
+Nopixel_V_Part_9.en.lrc
 Nosferatu_The_Wrath_of_Malachi.en.lrc
 Nostalgia_and_Replayability_Why_do_I_keep_playing_old_games_Discussion.en.lrc
 ONION_RING_Jerma_ANIMATED.en.lrc
@@ -1242,6 +1334,7 @@ One_in_the_Chamber_Flawless_Baby_Black_Ops_2.en.lrc
 One_in_the_Chamber_Freakin_Out_Black_Ops_2.en.lrc
 Online_Tests.en.lrc
 Only_Up.en.lrc
+OpenRCT2_with_Ster_Poke_and_Vinny.en.lrc
 Opening_TF2_Crates.en.lrc
 Orcs_Must_Die_3_with_Ster.en.lrc
 Orcs_Must_Die_40_Killstreak_Tutorial_How_To.en.lrc
@@ -1286,6 +1379,7 @@ Pac_Man_and_The_Ghostly_High_School_Reunion.en.lrc
 Painkiller.en.lrc
 Painting_Stream_with_Etalyx.en.lrc
 Papas_Freezeria_Deluxe.en.lrc
+Papas_Mocharia_Deluxe.en.lrc
 Paranormal_Haunted_House_Sim_w_Cam_Scare_Saturdays.en.lrc
 Part_3_of_5_WORLD_POG_FEDERATION_TOURNAMENT_OF_CHAMPIONS_Old_Jerma_Archive_No_Life_Nerd.en.lrc
 Party_Animals.en.lrc
@@ -1323,6 +1417,8 @@ PlateUp_With_Ster.en.lrc
 PlayStation_1_Games_Part_1.en.lrc
 PlayStation_1_Games_Part_2_and_Monster_Rancher_Part_1.en.lrc
 PlayStation_1_Games_Part_3_and_PlayStation_2_Games_Part_6.en.lrc
+PlayStation_2_Games_Part_7.en.lrc
+PlayStation_2_Games_Part_8.en.lrc
 Play_With_Me.en.lrc
 PlayerUnknowns_Battlegrounds_Part_1_with_Etalyx.en.lrc
 Playstation_2_Games_Part_3.en.lrc
@@ -1335,6 +1431,7 @@ Post_Carnival_Talk.en.lrc
 Post_retirement_Jerma_Sightings.en.lrc
 PowerWash_Simulator.en.lrc
 PowerWash_Simulator_Part_2.en.lrc
+Pragmata.en.lrc
 Pre_Dollhouse_Q_A_Talking_Stream.en.lrc
 Pre_House_Flipper_Invitational_3_Talk.en.lrc
 Pre_Pax_Shenanigans_Pax_Day_0.en.lrc
@@ -1364,8 +1461,10 @@ R.E.P.O._with_Ster_Poke_and_Vinny.en.lrc
 R.I.P.D._Pizza_Department.en.lrc
 R.I.P._GTA_4.en.lrc
 RANKED_2pm=Jerma_Games.en.lrc
+REANIMAL_with_Ster.en.lrc
 RISK_Global_Domination_With_Ludwig_Cr1TiKaL_and_Connor.en.lrc
 ROGUE_LIGHT_DECK_BUILDER.en.lrc
+ROUNDS_with_Ster.en.lrc
 RV_There_Yet_with_Ster_Poke_and_Vinny.en.lrc
 Radiation_Monster_Vs._The_Goof_Guys.en.lrc
 Rain_World.en.lrc
@@ -1387,6 +1486,9 @@ Ratatouille.en.lrc
 Ravaged_Zombie_Pianists.en.lrc
 Ravens_Cry_is_a_Finished_Game.en.lrc
 Rayman_Jungle_Run_Parkour_Bug_Collecting_Little_Gems.en.lrc
+Rayman_Raving_Rabbids.en.lrc
+Realms_of_Haunting_Part_2.en.lrc
+Realms_of_Haunting_and_Grab_Bag_Game_Night_Part_6.en.lrc
 Recettear_An_Item_Shops_Tale.en.lrc
 Recettear_An_Item_Shops_Tale_Part_2_Finale.en.lrc
 Red_Dead_Online_Part_1.en.lrc
@@ -1431,12 +1533,17 @@ Resident_Evil_7_Biohazard_Part_2.en.lrc
 Resident_Evil_7_Biohazard_Part_3_Finale.en.lrc
 Resident_Evil_Requiem.en.lrc
 Resident_Evil_Requiem_Part_2.en.lrc
+Resident_Evil_Requiem_Part_3.en.lrc
+Resident_Evil_Requiem_Part_4_Finale.en.lrc
 Resident_Evil_Village.en.lrc
 Resident_Evil_Village_Part_2_Finale.en.lrc
 Resident_Evil_Village_Part_3.en.lrc
 Restaurant_Empire.en.lrc
 Restaurats_with_Ster_Poke_and_Vinny.en.lrc
+Return_To_Dark_Castle.en.lrc
 Rhythm_Heaven_Fever.en.lrc
+Rhythm_Heaven_Groove.en.lrc
+Rhythm_Heaven_Groove_Part_2.en.lrc
 Rick_and_Morty_Virtual_Rick_ality.en.lrc
 Ride_Carnival_Tycoon.en.lrc
 Ridiculous_Fishing_Awesome_Arcade_Fish_Shootah_Little_Gems.en.lrc
@@ -1447,6 +1554,7 @@ Robert_Ludlums_The_Bourne_Conspiracy.en.lrc
 Roblox_With_Ster_and_Pokelawls.en.lrc
 RoboCop_Rogue_City.en.lrc
 RoboCop_Rogue_City_Part_2.en.lrc
+Rocket_Knight_Adventures.en.lrc
 Rogue_Legacy_My_Wonderful_Children_Live_Session.en.lrc
 Rogue_Legacy_Onward_to_the_Forest_Live_Session.en.lrc
 Role_playing_Duck_Gamers.en.lrc
@@ -1509,6 +1617,8 @@ Sega_CD_Games_Part_1.en.lrc
 Sega_CD_Games_Part_2.en.lrc
 Sega_CD_Games_Part_4_Halloween_Special.en.lrc
 Sega_CD_Games_Part_5.en.lrc
+Sega_CD_Games_Part_6.en.lrc
+Sega_CD_Games_Part_7.en.lrc
 Sekiro_Shadows_Die_Twice.en.lrc
 Sekiro_Shadows_Die_Twice_Part_2.en.lrc
 Sekiro_Shadows_Die_Twice_Part_3.en.lrc
@@ -1528,6 +1638,7 @@ Showdown_with_Boo_..._AND_JERMA.en.lrc
 Showing_Keyboard_and_Talking.en.lrc
 Signal_Simulator.en.lrc
 Silly_Putty_Car_Circus.en.lrc
+Silver_Pines.en.lrc
 SimCasino.en.lrc
 SimCity_Got_Ya_Down_Roller_Coaster_Tycoon_3_BABY_Live_JermaLand.en.lrc
 Siren.en.lrc
@@ -1558,6 +1669,7 @@ Sniper_Ghost_Warrior_Contracts.en.lrc
 Snow_Runner.en.lrc
 Snow_Vlog_Playing_with_the_Dogs_D_Boston_Blizzard_2013.en.lrc
 So_I_m_Writing_a_Book.en.lrc
+Sol_Divide.en.lrc
 Sorcery_2nd_Playthrough.en.lrc
 Sorcery_Part_1.en.lrc
 Sorcery_Part_10.en.lrc
@@ -1598,6 +1710,7 @@ Spookys_Jump_Scare_Mansion_HD_Renovation.en.lrc
 Spore_Part_0.en.lrc
 Spore_Part_1.en.lrc
 Spore_Part_2_Finale.en.lrc
+Spy_Fiction.en.lrc
 Spy_Party_Its_Always_The_Monopoly_Guy_w_STAR.en.lrc
 Spy_Party_Its_Always_The_Morgan_Freeman_Guy.en.lrc
 Square_Enix_Conference_E3_2019.en.lrc
@@ -1605,6 +1718,8 @@ Square_Enix_Conference_E3_2021_with_Ster.en.lrc
 Squeakross_Home_Squeak_Home.en.lrc
 Stalked_Hilarious_Indie_Horror_Burgah_Boy_Puke_2.0.en.lrc
 Stand_Tall_for_Turtlefall.en.lrc
+Star_Fox.en.lrc
+Star_Wars_Galactic_Racer.en.lrc
 Star_Wars_Jedi_Knight_Jedi_Academy.en.lrc
 Star_Wars_Jedi_Knight_Jedi_Academy_Part_2_Finale.en.lrc
 Stardew_Valley_Stream_Part_1.en.lrc
@@ -1620,6 +1735,7 @@ Stay_Out_of_the_House.en.lrc
 Steam_Next_Fest_Demos.en.lrc
 Steam_Next_Fest_Demos_Part_2.en.lrc
 Steam_Next_Fest_Demos_Part_4.en.lrc
+Steam_Next_Fest_Demos_Part_5.en.lrc
 Steelrising.en.lrc
 Sterferge.en.lrc
 Sticks_and_Stones_Black_Ops_2_Pahhtyy_Game.en.lrc
@@ -1677,6 +1793,7 @@ Superliminal.en.lrc
 Supermarket_Together_with_Ster_Poke_and_Vinny.en.lrc
 Supreme_Cheat_Code_Commander.en.lrc
 Surgeon_Simulator_2013_Open_Heart_Hilarity_FREE_GAME_PC_Mac_Linux.en.lrc
+Sven_Co_op_with_Ster_Poke_and_Vinny.en.lrc
 Switch_Games_Part_2_with_Squeex.en.lrc
 Switch_Games_with_Squeex.en.lrc
 TF2_100%_Crits_Crap_cp_labor_Live_Dumbness.en.lrc
@@ -2036,6 +2153,10 @@ Team_Fortress_2_Part_2.en.lrc
 Team_Fortress_2_Part_3.en.lrc
 Team_Fortress_2_Part_4_with_Ster_Summer_Update_2023.en.lrc
 Team_Fortress_2_Part_5_Mann_vs._Machine_with_Ster_DougDoug_Ludwig_Poke_Vinny.en.lrc
+Team_Fortress_2_Part_6.en.lrc
+Team_Fortress_2_Part_7.en.lrc
+Team_Fortress_2_Part_8.en.lrc
+Team_Fortress_2_Part_9.en.lrc
 Team_Fortress_2_Quadmentary_w_Jerma_MLC_St3alth_Boo.en.lrc
 Team_Fortress_2_Slice_N_Dice_Half_Zatoichi.en.lrc
 Team_Fortress_2_and_The_Binding_of_Isaac_Rebirth_October_2015.en.lrc
@@ -2136,6 +2257,7 @@ The_House_Flipper_2_Invitational_3_Part_2_Finale_with_Ster_Poke_Criken_More.en.l
 The_House_Flipper_2_Invitational_with_DougDoug_RTGame_Ster_Vinny_CDawg_More.en.lrc
 The_House_of_the_Dead_Remake.en.lrc
 The_Hunt_Begins_Contagion_w_Buddies.en.lrc
+The_I_of_the_Dragon.en.lrc
 The_Incredible_Hulk.en.lrc
 The_Incredible_Hulk_Ultimate_Destruction.en.lrc
 The_Incredible_Hulk_Ultimate_Destruction_Part_2_Finale.en.lrc
@@ -2148,6 +2270,7 @@ The_Jackbox_Party_Pack_Part_1.en.lrc
 The_Jackbox_Party_Pack_Part_3.en.lrc
 The_Jackbox_Party_Pack_Part_4.en.lrc
 The_Jackbox_Party_Pack_Part_5_with_Ster_and_Ashley.en.lrc
+The_Jackbox_Party_Pack_Part_7_with_Ster_Poke_and_Vinny.en.lrc
 The_Jerma_Rumble.en.lrc
 The_Killstreak_Quest_Fistful_of_Frags.en.lrc
 The_Last_Guardian_Part_1.en.lrc
@@ -2185,6 +2308,7 @@ The_Movies_Part_3.en.lrc
 The_Movies_Part_4.en.lrc
 The_Movies_Part_5.en.lrc
 The_Movies_Part_6.en.lrc
+The_Movies_Part_7.en.lrc
 The_Official_Podcast_Episode_81.en.lrc
 The_Outer_Worlds.en.lrc
 The_Outer_Worlds_Part_2.en.lrc
@@ -2212,6 +2336,7 @@ The_Sims_4_Part_4.en.lrc
 The_Sims_4_Part_5.en.lrc
 The_Sims_4_Part_6.en.lrc
 The_Sims_Part_2.en.lrc
+The_Sinking_City_2.en.lrc
 The_Stanley_Parable_Ultra_Deluxe.en.lrc
 The_Stomping_Land_Hunter_Survival.en.lrc
 The_Story_of_Me_Old_Bones_Battlefield_4.en.lrc
@@ -2224,6 +2349,7 @@ The_Thing.en.lrc
 The_Thing_Part_2_Finale.en.lrc
 The_Three_Triners.en.lrc
 The_Typing_of_the_Dead.en.lrc
+The_Urbz_Sims_in_the_City.en.lrc
 The_Voice_and_Naughty_Bear.en.lrc
 The_Warlock_of_Firetop_Mountain.en.lrc
 The_Wheel_Of_Time.en.lrc
@@ -2254,6 +2380,25 @@ Tokyo_Jungle_Part_1.en.lrc
 Tokyo_Jungle_Part_2_Finale.en.lrc
 Told_ya.en.lrc
 Tom_Clancys_Ghost_Recon_Wildlands.en.lrc
+Tomodachi_Life_Living_the_Dream.en.lrc
+Tomodachi_Life_Living_the_Dream_Part_10.en.lrc
+Tomodachi_Life_Living_the_Dream_Part_11.en.lrc
+Tomodachi_Life_Living_the_Dream_Part_12.en.lrc
+Tomodachi_Life_Living_the_Dream_Part_13.en.lrc
+Tomodachi_Life_Living_the_Dream_Part_14.en.lrc
+Tomodachi_Life_Living_the_Dream_Part_15.en.lrc
+Tomodachi_Life_Living_the_Dream_Part_16.en.lrc
+Tomodachi_Life_Living_the_Dream_Part_17.en.lrc
+Tomodachi_Life_Living_the_Dream_Part_18.en.lrc
+Tomodachi_Life_Living_the_Dream_Part_19.en.lrc
+Tomodachi_Life_Living_the_Dream_Part_2.en.lrc
+Tomodachi_Life_Living_the_Dream_Part_3.en.lrc
+Tomodachi_Life_Living_the_Dream_Part_4.en.lrc
+Tomodachi_Life_Living_the_Dream_Part_5.en.lrc
+Tomodachi_Life_Living_the_Dream_Part_6.en.lrc
+Tomodachi_Life_Living_the_Dream_Part_7.en.lrc
+Tomodachi_Life_Living_the_Dream_Part_8.en.lrc
+Tomodachi_Life_Living_the_Dream_Part_9.en.lrc
 Tony_Hawk_RIDE_kind_of_and_God_Hand.en.lrc
 Tony_Hawks_Pro_Skater_2.en.lrc
 Tony_Hawks_Pro_Skater_3_4_with_Ster.en.lrc
@@ -2292,6 +2437,7 @@ Toukiden_2_with_Etalyx.en.lrc
 Towerborne_Part_2_with_Ster_Poke_and_Criken.en.lrc
 Towerborne_with_Ster_Poke_and_Criken.en.lrc
 Travellers_Rest.en.lrc
+Treasure_Hunters_Raid_Together_with_Ster_Poke_and_Vinny.en.lrc
 Trepang2.en.lrc
 Trepang2_Part_2_Finale.en.lrc
 Trespasser_Jurassic_Park_Dinosaur_Week_Day_2.en.lrc
@@ -2404,6 +2550,7 @@ WTF_GRANDMA_LOL_Round_2_Part_1_Worms_Revolution_Jerma_Orb.en.lrc
 WWE_2K17.en.lrc
 WWE_2K18.en.lrc
 WWE_2K19.en.lrc
+Warcraft_III_with_Ster_Poke_and_Vinny.en.lrc
 Warhammer_40_000_Darktide_Part_2_With_Ster_Vinny_Criken_and_VRJosh.en.lrc
 Warhammer_40_000_Darktide_With_Vinny_Criken_Charborg_VRJosh_and_Strippin.en.lrc
 Warhammer_End_Times_Vermintide_with_Etalyx.en.lrc
@@ -2435,6 +2582,7 @@ Way_of_the_Samurai.en.lrc
 We._The_Revolution.en.lrc
 We_Love_Katamari_Reroll_Royal_Reverie.en.lrc
 We_Love_Katamari_Reroll_Royal_Reverie_Part_2_Finale.en.lrc
+Web_Games.en.lrc
 Webbed.en.lrc
 Weird_Cam_Comb_Stream.en.lrc
 Welcome_to_My_Channel.en.lrc
@@ -2458,10 +2606,19 @@ Who_Will_Replace_ME.en.lrc
 Who_is_Grandpa_400_Videos.en.lrc
 Who_knows.en.lrc
 Whos_Driving_This_Ambulance_Surgeon_Simulator_2013_Steam_Version.en.lrc
+Wii_Games.en.lrc
+Wii_Games_Part_2.en.lrc
 Wild_Hearts_With_Vinny_Vinesauce.en.lrc
 Wildermyth_With_Ster_and_Strippin.en.lrc
 Windshield_Sling_Shooter_McGee_FlatOut_3_Stuntman_Mode.en.lrc
+Withering_Realms.en.lrc
 Withering_Realms_Demo.en.lrc
+Withering_Realms_Part_2.en.lrc
+Withering_Realms_Part_3.en.lrc
+Withering_Realms_Part_4.en.lrc
+Withering_Realms_Part_5.en.lrc
+Withering_Realms_Part_6.en.lrc
+Withering_Realms_Part_7_Finale.en.lrc
 Withering_Rooms.en.lrc
 Withering_Rooms_Part_2.en.lrc
 Withering_Rooms_Part_3.en.lrc
@@ -2476,11 +2633,14 @@ World_of_Warcraft_Classic_Hardcore_Part_2_with_Etalyx.en.lrc
 World_of_Warcraft_Classic_Hardcore_Part_3_with_Etalyx.en.lrc
 World_of_Warcraft_Classic_Hardcore_Part_4_with_Etalyx.en.lrc
 World_of_Warcraft_Classic_Hardcore_Part_5_with_Etalyx.en.lrc
+World_of_Warcraft_Forever_Part_2_with_Ster_Poke_Holly_and_Much_More.en.lrc
+World_of_Warcraft_Forever_with_Ster_Harmless_Holly_and_VRJosh.en.lrc
 World_of_Warcraft_LOL_Adventures_Get_the_Quest.en.lrc
 World_of_Warcraft_Legion_Part_1.en.lrc
 World_of_Warcraft_Legion_Part_2.en.lrc
 World_of_Warcraft_Seizure_Time_with_MLC_St3alth_Jerma985_and_StrangeLuv.en.lrc
 Worldbox.en.lrc
+Worming_from_Home.en.lrc
 Worms_Revolution_I_m_Terrible_Goofy_Highlights_w_Orb_Shibby.en.lrc
 Worms_Revolution_with_Jerma_Shibby_1.en.lrc
 Worms_W.M.D_with_Ster_Poke_and_Vinny.en.lrc
