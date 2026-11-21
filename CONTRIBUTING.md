@@ -19,7 +19,7 @@ Sign up here if you don't already have one: https://github.com/signup
 
 If you'd like a video to be transcribed and added to the site [open an issue](https://github.com/JermaSites/Jerma-Subtitle-Search/issues/new?template=video-addition.yml).
 
-### Prerequisetes
+### Prerequisites
 
 - Has to be on YouTube.
 - Jerma has to speak in it.
