@@ -1,0 +1,3260 @@
+[re:Lavf63.1.102]
+[ve:63.1.102]
+
+[00:23.72]What's up?
+[00:25.15]What's up, dude?
+[00:26.69]Hey, dude.
+[00:29.45]What's going on?
+[00:30.59]Welcome back.
+[00:37.18]I'm going to attempt today to talk about a few things, some very very interesting things, as well as what I want to do today.
+[00:53.65]gonna rate soup on stream um I mean yeah tomato soup s uh
+[01:02.85]Picking noodle soup, S. Cream of mushroom soup, D. Um...
+[01:12.19]Stallion Wedding, A. Cheddar Broccoli, A. Mmm.
+[01:21.06]No, you have to do it as Gil.
+[01:26.23]Glamchowder S. I'm going to throw you with this one.
+[01:29.00]I know I'm originally from New England.
+[01:30.33]I lived about 35 years of my life in New England.
+[01:34.25]And me telling you that I don't think clam chowder is S,
+[01:37.59]It's probably a weird thing to hear from somebody that grew up in that area, but I'll tell you, replace clam chowder with fish chowder.
+[01:45.72]I don't really love clams.
+[01:48.07]But fish chowder, oh my goodness.
+[01:52.07]Fish chowder versus clam chowder.
+[01:53.35]I would pick fish chowder every time.
+[02:00.71]Uh... Corn chowder is fine.
+[02:05.67]I would say corn chowder to me is missing the fish or the seafood.
+[02:12.06]I'll eat it and I'll gladly eat it.
+[02:13.31]You got like a corn and bacon kind of chowder.
+[02:15.13]That's with potato.
+[02:16.01]That's good.
+[02:16.100]Alright, whatever.
+[02:17.82]That's fine.
+[02:19.83]But to me, it's like you scooped out all of the stuff that I want to eat.
+[02:26.75]I still like it.
+[02:27.37]It still tastes great.
+[02:28.01]But, you know, I feel like you scooped out the stuff that I'm looking for.
+[02:31.54]Which is those nice pieces of fish.
+[02:34.78]Alright, so...
+[02:36.60]Some of you may have seen or heard.
+[02:39.63]I know maybe not very many of you, but maybe you did.
+[02:46.23]I was online yesterday, the day before yesterday.
+[02:52.02]I was online on a different character.
+[02:55.89]I saw some people say it.
+[02:56.89]They were like, wait, what the fuck?
+[02:58.12]Who is that?
+[03:02.19]I'm going to tell you what
+[03:03.69]the event that's going to happen to no pixel that I'm working with burn and poke on.
+[03:12.56]How dare you?
+[03:13.20]Well, it was a test character.
+[03:20.18]I'm not going to give you details.
+[03:22.03]Because we may stream together.
+[03:24.39]Me, Burn, and Poke.
+[03:27.75]doing some behind the scenes, kind of building it out, sort of like podcasty type vibes.
+[03:34.65]Maybe Bern can show you guys some of the cool tools that he has.
+[03:37.42]We were talking about maybe doing something like that.
+[03:40.86]This event is probably not going to be for a little while.
+[03:42.71]There's like a lot of shit going on around like the streaming space.
+[03:46.39]There's a lot of events.
+[03:47.25]There's a lot of games coming out.
+[03:48.48]But this is going to happen.
+[03:49.28]We're going to find a place to put this and work on it.
+[03:52.60]But...
+[03:53.85]I will tell you what it is.
+[03:55.38]It's going to be at least a few different events in this event, but it's going to be a destruction derby.
+[04:04.08]Donnie's Destruction Derby.
+[04:06.31]Triple D.
+[04:13.46]So that...
+[04:15.48]I guess we're going to probably have to... We've been cooking a bunch of stuff.
+[04:20.97]We've been testing a bunch of random things.
+[04:24.41]And it burns got some great ideas watching him kind of play with the tools and some things that we can and cannot do.
+[04:33.17]It's been pretty fun.
+[04:33.87]Poke ended up joining us and doing like test runs on things has been really fun.
+[04:41.21]So it's going to be interesting to see what happens when like 40 cars are crashing into each other in the same spot.
+[04:47.91]We're effectively going to be
+[04:49.93]Maybe litmus testing how many cars can even drive into each other.
+[04:54.23]We're gonna do more testing.
+[04:58.62]But there's going to be more than that.
+[04:59.58]There'll be more things than that.
+[05:00.85]I just don't want to leak them all.
+[05:03.01]But that's the sort of event...
+[05:08.48]It probably won't be for a week or two.
+[05:11.15]I think there's some things we need to talk to, uh,
+[05:15.68]We need to compile some of the things that we want to be able to see if we can do and send that to the right people and they can see if we can do it.
+[05:26.47]You heard you were on Discord with Bird and Poke.
+[05:29.11]Yeah, a few people actually came down to where we were.
+[05:31.90]Dude, I was the character.
+[05:33.94]I didn't have a character.
+[05:35.76]I was on like a test character.
+[05:37.04]I think his name is actually Test Stevenson.
+[05:42.10]And I was just, I was literally the second preset character.
+[05:46.52]And people came down and were like, who are you?
+[05:48.38]And I'm like, oh, fuck.
+[05:51.06]Yeah, I'm my height.
+[05:53.49]Because Burn was on his, I think he has like a Canadian character.
+[05:58.11]And I just was trying to match the energy, like, oh, yeah, eh?
+[06:00.92]My name's Test, eh?
+[06:06.79]And there was multiple, multiple people that came down to wait where it was really funny.
+[06:10.89]You have Ron.
+[06:11.86]I think Ron came down in the helicopter to see like what the fuck was going on.
+[06:19.87]And it was pretty funny.
+[06:20.89]But yeah, that's the event that I've been thinking of and talking about randomly over the last week or so.
+[06:26.40]Probably won't be for a week or two, though.
+[06:29.24]lot going on wow forever comes out in a few days which might as well say this now which this is crazy
+[06:40.96]I got a World of Warcraft sponsor to play it.
+[06:43.67]Can you believe that?
+[06:45.93]I literally got a sponsor to play that game.
+[06:47.98]That's unbelievable.
+[06:52.81]So I'm going to be playing the absolute shit out of that game.
+[06:56.29]You'll probably see a lot of that over on Lava Lamp.
+[07:06.100]But when I got reached out to see, hey, do you want to do that?
+[07:09.52]I was like, yeah.
+[07:13.05]Yeah, that sounds great.
+[07:14.77]Yeah.
+[07:15.47]Yeah.
+[07:16.10]Yeah, let's go!
+[07:17.41]Uh...
+[07:22.17]Another thing to talk about too is, and that's going to be, I don't think we're going to.
+[07:25.59]So it's me and Ster.
+[07:27.76]Hey.
+[07:29.72]I roped in Ster on this man.
+[07:31.56]Ster is gonna be playing WoW forever.
+[07:33.60]I got him.
+[07:34.26]I got him!
+[07:37.60]Just had to pay him.
+[07:48.42]That's crazy.
+[07:54.100]If you had told me when I was like...
+[07:57.92]19 or whatever that eventually like you were going to be sponsored to play this game that you are like playing right now and like how obsessed you are with it.
+[08:04.90]I'd be like, what the fuck?
+[08:06.12]What time machine are you from?
+[08:07.26]You're a liar.
+[08:09.14]Yeah, that's coming out.
+[08:09.87]That's a big deal.
+[08:10.41]I've been looking forward to that.
+[08:11.17]Obviously, you all know I talk about that game fucking every three hours.
+[08:14.60]um GTA 6 comes out a lot of shit is happening um so I'm
+[08:21.25]Trying to do as many of them as I can.
+[08:23.07]And what I mean by that in the next part of this is after today.
+[08:25.88]We stream this weekend.
+[08:30.37]We're going to go back to some more variety.
+[08:32.59]Ster and I obviously are going to be playing WoW Forever for a little bit.
+[08:36.87]We're also going to play some co-op games together.
+[08:39.27]tap back into the retro games here and we will pick
+[08:45.54]I'm gonna, I probably will play no pixel.
+[08:47.93]Maybe I'll do some lava lamp, no pixel stuff.
+[08:51.21]But I'm going to be moving back to some more variety as of, like, tomorrow.
+[08:55.98]This afternoon, whatever you want to call it.
+[08:58.54]I probably won't be live again until maybe a couple days from now.
+[09:00.93]We'll see.
+[09:03.10]But no, this is not my I'm leaving no pixel announcement to you.
+[09:08.65]I'm working on a huge event with burn and poke right now.
+[09:10.89]So we're doing that.
+[09:12.83]It's just like as of the next couple weeks, we're going to do a little bit more variety.
+[09:19.62]So don't take that as the... That's what I mean by that.
+[09:22.51]So there you go.
+[09:23.05]That's kind of what's been happening.
+[09:24.05]I'm very excited about it.
+[09:25.31]I think the Destruction Derby is going to be insane, especially because of the other things that are going to be happening during it.
+[09:30.29]It's not just gonna be as simple as a destruction derby.
+[09:33.82]It's gonna be, like, four different events.
+[09:36.63]We're kind of like shooting for the stars on this one.
+[09:39.76]It should be really fun.
+[09:44.03]But, uh, yeah.
+[09:46.28]I'm on gil right now.
+[09:48.06]Gonna see if I can get into the haunted house today.
+[09:51.76]Let's see if I can do it.
+[09:55.50]because that's the goal right now.
+[10:04.24]So what do we got?
+[10:08.68]Survive the trial.
+[10:10.18]Oh, right, right, right, right.
+[10:11.96]Oh my fucking God.
+[10:13.03]Did I have to open that again?
+[10:17.11]I need...
+[10:17.88]I got my outfit here.
+[10:19.08]Let's see.
+[10:19.50]I only have two outfits, right?
+[10:22.39]Oh, here it is.
+[10:22.99]Yeah.
+[10:26.08]I'm going to make a couple phone calls.
+[10:27.95]Let's see if we can put together, because I want to try to get into the haunted house to inspect it.
+[10:36.33]Los Limones, yeah.
+[10:38.92]If you missed what happened last time, I highly suggest you watch that first.
+[10:45.44]That's a major plot point that happened that you probably are like, what are you talking about?
+[10:48.94]Alright.
+[10:50.60]Uh, let's see.
+[10:51.11]Can I, I'm going to make a few calls.
+[10:56.27]Let me call.
+[10:57.01]Let me see.
+[10:57.81]Let me get in touch with the mayor.
+[10:59.97]See if the mayor's online.
+[11:03.100]Hello there.
+[11:05.70]Hi, how are you?
+[11:20.39]Gil's holding it down.
+[11:21.71]I do have to call.
+[11:22.59]I got to call Baron.
+[11:23.19]I got to call Carlos.
+[11:24.19]Because I got to put together the entire safety gang.
+[11:30.25]Leave him a text, too.
+[11:37.32]No, only one exclamation point.
+[11:49.80]Hope you are very well.
+[11:58.83]I'm going to be attempting...
+[12:05.72]I'm gonna be attempting that inspection.
+[12:09.63]Of the haunted house.
+[12:12.70]Good day.
+[12:16.86]Give me a buzz when you awake.
+[12:21.47]Give me a... That's fine.
+[12:22.92]That's good enough.
+[12:30.51]Alright, let me call... Let me see, actually.
+[12:33.88]Because I don't know if I got any of their numbers.
+[12:39.05]I remember calling...
+[12:42.06]Who was it?
+[12:42.70]I called somebody.
+[12:48.72]Pesa, right?
+[12:51.28]I did.
+[12:51.62]I did.
+[12:51.88]Yeah.
+[12:52.22]Okay.
+[13:02.49]Hello there, this is Gilbert Washington.
+[13:04.18]I don't know if you remember me talking to you a few days ago.
+[13:06.17]Yeah.
+[13:07.69]I do.
+[13:08.77]So I am still working on getting him
+[13:14.90]Sit still for a few minutes.
+[13:17.20]We're actually doing a little event right now down at the cemetery.
+[13:22.41]It's the Day of the Dead.
+[13:24.10]Oh, wonderful.
+[13:24.94]Okay.
+[13:26.29]Yeah, so how about maybe after that?
+[13:29.82]Yeah, that'd be great.
+[13:30.36]If you give me a buzz whenever you end up done with whatever activity you're doing right now, I would love to receive that phone call.
+[13:37.40]Alright, and you're also welcome to come down and participate in the event, too.
+[13:43.35]Where is this?
+[13:44.02]You said at the cemetery?
+[13:45.46]At the cemetery.
+[13:47.78]It's the Dia de los Muertos.
+[13:49.33]So if you want to dress up and put on some...
+[13:52.03]fun face paint or anything.
+[13:53.29]We're here to celebrate your past loved ones.
+[13:59.95]Oh, that's wonderful.
+[14:01.31]You know, if I have some time, I'll swing by.
+[14:02.60]Yeah, just make some music.
+[14:05.13]Alright.
+[14:06.35]Yeah, well, let me give you a call when we're done with it, and then we can maybe get that inspection going.
+[14:12.62]Excellent.
+[14:13.04]Love to hear it.
+[14:13.82]Thank you so much for your time.
+[14:16.56]Thank you.
+[14:17.00]Bye-bye.
+[14:17.49]Bye-bye.
+[14:21.40]Okay.
+[14:22.04]Alright.
+[14:22.30]I think we're ready to go.
+[14:23.18]Alright.
+[14:25.24]Yeah, here we go.
+[14:27.05]This is how we start the day.
+[14:29.56]This is how we start the day.
+[14:33.95]Alright, I got to make some phone calls.
+[14:38.60]But do I make a phone call first or do I do?
+[14:43.85]My morning routine.
+[14:45.08]Hmm.
+[14:49.50]Hmm.
+[14:52.42]Do I do my morning routine?
+[15:00.05]Yeah.
+[15:01.18]Yes.
+[15:03.57]Of course I will.
+[15:15.87]Actually, let me get some stuff queued up before I do this.
+[15:19.20]What's this one here?
+[15:27.80]Okay.
+[15:29.46]Give me one second.
+[15:32.49]Scary music.
+[15:34.62]I've got to do my morning routine.
+[15:41.44]How about r slash public domain, 25 minutes of copyright-free horror music.
+[15:50.27]Uh, free horror ambience.
+[15:53.53]Okay.
+[15:58.58]non-copyrighted scary music it's gonna be longer than like a minute though
+[16:11.09]I think I had this one open before.
+[16:12.40]Pick a good one.
+[16:23.77]This one has lyrics.
+[16:34.10]No, that was too fast.
+[16:36.62]Here we go.
+[16:42.29]Okay, now I get a timestamp for this one.
+[16:44.04]This is right here.
+[16:46.44]Alright, time to start the day.
+[16:52.93]No, don't log out.
+[16:55.96]Arms, I need like a
+[16:59.94]I need a better.
+[17:01.89]Let's give it a bartender.
+[17:02.87]That ones was funny for a little bit, but let's see.
+[17:12.44]How about...
+[17:16.71]There's a couple of...
+[17:17.23]Okay, this one here is good.
+[17:22.48]Oh, this one is just like, oh, what are you thinking?
+[17:31.40]I take safety zone dead seriously.
+[17:33.16]Like, just do that as if... No.
+[17:36.69]What?
+[17:37.05]Hold on a second.
+[17:37.97]I mean, this is...
+[17:40.88]Okay, I have an idea.
+[17:42.47]I have an idea, but it's kind of like Gil causing a problem, but he wouldn't do that.
+[17:47.82]I was going to say, put like a can in front of me.
+[17:50.69]I can sit on a bench and just wait till somebody walks by.
+[17:57.22]But he wouldn't do that.
+[18:01.97]Okay, let me put the arms crossed one here.
+[18:07.100]One a little bit meaner.
+[18:08.84]Because this one's I'd say probably this one.
+[18:16.81]That's one.
+[18:17.63]This is three.
+[18:19.35]C3.
+[18:31.39]I'm dressed like such a goofball.
+[18:35.79]Okay, here we go.
+[19:53.27]That's weird, but whatever.
+[20:00.57]Thank you.
+[20:13.95]I'm sorry.
+[20:55.44]My rainy day.
+[20:59.38]I hate rainy days.
+[21:04.06]washes around the filth, spreads the dirt around to every single crevice.
+[21:13.99]Nothing I hate more than the mud.
+[21:16.49]It's supposed to be sunny around here.
+[21:32.20]I look forward to the inspection.
+[21:38.66]I will make sure it is safe.
+[21:41.42]I will do what I can to protect this city at any cost.
+[21:55.96]Hello there.
+[21:56.56]Hey, how's it going?
+[22:00.15]It's going very, very well.
+[22:02.88]Are you okay?
+[22:03.28]It's raining out here.
+[22:05.44]Slightly drizzling, you know?
+[22:06.44]You're just sitting out here.
+[22:07.72]You don't want to stay inside?
+[22:11.19]No, no, no.
+[22:12.41]No, I'm, well, I'm waiting to, for a job I'm doing.
+[22:16.89]Oh, okay.
+[22:17.64]Well, listen.
+[22:18.62]Godspeed.
+[22:19.48]I just, you know, I just saw you out here.
+[22:21.87]I was a little worried for you, that's all.
+[22:23.81]You know, worrying about others is a good character trait.
+[22:27.49]What's your name?
+[22:28.62]Yeah, yeah, I like to think so.
+[22:30.90]Um, Arya.
+[22:31.80]Arya Shah.
+[22:33.55]Gilbert Washington.
+[22:34.87]Self-employed Department of Inspection Services while operating individually under the guise of the Department of Corrections.
+[22:39.30]It's nice to meet you.
+[22:41.98]Gilbert, good to meet you too.
+[22:43.48]Listen, you're doing the Lord's work out here, doing the work that no one else likely wants to do.
+[22:47.77]So Godspeed.
+[22:49.03]I absolutely... You know, hold it down.
+[22:51.48]Yeah, no, listen, I feel like everyone else is, you know, that...
+[22:55.88]I will hold it down.
+[22:57.56]I am holding it down.
+[22:58.46]As part of the host levonis.
+[23:06.06]Hold it down, you understand, Gilbert?
+[23:08.21]I do understand.
+[23:09.87]Me and my safety club, the Los Lebones...
+[23:14.99]That's what I like to hear, Gilbert.
+[23:16.19]Listen, you stay safe out there.
+[23:17.19]Don't get wet out here, yeah?
+[23:18.61]It's raining a little bit.
+[23:19.47]Watch your step when you walk.
+[23:20.87]Be careful.
+[23:21.43]It's very, very wet.
+[23:25.33]It's only the start of the day, Mr. Gilbert.
+[23:28.76]It's only the start of the day.
+[23:30.70]It is only the start of the day.
+[23:36.01]Take care.
+[23:43.45]This music man is actually just staring at me.
+[23:53.85]Careful.
+[24:00.67]This light needs replacing.
+[24:02.51]It's been out for a week.
+[24:10.42]I haven't seen the maintenance crew in about three days.
+[24:12.65]These bushes are too high.
+[24:18.97]Broken window.
+[24:23.59]Broken window.
+[24:25.52]Broken window.
+[24:42.39]Be careful!
+[24:50.47]Sitting while not on an object is incredibly unsafe!
+[24:59.01]I'm sorry.
+[25:08.24]Every day that goes by is another day where someone could do something wrong.
+[25:15.50]Not anymore.
+[25:20.29]Not anymore.
+[25:32.11]Go, go, go!
+[25:42.88]you
+[26:15.90]¶¶
+[26:39.44]Leaving your car with the windows broken like this.
+[26:42.68]It's so easy to get in.
+[26:45.00]I wish people would understand.
+[26:47.55]Broken windshield, broken windows, both windows broken.
+[26:51.60]Seatbelt doesn't work.
+[26:56.80]Every single piece of glass has been shattered out.
+[27:08.99]I can wait for the perpetrator.
+[27:14.69]Sometimes you need to break rules to enforce them.
+[27:18.68]Damn.
+[27:19.33]Alright, hold on.
+[27:25.48]Thank you.
+[27:33.42]2 55 p.m. Monday
+[27:38.63]Found a car sitting in a parking lot with all of its windows broken.
+[27:45.50]Parked illegally.
+[27:47.81]Parked erratically.
+[27:50.08]Waiting for perpetrator in parking lot.
+[27:55.15]For I am the El Niño Bueno.
+[27:59.25]the good boy.
+[28:01.49]And I will protect this city!
+[28:17.05]No one.
+[28:33.88]Delusions of grandeur.
+[28:42.71]Dude, that, like, horror violin.
+[28:49.06]Sir?
+[28:49.42]You're in the way.
+[29:11.03]Thank you.
+[29:27.01]Get down from there.
+[29:28.59]Oh, my God.
+[29:30.59]I'm so sorry.
+[29:31.64]Oh, my God.
+[29:33.38]Get down from there.
+[29:36.98]Is this a playground or is this an apartment building?
+[29:41.14]It's a playground and an apartment building.
+[29:43.15]Now, what is not, it is merely an apartment building.
+[29:44.92]I just want to make sure you're safe.
+[29:46.02]Be careful.
+[29:46.52]That is incredibly dangerous.
+[29:47.38]You could sprain an ankle.
+[29:48.04]You could sprain your leg.
+[29:50.30]And then I could sue this place.
+[29:53.26]Well, no, there's a witness here saying that you're acting incredibly erratically.
+[29:55.68]That's me.
+[29:57.09]I'm taking care of this city.
+[30:06.28]I'm getting on a scooter.
+[30:10.93]You're gonna die before even starting the day?
+[30:14.12]No, this is Gil's morning routine.
+[30:16.12]This is his daily routine.
+[30:17.44]We can't skip the daily routine.
+[30:31.43]Okay, I'll tell you my favorite thing of...
+[30:34.69]I've played a lot of this game, right?
+[30:39.73]I've put just about, I don't know, 100 something hours, 150 hours, whatever it is, almost 200.
+[30:45.83]I think my favorite thing to do is this.
+[30:50.63]I think it's like I have the most fun just being this guy doing this.
+[30:54.95]This routine in particular.
+[31:09.45]he's gonna perma though yeah but that look I I look forward to the day that he does you know what I mean
+[31:18.41]because I feel like that's just gonna cause so much more conflict somehow.
+[31:27.24]I want him to stay alive, too.
+[31:29.72]Trust me.
+[31:30.75]I'm getting a little attached to Gil, but I'm very curious how it ends.
+[31:35.26]It needs to be...
+[31:36.82]Also, you know what else I wanted to try to do?
+[31:38.39]I guess I could sell this to you guys.
+[31:43.13]I want the book.
+[31:44.70]I don't know how if he dies in like an hour it's not possible right but if I stay alive somehow today I do want to try to make like a treasure hunt with the book.
+[31:55.51]Do you know what I mean?
+[31:57.13]Like, and to my grandchildren, I'd of course leave my immense wealth.
+[32:01.76]Which is buried.
+[32:03.08]I buried it here and I give like a longitude latitude or something so if anybody actually reads the book they can actually get like money.
+[32:12.42]I don't know how I would do that, but it was something that I thought was kind of funny.
+[32:20.72]OK, morning routine accomplished.
+[32:22.83]Make some phone calls.
+[32:35.68]Hey, how are you Baron?
+[32:38.26]I'm doing well, I'm doing well.
+[32:39.80]I mean, that's a lie, but I'm doing well.
+[32:41.26]How are you?
+[32:42.50]Oh, I hope you're doing alright.
+[32:43.68]I hope it's not nothing too serious.
+[32:44.89]I'm doing well.
+[32:46.69]I do have some news for you.
+[32:48.11]I think we are going to be able to get the entire safety inspection crew together.
+[32:51.96]and be able to maybe inspect that haunted house today.
+[32:54.61]I did talk to Tessa.
+[33:00.32]And I think they're busy at the moment.
+[33:01.60]I think they're currently in the middle of some festivities for the Day of the Dead.
+[33:07.46]Oh, yeah, yeah.
+[33:07.88]Do you want to go to that?
+[33:10.36]Yeah, I was going to give some phone calls, see what people are doing.
+[33:12.29]Maybe get a crew to ride around and maybe go to that and then maybe go to that afterwards.
+[33:17.32]But I just want to let you know that things are moving.
+[33:19.71]And I'm going to make a few more phone calls.
+[33:21.21]But I just wanted to say, hey, we're going to be doing our inspection.
+[33:26.17]Actually, I wanted to show you my...
+[33:31.53]Sorry, my friend in the car is about to be nosy.
+[33:35.13]This is my friend Becky.
+[33:37.08]Becky.
+[33:38.04]Oh, yes.
+[33:38.32]Hello there.
+[33:38.84]Hi, Becky.
+[33:42.73]It's going splendid.
+[33:43.63]I wanted to show you, I have the perfect apartment to do inspections.
+[33:49.84]We can hide and do inspections at the apartment.
+[33:54.58]At which apartment complex are you referring to?
+[34:00.17]The one that, you know, I don't know if you still live there, but I live there.
+[34:04.08]Elgin.
+[34:05.20]Oh, the Alligator Department.
+[34:05.94]Yes, yes, yes.
+[34:06.56]There's something to inspect here?
+[34:07.94]Oh, I inspect this every single morning.
+[34:09.26]There's something I should be aware of?
+[34:11.44]Well, I'm saying, I want to show you.
+[34:14.14]My apartment is on the lower floor, and it's like, we can look right out the balcony at people.
+[34:21.04]And, like, you know, basically surprise them if they've been doing something bad.
+[34:26.57]Oh, it's a vantage point.
+[34:27.87]I see what you're saying.
+[34:28.71]Oh, I would love that.
+[34:29.75]Okay, yeah.
+[34:31.39]Yeah.
+[34:32.26]Uh, do you want to just meet at the apartments?
+[34:33.82]Or are you out and about?
+[34:35.68]Yeah, I'm at the apartments right now.
+[34:37.02]I was going to give Carlos a call as well to see if he could get the inspection safety club together.
+[34:43.41]Okay.
+[34:43.89]Alright.
+[34:44.21]Sounds good.
+[34:44.63]I'll see you at the apartments.
+[34:45.95]Great.
+[34:46.24]See you soon.
+[34:47.24]Bye-bye.
+[34:58.11]Hey, what's good, Inspector?
+[35:00.07]How are you?
+[35:01.62]How are you doing?
+[35:02.54]Pretty good.
+[35:03.72]Pretty good, pretty good.
+[35:05.30]Myself?
+[35:05.86]How about yourself?
+[35:06.80]How you been?
+[35:07.85]I've been doing okay.
+[35:08.43]I've been doing great.
+[35:09.30]Hopefully you're doing well and everyone's healthy and the entire inspection crew and safety club is doing well.
+[35:15.49]Oh yeah, we're doing fantastic.
+[35:18.65]Yeah, so I'm calling because, hey, I think we've got a massive inspection on our hands here.
+[35:25.69]Oh, my God, really?
+[35:26.59]Where at?
+[35:28.08]Over the next hour or so, I think we're going to be able to go to the haunted house and finally get in there and take a look around and inspect that building.
+[35:36.07]What are you up to right now?
+[35:37.35]I think we're...
+[35:45.23]Potentially me and Baron and some others might get together.
+[35:47.73]I really want to get the whole crew together for this.
+[35:51.47]Um, I'm not doing anything too crazy.
+[35:53.09]I'm not doing anything really.
+[35:54.17]I can meet up right now if you want me to.
+[35:56.51]Yeah, why don't you come down to the apartments?
+[35:57.100]We're going to be down at the apartments.
+[35:59.44]We can start assembling everybody.
+[36:01.22]I want the entire safety club and inspection crew for this.
+[36:05.05]Sounds good.
+[36:05.63]Sounds good.
+[36:06.15]Perfect.
+[36:06.53]I'll get my boys too.
+[36:08.43]Alright.
+[36:08.71]Excellent.
+[36:09.47]The whole club.
+[36:10.29]Yes.
+[36:10.95]Alright.
+[36:11.89]Perfect.
+[36:12.79]Adios.
+[36:13.19]See you soon.
+[36:16.02]We're getting the whole gang together.
+[36:21.05]The plan is to inspect the haunted house today, yep.
+[36:29.16]Oh my goodness.
+[36:30.37]Are you hurt?
+[36:33.03]Do you need medical attention?
+[36:35.23]Are you okay?
+[36:38.43]Oh no, this is unacceptable, this is unacceptable!
+[36:48.27]Driving around on the scooter is so dangerous, dude.
+[36:54.81]Well, I need to get- I need to find a way there.
+[37:08.45]I'm just such an ag...
+[37:09.100]I'm like... People are going to aggro me.
+[37:36.19]Fuck, that's too loud.
+[37:40.34]Don't move, don't move!
+[37:41.60]Oh my goodness!
+[37:45.44]Get in, get in!
+[37:47.13]Excuse me!
+[37:49.21]Hey, careful!
+[37:50.47]Are you out of your mind?
+[37:51.33]I can't get in.
+[37:52.70]Yes.
+[37:54.16]Mister, I'm gonna blow it up.
+[37:56.08]Don't blow anything up.
+[37:57.81]I can't get in.
+[38:00.15]Don't move.
+[38:00.61]Don't move.
+[38:01.04]I will move the scooter.
+[38:01.98]Don't move.
+[38:03.90]Okay.
+[38:06.01]Public transportation.
+[38:06.99]I appreciate you for not moving.
+[38:10.75]Do you have a license to...
+[38:12.12]Excuse me!
+[38:13.74]Stop!
+[38:14.86]Stop in the name of the Department of Corrections and the Department of Corrections!
+[38:17.97]Pfft!
+[38:20.02]Stop in the name of the self-employed Department of Inspection Services under the guise of the Department of Corrections.
+[38:24.28]Stop where you are.
+[38:25.11]You have the operating license for this vehicle.
+[38:27.33]So self-employed equals jobless, motherfucker.
+[38:30.37]Self-employed under the individual Department of Corrections.
+[38:33.65]Okay, broke.
+[38:35.56]It's fine.
+[38:36.14]It's okay if you're broke.
+[38:36.96]It's not a big deal.
+[38:37.92]I am not broke.
+[38:38.56]I have plenty of money.
+[38:43.01]Anyways, what's your name, Mr.
+[38:44.95]Unemployed?
+[38:46.47]My name is Gilbert Washington.
+[38:47.69]Wait, hold on.
+[38:48.93]You guys want to get in the bus?
+[38:52.81]Yeah You don't need to get the bus yeah
+[38:57.96]Maybe we can get on the bus.
+[39:00.25]Wait, there's only one stall.
+[39:01.69]And where are you taking this bus?
+[39:03.82]Baron, Baron, Baron.
+[39:05.10]I was just about to call you.
+[39:08.13]Did you see what this bus did?
+[39:09.91]What?
+[39:16.52]They crashed into three different things.
+[39:20.13]Oh, no.
+[39:21.05]The city will pay for that.
+[39:21.97]It's fine.
+[39:22.29]What do you think our fucking taxes go to?
+[39:23.85]15% property tax?
+[39:24.85]Where do you think that goes?
+[39:27.20]I'm not gonna say thank you for somebody- I fucking work- I fucking work like a dog.
+[39:37.36]Don't take us to Tomato Town if you don't thank her.
+[39:42.34]She's taking you to the grave right now.
+[39:46.16]Oh my goodness!
+[39:49.06]That was a very wide turn.
+[39:52.45]It's alright.
+[39:52.93]It's just, uh, I just got my letter.
+[39:56.64]That was a do not block sign.
+[39:58.86]It's okay.
+[40:01.01]It doesn't need that.
+[40:02.41]It might seem counterproductive, but you need to go left if you're taking a right turn and then swing around.
+[40:08.77]Whoa, maybe you should drive the bus.
+[40:12.83]Yeah, Baron.
+[40:14.45]Okay.
+[40:15.69]Maybe I'm winning.
+[40:19.02]I think we're going to the graveyard.
+[40:19.92]Well, final stop, graveyard.
+[40:23.45]Oh my god, put the pistol away!
+[40:25.09]What am I holding the gun for?
+[40:25.97]Put it away, put it away, put it away.
+[40:27.65]There she is a party there.
+[40:29.91]I know.
+[40:30.33]Yeah, we were just there a while ago.
+[40:32.82]Oh, really?
+[40:34.82]Yeah, they were gambling.
+[40:37.42]And the graveyard?
+[40:40.43]You're betting corpses?
+[40:41.19]Hold your breath!
+[40:42.65]Should we ask if anyone wants a rock?
+[40:53.58]Anybody want to ride?
+[40:55.04]Anybody want to ride?
+[40:56.71]Hey, Dixie.
+[40:59.01]Anybody want a ride?
+[41:00.13]Oh no, I'm good.
+[41:00.98]I got my bike.
+[41:01.80]Hey, you know what?
+[41:03.38]I fucking quit.
+[41:04.20]Fuck you guys.
+[41:04.94]I'd like to get off the bus.
+[41:06.46]Wow, typical liberal.
+[41:08.43]So you're just going to leave us?
+[41:10.17]Hey, free bust.
+[41:11.75]Free bust, dude.
+[41:12.24]Hello, Dixie.
+[41:12.72]I love your shit.
+[41:14.80]Thank you.
+[41:15.48]This is cute.
+[41:16.70]Oh, my God.
+[41:17.52]Carla, you look like Christian Calder.
+[41:19.47]That's the point.
+[41:20.39]Thank you.
+[41:20.97]Wow.
+[41:22.93]Hi everyone, welcome to Day of the Dead.
+[41:25.02]My hands raised here, I'm hosting this event.
+[41:26.77]Hi!
+[41:27.89]Uh, there's some music going on right now, feel free to listen in.
+[41:32.84]Uh, there's also a lot of offerings around, food, water, salt.
+[41:37.81]I would recommend not eating any food on the ground if you need food I can give you food but today is a day where we remember those who have passed on
+[41:46.78]so that they are able to come visit us.
+[41:48.97]Yeah.
+[41:49.67]It's a day where it's believed that the veil between our world and the dead is at its thinnest.
+[41:57.06]It's very interesting.
+[41:59.22]I will, thank you.
+[42:00.41]Oh, okay.
+[42:07.77]Yeah, everyone was pointing at the sky, so I pointed at the sky.
+[42:13.75]Let's go put them back, come on.
+[42:15.88]Go, go, go, rapid speed.
+[42:17.24]I'll go find more roses.
+[42:18.89]I'll get more grapefruits.
+[42:24.80]Picture of blondish brown hair, man.
+[42:35.47]Thank you.
+[42:38.77]Oh, wow.
+[42:40.19]This is a big event.
+[42:42.70]Attatella!
+[42:51.89]I told carlos to bring the the safety club so we could be together after when we leave here
+[43:02.50]This is cool.
+[43:05.78]What's going on over there?
+[43:08.39]Is your car parked at the apartments?
+[43:10.86]No, no, I was chasing after you.
+[43:15.02]Oh, before we got on the bus, right?
+[43:16.11]Sorry, I had an incredibly important safety inspection I had to do.
+[43:19.41]They were crashing into things.
+[43:20.79]You've got your mind.
+[43:22.60]I need to change before we do this on safety inspection.
+[43:27.12]We should have a little bit of time.
+[43:29.57]Also, I do apologize.
+[43:31.33]I have not had enough time to procure you some tomato slices.
+[43:35.58]That's okay.
+[43:36.06]Don't worry about that.
+[43:38.52]It's okay.
+[43:39.97]I'm not really that hungry right now anyways, but I appreciate it.
+[43:42.34]I'm okay.
+[43:44.36]No.
+[43:45.76]Oh, wait.
+[43:46.94]VSL.
+[43:47.20]VSL's not dead.
+[43:47.93]Most of us are here.
+[43:49.55]We could always revive.
+[43:50.97]I guess so.
+[43:53.42]She just moved back.
+[43:54.62]Oh my God, I just realized.
+[43:56.34]Oh, okay.
+[43:57.70]Again.
+[43:58.95]V was there, Dixie, me...
+[44:05.27]He was in it, and Blue was...
+[44:07.32]I was about to bring her in, but then it was too late.
+[44:09.93]Are you saying hi to a loved one?
+[44:11.88]No, it does count.
+[44:13.58]No, no, just, you know, paying respects to all the dead.
+[44:16.27]Uh...
+[44:20.22]Cameron, erase that.
+[44:26.91]Cameron, get that off immediately.
+[44:29.10]Okay, sorry, sorry.
+[44:30.68]Oh my god.
+[44:31.27]Yo, this is yours?
+[44:34.36]Who are you?
+[44:44.17]Thank you.
+[44:45.18]Rick Sanchez.
+[44:45.92]I think we talked over the phone.
+[44:48.22]Oh, yes.
+[44:49.42]Richard, how are you?
+[44:50.18]This is your brand intern.
+[44:55.23]My grand intern.
+[44:56.39]Oh wait, I'm the grand intern.
+[44:58.30]Yeah, you're the grand intern, so he's my intern.
+[45:02.37]And I'm your intern.
+[45:04.17]So you're my intern and you're you are his intern.
+[45:07.55]So therefore, you are my I'm your great grand intern.
+[45:12.60]Or something.
+[45:13.24]No, no, no, no.
+[45:14.52]No, you're my...
+[45:16.86]I'm your intern.
+[45:17.96]You're my great-grand-intern.
+[45:20.07]Hello.
+[45:20.89]Hey, what up, niño?
+[45:23.33]Where you at?
+[45:24.95]I'm at the graveyard right now.
+[45:26.11]I'll give you the location.
+[45:27.05]We're right here.
+[45:28.67]It looks like a party going on here.
+[45:32.93]Yeah, we're up over, if you wrap around the left side there, we're kind of over where some of the gravestones are.
+[45:38.82]Okay, perfect.
+[45:40.24]Yeah, I see you.
+[45:43.36]Oh, do you say that?
+[45:44.12]Yes, I am.
+[45:44.56]Excellent.
+[45:45.16]What season?
+[45:45.65]I'll be very young.
+[45:48.54]I am so sorry for bumping into you.
+[45:50.28]I did not mean to.
+[45:51.32]Oh, it's fine, I guess.
+[45:53.51]Thank you for acknowledging it, though.
+[45:55.23]I'm 31.
+[45:57.07]It was at the slope here I slipped on it.
+[46:00.30]Hey, how's it going?
+[46:01.10]Pretty good, pretty good, man.
+[46:03.00]How about yourself?
+[46:10.79]Things are going really well, I'm looking forward to our inspection later.
+[46:15.72]Oh hell yeah, me too, me too, nino.
+[46:19.35]I even brought some new old member of the safety club here, right here.
+[46:22.37]Oh, wow.
+[46:23.63]Who's this?
+[46:26.22]Name is Spade, like the shovel.
+[46:29.14]So you're Spade, okay.
+[46:30.30]Well, I'm Gill.
+[46:39.57]Who the hell is that?
+[46:41.18]Hey, Sam, it's me, Baron.
+[46:43.23]Holy Jesus, Baron, how you doing?
+[46:45.80]They know each other.
+[46:46.58]Yeah, I think you only saw me with the mask on.
+[46:49.34]Yeah, I did.
+[46:51.91]Let's go to the farther away
+[47:01.65]My goodness, what?
+[47:03.03]Please be careful.
+[47:04.27]Please be careful, please, please be careful.
+[47:06.53]They're hitting each other, oh my god.
+[47:08.21]They're not safety.
+[47:11.76]Oh, physical violence.
+[47:13.64]This is incredibly unsafe.
+[47:16.08]What did you say your name was?
+[47:19.31]Shovel?
+[47:23.51]Not Spade.
+[47:24.17]Oh, Spade.
+[47:24.91]Alright, so let's work this out here.
+[47:27.49]Let's work this out.
+[47:28.48]I like how we walked over here and they just walked closer to us.
+[47:34.27]We need to figure this out.
+[47:35.65]So Baron, you are my intern.
+[47:37.71]And Rick, you are Baron's intern.
+[47:40.10]And then the safety club over here to my right, they are...
+[47:43.24]The safety club.
+[47:44.58]So the hierarchy, so you as interns would answer to them as the owners of the safety club.
+[47:49.35]What?
+[47:52.76]Really?
+[47:54.41]Yes.
+[47:55.53]Well, I answered to them as well.
+[47:59.23]Oh, I see.
+[48:00.82]Well, it's a collective unit of people, you know what I mean?
+[48:04.34]I don't think anybody answers to anybody.
+[48:06.04]This ain't no dictatorship, exactly.
+[48:10.01]We work together.
+[48:12.35]Hey, could you not park here, please?
+[48:14.85]That guy is crazy.
+[48:16.70]Hold on just a minute.
+[48:17.52]Let me park you something.
+[48:19.04]Don't worry about it.
+[48:22.03]Get this car out of the way.
+[48:25.07]Yeah, my bad.
+[48:25.71]Let me fix that.
+[48:27.05]Wake me up!
+[48:28.02]Wake me up!
+[48:29.88]I'm alive, bitch.
+[48:30.68]You can't kill me.
+[48:31.46]Wake me up!
+[48:31.90]It's close.
+[48:37.61]Let's have a conversation somewhere quiet.
+[48:40.74]Yeah, they just got closer.
+[48:43.88]I felt him bump my nose.
+[48:45.36]That's how close he just got.
+[48:57.76]Okay, so what's- so yeah, so he's your- he's your grand intern, I'm your intern.
+[49:03.70]so he's you're his grand boss and you're my boss yeah sure these guys are like
+[49:11.38]So you would also be, you'd be grand, you're a great grand intern of this gentleman here.
+[49:20.14]Yep.
+[49:21.13]Okay.
+[49:22.75]And then I operate
+[49:24.36]Well, we operate under the Department of Corrections, so that's a side subsidiary of the Safety Club.
+[49:30.02]The Safety Club would be a side subsidiary of the Department of Corrections.
+[49:34.09]And she's the deputy warden of the DOC, so... You also answer to her.
+[49:40.16]So you are, in fact, all of our boss.
+[49:44.26]I guess so.
+[49:45.05]Unfortunately.
+[49:46.85]Well, who is she then?
+[49:49.49]I know Gil.
+[49:50.46]That's Becky.
+[49:51.80]That's Becky?
+[49:53.02]Okay.
+[49:53.98]Becky with the good hair.
+[49:55.53]Becky Prescott.
+[49:58.37]From Boom, Gil, and wait, who's this with the blue hair?
+[50:03.41]Rick Sanchez.
+[50:06.03]Yeah.
+[50:07.91]Rick Sanchez.
+[50:09.23]You know what?
+[50:09.67]He once turned himself into a tomato.
+[50:11.54]I don't know how he knows about that.
+[50:14.62]I don't think that's very funny.
+[50:15.95]That's not very humorous at all.
+[50:17.17]I wouldn't laugh at anything like that.
+[50:18.85]That sounds childish.
+[50:20.78]Yeah, what the fuck was that?
+[50:21.100]I wouldn't laugh at that either.
+[50:24.78]That sounds like something very unsafe.
+[50:27.55]Speaking of unsafe.
+[50:29.29]Careful!
+[50:31.55]Hey, that's our ride.
+[50:35.14]Wait, is that a ride?
+[50:36.08]They're just leaving.
+[50:39.27]You're screaming.
+[50:43.08]That's unfortunate.
+[50:43.86]How are we supposed to get back?
+[50:46.09]I don't know.
+[50:47.53]Call your car, Baron.
+[50:52.38]Is it self-drive?
+[50:54.04]Call it.
+[50:56.03]Very high IQ.
+[50:57.17]I have to say that to him.
+[51:00.32]I don't think we have a four-door either.
+[51:01.91]You don't have a four-door?
+[51:05.03]Well, how about this?
+[51:06.21]You drive me to my car and then I come back here.
+[51:09.20]Oh, he just said that.
+[51:10.08]That's it.
+[51:11.64]I read it in chat.
+[51:12.73]I was too paying attention to the bus.
+[51:14.70]Me?
+[51:15.66]I don't got...
+[51:16.04]I got a two-door.
+[51:16.82]I read it in chat.
+[51:17.24]I think we should get a Granger.
+[51:18.86]So we can roll six.
+[51:20.72]Two on the side.
+[51:23.28]Let me see if I can get one of those.
+[51:24.93]Wait, wait, wait.
+[51:26.31]You want to hang off the side?
+[51:28.82]Oh, that's not a safety club thing.
+[51:32.06]So, okay, just, Carlitos, take me to my car, it's not too far away, and then we'll come right back here, pick everybody up.
+[51:38.59]Okay.
+[51:39.97]Alright, we'll do that.
+[51:43.46]You don't think that's safe, right?
+[51:46.50]No, I think that if there's... Are we talking about people holding on to the vehicle?
+[51:52.74]Yeah.
+[51:54.14]Yeah, it's so dangerous.
+[51:55.92]Somebody could get seriously injured or killed.
+[51:57.46]Yeah.
+[51:59.38]You're not wrong.
+[52:02.42]That spoon?
+[52:03.36]I got this one right here.
+[52:05.62]Hello.
+[52:06.28]Hello there.
+[52:07.63]What's up?
+[52:12.50]Alright.
+[52:14.74]We will wait right here.
+[52:17.09]Sounds good.
+[52:17.55]Perfect.
+[52:20.91]That's so funny.
+[52:22.85]Dude, I have to do, I have to do like a... Oh, if something scary happens, I'm going to do the Morty.
+[52:29.92]It's like kind of a similar tone voice.
+[52:39.70]Go ahead, get your -2.
+[52:40.92]You can pre--2 if you want.
+[52:42.08]It's fine.
+[52:42.34]He'll be back shortly.
+[52:48.36]Okay.
+[52:50.56]I thought you were gonna go with him.
+[52:52.24]We were kinda wondering who was going in the trunk.
+[52:56.33]And we all voted Baron.
+[52:58.12]Well, I mean, they said it was like a two-door car and then three of you went...
+[53:08.80]Well, I would have potentially, you know, made sure that it was safe to get in.
+[53:14.47]Oh, yeah.
+[53:14.99]Safety team.
+[53:15.53]Potentially?
+[53:15.97]What do you mean, potentially?
+[53:18.74]Any broken windows?
+[53:19.45]Any unlocked doors?
+[53:21.97]okay I get that but you know if you're gonna if you're gonna wear the vest it better be more than potentially you'd better make sure
+[53:29.33]Oh, I wear this every day.
+[53:30.21]I wear this every day now.
+[53:33.29]Comfort versus safety.
+[53:44.03]What if I was struck by an acorn from this tree?
+[53:47.43]What if I was struck in the head by an acorn?
+[53:49.36]Then what?
+[53:50.09]Oh, really?
+[54:00.24]Oh, really?
+[54:01.19]A close friend of mine in middle school stood under a tree just like this.
+[54:05.93]looked up at the wrong time, and he got his retina scratched by an acorn dropping directly into his eyeball.
+[54:12.28]Well, why do you look up?
+[54:14.02]Yeah, I mean, that's a stupid thing to do under an acorn tree.
+[54:19.59]Just saying.
+[54:20.95]It's possible.
+[54:23.46]Just don't look up.
+[54:24.78]The redness at the back of your eye.
+[54:27.30]Just walk around looking down at their feet all the time.
+[54:30.95]Okay, it has glasses on tail.
+[54:32.79]Alright, we got the cars We're going
+[54:40.65]I think we're waiting for the call from Tessa to inspect the haunted house.
+[54:45.57]I think they were going to do this and wrap this up in a little bit.
+[54:50.17]A haunted house?
+[54:56.11]We could roll around the...
+[55:00.42]I did hear they were clowns.
+[55:01.68]I have the perfect peeping spot.
+[55:05.93]Oh yeah, she's probably not gonna want to come.
+[55:10.62]No, I can go.
+[55:12.09]I can go.
+[55:13.43]I have to face my fears.
+[55:15.47]Could we all fit at this place in the apartments?
+[55:17.83]Maybe we could all be in the same spot and make sure we all have eyes in every direction, almost like a spider.
+[55:21.71]A spider has 18 eyes.
+[55:25.60]I mean, I don't know how many- Snoop on my sh- Snoop on my sh- doop.
+[55:30.43]Snoop on my sh- doop.
+[55:33.14]A spider does not have 18 eyes.
+[55:34.98]They have 8 legs.
+[55:43.64]Alright, see you at the apartments!
+[55:47.47]He's just making shit up.
+[55:48.47]So about this haunted house...
+[55:52.10]Yes?
+[55:53.52]Are we looking for ghosts?
+[55:56.69]No, we're inspecting the integrity of the building.
+[55:59.05]You know, if there's any pyrotechnics, if they're in code.
+[56:02.62]any electrical leaks.
+[56:04.11]It's a safety inspection.
+[56:07.61]Oh.
+[56:08.61]What if we get attacked by something in there?
+[56:14.24]Well then that would be very unsafe and I hope you would note it down on your clipboard.
+[56:17.23]Do you have a clipboard?
+[56:20.93]I think so.
+[56:21.81]Somewhere in my apartment.
+[56:23.61]We need to get you guys changed up to be in safety, you know, safety inspector gear.
+[56:28.13]Look for Sandy.
+[56:31.12]I always get mixed up.
+[56:33.08]Oh, be careful at that stop sign, Baron.
+[56:36.93]You're not driving really safe right now, Baron.
+[56:39.65]Oh, jeez, Baron.
+[56:43.97]Boss, what are you doing?
+[56:49.49]could have just hit someone baron alright I will not do that for the rest of the day
+[56:58.95]Are you alright?
+[56:59.57]My scooter?
+[57:05.63]Oh, that's my scooter.
+[57:06.40]I'll move that to a safe location.
+[57:15.99]Oh, that's their wallet.
+[57:18.56]Ma'am, you dropped this.
+[57:23.44]I just robbed them.
+[57:26.96]Oh shit, I never turned it off.
+[57:46.41]What do you have hiding in there Baron?
+[57:48.72]Huh?
+[57:49.18]Oh, so this is your apartment here?
+[57:51.37]Yeah, this is my apartment.
+[57:52.81]So we can... You want to go in?
+[57:55.29]If we all get over here where the balcony is, we can point out unsafe things as they happen.
+[58:00.83]Don't hesitate to yell.
+[58:01.98]Oh, okay, I like that.
+[58:08.29]See, what I like to do is I like to post up somewhere here.
+[58:12.94]Yeah, come on over.
+[58:15.69]Okay.
+[58:16.81]Let's line up so we can all get a good view.
+[58:18.68]Okay.
+[58:25.80]Hello there.
+[58:26.26]Hi.
+[58:30.40]You're a little bit up on the curb, but it's okay.
+[58:32.60]Stay safe, please.
+[58:37.34]We were going to jump over.
+[58:38.22]She was going a little too fast over that hill.
+[58:40.17]That was a little too fast.
+[58:42.13]Did you see the air that she got?
+[58:45.04]And she did not even avoid that person that was on the ground.
+[58:49.49]I think she ran him over.
+[58:50.92]Alright.
+[58:51.10]Okay.
+[59:00.04]Did you hear that, Baron?
+[59:02.12]What?
+[59:02.40]No.
+[59:02.74]What's that?
+[59:03.70]The second we see something unsafe, we all jump over the banister and catch them immediately.
+[59:09.27]What the hell do you have in there Baron?
+[59:11.65]You got a dead bird?
+[59:13.62]What are you talking about?
+[59:15.48]Why are you holding an animal?
+[59:23.50]I was rehabilitating it.
+[59:27.94]Okay.
+[59:28.92]That's a likely story, Baron.
+[59:30.02]I've seen this a few times by now.
+[59:33.66]I'm sorry, Baron.
+[59:34.66]See, it's moving.
+[59:35.83]Baron, you've been demoted down to pre-intern.
+[59:39.15]What the hell, Baron?
+[59:40.82]What does that mean?
+[59:42.90]Was it dead?
+[59:45.12]Seemed alive, but I don't think he has a license for it.
+[59:49.22]That thing could like take somebody's eye out.
+[59:51.91]Could everybody cross their arms?
+[59:53.79]We all need to be in unison Why?
+[59:59.05]I lost privilege to look in my apartment
+[60:02.28]Why?
+[60:02.52]Why are you hiding in there?
+[60:05.60]This is gonna be so fucking...
+[60:08.90]Oh, okay, okay, here we go.
+[60:13.51]Oh!
+[60:14.87]Stop, excuse me.
+[60:16.55]You're going too fast.
+[60:20.31]Excuse me.
+[60:22.70]You're on the wrong side.
+[60:24.86]Wrong side of the entrance.
+[60:28.06]Hold on, we're not quite done with you.
+[60:30.05]We're not quite done with you yet.
+[60:33.49]Your car, the danger of driving a vehicle like this, it looks like you have walrus teeth for tires.
+[60:40.08]You understand that the engine is exposed right now?
+[60:42.60]Do you have any idea?
+[60:43.16]Well, I would have parked the car.
+[60:51.31]And I would have called for emergency services.
+[60:57.04]What's your name?
+[60:57.54]I apologize.
+[61:00.16]Um, Jake.
+[61:01.93]Jake, okay.
+[61:02.93]I'll get that down.
+[61:03.59]You go ahead and pull your car over there, please, and park it.
+[61:06.62]Is that you from Jake from the State Farm?
+[61:09.37]His car was fucked.
+[61:14.90]I don't know.
+[61:15.37]I didn't see.
+[61:16.35]He might just be in his, you know, celebrities.
+[61:19.50]They're just like us, you know.
+[61:20.56]Sometimes they wear something different.
+[61:24.98]That car was in so much disarray.
+[61:28.45]Yeah.
+[61:30.36]Hey, that's not safe.
+[61:35.01]Shredded?
+[61:35.32]What do you mean?
+[61:36.69]That wasn't safe, Becky.
+[61:38.31]Yeah, but you were standing on the flower pot.
+[61:46.78]Hold on, Safety Club.
+[61:47.58]We might have a little bit of an issue here.
+[61:48.70]Okay, well, standing on the flower pot was safer than just vaulting over the edge of the... What do you call it?
+[61:56.87]Everybody come with me.
+[61:59.32]Alright.
+[62:00.54]Yeah, here we go again.
+[62:05.95]Is this your vehicle?
+[62:06.77]This motorcycle?
+[62:19.01]Yeah, I believe it is their car.
+[62:25.60]Or their bike.
+[62:26.73]Hold on just a moment.
+[62:30.37]I think you have to be, like, a little bit more aggressive.
+[62:34.82]More aggressive?
+[62:36.32]No, I said less aggressive.
+[62:37.58]Yeah, oh.
+[62:38.77]Is that your motorcycle over there?
+[62:41.72]Oh, excuse me.
+[62:43.30]Excuse me.
+[62:43.86]Oh, my goodness.
+[62:45.22]He has a weapon.
+[62:46.38]He has a weapon.
+[62:47.32]Oh, shit.
+[62:52.90]You have the leaf blower, would you know?
+[62:54.74]I do.
+[62:55.75]I do have it.
+[62:56.31]I do have it.
+[63:00.17]Yo, are you guys going to war right now with Los Limones?
+[63:03.33]So I can be tough.
+[63:04.35]No, no, no, no.
+[63:05.76]Who has a problem with Los Limones?
+[63:07.24]Oh, shit, that's you.
+[63:08.22]Oh, fuck.
+[63:09.49]That's you cutting these doors.
+[63:10.35]I thought these were like another gang, man.
+[63:12.69]Damn.
+[63:13.09]You're a problem with the Los Limones?
+[63:14.13]No, what the what?
+[63:15.89]No, no, that's my son's gang.
+[63:18.52]Oh, good.
+[63:19.84]He's my adopted father.
+[63:21.78]This guy right here is my adopted father.
+[63:24.03]Wow, there's more people that want to get the city safe more than I thought.
+[63:29.88]Yeah, of course.
+[63:31.71]Yeah, but they keep little souls safe.
+[63:34.41]Benji, will you teach me how to shoot a gun?
+[63:36.10]I don't know how to shoot a gun.
+[63:38.80]You can shoot just fine, buddy.
+[63:41.07]How am I gonna be hood?
+[63:43.06]I'm not ready for my hood lesson tomorrow.
+[63:44.74]Oh man, I'm having a go.
+[63:47.23]Okay.
+[63:48.65]What?
+[63:50.26]Don't worry about it, man.
+[63:51.24]He's getting Southside lessons, man.
+[63:52.62]What the fuck are you guys doing?
+[63:54.73]We're making sure everybody's safe.
+[63:56.95]Yeah, we're the safety patrol.
+[63:59.45]Take the, like, neighborhood watch type beat.
+[64:01.96]Yeah, kind of.
+[64:02.70]Yeah.
+[64:07.69]Trying to get into houses and, you know, trying to not be safe.
+[64:11.25]That makes sense, man.
+[64:12.21]That makes sense.
+[64:12.85]Yeah, we drive around.
+[64:13.63]We make sure people are doing okay.
+[64:15.81]We inspect things.
+[64:18.14]We need it.
+[64:18.88]We do need that.
+[64:19.64]And you said that your son is part of this?
+[64:24.08]That's him.
+[64:25.54]Oh, this is your son.
+[64:26.96]Wow.
+[64:27.60]Interesting.
+[64:28.04]Well, it's a pleasure to meet you.
+[64:31.37]Pleasure to meet you guys too, man.
+[64:32.63]Isn't this the DLC?
+[64:35.54]Some of us are, yeah.
+[64:36.62]We're affiliated with the DLC.
+[64:40.21]Self-employed Department of Respectful Services.
+[64:43.64]Some of us do work as DOC, but... Yeah, we work as DOC, but we also independently help Gil out with his inspections.
+[64:54.12]uh okay okay well I have it's like an internship I see okay what was your name what
+[65:03.46]Benji, Benji Ramos, what services do you guys provide?
+[65:08.88]Just like volunteer safety patrol?
+[65:12.68]ATM inspections, house inspections, you know.
+[65:16.43]Any type of inspections you need?
+[65:18.77]Anything you need inspected?
+[65:22.15]Not right now, but maybe if I do come across something, I'll give you guys a call.
+[65:27.90]That sounds fantastic, yeah.
+[65:29.16]We're always looking to keep everything safe.
+[65:31.67]So, whether that's a personal view... Yeah, I'm currently looking for...
+[65:36.13]You guys wouldn't happen to come across any personal documents during your time inspecting stuff, would ya?
+[65:43.69]No, I carry a personal document at all times.
+[65:47.06]I call it the Book of Gil.
+[65:48.06]I write in it every day.
+[65:50.03]Oh, okay.
+[65:50.35]I'm talking about, like, you know, general personal documents, like memorabilia, you know?
+[65:56.04]No, not that we found it, unless I don't know if anybody else have seen it.
+[66:00.79]Yeah, no, I don't carry any of them on me.
+[66:02.80]I just, yeah.
+[66:04.46]I don't have any.
+[66:05.43]He's name dropping.
+[66:06.29]If you ever have any, I collect that stuff.
+[66:08.79]I'm a collector.
+[66:10.43]Hit me up, man.
+[66:11.67]I can compensate y'all, alright?
+[66:14.42]Alright.
+[66:14.96]Alright, babe.
+[66:15.98]Like that.
+[66:18.11]Appreciate you.
+[66:18.69]Sounds good.
+[66:19.15]Alright.
+[66:20.19]Have a great day, guys.
+[66:21.33]Yeah, take care.
+[66:21.83]You too.
+[66:22.37]You too.
+[66:22.94]Love you.
+[66:25.15]I know you hate your phone, but have you ever thought about putting yourself in a lemonist?
+[66:29.27]You know, I did do that.
+[66:31.08]I did do that.
+[66:31.74]Oh, did you?
+[66:33.58]Might maybe still be in there.
+[66:37.07]No.
+[66:38.06]I think you have to re-up yourself.
+[66:43.12]Because I did make a, I know you don't like the social medias, but I did make us a profile.
+[66:50.10]Oh, okay.
+[66:51.25]You can be in charge of the social media management.
+[66:54.25]What is it?
+[66:54.67]Sedz's duck?
+[66:56.14]Sedzaduck?
+[66:59.86]The self-employed department of inspection services
+[67:05.06]While operating individually under the Department of Corrections.
+[67:07.58]All that didn't fit, unfortunately, in the screen name.
+[67:17.10]Oh, you know what?
+[67:18.24]Let me put... Let me give you... Let me get a photo of you.
+[67:23.100]Oh, let me get you a good one.
+[67:26.86]Yeah.
+[67:27.48]Oh, let me get out of the photo.
+[67:30.89]Oh, this is great.
+[67:32.71]It's really good.
+[67:34.63]Work it, work it.
+[67:36.48]I said.
+[67:37.00]Yeah.
+[67:37.93]Yeah.
+[67:39.13]Looking safe.
+[67:40.03]Looking safe, girl.
+[67:40.93]The camera loves you.
+[67:41.77]The camera loves you.
+[67:44.91]How's the neighborhood doing?
+[67:46.50]Anything need inspecting in the neighborhood?
+[67:49.40]Um, actually, there was a couple persons, you know, that were, uh, doing, like, fucking the shit up inside the houses.
+[67:56.69]We do got to do some inspections there maybe later tonight.
+[67:59.81]Okay.
+[68:00.03]There's been a lot of people, you know, going to the neighborhood and shit and...
+[68:03.50]Yeah, we might have to, you know, protect it and stuff and look around and stuff, because they've been digging in into the houses.
+[68:08.65]You know, maybe the locks got to get inspected.
+[68:11.50]Um, I don't know.
+[68:12.48]There's a lot that's been going on down there.
+[68:14.30]We definitely gotta get that shit up.
+[68:17.05]We will be there, but a little bit of a language issue I just had there.
+[68:20.80]I would pull back some of those F-bombs.
+[68:25.86]Oh, okay.
+[68:27.66]Why is that?
+[68:28.44]You don't like the language?
+[68:29.29]We can't swear?
+[68:29.95]I'm not swearing.
+[68:31.15]You never said anything about swearing.
+[68:32.55]What the fuck?
+[68:34.62]Hey, hey.
+[68:37.49]Whoa, wait, wait, wait.
+[68:38.40]Oh.
+[68:38.50]Did you see that again?
+[68:41.00]That was the second one.
+[68:42.36]That was the second one.
+[68:43.42]There's language barrier.
+[68:45.03]Language barrier.
+[68:46.71]I speak Spanish, my baddest.
+[68:48.57]The swear words... That is absolutely fine.
+[68:52.92]Replace the curse word.
+[68:54.04]Let me show you how easy this is.
+[68:55.83]Instead of the S-H word, you say shoot.
+[69:01.30]Oh, shoot.
+[69:02.06]Oh, shucks.
+[69:03.17]Let's try it.
+[69:03.69]Can you try it for me?
+[69:06.11]I'll shoot a boomer shit.
+[69:09.12]Well, you just said it at the end.
+[69:11.46]How about shite?
+[69:14.03]No, too close.
+[69:18.14]How about shit?
+[69:20.82]How about mierda?
+[69:24.73]What is that one?
+[69:25.17]What does that mean?
+[69:27.68]Mierda?
+[69:30.32]That means, like, cool.
+[69:33.61]Oh, mierda.
+[69:34.29]Okay.
+[69:35.21]No, that's fine.
+[69:37.68]How about shit?
+[69:40.20]You know, how about you teach us some words that we could use?
+[69:45.75]that will replace words like, you know, I don't want to say, you know, S-H, the word.
+[69:50.14]Are there any Spanish words we could use?
+[69:54.91]Anything that replace the swear words I
+[70:05.13]Of course.
+[70:05.65]Yeah, we can say, like I said, you know, instead of saying the S-H word, you know, you say mierda.
+[70:11.44]Okay.
+[70:13.57]What about some others?
+[70:14.85]And another one, you know, instead of the F word, you know, the F-U-C-K word, you say...
+[70:23.79]What was that one?
+[70:31.45]You say coño.
+[70:33.12]Coño.
+[70:33.62]Okay.
+[70:34.22]What does that mean?
+[70:35.20]Coño.
+[70:37.54]Coño?
+[70:38.44]It's like...
+[70:41.29]It's like...
+[70:44.42]It's like a good replacement that is not a bad word.
+[70:46.39]I don't know how to explain it.
+[70:48.17]Am I saying bad words?
+[70:49.14]It's good.
+[70:50.40]Okay.
+[70:52.15]We gotta hide.
+[70:52.83]That way we won't catch people.
+[70:57.60]What do you mean?
+[70:58.82]People will do crime anyway.
+[71:00.46]So it's Mir... Mir de... Then what was the other one?
+[71:05.45]Is there a third one?
+[71:06.19]Mir de Coño.
+[71:07.31]Yeah, hijo de puta.
+[71:10.24]Okay, and that one means what?
+[71:14.88]That means son of God.
+[71:20.32]And what was it again?
+[71:21.80]He's going to be screaming this at people.
+[71:25.89]Puta.
+[71:26.55]Is that correct?
+[71:27.31]Thank you.
+[71:28.97]Correct.
+[71:29.47]Yeah, you got it, man.
+[71:30.99]You got it.
+[71:31.41]You see, you're pretty good at this pen and shit, man.
+[71:33.28]I'm sorry.
+[71:34.38]Okay, I'm glad we have some replacements that are less offensive.
+[71:48.26]You're a great teacher.
+[71:48.78]I like that, too.
+[71:50.42]Of course, man.
+[71:51.18]You guys gotta come to the Escolita de Carlitos, man.
+[71:53.14]I teach Spanish.
+[71:54.81]Every Sunday.
+[71:57.17]After church.
+[71:59.20]Fuck, I spelled it wrong.
+[72:00.41]Oh.
+[72:02.65]Hey, that's not very safe.
+[72:08.27]Sir, that's not a parking spot.
+[72:09.41]That's not a parking spot.
+[72:10.50]Excuse me.
+[72:14.67]Call him a son of a gun.
+[72:17.58]Excuse me?
+[72:18.12]Uh, listen, Pooja.
+[72:19.12]That's our parking spot.
+[72:20.25]We, uh, we have, we have a, a few...
+[72:23.45]Hold on, hold on, speaker, listen to this bullshit.
+[72:26.44]What'd you call me?
+[72:27.08]That's not a parking space.
+[72:30.73]I'm not parked.
+[72:35.81]It looks like you're parked over here.
+[72:42.58]Oh, my God.
+[72:43.58]My friend said, Ella, Ella Vega, whatever that means.
+[72:46.74]He's going to.
+[72:48.57]Just remember that if you pull into these areas here, there's a lot of cars and people doing illegal parking.
+[72:53.84]Please don't be a coño and do the same thing.
+[72:57.51]What am I actually saying?
+[73:00.16]I don't know what that means.
+[73:01.02]He told me to say it.
+[73:04.53]I don't know what the fuck I'm saying What does that mean?
+[73:07.26]I don't know
+[73:08.76]You should've killed him in front of the door, man.
+[73:10.93]But good shit, man.
+[73:11.81]I like how you approached it.
+[73:13.19]That was pretty good, man.
+[73:14.56]Man, you knew Spanish.
+[73:16.54]Why do you smell like piss?
+[73:25.33]I don't smell like pets.
+[73:26.15]You smell like pets.
+[73:27.43]Oh, God.
+[73:28.03]It's deer piss.
+[73:29.53]There's a huge difference.
+[73:31.71]What?
+[73:32.99]This is pets.
+[73:36.18]Yeah, but deer piss smells nice.
+[73:37.88]It attracts other deer.
+[73:39.24]When humans piss other humans run away.
+[73:44.02]I did not know that.
+[73:44.67]You know that animals sometimes use urine for marking territories.
+[73:48.65]Oh my goodness.
+[73:49.95]Did you hear that?
+[73:51.63]Yep.
+[73:52.31]Someone hit a fire hydrant.
+[73:54.76]Do you think it was Baron?
+[73:58.49]Where'd he go?
+[74:00.06]Where is Baron?
+[74:02.32]Oh, there he is.
+[74:02.86]He's running.
+[74:06.51]That's not very safe.
+[74:07.23]What'd you do?
+[74:08.29]Was that you?
+[74:08.87]Did you hit a fire hydrant?
+[74:12.50]Is there a fire hydrant in there?
+[74:20.52]That was you, man?
+[74:21.42]Why'd you break it?
+[74:23.10]Why do you do that, man?
+[74:24.92]Baron, you're my boss.
+[74:26.60]We are on the same team.
+[74:34.11]let's not deflect it was all the way over there I have a bad right ear don't make fun of me yeah
+[74:42.92]Do you guys want to go in and see?
+[74:44.26]There's no fire hydrant in there.
+[74:45.94]I think we should get together.
+[74:49.53]You knocked him over with your car.
+[74:52.74]I got some new words for you, Gil.
+[74:55.03]Listen, when you're trying to tell somebody to be safe, you call them a pendejo too.
+[74:59.48]Pendejo!
+[75:00.76]And that means please be safe?
+[75:03.66]Please be safe, Bendejo.
+[75:05.33]Okay, excellent.
+[75:07.64]Yeah, you say pendejo, that means like, please be safe.
+[75:09.73]Yeah.
+[75:10.11]Pendejo, ponte seguro.
+[75:12.40]Okay.
+[75:12.72]Yeah, I'm glad we're getting these replacement words for the curse words.
+[75:17.03]You know, I got you, man.
+[75:18.82]We don't have to curse and shit, man.
+[75:20.71]You know, is it possible, you know, why don't we go and take a quick look around?
+[75:23.92]around the neighborhood.
+[75:25.08]Maybe get you guys in yellow, make sure that you're matching the safety club.
+[75:30.59]Wait, we have to be in yellow?
+[75:32.96]That's a precaution symbol.
+[75:34.88]Yeah.
+[75:36.02]Yes.
+[75:37.07]It's a precaution symbol.
+[75:40.47]I mean, I'm down for that.
+[75:42.59]More of a green guy, but alright.
+[75:44.98]Alright, let's, yeah, let's go get changed.
+[75:47.50]Yeah, let's, let's, let's, I'd be taking multiple vehicles if we probably could.
+[75:51.50]Yeah, we gotta take vehicles.
+[75:52.74]We gotta take those vehicles.
+[75:56.71]Alright, so I guess we'll see you at the clothing store.
+[75:59.19]Yeah, make sure you put on something yellow.
+[76:01.82]Which one you want to meet at?
+[76:04.75]Uh, what's the closest clothing store?
+[76:06.13]How about the...
+[76:07.01]The one that's right down the street here.
+[76:08.21]Off of, um... Yeah, let's... Off of, uh, Haywick.
+[76:13.03]Perfect, perfect.
+[76:13.75]Let's go to that one.
+[76:15.90]Alright, see you soon.
+[76:18.79]See you later, pendejo.
+[76:21.24]See you later, pendejo.
+[76:29.36]I'm gonna call somebody one of these and get shot in the fucking head.
+[76:33.07]What do you mean?
+[76:38.96]Some clown is watching us.
+[76:41.15]Hey, that's not safe near the stairs.
+[76:43.07]You might fall.
+[76:43.71]Hello.
+[76:44.35]Hello, Pendejo.
+[76:47.40]Oh.
+[76:48.72]First of all, how do you do?
+[76:50.68]Hi.
+[76:52.54]Hi.
+[76:53.40]How are you guys doing?
+[76:54.52]Who are you watching with those binoculars?
+[76:58.41]Everybody.
+[76:59.83]Everybody.
+[77:00.23]I called you cute earlier.
+[77:03.68]Interesting.
+[77:04.62]You called me cute?
+[77:06.37]Yeah.
+[77:07.05]We were walking down the street and I was on a scooter.
+[77:09.81]Oh yeah.
+[77:12.85]Well, just not sure where you're, why you're standing here looking.
+[77:16.89]I'm not sure where you're looking, but.
+[77:18.11]You understand that using binoculars and trying to stare into an apartment building, that is incredibly unsafe and incredibly illegal.
+[77:26.08]I like to peep.
+[77:29.66]Oh, listen.
+[77:30.28]Listen, Pindejo.
+[77:31.83]What I have to tell you here is very important.
+[77:34.80]I...
+[77:35.50]I'm Gil Washington.
+[77:36.24]These are my safety.
+[77:37.18]This is the safety club.
+[77:38.38]This is part of the self-employed Department of Inspection Services under the guise of the Department of Corrections.
+[77:43.14]We're making sure that the apartments are being safe.
+[77:45.41]I'm out here every day to make sure people are treating each other with respect, following the golden rule.
+[77:52.12]And listen, cuño.
+[77:53.68]I don't think that that is what you're doing is respecting anybody.
+[77:58.95]What?
+[77:59.93]Really?
+[78:02.92]But, but I'm looking respectfully.
+[78:05.51]That's okay, right?
+[78:06.81]Hmm.
+[78:06.91]I don't think so.
+[78:11.91]Please be aware of people that you are surrounding yourselves with.
+[78:14.20]Treat people with respect.
+[78:16.79]Okay, but I don't have to pay a fine or anything, do I?
+[78:18.99]No, there are no fines.
+[78:19.77]There is no authority here, Pendejo.
+[78:21.51]This is later grades.
+[78:24.45]We're just giving later grades.
+[78:27.02]Lettergrades?
+[78:29.15]Yes, what's your name?
+[78:31.53]It's Mumbles.
+[78:33.42]Mumbles, okay.
+[78:35.85]Where do you operate out of?
+[78:39.32]Um, Grapeseed?
+[78:41.79]I live at the Funhouse.
+[78:43.47]Wait a second, wait a second.
+[78:45.58]Where the grass is tall or whatever the fuck it goes.
+[78:48.16]We have an inspection there.
+[78:49.80]We're going to be inspecting that place.
+[78:51.29]Oh.
+[78:53.35]Yeah, really, um, yeah, it's um, it's yeah, it's in such good condition I promise it's um
+[79:03.02]Yep.
+[79:03.60]Mm-hmm.
+[79:04.40]Do you know if it's anybody around?
+[79:06.68]We were told it was going to be happening today at some point.
+[79:09.64]Anybody that you could get in contact with?
+[79:13.00]uh yeah me hi uh yeah I could um contact myself and see if uh we're ready for an inspection one moment while I give myself a call
+[79:22.80]Um...
+[79:23.94]Okay, yeah, give yourself a call, Pendejo.
+[79:27.27]Okay, I'm gonna stay.
+[79:30.48]Hi, yeah, Mumbles?
+[79:32.47]Yeah, what do you want?
+[79:34.37]Yeah, there's a guy here.
+[79:35.68]What's your name, sir?
+[79:36.94]Gilbert Washington.
+[79:39.06]a guy here Gilbert Washington and he's looking for an inspection don't call me when I'm on my break
+[79:46.58]Oh.
+[79:47.92]You should not have bothered that gentleman on his break.
+[79:50.69]He wasn't very happy with that.
+[79:53.74]okay okay uh Mr. godfrey uh I'll um I'll try to oh he's calling me back hello
+[80:05.78]Yeah.
+[80:05.98]Yeah.
+[80:06.20]This is, this is mumbles.
+[80:07.84]Yeah, I am a God.
+[80:11.04]How can I,
+[80:15.41]No, no, no.
+[80:15.83]I'm good.
+[80:16.22]I'm good.
+[80:16.58]I'm just, I'm just, uh...
+[80:18.59]He's on break.
+[80:18.93]I'm just on break.
+[80:19.71]Yeah, I'm on break.
+[80:21.45]Can I... What's up?
+[80:22.56]How can I help you?
+[80:23.12]Um, I seen you did, uh...
+[80:29.77]I did, yes.
+[80:30.35]Don't like that word.
+[80:42.77]Could you please replace the word you just said with a nicer word like myrtle?
+[80:48.01]Which word?
+[80:50.68]Start up in the next age.
+[80:53.14]yeah or you could alternatively say you could alternatively say comey pinga
+[81:01.76]I would accept Coño as well.
+[81:05.11]Or Pendejo.
+[81:06.03]Excuse me, pardon me, excuse me, pardon me.
+[81:08.60]Sorry.
+[81:09.64]You do that gambling stuff.
+[81:13.29]Yeah, yeah, I do.
+[81:15.43]Is that something you do a lot?
+[81:19.31]Yeah, no.
+[81:20.71]Yeah, I do actually.
+[81:22.39]Why is that?
+[81:23.03]Stop saying that one.
+[81:24.38]Oh, fuck.
+[81:27.61]Is that not cool?
+[81:28.38]You want to collab or what's your name?
+[81:30.66]I don't even know your name.
+[81:33.50]I'm asking because I got something coming up on phone trolling me right now.
+[81:41.48]I got something coming up on Wednesday that I think maybe you might... Take this.
+[81:49.63]Okay, Jimmy.
+[81:50.33]Yeah, I would love to.
+[81:52.55]Yeah.
+[81:53.82]We had such a good turnout today.
+[81:55.22]I would love to...
+[81:57.02]I'd love to set something up for you.
+[81:58.95]Of course, you know... Hey, what's up, man?
+[82:03.57]Hey, how's it going?
+[82:04.05]Yeah, we're currently talking to one of the clowns, I think.
+[82:07.86]And he's going to try to set us up with an inspection soon here.
+[82:11.02]So we'll see what this gentleman says and we'll get back to you.
+[82:14.53]Talk to you very soon.
+[82:15.58]Timon, orale.
+[82:22.24]Have a great evening.
+[82:30.26]safe this the safety crew and um they're they're
+[82:35.33]I'm not gonna lie, this guy right in front of me is so fucking jacked, I think he's gonna tear me in half.
+[82:41.14]Language, I'm sorry.
+[82:43.19]He's so back you
+[82:50.13]And you call me when you're free, and I'll ping you to a spot where it's going to be set up in the chapel.
+[82:59.43]Alright, Mr. Jimmy.
+[83:00.09]Yeah, yeah, of course.
+[83:01.13]Yeah, absolutely.
+[83:01.83]I'll give you a ring as soon as I'm done.
+[83:06.62]Goodbye.
+[83:09.30]Hope your phone call went well.
+[83:11.44]It did go well.
+[83:13.19]Listen, Mr. Gill, I'm all about safety.
+[83:15.29]I even have an emergency flare just in case there's any...
+[83:19.72]emergency safety precautions that need to be made is for emergencies only of course absolutely
+[83:27.82]I'm glad to hear it.
+[83:29.48]We would love to be able to inspect that house of yours.
+[83:33.73]Yeah, the house, of course.
+[83:37.93]Give me five minutes and I'll see who's available.
+[83:41.64]And yeah, you're more than welcome to come by, Mr. Gilk.
+[83:45.62]We really appreciate this.
+[83:46.84]Thank you so much.
+[83:48.34]We're just trying to keep the city safe, you know?
+[83:51.40]Of course.
+[83:51.81]Why are you... What are you looking at?
+[83:53.81]Are you looking at apartments like I was?
+[83:56.10]No, I'm just contemplating.
+[83:57.88]I think a lot.
+[83:58.74]Oh, I see.
+[84:00.29]You do?
+[84:02.25]Do you think a lot?
+[84:04.96]I do, yes.
+[84:06.83]Thinking is good.
+[84:08.69]Yeah, I love thinking, sir.
+[84:16.62]I can feel your breath on the back of my neck.
+[84:19.37]Can you explain why that is?
+[84:20.61]It's just, um, I'm drawn to you.
+[84:27.50]Well, you can be drawn to me from another four feet away.
+[84:30.94]Hey, hey, hey.
+[84:32.27]Back off.
+[84:33.11]Back off, bud.
+[84:33.71]Sorry, Baron.
+[84:34.49]Sorry, Baron.
+[84:35.05]Of course.
+[84:35.59]My bad.
+[84:36.71]I shared my contact with you.
+[84:37.71]If I could get yours, it'd be fantastic.
+[84:39.93]Oh, yeah.
+[84:40.48]Could you send that to me again?
+[84:41.56]I was busy.
+[84:44.32]I was busy.
+[84:50.30]Mr. Gilbert, yep, I see you there.
+[84:52.30]Bill Washington.
+[84:54.34]Mr. Washington, Mr. Washington, let me share my contact with you.
+[84:59.05]And we would really appreciate if we could get in there.
+[85:02.92]We've actually been through the contract with the mayor.
+[85:05.82]The mayor of Blaine County.
+[85:06.85]Do you know him?
+[85:08.69]Yeah, yeah, I know that.
+[85:09.94]I know that bald, uh, puto.
+[85:13.73]Wow.
+[85:14.81]And look at you, using the replacement word.
+[85:19.74]that's yep that's me really appreciate that you're welcome uh
+[85:28.71]Daphne knows Italian, but it's unexpected.
+[85:31.64]Daphne, you just ran past the safety man.
+[85:33.78]You could have pushed him down the stairs.
+[85:34.99]It would have been very unsafe.
+[85:36.41]Thank you so much.
+[85:37.67]You know, I...
+[85:39.07]I didn't know what to think about you when I first met you five seconds ago.
+[85:42.60]But I'll tell you, you get us into that house so we can do our proper inspection and our proper, you know,
+[85:49.05]I would call it maybe a little bit of an interrogation.
+[85:52.16]We have no authority, but I would really love to get in there.
+[85:54.62]You give me a call, please.
+[85:57.06]yes yes Mr. Mr. Mr. uh Washington I would yes I will 100 give you a call in the next 10 minutes
+[86:04.89]I hope you do, and by the way, I'll be counting.
+[86:07.16]Excuse me!
+[86:10.57]Ten minutes, you say?
+[86:13.18]I don't like being tardy.
+[86:15.46]You have nine minutes and 59 seconds from right now to give me a telephone call.
+[86:19.09]Let's go, Barry.
+[86:19.79]Okay, alright.
+[86:20.57]Okay, alright.
+[86:22.36]Safety crew, we're out.
+[86:24.75]Roger.
+[86:26.49]Bye, Mumbles.
+[86:32.78]No, no, no, no.
+[86:49.14]Looks like we might be there in 10 minutes.
+[86:50.78]I mean we're right there.
+[86:53.38]Alright, 10 minutes.
+[86:54.52]Enough time to get changed.
+[86:56.84]Yeah, you need yellow.
+[86:58.14]And remember, I want to make sure this is very clear.
+[87:00.68]This is a, I don't know how much everybody knows what's going on up there, but this is a haunted house, electrical wiring, potential pyrotechnics.
+[87:09.92]Potential unlicensed actors scaring acting?
+[87:14.95]I'm not even sure that's legal.
+[87:17.17]Oh, they better have their SAG-AFTRA cards ready.
+[87:21.04]Oh, I'm gonna check them.
+[87:22.58]Oh, I'm gonna check them.
+[87:27.86]Where's the other two?
+[87:29.52]There will be no... No scabs.
+[87:34.37]There's a scab that I don't want to see.
+[87:37.39]The others are just awaiting the telephone call.
+[87:43.10]Dude, we're rolling up there with like a full gang.
+[87:46.84]I need to line everybody up and I need to do a fucking...
+[87:50.01]I'm going to do a monolog outside the front door.
+[87:53.31]I'm going to be fucked.
+[87:56.18]I gotta get music for this.
+[87:57.28]The right music for this.
+[87:58.10]I am?
+[87:59.30]I guess.
+[88:05.40]I was gonna say you're just like a...
+[88:08.04]This is good.
+[88:09.46]I don't know, tag along?
+[88:12.43]No, anybody that wants to participate, anybody that wants to participate in keeping the city safe and making sure things are inspected correctly is welcome.
+[88:19.99]I don't care who they are.
+[88:21.37]You're welcome.
+[88:23.42]Have a nice day.
+[88:24.26]Oh my god, thank you so much.
+[88:26.83]But what do I get out of it, though?
+[88:29.17]You'll be getting $500 an hour.
+[88:34.92]Okay, I have enough money.
+[88:36.94]Starting like now?
+[88:38.75]Starting right when that yellow outfit goes on.
+[88:44.79]I look great in every color, but okay.
+[88:47.30]Alright.
+[88:49.07]Do I have it?
+[88:52.04]The parents not even getting paid.
+[88:55.12]The intern of the interns are getting paid, but not the intern.
+[89:01.33]I only have $12,000.
+[89:02.75]I gotta make sure I can cover this.
+[89:08.29]I gotta get some music ready here.
+[89:10.52]Because I want to line up and I got to get ready for this.
+[89:22.91]This has got to be good.
+[89:23.79]I like this one.
+[89:36.25]for far too long.
+[89:38.21]Hey, Gil.
+[89:41.43]Yes, Baron?
+[89:42.35]Gil?
+[89:44.84]I'm trying to find something like close to yellow with this because, you know, we're going to want to like inspect infrared, you know, a whole bunch of different...
+[89:54.55]Yeah, as long as you're wearing some form of yellow, it should be okay.
+[89:57.69]Take this telephone call.
+[90:02.62]Hello?
+[90:05.27]Hey, what's going on?
+[90:08.17]We have about five to ten minutes before I think we're going to be ready for the inspection at the haunted house.
+[90:13.71]Oh, shit, okay, okay, bad, I like that.
+[90:17.10]Um, so where you guys all at right now?
+[90:20.34]We just got to the clothing store.
+[90:22.44]We got kind of a little held up by a clown gentleman.
+[90:27.19]And he's going to give me a telephone call in about five minutes, too.
+[90:30.09]Tell us when we're going to be going to the haunted house.
+[90:31.99]We're at the clothing store down the street.
+[90:34.01]I'll give you a location.
+[90:36.10]Yeah, I see it.
+[90:36.86]I see it.
+[90:38.20]And how many people do we have with us of the safety club right now?
+[90:43.93]We're two here.
+[90:45.98]Bring as many as you can.
+[90:48.09]I gotta take this phone call.
+[90:48.96]I'll call you right back.
+[90:50.66]Yep, I'm right here on my side.
+[90:54.53]Hello there.
+[90:56.85]Hi, Mr. Washington.
+[90:58.44]It's me, Mumbles.
+[90:59.78]Oh, it's so wonderful to hear from you, Mumbles.
+[91:02.35]Good news, I hope.
+[91:05.51]Fuck.
+[91:16.79]You know, for the last three or four days, we've been hearing tomorrow.
+[91:22.34]Tomorrow.
+[91:23.32]Tomorrow.
+[91:28.51]You know what?
+[91:28.89]I'm going to give the mayor a call and see if we can't get something sorted.
+[91:32.10]No, no, no, no, Mr. Washington.
+[91:33.36]You don't have to do that.
+[91:34.38]I mean, what can I do to make it worth your while?
+[91:38.52]I mean a proper inspection would make it worth my while.
+[91:43.71]I mean, to compensate you for these horrific delays, there must be something that I, me, Mumbles, could personally do
+[91:52.88]for you, Mr. Washington to help alleviate some of that pain that you carry in your heart.
+[92:00.66]You know, maybe I could find something to compensate for that, but let me go ahead and give the mayor a phone call right now and see what he says.
+[92:09.01]You don't have to do that Mr.. Washington you don't you don't have to you don't have to do that I
+[92:16.47]It will be tomorrow.
+[92:17.42]It will be tomorrow.
+[92:19.02]Well, I have very unfortunate news for you.
+[92:23.97]I won't be around tomorrow.
+[92:27.13]Well, then that's your fault.
+[92:29.17]Yeah, of course.
+[92:31.03]Interesting.
+[92:32.55]Okay, well, I appreciate the telephone call.
+[92:34.78]Maybe we'll work something out over the coming days.
+[92:37.67]Mr. Washington, come on!
+[92:41.38]Why don't we inspect something else?
+[92:43.75]Okay, yeah, yeah.
+[92:46.95]Hey, Inspector, I'm going to give you a little talk.
+[92:50.90]Oh, this is my associate here.
+[92:52.32]Why don't you go ahead and tell my associate, Safety Club Inspector...
+[92:56.77]Carlitos, what you just told me.
+[93:03.01]This is Mumbles.
+[93:03.65]Carlitos, is that you on the phone?
+[93:06.21]Yeah.
+[93:07.95]Part of the safety clip.
+[93:09.15]What's going on, man?
+[93:10.49]Let's see if there's any, like...
+[93:13.12]you know, stains on the walls and stuff.
+[93:14.98]Alright.
+[93:21.98]That's good thinking.
+[93:23.98]Oh, yeah.
+[93:25.87]Yeah.
+[93:26.37]And it would be horrific to do an inspection without the homeowner present, correct?
+[93:30.60]Now, I got a question for you, though.
+[93:32.46]What if somebody... Um, I guess so, but I mean, isn't this a, like, part owner?
+[93:37.62]Tessa's around?
+[93:38.84]No, no, no.
+[93:39.81]I mean, Tessa is, um... No, she's, uh...
+[93:44.70]I mean, I think these things have safety for like, if it gets too bright, it shuts off.
+[93:51.24]how could you give that precious feedback in person you think you should true true oh yeah I think we are look great what do you think
+[94:00.87]You're kind of giving me a little flashback.
+[94:03.68]This gentleman's saying tomorrow, but I'm not sure I'm going to be around tomorrow.
+[94:07.13]But you know what?
+[94:07.69]We'll go ahead and maybe talk to you soon.
+[94:11.30]Maybe we might inspect you.
+[94:12.77]You know, maybe we might do a personal inspection on you.
+[94:15.77]On me?
+[94:16.09]Yeah.
+[94:21.74]I would just be aware of a personal inspection.
+[94:24.37]Burns and caution tape.
+[94:29.75]This has been Gil Washington, self-employed Department of Inspection Services, while operating under the individual guise of the Department of Corrections.
+[94:38.87]I mean, the tape actually fused with my goddamn burn.
+[94:43.08]It's horrible scarring.
+[94:46.60]Well, I've got bad news.
+[94:47.76]I spent thousands on plastic surgery.
+[94:49.67]Sorry to hear that.
+[94:50.57]Just got the call that the inspection is not happening.
+[94:54.74]What?
+[94:55.14]This is fucking bullshit.
+[94:58.24]They keep on... You know what?
+[94:59.77]We need to... We need... We need...
+[95:05.17]May I get the keys?
+[95:06.92]We need to force this inspection or something.
+[95:09.47]I think we need to make a couple of phone calls here and see.
+[95:12.45]Let me call the mayor.
+[95:17.10]This is horse bull hockey.
+[95:21.53]How you doing, Mr. Washington?
+[95:27.13]How's it going, Mayor?
+[95:29.29]We have a little bit of an issue here.
+[95:31.19]So we were told about this inspection
+[95:35.48]And we said that maybe it was going to be happening today, but I was told it wasn't happening today.
+[95:39.83]And at some point, I think we need to force an inspection.
+[95:44.80]Is that with the Funhouse, Mr. Chatterbox?
+[95:47.39]That is the Funhouse.
+[95:49.46]Okay, okay.
+[95:50.14]Did you get a hold of them?
+[95:52.02]We did.
+[95:52.70]We did.
+[95:53.00]We were told that maybe later today and then we were told no.
+[95:55.85]So we're just trying to figure out if we should.
+[95:57.86]I was actually thinking about doing a personal inspection on one fellow that I met, a clown fellow.
+[96:05.35]Yeah, we can probably squeeze that in.
+[96:07.75]Let's see.
+[96:12.12]What are they hiding?
+[96:14.47]That's not a great question.
+[96:15.50]That is a great question.
+[96:16.08]What exactly is going on in there to not have an inspection?
+[96:19.06]By the way, the mayor of Blaine County...
+[96:24.36]Sanction this inspection.
+[96:27.42]You're right, you're right.
+[96:28.25]Wait, what was that?
+[96:30.42]Oh, that's just one of the many new members of the inspection team.
+[96:34.29]Oh, you got a team going.
+[96:38.21]Is that Becky with the good hair?
+[96:41.04]Yeah, Becky's here.
+[96:43.18]Rick Sanchez is here.
+[96:44.76]Rick Sanchez is my intern, so he's Gil's...
+[96:49.71]uh grand intern okay alright um let me see let me see let me give uh Mr. chatterbox a call let me see what he's up to
+[97:00.99]Okay.
+[97:01.59]Yeah, we should have a meeting.
+[97:02.41]You know what?
+[97:02.77]We should have a one-on-one meeting.
+[97:04.17]We should have a meeting with him.
+[97:06.42]I would like to have a meeting with whoever is a part of that.
+[97:09.96]Even if we can't get into the
+[97:11.81]the house itself.
+[97:13.01]I would love to set up a meeting and do a personal inspection on some of the people that live there because we need to know what's going on.
+[97:19.70]Alright.
+[97:20.60]You know what?
+[97:21.19]Sounds good.
+[97:21.99]Let me get situated.
+[97:23.49]I'm just waking up, and then I'll give you a call back.
+[97:26.78]Excellent.
+[97:27.04]Thank you so much, my friend.
+[97:28.69]No problem, I'll call you soon.
+[97:31.87]Take care.
+[97:32.89]You know what we should do in the meantime while we're waiting?
+[97:37.68]Did we inspect the police station?
+[97:40.31]I did, I did inspect the police station.
+[97:43.46]They actually locked me.
+[97:44.22]What about the storage units?
+[97:45.47]What about the storage units?
+[97:50.09]You know what?
+[97:51.18]Do you think we could maybe do some inspections?
+[97:53.40]Either the storage units or drive around the neighborhood and maybe see if there's anything going on?
+[97:59.14]Sure.
+[97:59.78]Yeah.
+[98:01.24]Yeah, we could go check the south side.
+[98:04.58]Thanks.
+[98:05.14]Have a nice day.
+[98:07.14]Thanks.
+[98:07.70]Have a nice day.
+[98:10.52]Oh, inspector!
+[98:17.59]Oh, just one second, okay.
+[98:26.01]I was gonna tell you, Gil, listen.
+[98:29.00]There's something crazy that's going to happen.
+[98:32.76]For me and the... Yeah, for me and some of the safety club members, in a couple days.
+[98:39.30]It's a super special, you know, safety mission.
+[98:42.27]And it's going to be on Wednesday.
+[98:46.35]Okay, what are the details?
+[98:49.73]Ooh, it's a lot of details, but I don't think we should speak upon it right now at this moment, you know what I mean?
+[98:55.77]might be there might be there's too many people around and uh it's it's pretty pretty secret
+[99:01.18]Super, super safety special mission.
+[99:03.52]So maybe we could talk about this a little bit later when we have some privacy.
+[99:08.86]Yes, I think we should.
+[99:11.04]Okay, excellent.
+[99:12.55]We'll talk about this later.
+[99:13.71]I'm very interested.
+[99:14.35]Perfect.
+[99:15.57]Orale, I ain't my boy.
+[99:17.66]You should probably go get food.
+[99:21.12]I feel you hungry.
+[99:22.30]Uh, I could use something to eat, yes.
+[99:26.93]Okay.
+[99:28.07]Um...
+[99:30.15]Oh, Becky doesn't like eating a burger shot.
+[99:32.21]Oh, hey guys, guys.
+[99:36.55]We're gonna stop by the prison and grab some grub.
+[99:38.92]Do you want anything?
+[99:39.72]We got hot dogs, hamburgers, water, salty pants.
+[99:43.53]Hell yeah, can I get like five hot dogs, please?
+[99:45.49]And five waters?
+[99:47.00]Sure, sounds cool.
+[99:48.38]Alright.
+[99:48.79]Thank you.
+[99:49.13]We'll be right back.
+[99:49.75]I'll follow y'all.
+[99:50.53]I'll follow y'all.
+[99:50.99]Oh yeah, yeah, follow us.
+[99:52.47]Be safe.
+[99:59.17]Alright.
+[99:59.60]Yeah, I mean,
+[100:00.71]If we can't get into the physical location, then I would like to have a meeting with whoever lives there.
+[100:06.84]Yeah, that's probably a good idea.
+[100:10.11]You know who Osprey called the mayor of, um, Los Santos?
+[100:14.96]See, she would like, uh, like the city hall to be inspected.
+[100:20.47]Oh, excellent.
+[100:21.05]Okay, we can maybe do that as well.
+[100:23.57]Yeah.
+[100:24.39]Her name's Eliza Stellano.
+[100:25.66]She should be in the lemon list.
+[100:30.20]Let's see what the Blaine County Mayor says about this.
+[100:33.51]He said he was going to give me a call back.
+[100:35.03]Who's that?
+[100:37.34]hey guys oh my god hey hi why why is it oh my god wow wait we literally just predicted it
+[100:49.65]We literally just predicted that like as soon as we left everybody would show up here and then as we come around the corner Baron you
+[100:56.12]You all pull up.
+[100:57.91]We're just grabbing some grub.
+[100:59.23]We're just grabbing a little food from the cafeteria.
+[101:02.72]Are you guys doing your inspecting or something?
+[101:04.79]Is that what's going on?
+[101:05.79]Yeah, we're inspecting.
+[101:07.11]Oh, how's that going?
+[101:08.75]Are people taking kindly to that?
+[101:11.37]So terrible.
+[101:12.50]So terrible.
+[101:13.08]People are so rude.
+[101:15.26]Oh, really?
+[101:16.04]Yeah, the rudest level in the city is at a 10 out of 10.
+[101:19.63]You need somebody equally as rude with you.
+[101:23.46]Yeah.
+[101:24.72]Right back in your face.
+[101:25.92]Would you like to join the sacred club?
+[101:28.21]Wait, you think I'm rude?
+[101:30.85]No.
+[101:32.44]It's just real, girl.
+[101:33.24]Yeah, why would you suggest Karlo?
+[101:35.65]We'll take anyone.
+[101:36.41]Anyone that wants to protect the city, to make sure everyone's doing the correct things, living by the golden rule, of course.
+[101:41.14]You said you're...
+[101:42.08]I'll run in and I'll be right back.
+[101:45.85]Oh, okay.
+[101:46.79]Well, where are you inspecting next?
+[101:49.55]We've been trying to get into the haunted house for the handful of days here, but
+[101:54.09]We might actually try to set up a meeting with those that live there, because we can't seem to get in, so we might be doing a personal inspection.
+[102:03.41]interesting oh well you know the clowns are a very very slippery group who who have you managed to I'm sure Helen could help you set something up
+[102:12.46]At this point, we're talking to the mayor of Blaine County.
+[102:14.73]I think I've reached out to Tessa a couple of times.
+[102:18.75]I've spoken to one... What was his name?
+[102:22.00]Let me take a look at my phone.
+[102:25.85]Mumbles... Fumbles?
+[102:28.54]I want mumbles fumbles.
+[102:29.79]Yep.
+[102:30.29]Yep.
+[102:30.95]Well, there's a, there's a, the, the clowns, you know, the fun house.
+[102:35.59]as like an organization, they have like an HR representative that you could probably talk to, you know?
+[102:42.36]Yeah, you said, what was their name?
+[102:43.51]Helen, Helen Highwater.
+[102:46.85]Helen Highwater.
+[102:48.41]Okay.
+[102:49.15]Yeah, she's very nice.
+[102:50.61]I think she... You know, I mean, I don't know how agreeable they'll be to inspection, but...
+[102:56.74]I think she's pretty reasonable.
+[102:58.62]She's pretty grounded compared to the rest of them.
+[103:02.26]Well, at this point, I would like to see who is actually in charge, or not even in charge, or second or third in command, or whoever is in, whatever the situation is over there.
+[103:11.15]We've been trying to get into that haunted house for a few days.
+[103:14.03]And we want, we need answers.
+[103:15.74]We want answers.
+[103:16.60]Hold on a second.
+[103:18.24]You deserve answers.
+[103:25.55]I'm placing a phone call.
+[103:28.02]From inside the car with the windows up.
+[103:30.82]Yeah, it would be like...
+[103:37.45]I should have done that at the very beginning.
+[103:41.26]I tried calling chat a box.
+[103:43.03]It was a fool's errand.
+[103:45.39]Twinkles might be able to help.
+[103:48.72]Ooh, okay, yeah, I'll try Twinkles.
+[103:50.22]Hold on, I'm calling Kirk.
+[103:51.49]Or you try Twinkles.
+[103:52.11]Yeah, I'll call Twinkles here.
+[103:53.55]You two are now officially pre-interns of the safety club.
+[103:59.66]Oh, my God.
+[104:00.16]Oh, my God.
+[104:08.72]What the fuck?
+[104:10.83]Are all the clowns dead?
+[104:12.21]What's happening?
+[104:12.89]Uh-oh.
+[104:16.24]Helen.
+[104:17.39]Hey, Helen.
+[104:18.63]How are you?
+[104:20.99]I'm doing.
+[104:21.31]Are we going to get.
+[104:22.30]We're trying to now.
+[104:28.86]Ew.
+[104:28.96]I don't...
+[104:37.99]You know, all that jazz that you heard about.
+[104:44.31]Yeah, so I'm here with, you know, Gil.
+[104:47.16]Have you met Gil?
+[104:50.46]Oh, Gil, hold on.
+[104:51.48]I'm just going to put you on speakerphone, Helen.
+[104:53.37]Gil, go ahead.
+[104:56.03]Hello there, this is Gilbert Washington, self-employed Department of Inspection Services operating under the Department of Corrections, the guys of the Department of Corrections.
+[105:03.14]Who am I speaking with?
+[105:05.47]This is Deputy Mayor Helen Highwater.
+[105:08.15]It's excellent to meet you.
+[105:09.42]Look, I've got a little bit of a grievance here.
+[105:11.96]We've had an inspection crew of...
+[105:14.46]Many inspectors at this point.
+[105:16.34]We're trying to get into that haunted house to inspect it, to inspect the wiring and inspect the pyrotechnics.
+[105:22.89]And we have not been able to get in there.
+[105:24.24]And I will tell you right now, I would like to potentially have a meeting with some of the people that are operating in there.
+[105:31.77]Okay, yeah, you want to inspect the haunted houses.
+[105:33.86]Well, the haunted houses closed for the season, but...
+[105:37.07]I'm sure we can get you in for an inspection of the fun house in general But you're not operating under the Department of Health and Safety or you're operating under the the DOC.
+[105:44.96]I
+[105:45.62]Operating under the self-employed Department of Inspection Services.
+[105:48.57]Wow, individually, inadvertently.
+[105:51.85]under the Department of Corrections.
+[105:58.02]Oh, okay, okay, okay, well... Correcting the dirty.
+[106:01.49]Well, the good news is...
+[106:03.95]So I can definitely get you in for an inspection of the funhouse.
+[106:07.11]And the other news is that you should definitely talk to Kitty Dream because I think you would love being part of the Department of Health and Safety.
+[106:13.44]in a non-self-employed way.
+[106:14.88]We talked briefly.
+[106:16.57]I passed on that information to him, pretty sure.
+[106:19.71]We talked briefly.
+[106:20.42]I did talk to Kitty briefly.
+[106:22.46]But yeah, we are ready to do any type of meeting or inspection here at any moment here.
+[106:27.90]We've got the entire crew assembled.
+[106:30.70]Oh, wow.
+[106:31.26]Okay.
+[106:32.10]I am just wrapping up a production meeting for the movie Carla's In, actually, so I'm wearing my movie hat right now.
+[106:38.40]But I can put on my clown HR hat and head up to the funhouse as soon as I'm done here.
+[106:42.23]Would you be free in about half an hour?
+[106:43.89]That sounds reasonable to me.
+[106:49.29]I have a question.
+[106:50.11]I have a question.
+[106:52.81]Does the hat have... Hi.
+[106:55.22]Does the hat have little bells on it?
+[106:59.92]It is a figurative hat, a metaphorical hat.
+[107:02.65]I don't actually wear hats because they mess up my hair.
+[107:06.55]No, totally, I get you, honey.
+[107:08.28]Sometimes a little baseball cap, you know, but not frequently.
+[107:12.54]I could wear a hat to the meeting if you want.
+[107:14.85]You could wear what any hat you deem necessary, but a personal request...
+[107:18.82]I would like it if there were some people there that...
+[107:21.07]that live there, that can talk about this.
+[107:23.35]I'd like this to be more of a meeting.
+[107:27.06]because of being denied entry for so long.
+[107:30.51]We're operating under the Department of Corrections here.
+[107:33.59]Okay, yeah, I'll see what clowns are around.
+[107:35.85]I'll ping them and see what I can get.
+[107:37.85]If I can't get clowns assembled today on sexual notice, would you be...
+[107:41.47]I was interested in scheduling something for tomorrow.
+[107:44.76]I want to be around tomorrow.
+[107:48.19]If it's possible for us to do this today, that would be fantastic.
+[107:54.91]If not, then it's gonna have to wait a couple of days.
+[107:57.47]We'll see what I can do.
+[107:58.87]I'll be, I'll get back to Carla shortly, okay?
+[107:59.95]You know, maybe Gil could do some sort of like supplemental inspection when the clowns are there, but we could like a preliminary.
+[108:04.88]Okay.
+[108:05.22]I see what you're saying.
+[108:06.74]Honestly, I do think you sneaking in to do an inspection
+[108:10.38]having a meeting to display the results of your inspection, when they're gathered, could be the... Helen, interesting.
+[108:17.42]Helen's sending the clowns.
+[108:20.98]Send in the clowns.
+[108:22.56]I will send you Gil's number, Helen, and whenever you are freed up, just give me or Gil a call.
+[108:29.38]Okay, sounds good.
+[108:29.84]Thank you, Carl.
+[108:30.30]I'll talk to you soon.
+[108:30.86]Alright, thank you.
+[108:31.52]Excited for the movie.
+[108:32.60]Bye, honey.
+[108:34.05]Thank you.
+[108:34.93]I'm going to be the lead in a movie.
+[108:37.19]Oh my god.
+[108:37.78]Of course you are.
+[108:41.11]Yeah, I actually auditioned for their first movie and they loved me so much but I wasn't a good fit so they wrote an entirely new movie for me to be the lead in.
+[108:50.29]You know, what are you doing?
+[108:51.35]I'm moving.
+[108:52.87]Okay, so Gil, I don't have your phone number.
+[108:55.70]Let me give it to you.
+[108:56.26]In or out?
+[108:57.44]In or out?
+[109:01.73]There you are.
+[109:02.67]Oh, perfect.
+[109:04.17]I swear.
+[109:07.20]My bad.
+[109:08.76]Oh, no, I have yours.
+[109:09.32]No, it's fine.
+[109:09.97]It's fine.
+[109:14.95]Could you send me yours again?
+[109:16.06]I guess I do not have yours.
+[109:17.90]Oh yeah, no problem.
+[109:19.38]Thank you.
+[109:21.48]There you go.
+[109:24.65]Alright, well.
+[109:25.49]Alright, so what's the plan?
+[109:27.45]We're going to go inspect the neighborhood.
+[109:30.82]OK.
+[109:31.75]Make sure everything is okay and safe there.
+[109:33.27]Thank you so much for all the help here.
+[109:36.68]No problem.
+[109:37.72]I get shit done, my dear.
+[109:42.65]How do I save this?
+[109:45.36]Can I save this?
+[109:46.34]Hey Q, what about that barbecue and shit that we were talking about the other day that you were gonna do?
+[109:50.56]I got the ingredients.
+[109:51.74]Oh, you got the ingredients.
+[109:52.82]That sounds great as well.
+[109:57.50]How do I save this?
+[109:58.57]Alright, perfect.
+[109:59.65]We're going to blow this popsicle stand.
+[110:02.34]Thank you for the help.
+[110:03.00]You guys have a great day.
+[110:04.93]Bye.
+[110:05.83]If you want us to come to the inspection, let me know.
+[110:07.87]I'll be happy to come.
+[110:08.89]Yeah.
+[110:09.07]Absolutely.
+[110:09.81]Give us a call.
+[110:10.31]We'll put our hard hats on.
+[110:14.16]Goodbye.
+[110:15.20]Bye.
+[110:15.99]Oh, there we go.
+[110:16.71]Okay.
+[110:23.08]What is he doing?
+[110:25.39]What's going on?
+[110:26.89]What's happening?
+[110:27.37]I don't know what Yuno's doing.
+[110:31.53]Oh, Baron, did you get the stuff?
+[110:32.95]You mentioned some food.
+[110:33.67]Did you get some food?
+[110:35.41]Yeah, yeah, I tried to give it to you, but I think your pockets are full.
+[110:40.55]Uh, let me put some in that box for you.
+[110:42.94]Oh, there we are.
+[110:43.42]Thank you.
+[110:43.86]There you go.
+[110:45.18]Yep, yep.
+[110:45.76]Oh, and here's a banana.
+[110:50.68]Oh, banana.
+[110:51.88]Let's see what you're not doing.
+[110:52.74]Hey, hey, hey, hey, hey, hey.
+[110:58.01]Out, out, out, out, out.
+[110:59.93]Out.
+[111:01.33]Well, we're part of the safety club.
+[111:03.49]Yeah, but you're not part of DOC, so get out.
+[111:06.06]Now.
+[111:06.44]Oh, y'all.
+[111:07.32]Oh.
+[111:07.58]Charlie clocked in.
+[111:10.60]You know, what's up?
+[111:13.41]Oh, I was just about to clock in.
+[111:17.74]What are you guys with the safety outfits?
+[111:19.34]Is that a new outfit?
+[111:21.11]No, no, no.
+[111:21.67]We're part of the safety crew.
+[111:23.57]Separate department.
+[111:24.37]Oh, is this that mango guy?
+[111:26.08]Just the mango guy.
+[111:29.47]Oh, yeah.
+[111:30.35]This is the mango guy.
+[111:31.89]And this is the guy that walked off without paying for his mango.
+[111:36.61]You know?
+[111:37.07]Oh, yeah.
+[111:38.23]You're right, sir, and I'd like to pay...
+[111:40.04]I'd like to pay it back.
+[111:42.08]But we're not the ones that... Don't pay me.
+[111:44.42]Don't pay me.
+[111:46.01]Oh, get...
+[111:47.80]Get rid of this.
+[111:49.34]What?
+[111:49.56]It's not illegal.
+[111:50.51]I don't want this.
+[111:52.41]Oh, my joint.
+[111:53.67]My joint.
+[111:54.20]That was a gift.
+[111:55.40]I rolled that myself.
+[111:56.44]A marijuana cigarette.
+[111:58.29]On Department of Corrections grounds as well.
+[112:01.96]You don't have to smoke it now.
+[112:03.26]Take it home and smoke it.
+[112:04.21]It's not illegal to have one joint.
+[112:06.07]I don't want to smoke it at all.
+[112:08.55]Oh, why not?
+[112:10.58]Because I don't do drugs.
+[112:12.30]You know, I did drugs one time in my entire life, and it was a terrible experience.
+[112:17.61]Never again.
+[112:20.05]I hallucinated.
+[112:21.37]I threw up a few times.
+[112:24.14]Oh.
+[112:25.15]Oh, I didn't know.
+[112:25.75]I'm so sorry.
+[112:27.07]Have a good day, guys.
+[112:28.47]I got to get to a meeting.
+[112:29.46]Good luck on your meeting.
+[112:31.72]Don't steal any more fruits.
+[112:36.53]I was, but then I got a call from... Oh, yeah, what's up?
+[112:40.53]Did you ever sign out a taser?
+[112:45.73]No, not for DOC.
+[112:46.92]I have one from G6, so I just kind of have that one.
+[112:51.27]Okay, party.
+[112:52.05]I'm just making sure because on your report...
+[112:54.10]I'm the warden now.
+[112:55.24]On your report thingy, um...
+[112:57.81]it was blank deputy yeah yeah I have a taser from doc that's already or not doc from g6 it's already registered so I didn't want to buy a second one you know
+[113:07.97]Party.
+[113:08.59]Okay.
+[113:08.91]I'm just cracking down on all of the, you know, armory stuff.
+[113:12.44]Of course, of course.
+[113:13.50]I understand.
+[113:14.28]You know, I've been eyeing those machine guns.
+[113:16.49]I really want one, but, you know, I mean, I don't want to break the rules or anything.
+[113:19.99]Why?
+[113:20.85]Wait, are you the new warden?
+[113:22.25]What happened to Scotty?
+[113:23.96]No, she's the deputy warden.
+[113:26.69]I'm the junior deputy warden and interim.
+[113:29.26]Oh, okay.
+[113:29.82]No, we're driving away now.
+[113:31.88]Well, Carlitos and those guys were waiting on us.
+[113:35.62]I was just seeing what Yuno was doing.
+[113:38.93]Oh, yeah, I have a meeting that I just got called for, unfortunately.
+[113:42.62]Yeah, I registered it with G6.
+[113:44.89]Hopefully that's okay.
+[113:45.75]Do I have to register twice or...?
+[113:50.88]No, no, I was just making sure that the paperwork was done.
+[113:53.70]Yeah, honestly, I just didn't feel like buying a second one.
+[113:55.73]It seemed like a waste of money, really.
+[113:58.15]It is, yeah.
+[113:59.50]Mm-hmm.
+[114:00.20]No, we're good.
+[114:00.72]We're good.
+[114:01.46]Have a great day.
+[114:02.05]Thank you.
+[114:02.43]Take care.
+[114:03.45]Bye.
+[114:06.78]That guy's the sussiest.
+[114:09.19]Yeah, I don't know.
+[114:11.72]He's so sussed.
+[114:12.48]Are we supposed to be clocked in right now?
+[114:17.32]I clocked in just to go inside, and then I'm clocking out.
+[114:25.95]Yeah, I was just wanting to go in and out for hot dogs.
+[114:31.15]It was delicious, by the way.
+[114:37.26]I grabbed a bunch.
+[114:41.11]Okay, so let's go inspect something.
+[114:44.16]What did Carlito I feel bad Carlitos and Sam like we were they were waiting for us so I feel bad Do you know where they went?
+[114:52.53]I'll give him a call right now.
+[114:55.03]Let me see if I can pop to Eliza.
+[114:59.24]Yes, I do.
+[114:59.92]I know.
+[115:06.98]Hey, where are you right now?
+[115:09.99]I'm at the apartments right now.
+[115:11.70]Okay, you're at the apartments?
+[115:13.27]Where are you at?
+[115:13.81]We just left the DOC.
+[115:14.79]We're going to be springing around.
+[115:15.87]Do you want to do a couple of neighborhood inspections?
+[115:19.29]Yeah, I think we should.
+[115:20.100]But it's gonna be at nighttime.
+[115:23.40]Okay, okay.
+[115:25.54]Oh, look at the bunny.
+[115:33.95]But yeah, I think it's a nighttime and shit.
+[115:36.61]We should do the inspections Okay, yeah, give me a ring in the barbecue
+[115:42.84]We could do the barbecue.
+[115:43.74]We could hang out with the barbecue and wait for the evening.
+[115:46.67]Go to the barbecue.
+[115:47.93]Barbecue.
+[115:48.69]Yeah.
+[115:49.09]And get that going.
+[115:50.64]Send us a... What do you think?
+[115:51.71]Send us your location.
+[115:52.51]Well, I'll head there now and hang out.
+[115:55.76]I bet.
+[115:56.38]I'll send you the location.
+[115:57.98]Great.
+[115:58.24]See you soon.
+[116:04.02]What time is it in right now?
+[116:05.67]430.
+[116:05.91]We probably have like a an hour or so two hours.
+[116:16.59]Still no mention of the haunted house.
+[116:18.79]I think it was open.
+[116:22.20]They moved it to being open at some point today or yesterday, but it was, I think that the Halloween event yesterday maybe moved some stuff around.
+[116:32.51]I think, especially because it's closed, I think I'm going to be moving on from the haunted house.
+[116:39.36]If we could get a meeting with some of the clowns, that would be kind of funny.
+[116:42.79]Thank you.
+[116:43.52]I think getting in there might be more difficult than I think.
+[116:52.32]Alright, we're going to the south side.
+[116:55.73]He's going to share his location.
+[116:57.73]Okay, great.
+[117:03.07]I hit the south side.
+[117:06.03]Why is that?
+[117:06.63]Do a clown inspection.
+[117:07.98]It's dangerous.
+[117:08.76]Bad stuff always happens.
+[117:10.92]Cypress Flats is like... Nah.
+[117:16.86]Yeah, they gentrified it.
+[117:20.37]No, it's not dangerous.
+[117:23.02]Well, it always used to be dangerous.
+[117:25.66]I did get attacked by a dog once, though.
+[117:28.11]At the gas station.
+[117:30.06]Yeah, and your cow was just running loose.
+[117:31.62]Yeah, it feels like, um...
+[117:33.18]Yeah, that was weird.
+[117:34.10]I log in when other people log off, maybe right at the exact moment.
+[117:40.28]That happens.
+[117:43.05]What do you mean, ew, you don't like petting dogs?
+[117:47.42]I don't like petting strangers' dogs, and I don't like petting cows.
+[117:53.03]Cows are like big ol' dogs.
+[117:58.67]Ow ow ow ow!
+[118:01.76]They bumped into us.
+[118:07.98]Got a phone call.
+[118:11.71]Hello there.
+[118:14.22]This is Helen Highwater calling regarding your inspection request.
+[118:19.54]Are you available now to inspect and would you like the clowns there or would you like this to be a surprise inspection?
+[118:29.32]You know, that's a good question, because there's reasons why I would want some people there.
+[118:35.35]I think that if some people were there, it would be good to see how they're operating.
+[118:41.25]Okay, I can I can head up there and see what the the situation is like I'm free now
+[118:47.28]We are, you know, the clouds are kind of rolling in here at the moment, so we might not have too long
+[118:53.36]But I'll head up there, I'll see who's bumbling around, and I'll report back.
+[119:00.14]Okay, should we head up there just to be in the area, or should we wait for your telephone call?
+[119:05.67]You can head up and be in the area if you'd like.
+[119:07.51]We want to get the drop on them.
+[119:08.91]The clowns are crafty, so.
+[119:10.67]Okay, okay, excellent.
+[119:12.18]Thank you so much.
+[119:12.80]I really appreciate it.
+[119:14.70]We're ready to do our safety inspection.
+[119:17.59]Okay, sounds good.
+[119:18.43]I'll see you shortly.
+[119:19.79]Thank you.
+[119:20.27]Take care.
+[119:21.22]Take care.
+[119:23.88]Alright, let me call, yeah, Carlos.
+[119:26.32]Yes.
+[119:37.93]I called with excellent news.
+[119:39.55]Excellent news.
+[119:41.62]Yeah, what they said.
+[119:42.32]What happened?
+[119:44.10]I head on up to the haunted house.
+[119:50.42]I would say we should be in the area.
+[119:51.59]So head up to the haunted house.
+[119:52.63]We're heading there now.
+[119:53.29]We're going to be able to get some kind of inspection going.
+[119:57.20]Oh, hell yeah.
+[119:58.08]Babe.
+[120:01.53]We'll see you there.
+[120:03.29]Bring who you can.
+[120:05.45]I'll bring him another...
+[120:06.23]I'm bringing another friend because Spade had to go to... Oh, the fun house.
+[120:09.70]The fun house, not the fun house.
+[120:10.79]The fun house.
+[120:12.46]Yeah, the fun house.
+[120:13.46]Yep.
+[120:14.46]I'll bring another friend.
+[120:15.18]Don't worry.
+[120:16.10]Take care.
+[120:16.50]See you soon.
+[120:18.00]See you soon.
+[120:18.82]Adios.
+[120:21.00]Should I call Carla?
+[120:21.80]Just call everybody.
+[120:26.99]Make another phone call here.
+[120:33.44]Hey, uh, great news!
+[120:35.79]We're going to be doing an inspection of the Funhouse.
+[120:38.39]If you'd like to join us, you are a pre-intern.
+[120:41.69]You can absolutely join us if you'd like to.
+[120:43.22]We're going to be heading up there now.
+[120:46.27]Okay, sounds good.
+[120:46.94]Do you want us to change or can we just come as we are?
+[120:50.08]You should probably be wearing yellow.
+[120:51.58]Okay, we'll get changed.
+[120:55.05]Hey, Dixie.
+[120:56.71]Alright, we're gonna change and we'll be up to the funhouse.
+[120:59.14]Alright, excellent.
+[120:59.76]See you soon.
+[121:04.16]I call fog.
+[121:05.04]No, why would I do that?
+[121:08.24]Hey, some good news.
+[121:12.92]Alright everybody, we get to do the pre-inspection warm-up routine.
+[121:15.29]Are you ready?
+[121:17.06]Okay.
+[121:19.63]On the count of three, I want everybody to yell softly.
+[121:24.25]Scream softly.
+[121:27.74]Okay.
+[121:28.50]Just, what, anything?
+[121:30.49]Just yell.
+[121:31.39]Just yell.
+[121:32.28]Just get it out.
+[121:33.22]Softly.
+[121:36.90]One, two, three.
+[121:42.38]Too loud, too loud, too loud.
+[121:44.37]Tone it down a little, please.
+[121:47.58]Sorry.
+[121:48.12]Like that.
+[121:51.27]Okay, ready?
+[121:51.75]Alright.
+[121:52.39]One, two, three.
+[122:02.10]This isn't a dentist office.
+[122:03.51]What?
+[122:13.89]What do you want from us?
+[122:14.70]I'm confused.
+[122:16.28]That was good enough.
+[122:16.90]You're supposed to scream softly.
+[122:20.16]Ah.
+[122:23.74]Uh... Not... What the fuck was that?
+[122:27.85]What was that?
+[122:28.75]Dark Souls 1 death noise?
+[122:31.29]That was me yelling softly.
+[122:34.41]Oh, I've got to call the mayor as well.
+[122:35.87]We've got to call as many people as we can here.
+[122:51.24]Hey, good news.
+[122:52.08]We're heading up to the funhouse right now.
+[122:55.07]Right now?
+[122:56.63]If you'd like to join us.
+[122:57.45]Okay.
+[122:58.61]Right here.
+[122:59.27]Right now.
+[123:00.07]Right here.
+[123:00.85]Right now.
+[123:01.81]Make sure you're wearing yellow.
+[123:04.29]Okay, will do.
+[123:05.78]Bye.
+[123:13.32]Where are we going?
+[123:16.06]40 man raid on the funhouse.
+[123:19.41]Bingo.
+[123:19.59]Good as new.
+[123:19.99]Thank you.
+[123:20.21]Thanks, guys.
+[123:20.49]No problem.
+[123:21.48]Thank you.
+[123:27.89]Oh, that's who was letting us in, I think.
+[123:30.48]I think that's who we're meeting.
+[123:33.30]A funhouse.
+[123:39.48]Why is the mayor being recruited?
+[123:40.42]The mayor's the one that put this to kind of start this last week.
+[123:45.98]Oh, my God.
+[123:46.80]Oh, you can get there this way?
+[123:49.27]Hello Helen.
+[123:51.16]Hey, so I think, you know, the real troublemaker in the house, the guy that owns the place, really, the one you're really going to want to stick it to,
+[123:59.62]He's not around at the moment.
+[124:00.96]So if your goal is confrontation, you might want to wait.
+[124:05.15]If your goal is to do the inspection now,
+[124:09.43]to harass him with a presentation about it later, I can sneak you in.
+[124:13.40]But I think, you know, you really want to get the guy who's causing all the problems in the house.
+[124:18.53]But I just screamed.
+[124:30.07]You know, I would love to at least, you know, maybe I'm trying to think of like the time frame here.
+[124:36.52]So you said Wednesday is a good day?
+[124:39.96]Well, you said, yeah, I mean, you said you're not going to be around tomorrow, so I'm proposing Wednesday.
+[124:46.04]Now, is there something we could get on the schedule on Wednesday?
+[124:47.87]I'll make sure the clowns are in action.
+[124:49.93]Yeah, yeah.
+[124:51.21]Yeah, if you want a schedule, I'm your girl.
+[124:53.96]Absolutely.
+[124:54.98]What time you want to do on Wednesday?
+[124:56.72]What is the best time for you all?
+[125:00.06]I would say a couple hours after storm would be ideal.
+[125:04.27]So, you know, maybe like...
+[125:07.42]I don't know.
+[125:08.12]I'll throw out like 3 p.m. Pacific, 6 p.m. Eastern.
+[125:14.50]Okay, okay, because as you said, nobody will be at the home.
+[125:18.33]It will just be us here.
+[125:21.83]If you came now, nobody's going to be there.
+[125:23.99]And I know you said you want to observe them.
+[125:26.13]But I can ensure some people are home on Wednesday, if you'd like.
+[125:30.49]Maybe we could do a pre-inspection?
+[125:32.13]Just for a few moments?
+[125:34.28]You want to do a pre-inspection?
+[125:38.31]I have a lot of safety inspectors coming.
+[125:40.49]I don't know if it's possible to get to even just to see a little bit of what's going on in there.
+[125:48.33]Maybe, like, maybe part of the house.
+[125:50.92]I could see if, you know, that...
+[125:53.07]I called everyone.
+[125:54.23]Maybe that's not like the foyer, maybe, if you just want like a peek inside, but...
+[125:58.52]There's like 20 people coming.
+[125:59.100]Man, they're...
+[126:01.24]You know, there's no clowns home at the moment.
+[126:03.39]It's pretty late in the day.
+[126:06.85]I see, I see, I literally, I could literally see people in there right now.
+[126:11.48]Well, yeah, I'm in here, and then it's just two of them.
+[126:15.70]Just two clowns.
+[126:17.45]Yeah.
+[126:18.81]You know what?
+[126:19.93]I would like to at least...
+[126:21.58]I would like to get the team here today.
+[126:22.78]They're on their way here now.
+[126:25.23]Just say a few words outside the front door as well, if that was okay with you.
+[126:30.23]Yeah.
+[126:32.15]Yeah, of course.
+[126:32.99]Of course.
+[126:33.47]Yeah.
+[126:33.71]You guys come do what you need to do.
+[126:35.43]Oh, I'm so sorry.
+[126:37.87]I just I heard you.
+[126:38.87]I heard you on the phone here.
+[126:43.76]Look at this gnome, guys.
+[126:47.14]I'm not sure if you can hear me.
+[126:48.02]I'm so sorry.
+[126:49.38]I just hung up on you.
+[126:50.31]I didn't mean to do that.
+[126:51.37]Sorry if I hung up on you.
+[126:52.99]You did.
+[126:53.65]Yeah, it's okay.
+[126:55.01]I thought it was on purpose.
+[126:56.19]That was like power move.
+[126:57.60]Oh, no, no, no.
+[126:58.26]It was accidental.
+[126:59.42]I'm so sorry about that.
+[127:00.62]Oh, shit.
+[127:01.20]Okay.
+[127:01.94]Nothing happened.
+[127:02.98]Of course.
+[127:03.26]Yeah, no worries.
+[127:04.74]Let me just, I've got a really big key ring here, so let me just find, you know, the key to this door.
+[127:09.69]That's not it.
+[127:14.96]So we're just doing an outside inspection?
+[127:16.84]What's going on, Nino?
+[127:17.90]We are going to be doing a pre-inspection.
+[127:19.47]We're going to be taking a look at the outside, take a look at a little bit of the inside.
+[127:21.91]Not all the inside, maybe just the entrance.
+[127:23.65]I know you have goosebumps for some reason.
+[127:25.01]I'm just working on finding the right key for you.
+[127:29.96]You can do your outdoor inspection while I try to figure out
+[127:33.16]Which key it is that unlocks it?
+[127:34.31]I'm sure it's one of these on this massive key ring.
+[127:36.63]Come on, open the door, Tesla.
+[127:38.38]What's going on?
+[127:40.49]This is breaking one of the rules of the inspection.
+[127:42.30]That's not Tessa.
+[127:43.84]That's Helen.
+[127:44.60]Tessa's right there.
+[127:45.42]I see her through the window.
+[127:47.27]What rule are we breaking?
+[127:51.10]Open the door, Tessa.
+[127:53.35]This door needs to be opened.
+[127:54.55]Tessa's not home.
+[127:56.59]That's Section 101, Article 8.
+[127:58.46]That's the wall that's being broken.
+[128:00.81]Could I please get my inspectors to line up at the door, please?
+[128:03.80]Light up at the door.
+[128:04.39]Let me just figure... Oh, no.
+[128:05.98]Alright.
+[128:06.76]Man.
+[128:07.60]open the door you might have to come in the back I can't find my key for the front door but I got my key for the back door if you want to try if you come to the back door everyone to the back door
+[128:16.57]Yeah, come around to the back.
+[128:19.82]What does that say?
+[128:21.63]Anybody read upside down?
+[128:24.83]I think we split it.
+[128:25.43]I think we split it.
+[128:26.09]I think some of us should stay on the front.
+[128:28.91]Yeah, some of you stay in the front.
+[128:31.31]Two or three of you stay in the front door.
+[128:34.40]Alright.
+[128:35.24]Let's go.
+[128:38.91]Let's go to the back.
+[128:39.86]We're out here.
+[128:48.33]Uh, is it back here?
+[128:49.54]We are at the back door.
+[128:50.36]Oh, wait, no.
+[128:54.15]Maybe around this way.
+[128:55.23]No, around this way.
+[128:57.82]Around where?
+[129:00.56]Think back here.
+[129:02.31]Yeah, it's right back here.
+[129:03.17]This door back here.
+[129:04.26]Yeah, I have the key for it right here.
+[129:06.82]Hold on, Baron, before you open that door.
+[129:09.91]I see some electrical sparking.
+[129:13.56]That doesn't seem safe.
+[129:15.36]Oh man, you know, this is actually the key for the front door.
+[129:18.41]I've got- I mixed up the labels.
+[129:20.94]This is ridiculous.
+[129:21.82]This is ridiculous.
+[129:27.72]Bullshit not opening either one You think they're pulling our leg
+[129:37.28]I have a few things to say about this.
+[129:40.17]Nobody go in yet.
+[129:44.79]Well we're locked out still.
+[129:47.71]Everybody please stand here.
+[129:50.06]Stand here, in front of the front door.
+[129:53.92]Ridiculous.
+[129:55.27]Get in a good single file line.
+[129:58.05]Oh, hell yeah.
+[130:06.42]My bad.
+[130:06.94]Okay, welcome in.
+[130:09.28]Yeah, welcome, everybody, to the Funhouse.
+[130:11.81]Welcome in.
+[130:13.05]Feel free to take a look around.
+[130:15.24]Anything you need to inspect.
+[130:16.90]Oh, my God.
+[130:18.10]What is...
+[130:18.83]What is that fucking smell, cut?
+[130:20.61]Yeah, it stinks in here.
+[130:22.70]Wait, are you guys moving in?
+[130:24.12]Oh, fuck.
+[130:25.76]Oh, you know, we just had our haunted house.
+[130:28.27]We had to pack everything up.
+[130:30.07]Oh, you're packing all the Halloween decorations.
+[130:33.44]The Christmas stuff.
+[130:35.30]Why are they shopping?
+[130:36.57]Why are they shopping?
+[130:39.79]The fake blood.
+[130:40.53]Are you guys going to have a menorah?
+[130:42.51]That would be cool.
+[130:45.25]Mr. Lead Inspector, isn't this a fire hazard?
+[130:47.32]It violates Code 103.4.
+[130:54.67]No safe passage to the front door?
+[130:56.60]Yeah, and also, extension cord shall be UL listed and condition and shall be appropriate for adduce.
+[131:00.66]I don't see the extension cord here.
+[131:02.72]How are you plugging in the electrical?
+[131:03.77]This plant is very much dead.
+[131:05.33]There is a fire hazard that I think goes under code 6-7.
+[131:09.55]And all extension cords and power strips shall be adequately protected from foot traffic.
+[131:15.40]Bridged.
+[131:16.73]which I don't know how you're powering a lot of this, but it seems like it's being snaked through five different outlets here.
+[131:23.46]I mean, all we've got is, you know, the ceiling light.
+[131:25.98]Hey, everyone.
+[131:26.96]Hey.
+[131:27.06]Oh, my God.
+[131:28.82]It's Connor.
+[131:31.57]Hello.
+[131:31.95]What was that noise?
+[131:32.45]We were just checking out the exterior.
+[131:33.43]It's looking real bad out there.
+[131:34.95]Sounds like an electricity problem there.
+[131:37.45]uh yeah I do yeah and I hear a smoke detection problem
+[131:43.51]They've been meaning to fix that.
+[131:45.34]Is this as far as we're going to be allowed to inspect?
+[131:48.09]No, please, go for it.
+[131:49.39]Get as far as you can.
+[131:50.68]I can maybe push these in a little bit.
+[131:53.86]Let me try to hoist you up.
+[131:57.95]Fuck.
+[131:58.21]Get on my shoulders.
+[131:59.14]Step on me, Gil.
+[132:00.24]Step on me.
+[132:06.34]Yeah, I guess you could just climb yep
+[132:13.55]There we go.
+[132:14.59]Thank you.
+[132:14.94]Nice pushing.
+[132:18.99]We have some water damage.
+[132:20.59]I don't know if this is regulation.
+[132:24.59]You can stub your toe on this dresser.
+[132:27.18]That is a toe-stubbable dresser?
+[132:30.10]There's definitely some mold in this wall here.
+[132:33.30]See that oh my god, why would Gil what the heck do you see that?
+[132:38.74]Oh?
+[132:39.16]What is this?
+[132:39.68]Who wrote this?
+[132:40.57]Ow, my chin!
+[132:41.09]You hit me with the whiteboard!
+[132:50.33]oh how could you do that I didn't do it I I'm sorry
+[133:00.33]Oh my god.
+[133:00.85]How to escape.
+[133:01.61]Find all six red keys.
+[133:04.25]I'm here to inspect with them.
+[133:07.09]Lord, this fireplace is out of regulations.
+[133:09.23]This fireplace was built in 1968.
+[133:11.43]It should have been changed already.
+[133:15.01]Thank you so much, safety intern 14.
+[133:18.98]Faceplates on the light switches are rusted.
+[133:24.86]I see, yeah.
+[133:25.48]Oh yeah.
+[133:26.12]Oh yeah, this is not good.
+[133:28.07]Those chemicals are not sealed.
+[133:34.90]This fireplace is out of regulation according to Article 12.
+[133:38.31]This fireplace was built in 1968.
+[133:40.19]It should have been changed 20 years ago.
+[133:43.77]Precisely.
+[133:44.23]Hey, Tixie.
+[133:46.03]Are you part of the safety crew, too?
+[133:48.08]Everybody's part of the safety crew.
+[133:50.04]Holy moly, is there water damage here?
+[133:52.81]A lot of water damage.
+[133:55.71]I literally can't get past these boxes.
+[133:57.69]That's fucked.
+[134:00.63]Not only a fire hazard, but this is a hazard for foot traffic as well.
+[134:06.06]Exactly.
+[134:07.20]There must be three posted exits.
+[134:08.26]These boxes, I don't know if we could...
+[134:14.54]They're really heavy.
+[134:16.85]On such short notice, I don't think we could move these.
+[134:20.86]Rotting wood.
+[134:21.90]We're shutting you down.
+[134:30.52]We're shutting you down.
+[134:31.22]What do you mean?
+[134:32.27]What do you mean you're shutting us down?
+[134:35.12]We're shutting you down.
+[134:37.12]Look behind you.
+[134:38.62]Maybe that'll change your mind.
+[134:39.46]No.
+[134:39.83]Does not change a darn thing.
+[134:44.01]Those are all the cement blocks we used for the Halloween haunted house, so I don't know if they're going to budge.
+[134:49.27]Actually, sir, it looks like your nose is out of regulation also.
+[134:55.30]Hold on a second.
+[134:56.78]Let me check.
+[134:57.38]Let me squeak it.
+[134:58.14]Yes, sir.
+[134:58.81]Yes, sir.
+[134:59.21]Yes, sir.
+[135:02.10]Oh, boy.
+[135:03.65]That squeakage was 15 decibels.
+[135:05.09]That's a C sharp.
+[135:06.01]Oh, gosh.
+[135:09.19]holy crap are you guys supposed to be having an open knife just sitting here exposed that could fall and stab somebody
+[135:19.40]That is an open knife.
+[135:20.21]That's not a fake knife either.
+[135:21.33]Oh my God.
+[135:21.75]No, that's a real knife.
+[135:24.20]And there's a shoe next to it, too.
+[135:26.22]That shoe's supposed to be on your head.
+[135:27.80]It's supposed to be shoe on head.
+[135:29.65]That shoe's not where it should be.
+[135:31.59]Well, that's the shoe we use for shoeys, so we like to keep it separate from head shoes.
+[135:35.74]Wait, is that a child's shoe never wore?
+[135:37.95]No, I don't think this is funny.
+[135:39.17]This is nothing to laugh at.
+[135:40.51]Nothing to laugh at, clown.
+[135:41.31]I'm not laughing.
+[135:42.56]I'm not laughing.
+[135:42.98]What about the pyrotechnics?
+[135:44.04]Hmm.
+[135:51.97]Look, I'm not laughing at all.
+[135:53.05]What the hell?
+[135:55.81]That's a good photo of you, kid.
+[135:57.44]That is a nice photo, actually.
+[135:59.28]That's a nice angle.
+[136:02.42]Really brings out the blue in your eyes.
+[136:04.81]Are there any smoke machines or any pyrotechnics inside of this facility?
+[136:09.97]There was, yeah, but we had to remove them because we're no longer doing the haunted house.
+[136:17.48]But there was smoke machines all over the place.
+[136:20.02]this place was covered in smoke machines though and radios just sitting on the ground and you know a whole sound system
+[136:27.01]Interesting.
+[136:27.49]Are your smoke devices wired or battery?
+[136:32.93]The smoke devices, they were all wired.
+[136:35.84]They were plugged into the various outlets.
+[136:39.13]Alright.
+[136:39.89]Now, there's no way to get by these boxes here.
+[136:42.29]What is that?
+[136:43.46]They're very heavy.
+[136:44.24]This is where we've just packed away all the cement blocks that we used for the haunted house.
+[136:49.02]And so these are very heavy on such short notice.
+[136:51.35]I don't know.
+[136:51.79]Sorry.
+[136:52.31]You know, my upper body strength isn't what it used to be.
+[136:55.92]Yeah, we need a whole forklift for the pallet and everything.
+[136:59.37]You might want to get your
+[137:01.63]Not just the fact that the inspection of the property is not going well.
+[137:06.28]What about the World Clown Association Code of Conduct?
+[137:09.03]Do you know it?
+[137:09.63]Oh, wow.
+[137:11.89]I sure do.
+[137:12.53]Oh, okay.
+[137:13.82]Well, then repeat after me.
+[137:14.72]We'll say it together.
+[137:15.86]I will strive at all times to provide children of all ages with fun, respectful, family-friendly entertainment.
+[137:19.97]I will create a joyful experience for my
+[137:21.63]audience, not causing embarrassment at another's expense.
+[137:25.19]At another's expense?
+[137:26.39]We said it at the exact same time?
+[137:27.66]Yeah, at the exact same time.
+[137:29.97]I will present quality, friendly-looking professional makeup and costuming.
+[137:33.44]Professional makeup and costuming.
+[137:35.36]And will maintain my clown character while in public view.
+[137:37.37]Excuse the yuck out of me.
+[137:42.17]Uh-oh.
+[137:42.63]What'd you say?
+[137:43.53]We...
+[137:43.97]Wait, what'd you say?
+[137:44.43]You see, these clowns prescribed to the Book of Jester, it's slightly different from...
+[137:49.58]I find your perception of us as a people offensive.
+[137:55.63]What did you say?
+[137:57.10]Hold on a second.
+[137:58.17]What did you say?
+[137:58.63]Did you say yuck?
+[138:00.23]What did you say?
+[138:02.40]And you used that in replacement of the F word?
+[138:09.58]Every word.
+[138:10.34]Oh, my God.
+[138:11.67]What?
+[138:11.83]Wait a minute.
+[138:12.77]Hold on a second here.
+[138:13.67]We don't cuss.
+[138:15.45]Clowns don't cuss.
+[138:16.25]Oh, what the?
+[138:16.69]No kidding.
+[138:18.21]You don't cuss at all.
+[138:18.94]Except when I fucking feel like it.
+[138:20.80]Oh, okay.
+[138:22.34]I curse all the time, but I'm just not HR.
+[138:25.61]The good clowns don't cuss.
+[138:27.73]Sometimes I do.
+[138:29.10]Okay, good is subjective.
+[138:30.68]It's pretty much just like Tessa and Chatterbox that don't cuss.
+[138:34.13]Sometimes I do a clown impression and I can't tell if they liked it or they defended.
+[138:37.42]You went up a full letter grade.
+[138:39.43]That's not it.
+[138:39.95]What?
+[138:40.07]Really?
+[138:41.28]Yes, really.
+[138:42.79]I find cursing to be offensive.
+[138:45.35]And we have some new, I've actually learned some words to replace them, you know, like Pendejo.
+[138:49.70]And that's a good one, I think.
+[138:52.28]Whoa, whoa, whoa.
+[138:53.20]So it's okay to curse in Spanish?
+[138:54.86]You want to learn a new word?
+[138:55.87]Well, I mean, you're definitely a pendejo, I would say that for sure.
+[138:59.80]Gileard.
+[139:05.36]Take one outside.
+[139:06.84]We're inside right now, inspecting the interior.
+[139:08.97]By the way, I will start with the third of the clown code of conduct.
+[139:11.71]I will refrain from drinking or using alcohol, tobacco products, or drugs prior to any performance at any time while in the clown costume.
+[139:19.09]Are there drugs here?
+[139:20.69]Whoa, whoa, whoa.
+[139:21.16]Costume?
+[139:23.26]Are there drugs here?
+[139:25.89]You can't call it a costume.
+[139:27.95]Yeah, that's not good.
+[139:29.63]That's actually a clown HR violation.
+[139:32.12]Yeah, I know.
+[139:33.52]It's not good.
+[139:34.17]Gasp.
+[139:36.10]Yeah, Gil, I didn't, I meant to tell you this, but they're actually also conducting a reverse inspection of you and like your ability to understand
+[139:45.09]clown culture and like the social contract and stuff so I think you actually might have just lost a letter grade on
+[139:53.29]Well, well, well, well, me repeating the World Clown Association Code of Conduct, I would believe any clown should know that information.
+[140:00.05]But these clowns subscribe to the Book of Jester, which is outside of the traditional World Clown Association.
+[140:06.05]These are very different clowns.
+[140:07.39]You're just lumping all clowns in together.
+[140:08.97]You assume they all follow the same things instead of non-denominational clowns.
+[140:11.89]You want to go there?
+[140:12.100]I am not.
+[140:13.62]I don't know about that scripture.
+[140:15.08]I don't know about that scripture.
+[140:23.35]I do not know.
+[140:24.37]I know the new testament.
+[140:30.36]Boo!
+[140:31.38]Boo!
+[140:32.43]Oh, Jerry, go outside.
+[140:34.55]Go outside.
+[140:35.40]He's not welcome inside for the inspection anymore.
+[140:38.12]Get out of here.
+[140:38.92]Okay, okay, okay.
+[140:40.11]Get to me.
+[140:40.47]Go get to me.
+[140:41.75]I apologize.
+[140:42.53]Let me get some air.
+[140:43.91]Unfortunately.
+[140:44.69]I don't know who that is.
+[140:46.59]Who is that?
+[140:47.19]Let me get some air.
+[140:48.48]As the mayor of Blaine County, we're going to have to end this inspection here.
+[140:52.46]You guys said the M word and it made the clowns unhappy in their own home.
+[140:57.57]No, please, please, can we apologize?
+[141:01.22]What?
+[141:02.26]How can we formally apologize to the clowns?
+[141:05.46]Listen, we have an official scheduling.
+[141:07.94]We have an official scheduling now, right?
+[141:09.90]Do we have a date?
+[141:11.79]It sounds like Wednesday.
+[141:13.31]I would love a date.
+[141:13.93]Wednesday at 3 p.m. Pacific.
+[141:17.59]There's going to be a formal inspection.
+[141:19.62]We'll have these cinder blocks out of the way.
+[141:21.36]These boxed up cinder blocks are so heavy.
+[141:24.07]We'll have those moved for you.
+[141:25.59]I would like to formally apologize.
+[141:27.64]I would like to formally apologize for saying the M word.
+[141:30.82]I would...
+[141:31.43]Gladly fold up what I've written here on the clipboard and burn it.
+[141:36.84]So we can have a fresh start on Wednesday.
+[141:39.03]How does that sound?
+[141:40.33]On Wednesday.
+[141:41.50]The mimes are not allowed here.
+[141:43.33]How about this?
+[141:43.89]How about this, Pendejo?
+[141:45.07]Wait, you just said the M word.
+[141:46.05]How about this, Pendejo?
+[141:47.14]Take a lap, Benny.
+[141:48.10]Take a lap.
+[141:48.70]Benny.
+[141:50.02]alright why don't why don't you get going to look a lot you get as many you get as many clown tears you want for the inspection on Wednesday will bring the entire safety crew
+[141:58.59]Okay.
+[141:59.17]Yeah, I can do that.
+[142:00.29]100%.
+[142:00.89]All of them.
+[142:01.45]You want to go toe-to-toe?
+[142:02.32]You want to go toe-to-toe with safety here?
+[142:03.84]Yeah, yeah.
+[142:04.42]You want to test me?
+[142:04.96]Yeah, I'll play footsies.
+[142:06.32]Yeah.
+[142:06.80]Don't test me.
+[142:08.19]Interlocked toes.
+[142:09.90]And you want to go blow for blow?
+[142:11.78]Could we make it a little bit later?
+[142:17.07]How much later?
+[142:18.80]How much later?
+[142:19.86]4 p.m. Pacific?
+[142:24.31]Maybe.
+[142:25.57]We're going to do a little bit next Thursday.
+[142:28.90]Me and Chatty might have one.
+[142:31.44]Let's move it to next Thursday.
+[142:32.65]Well, that's all five hours.
+[142:35.55]See you next Thursday.
+[142:37.45]Thursday, 3 p.m. Pacific.
+[142:39.24]No, no, no, actually not that.
+[142:40.32]I see what you did there.
+[142:41.58]Okay, alright, alright, okay.
+[142:44.98]What day is the best day for this?
+[142:46.86]How about December?
+[142:48.82]And be honest with me.
+[142:49.54]27th.
+[142:51.66]Let's do Thursday, 3 p.m. Pacific.
+[142:55.63]And we'll, you know, we'll be ready for inspection.
+[142:58.17]Thursday as in two days from now or nine days from now?
+[143:01.48]As in three days from now.
+[143:03.35]Okay, here's what's going to happen here.
+[143:05.19]Here's what's going to happen here.
+[143:06.03]Is that right now?
+[143:07.16]Alright, alright, alright, alright.
+[143:08.80]I want everyone to hold your hand out, and we're going to swear an oath.
+[143:13.39]And I want this to be an oath from both the safety oath and the clown oath.
+[143:17.48]Okay.
+[143:17.74]Please put your hands in.
+[143:19.69]Repeat after me.
+[143:21.39]Okay.
+[143:22.27]I. Repeat after me.
+[143:24.07]I. I. I.
+[143:25.82]Will be here.
+[143:27.74]We'll be here.
+[143:31.36]Thursday.
+[143:31.99]Thursday.
+[143:36.08]At precisely what time?
+[143:39.28]At precisely what time?
+[143:42.77]3 p.m. Pacific time.
+[143:44.35]3 p.m. Pacific.
+[143:45.63]3 p.m. Pacific time on Thursday.
+[143:48.54]We repeat.
+[143:49.14]3 p.m. Pacific time on Thursday.
+[143:51.20]And I'll tell you.
+[143:58.90]If we are not allowed to do a full inspection by the time that is exactly precisely 3 p.m. Pacific on Thursday, if we're not allowed to be in here, that means war.
+[144:09.53]What?
+[144:09.87]War?
+[144:11.59]Yes.
+[144:14.11]He wanted his dramatic walk off.
+[144:18.62]Thanks so much for coming in guys!
+[144:26.75]I want my dramatic walk-off too.
+[144:28.07]3pm Pacific on Thursday.
+[144:35.69]3 p.m. Pacific.
+[144:37.47]3 p.m. Pacific, 6 p.m. Eastern, approximately, I don't know, 11 p.m. British people, something like that.
+[144:45.87]Yeah, if you're British, 11 p.m. 11 p.m. British people.
+[144:50.02]We're showing up at 11 p.m.
+[144:51.90]And just to make sure you know.
+[144:54.81]If you're British.
+[144:55.65]If you're British.
+[144:56.86]How can you tell if you're British?
+[144:59.26]if you're british try not to be is my first piece of advice um no oh god uh then you're not british
+[145:08.75]Oh, okay.
+[145:09.58]So 3 p.m. 3 p.m. Pacific.
+[145:12.72]Listen up.
+[145:13.48]If you think very pacifically.
+[145:16.99]We will be back.
+[145:18.28]On Thursday, at 3 p.m. Pacific.
+[145:21.62]And oh, if I were you, I would make sure these doors are open.
+[145:25.58]Make sure they're open for the safety club.
+[145:29.21]Oh, don't you worry.
+[145:32.02]This place is gonna be in tip-top, inspection-worthy shape, just for you.
+[145:38.70]Oh, it better be.
+[145:40.16]Awesome.
+[145:41.46]We appreciate it.
+[145:42.84]Clowns love to laugh.
+[145:43.90]It better be.
+[145:45.67]But I'll tell you what's no laughing matter is safety.
+[145:48.73]of people being able to be protected in the environment that they're in.
+[145:52.76]We will be back with stronger numbers than you saw before you today.
+[145:58.34]No love, no love.
+[146:00.23]Safety first.
+[146:01.87]I'm getting every clown to be awake, every single one, even the ones we hate.
+[146:05.55]Oh, good, good.
+[146:06.68]That sounds good to me.
+[146:08.47]That's perfect.
+[146:09.71]We do need to see how many people... We definitely need to see how many people living in these quarters, sir.
+[146:15.34]We do.
+[146:16.04]What?
+[146:17.44]Oh, they're like roaches.
+[146:18.64]There's like 30 clowns that live here.
+[146:20.69]This building may in fact become condemned.
+[146:23.69]The Disrupt says 17.
+[146:24.62]I mean, yeah.
+[146:30.23]For we all must stay safe.
+[146:31.84]I can see insulation just...
+[146:34.97]It's poking out over there.
+[146:36.62]See you Thursday.
+[146:37.62]Thursday.
+[146:37.100]Thursday.
+[146:38.70]Thursday.
+[146:41.64]Thursday.
+[146:42.59]Thursday.
+[146:43.55]Thursday.
+[146:51.07]Thursday Thursday Thursday
+[147:01.07]If we're not allowed in here on Thursday and we start a war.
+[147:10.81]I'm going to try to get like 10 more people in safety vests.
+[147:21.25]General Washington.
+[147:22.74]Oh my God.
+[147:27.13]That was so funny that it's like, oh, yeah, we can do this Wednesday.
+[147:30.26]Actually, hold on.
+[147:31.08]We actually can't do it on Wednesday.
+[147:35.71]Oh, my God.
+[147:38.61]This shit's so fucking funny.
+[147:40.29]Hey, well, we have a date now.
+[147:41.70]Thursday at 3 p.m. We're getting in there one way or another.
+[147:56.51]General Washington.
+[147:57.49]Yeah, you can refer to me as, you know, you know, my middle name is George.
+[148:04.39]You can call me General George Washington.
+[148:07.64]Fuck no, I said his middle name was B.
+[148:11.45]You're gonna get every clown?
+[148:12.69]Dude, I have... Dude, we gotta... We gotta fucking... We got some work to do.
+[148:17.85]We got some work to do before Thursday.
+[148:21.19]How many clowns are there?
+[148:26.39]be like strapped we gotta get in there with there's a lot of clowns
+[148:31.32]There's like 30 clowns?
+[148:33.67]What?
+[148:34.01]Dude, I need more people.
+[148:36.32]We need more people.
+[148:43.03]It's 30 plus people.
+[148:44.91]Our clowns.
+[148:46.43]What do we got?
+[148:47.24]We got... Dude, we got to get the...
+[148:50.63]Los Limones.
+[148:51.96]All of them.
+[148:53.18]Everybody.
+[148:53.92]Be fucking here.
+[148:56.04]We gotta get the whole safety department that we have at the DOC.
+[148:59.99]We need...
+[149:02.47]You better believe I'm going to bring like 30 fucking people.
+[149:04.58]I'm bringing 30 people on Thursday.
+[149:10.86]This is actually such perfect RP, too, because it's like, you're denying an inspection?
+[149:16.95]This is the third time that this inspection has been denied.
+[149:20.48]Oh, you don't want to do that.
+[149:21.70]Like why are the safety inspectors supposed to be so menacing?
+[149:25.53]This is so perfect.
+[149:31.36]Like, it actually could not have gone better.
+[149:33.37]I'm glad that this is happening on Thursday.
+[149:35.18]This is perfect.
+[149:42.82]Get Ron for coverage.
+[149:44.13]Yeah.
+[149:44.37]I'm going to be making some phone calls.
+[149:55.21]Uh, I'm gonna have to move my wow stream.
+[150:01.20]I was going to be potentially, me and Ster were going to play WoW on Thursday.
+[150:05.39]So that's getting moved.
+[150:11.94]There'll be some wiggle room there for sure.
+[150:26.69]Yeah.
+[150:26.98]No, it can be moved.
+[150:27.66]It shouldn't be a problem.
+[150:29.31]Because I think...
+[150:32.33]Getting this situated, I think, is something that needs to happen.
+[150:35.48]This is almost like the culmination of everything that Gil's been doing, right?
+[150:41.93]I think this is a huge deal to make sure that we can actually get a ton of people here on Thursday.
+[150:56.95]So we definitely have at least 10 people.
+[150:59.97]We're going to, we're going to start a recruitment.
+[151:05.03]I wonder if I should still restarting or not.
+[151:13.92]If you don't let us in, this means war.
+[151:15.96]I said the, but I meant a war of minds.
+[151:21.07]What do you mean?
+[151:21.49]Physical war.
+[151:22.01]What are you talking about?
+[151:22.83]No, I meant that.
+[151:23.85]Just a war of intelligence.
+[151:29.24]Dude, I...
+[151:30.66]I want to line up everybody and do like a fucking Braveheart-style monolog to everybody before we go in.
+[151:45.46]I want to get there and just set up all the cameras and just do a, like, I'm going to, I'm going to retcon my lore.
+[151:53.85]Gil G. Washington.
+[151:56.04]You can call me General George Washington.
+[151:58.29]That's so funny.
+[151:59.09]I'm doing it.
+[152:01.41]Do they have horses?
+[152:02.21]I don't think there's horses in the game.
+[152:12.35]I think this might be stuck, let me see.
+[152:28.54]Because I definitely want to at least put in, because I'm probably going to stop streaming here.
+[152:32.53]But I would, well, if it's nighttime, we can, I, no, actually, I'm not going to, no.
+[152:38.58]Because if I go do home inspections, I could die.
+[152:43.86]And I need to stay alive before Thursday.
+[152:49.43]So I think we're going to put the recruitment message out there.
+[152:56.75]And then I might call it there.
+[153:02.60]I was only planning on streaming for like three hours or so.
+[153:05.56]Just a quick one.
+[153:07.68]But I'm going to log back in because we need to put the... Oh, if you guys want to see who I was on when me, Burn, and Poke were...
+[153:15.73]There he is.
+[153:17.72]There's Test Stevenson.
+[153:20.48]It's literally preset 2.
+[153:28.69]But yeah, let me get back in and I'm gonna I'll throw out the I know that I'm not on Donnie.
+[153:39.86]I'm going to throw up some phone calls.
+[153:41.08]I'm going to put the recruitment message out there and then
+[153:49.10]I'm gonna probably call it for today.
+[153:54.69]But let's start the recruitment process.
+[154:00.32]My friend in safety vest.
+[154:01.14]Alright, let me call him.
+[154:16.40]Make a group chat.
+[154:19.28]Alright.
+[154:20.68]That's right.
+[154:20.98]Some people probably aren't on.
+[154:24.99]What I'll probably do is I have some stuff I need to do over the next couple of days.
+[154:30.38]So I'm probably going to log in.
+[154:33.28]off stream and just make some phone calls over the next few days.
+[154:40.32]Because I've got some IRL stuff I'm doing over the next three days here.
+[154:43.63]So I probably, I don't want a lava lamp on Gil, but I'll probably just log in and just make a few phone calls.
+[154:49.83]There might be a lava lamp Donnie though.
+[154:51.95]I might just kind of chill and play it over the next two or three days.
+[154:54.57]So keep an eye out for that.
+[155:00.81]But yeah, I will get this set up because I think this is going to be a crazy day on Thursday.
+[155:07.09]I'm looking forward to it.
+[155:11.77]Yeah, trying to – it's funny, trying to, like, get, like, schedules in the same place because I always start at, like, 3 to 5 p.m. Pacific.
+[155:19.29]And for a lot of people, that's when they're like stopping.
+[155:21.23]They're like ending their streams or ending their RP and they're gone.
+[155:24.78]So maybe we can cross the paths here.
+[155:30.36]So it's always funny.
+[155:31.58]I see like I want to get back in touch with Heath.
+[155:34.97]I think like Heath and Donnie have like some fun stuff they can do.
+[155:38.06]But every time it's just like all bosses.
+[155:39.87]Boss is not on.
+[155:40.69]Fuck.
+[155:41.46]I missed him by like 30 minutes.
+[155:44.43]That seems to happen sometimes.
+[155:45.42]So I completely get it.
+[155:47.40]I think this is a great way to have this culminate into like a giant thing if we can.
+[155:51.13]So it should be funny.
+[155:55.64]Baza's on right now?
+[155:56.54]Well, good, because we're going to raid him really soon.
+[156:01.19]Because I've wanted to raid Baza for a long time on the main channel here.
+[156:12.14]I actually might, I'm just gonna send some messages out.
+[156:32.20]Safety has no... We need people for this.
+[156:38.61]Bring the entire...
+[156:45.28]Bring the entire safety club on Thursday.
+[156:49.19]We need everyone we can get.
+[157:01.28]I'm going to send Baron a message.
+[157:35.47]Let's get it done.
+[157:47.30]Huge, huge ups to Carla because I think if Carla didn't have that kind of contact, I'm not so sure this would have even happened.
+[157:54.89]So huge, huge W to Carla.
+[158:30.08]How are you?
+[158:56.56]Without any oversight.
+[159:05.35]Understood Actually, I could call him
+[159:20.23]How's it going?
+[159:20.69]How's it going?
+[159:21.17]I'm fired up right now.
+[159:22.66]I'm fired up.
+[159:23.26]I feel like we got exactly what we want here.
+[159:30.18]You get the entire safety club.
+[159:32.84]Everybody.
+[159:33.46]We need as many people as we can over there.
+[159:35.42]If they're not going to let us in...
+[159:38.10]We'll find a way.
+[159:38.64]We're going by force.
+[159:40.08]Exactly.
+[159:41.07]Well, force of the minds.
+[159:42.03]Force of the minds, right?
+[159:43.17]Of course, force of the minds.
+[159:44.64]But we're going to war.
+[159:46.30]We're going to war, Carlos of the mind.
+[159:48.24]We are going to war.
+[159:49.45]I'm fucking ready, cabrón.
+[159:50.83]For real.
+[159:52.55]I'm bringing all the S's.
+[159:54.75]Yeah, bring everybody.
+[159:55.76]We need all of them.
+[159:57.96]Every single one of them.
+[159:59.17]Trust me.
+[160:02.17]I'm heading to bed.
+[160:03.37]I'll be in touch over the coming days.
+[160:04.73]I'll get in touch with you.
+[160:05.53]We'll talk some more.
+[160:07.41]We're going to war of the minds.
+[160:09.50]We're going to fucking war, cabrón.
+[160:20.83]You too, cabron.
+[160:22.07]Yay!
+[160:22.45]Let me hear your work.
+[160:26.00]What the hell was that?
+[160:29.84]Okay, you want a war cry?
+[160:30.90]Fine, I'll give you a war cry.
+[160:40.20]Is he good?
+[160:41.34]That hurt my throat a little.
+[160:42.57]That hurt my throat.
+[160:43.65]An air bubble got stuck in my throat.
+[160:47.81]Alright, about to be good.
+[160:48.93]That's it.
+[160:49.31]Have a good night, fool.
+[160:50.37]Have a good night.
+[160:51.27]Have a great evening.
+[160:52.01]I'll call you very soon.
+[160:52.91]Thank you.
+[160:53.65]Round up everybody.
+[160:54.59]Yeah, you too.
+[160:55.51]Orale.
+[160:55.89]I will.
+[160:56.35]I will.
+[160:56.81]Don't worry about it.
+[160:58.90]Adios.
+[161:00.36]Adios.
+[161:00.70]That was the worst noise.
+[161:08.99]Dude, I'm pumped, dude.
+[161:09.99]This is going to be so fun.
+[161:11.13]I'm so excited.
+[161:12.03]We're going to do...
+[161:12.66]This is going to be a fucking war at the funhouse.
+[161:21.00]Thursday, 3 p.m.
+[161:23.27]In the meantime, you might see me on Lava Lamp.
+[161:26.03]There's a few things I want to just kind of chill and play as well.
+[161:27.92]Maybe you'll see me over there.
+[161:29.76]But we'll be live again here over here Thursday, 3 p.m. for The War of the Minds.
+[161:38.53]Take care of yourselves.
+[161:39.67]I'm going to raid Baza because I keep not, like I said earlier, like trying to catch when people are online.
+[161:47.97]I look forward to meeting some of these clowns because I think...
+[161:53.71]It's going to be interesting.
+[161:56.06]It is going to be interesting.
+[161:57.24]I don't know.
+[161:59.19]It should be very, very fun, though.
+[162:00.69]I'm very excited.
+[162:05.25]Alright, take care.
+[162:05.81]I'll see you guys later.
+[162:06.61]Let's raid Bazo.
+[162:11.36]And I'll see you guys in a few days.
+[162:19.42]See you later.
+[162:20.36]Be good.
+[162:20.70]Be nice.
+[162:21.12]Make sure you say hello, 12th best friend.
+[162:27.59]He'll know what you mean.
+[162:30.14]or 13th best friend.
+[162:34.90]Take care.
+[162:35.20]See you in a few days.
+[162:36.18]Bye-bye.
+[162:52.21]Did you come up with that clown doctrine?
+[162:53.99]No.
+[162:55.05]I think that's an actual thing.
+[162:56.94]Uh, the mods linked it and I grabbed it and I just started reading it.
+[162:59.25]See you later.
+[163:22.100]you
