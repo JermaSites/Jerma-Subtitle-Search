@@ -3,11 +3,11 @@
 <!-- Statistics -->
 
 ```
-Video Count    : 2543
-Word Count     : 29,079,203
-Duration       : 6128:43:45
+Video Count    : 2703
+Word Count     : 31,810,378
+Duration       : 6690:16:19
 Oldest Video   : 2005-07-16
-Latest Video   : 2026-03-04
+Latest Video   : 2026-11-20
 ```
 
 Subtitles are obtained using [a Python script](/src/scripts/get_subtitles/get_subtitles.py).
