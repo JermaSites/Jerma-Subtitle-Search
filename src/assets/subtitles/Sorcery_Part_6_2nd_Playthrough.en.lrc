@@ -1,0 +1,2354 @@
+[re:Lavf63.16.100]
+[ve:63.16.100]
+
+[00:04.46]I'm going to lower the volume so it's not horrible.
+[00:09.89]Can one of the mods make the game sorcery?
+[00:20.93]It ends June 26th at 10 a.m. Oh.
+[00:24.16]Alright.
+[00:28.30]But the demos aren't going away, right?
+[00:30.43]If I get some more of them?
+[00:31.51]Or maybe they are.
+[00:32.13]Hey, you haven't seen this in a very long time.
+[00:42.60]Most of them are.
+[00:43.65]Some of them, but not all of them.
+[00:46.85]Alright.
+[00:48.14]So.
+[00:49.52]Hello, everybody.
+[00:50.22]Welcome back to Sorcery.
+[00:53.55]This is technically the third part.
+[00:56.38]This is episode three of Sorcery.
+[00:59.66]Let's go over this.
+[01:00.90]I think there's a lot of new viewers here over the last year.
+[01:05.94]I would highly recommend you go watch the Sorcery Part 1 and Part 2.
+[01:12.77]We're technically on the third game.
+[01:16.37]If you want a quick recap, I can give it to you.
+[01:23.53]But.
+[01:26.100]I need a recap too.
+[01:29.98]This is a choose your own adventure game.
+[01:33.24]It's based on a series of books by Steve Jackson.
+[01:37.27]Steve Jackson made a ton of Choose Your Own Adventure books.
+[01:43.29]This series is one of them.
+[01:45.03]Wildly seen as the best in all of the... Well, that's subjective.
+[01:51.51]But of all the books that Steve Jackson did, this is considered to be a really, the good ones, the really good ones.
+[01:59.69]You can buy these books.
+[02:02.97]These books still exist, but
+[02:06.74]This company, Inkle, took all the books and made them into a full, complete board game.
+[02:14.96]where all the choices are the same.
+[02:16.60]It's pretty much a one-to-one reimagining of the whole thing.
+[02:23.06]There's a lot of choices.
+[02:24.40]The choices matter a lot in this game.
+[02:26.69]You can screw up big time.
+[02:30.56]We had a thing where the amount of rewound... Who is he talking to?
+[02:34.61]My mother's on speaker right now.
+[02:35.98]She's muted.
+[02:38.16]But come on.
+[02:39.57]My mother wants to catch up.
+[02:41.39]Still there, ma'am?
+[02:43.20]Alright, yep.
+[02:44.22]So Ma, when you last saw
+[02:49.63]We were in the Baklans.
+[02:51.34]These are the Baklans.
+[02:53.32]The first two episodes are sort of spoilers, by the way, if you don't want to miss any of them.
+[02:56.81]If you want to see the whole thing as it played out.
+[02:59.18]Very high quality entertainment.
+[03:00.86]Really, really engaging stuff.
+[03:03.68]I recommend you watch it.
+[03:04.62]But, if you don't care, and you're just like, yeah, I just want to see the guy click on stuff.
+[03:08.84]The last thing that we did... We got... We are the Anilander.
+[03:14.32]Our goal is to go get the Crown of Kings.
+[03:18.31]The crown of kings is the most powerful artifact in the world.
+[03:21.11]It has the power to do anything.
+[03:23.45]Essentially, you're turning on god powers if you have the crown.
+[03:26.100]The Archmage, who is the main antagonist of the game, has the crown.
+[03:31.52]Stole it.
+[03:34.65]We need to get it back.
+[03:36.73]We went through treacherous shit.
+[03:39.49]We are currently going through the Backlands.
+[03:47.04]Interestingly enough, there are assassins now trying to kill us.
+[03:54.51]In episode three, in the third game, your goal is to get through all of the backlands.
+[04:01.31]and killing and taking the essence of all of the serpents.
+[04:06.13]There are seven serpents, and they are trying to kill me.
+[04:10.69]We have already killed one or two of them.
+[04:15.91]I forget who they were.
+[04:22.53]The Final Fantasy XVI panel is still up.
+[04:27.24]Sorry, Square Enix was really good to me.
+[04:29.14]So, they can stay.
+[04:35.08]Square Enix was wonderful to work with.
+[04:38.11]So, I mean... Anyways.
+[04:44.93]Anyways.
+[04:47.90]We're going to just see what the last few things were.
+[04:52.59]So we were talking to somebody.
+[04:54.36]There's time travel.
+[04:56.37]Keep up.
+[04:58.55]Each one of these devices, there are two full maps in this game.
+[05:03.28]One of them is in the past, the other one is in the present.
+[05:06.29]We need to go back to the past, moving these units around.
+[05:10.53]Wherever these units shine in that cone is in the past.
+[05:17.40]Can you follow?
+[05:17.96]Keep up.
+[05:18.31]Come on, Gwen.
+[05:20.09]We need to go find some serpents in the past.
+[05:23.85]Keep up.
+[05:24.19]Come on, Gwen.
+[05:28.30]The last thing that just happened.
+[05:31.89]Actually, let me, let me, I want to play one of the best songs ever, ever recorded.
+[05:35.72]So let's do that first.
+[05:36.88]Let's take a look at some of the spells.
+[05:38.02]We're just doing a recap, I know.
+[05:39.36]Some of you are probably like, alright, fuck this guy, I'm out of here.
+[05:41.59]That's alright, that's fine, we'll see you later.
+[05:45.17]If you're wondering where...
+[05:47.50]the sus command is from.
+[05:50.08]It's not because I'm the fucking sus guy.
+[05:53.05]That's not what it is.
+[05:54.87]This is from seven or eight years ago.
+[05:58.45]Sauce is a command.
+[06:00.38]It's a spell in sorcery.
+[06:04.94]There are dozens of spells that you can do.
+[06:08.23]In most scenarios, they give you pretty good options.
+[06:12.85]Stuff like... Jig.
+[06:15.81]When cast, the recipient will get an uncontrollable urge to dance.
+[06:19.33]This works.
+[06:20.26]You can do this to pretty much anybody.
+[06:24.94]There it is.
+[06:26.75]It's Sense Danger is the name of the spell.
+[06:29.68]That's where it's originally from.
+[06:33.41]Could you please say Steve Jackson's sorcery in your sorcery voice?
+[06:37.28]Yeah.
+[06:41.05]Ladies and gentlemen, welcome.
+[06:43.38]To the third episode of Steve Jackson's Sorcery.
+[06:52.66]There you go.
+[06:53.16]You can use that wherever you want.
+[06:58.24]I want the song to replay though.
+[07:05.50]Oh, we have a god, too.
+[07:06.66]We have spirits.
+[07:07.42]So, right now, you can pray to your spirit.
+[07:12.48]Our spirit right now is the ape.
+[07:14.100]If we're in a bad scenario, something bad is happening.
+[07:20.02]Oh my God, I don't know what to do here.
+[07:22.09]They give you an option to pray to your spirit.
+[07:25.69]Sometimes they listen.
+[07:27.24]Sometimes they don't.
+[07:28.62]Sometimes they actually think it's funny when something bad is happening to you.
+[07:32.24]Depends on who you have.
+[07:33.91]There are dozens and dozens, if not thousands, it's probably like 10.
+[07:38.70]We have the ape right now.
+[07:40.26]Strong beast, intelligent, and prudent, who takes great pride in acting faithfully to be depended on.
+[07:46.98]So we can depend on the ape.
+[07:48.84]Sometimes it's like, oh, the scorpion.
+[07:51.95]or the, the, uh, the, the, the Panther or, and they have different things that they do.
+[07:59.17]You can also pray to heal.
+[08:00.69]We have 29 gold.
+[08:01.65]I have 3 stamina.
+[08:03.73]Why don't we take a look at the...
+[08:05.51]This is the... Yeah, this is the song.
+[08:10.06]Clues.
+[08:12.53]Alright, we need to read some of these because it's been a long time.
+[08:15.50]The Seven Serpents' weaknesses.
+[08:18.18]They all have a weakness.
+[08:25.14]The Seven Serpents threaten your journey, but they carry a message that will warn the Archmage of your coming, but each has a weakness that if discovered will allow you to destroy them.
+[08:35.63]Okay.
+[08:36.87]I think we just start moving.
+[08:38.59]We... We... You know?
+[08:42.18]Thankfully we can see where we've been.
+[08:43.46]So the last thing that happened was... What was the last thing?
+[08:51.28]Dintenta.
+[08:52.08]Dintenta of the steppes.
+[08:53.02]Oh, they call me...
+[08:53.62]Wait, wasn't this a serpent?
+[08:55.55]I intend to kill the seven serpents who tell her, and she laughs.
+[08:58.48]Many have had that intention.
+[08:59.74]Very few know their weaknesses.
+[09:02.39]But you know them.
+[09:03.81]The Serpent's weaknesses are the most heavily guarded secrets in the whole of Mampang.
+[09:07.50]She replies dramatically before smiling.
+[09:09.23]Of course I know them, or at least I know of two.
+[09:12.49]Your mom's still on the phone?
+[09:13.67]Oh.
+[09:14.90]Alright, Ma, I gotta go.
+[09:15.64]You caught up?
+[09:16.06]She said yes with a smiley emoji.
+[09:20.88]Alright, perfect.
+[09:23.91]Alright, I'll talk to you soon.
+[09:25.100]Okay.
+[09:26.70]Bye, Mom.
+[09:28.56]Say hi to Dad.
+[09:30.02]Bye, Mom.
+[09:31.38]Okay.
+[09:34.08]What else do you know?
+[09:36.14]I know that your lack of gratitude is unbecoming and I shall transform you into a toad Tell me the sleepless Ram
+[09:44.67]Sleepist Ram is in Mampang Fortress, a guardian of the Archmage.
+[09:47.74]Alright.
+[09:49.68]It has a weakness.
+[09:50.74]Where can I find the seven serpents?
+[09:52.65]One goes, okay, one goes off to hide in the waters of Lake Iklala.
+[09:56.77]It means to pick you off as you cross.
+[09:59.07]but it will wait until you are alone.
+[10:01.45]If you travel with the ferryman, you will most likely be safe.
+[10:05.15]She shakes her head.
+[10:06.45]If that's not any help, I don't suppose it is.
+[10:10.03]What kind of sorceress are you?
+[10:11.47]You ask.
+[10:12.51]A busy one.
+[10:13.79]Why do you waste my time with stupid questions?
+[10:16.03]She turns to leave, begins to weave her spell around herself once more.
+[10:20.45]You wave her away, keen to continue your journey.
+[10:23.83]Dentainta becomes an ugly creature once more, and a moment later, she whisks herself away across the plains and is gone.
+[10:30.84]Climb is uneventful and the slopes are silent.
+[10:32.60]You've found three new clues.
+[10:34.14]Alright.
+[10:35.63]So.
+[10:37.39]We've got further up, we've got across the plain, and then we have downhill.
+[10:44.40]I am going to say, let's go this way.
+[10:49.15]Forest of... We have not... We've explored a lot of this.
+[10:52.100]Some of it in the past, some in the present.
+[10:56.51]But I think it's time to go through the Forest of Snatta.
+[11:00.65]So they mean to jump me in Lake Iqalala.
+[11:03.99]I need to remember that.
+[11:06.51]Let's go for it.
+[11:07.61]Here we go.
+[11:09.10]Time to begin.
+[11:13.62]Rick.
+[11:17.62]You return up the winding path at the top of the mountain.
+[11:20.38]Night falls and you are worn out.
+[11:22.98]You should try to find somewhere safe to sleep.
+[11:25.53]From the top of the mountain, the view across the plains in both directions is gloomy and dark.
+[11:29.91]But you see no way down to the east.
+[11:32.41]There is nowhere on the exposed peak to sleep safely.
+[11:35.76]You must keep walking.
+[11:37.29]Time to head for lower ground.
+[11:41.12]Alright, broken down bridge.
+[11:43.19]Down the steps.
+[11:49.56]We can go this way, but... No, let's go for it.
+[11:52.62]Fuck it.
+[11:55.20]You step onto the foot of the ruined bridge and then over.
+[11:58.63]You drop a few feet to the slope below in a controlled fashion.
+[12:02.38]And then you begin to skid.
+[12:03.93]Sliding and slipping down the loose stones, you are gathering speed fast.
+[12:10.46]You are falling.
+[12:13.71]Your boots shoot out from underneath you and you skid down the slope on your cloak, arms out backwards trying to keep you level.
+[12:19.96]You're about halfway to the thick trees below.
+[12:24.06]concentrate on balance, pray to the ape, or cast a spell.
+[12:28.46]Keep in mind, this is very important.
+[12:30.59]Mom, I know you're not there anymore, but it's alright.
+[12:33.69]Casting spells cost Stamina between 1 and 3.
+[12:39.45]If I cast a spell, I will die.
+[12:42.49]I think we do have to pray to the ape.
+[12:44.53]Let's see if the ape will help us.
+[12:47.51]To pray, you need to close your eyes despite the rushing wind, the scattering stones, the sudden precipices that come and go.
+[12:56.10]Close my eyes.
+[12:57.76]Despite the skidding rocks, you close your eyes and begin to raise a prayer to the ape.
+[13:01.89]You feel the stones either side slowing themselves just a little.
+[13:06.15]From a blur to a mere streak, the canopy approaches at speed.
+[13:10.100]I think it worked.
+[13:17.97]You hit the ground slowly and cannot help but give thanks to the ape for your salvation.
+[13:26.28]Good.
+[13:27.76]Okay.
+[13:28.44]I would pray for healing right now, but I want to keep...
+[13:33.60]If you pray for healing, they'll go away for an extended period.
+[13:36.85]It's kind of like a, oh shit button.
+[13:40.44]Sometimes it doesn't work.
+[13:41.28]That's actually surprising.
+[13:42.14]That's good that it worked.
+[13:45.07]Alright, let's look back.
+[13:47.78]You cast a look back at the mountain slope, but it is all but sheer.
+[13:51.12]There's no way to climb it again.
+[13:52.86]You'll have to move onwards.
+[13:54.91]You pick yourself to your feet.
+[13:57.29]You're on the edge of the thick trees with no discernible path forward.
+[14:00.42]You'll have to fight through the trees as best as you can.
+[14:04.66]Alright, so here we are.
+[14:05.38]I guess we're gonna keep heading this way.
+[14:11.24]You barge your way through thick trees.
+[14:14.35]Can you guys hear the background music?
+[14:18.41]Pretty sick desktop reveal.
+[14:21.78]Default Windows, Andy.
+[14:26.81]Okay.
+[14:28.93]Nice wallpaper.
+[14:30.89]I hear, yeah, I hear it.
+[14:33.14]Just the music gets a little loud, so just keep that in mind, I guess.
+[14:36.04]The mixing is a little off.
+[14:40.16]Nice wallpaper, default windows wallpaper.
+[14:46.19]Tell that wallpaper story again.
+[14:48.08]What, that I just don't...
+[14:49.20]I just make it something and don't use it?
+[14:51.26]I don't change it ever again?
+[14:53.73]Alright, you barge your way through the thick trees, pushing branches from your face.
+[14:56.06]Things chitter in the leaves all around.
+[14:58.16]Alright.
+[14:59.04]Uh, I'm gonna keep moving.
+[15:00.86]You crash on through the thick foliage.
+[15:04.60]Alright, only one way to go.
+[15:09.57]You erupt from the trees onto an old path that winds a narrow course through the forest.
+[15:15.44]The trees loom around you, twisted and old.
+[15:18.54]You explored the forest in the Xumantanti Hills when you met Aliana, but that was a mere copse.
+[15:24.70]in comparison to this.
+[15:26.79]The forest is ancient.
+[15:29.08]The forest of Snata is ancient, and it is a maze.
+[15:33.07]There are no roads through it, only twisted paths and dead ends.
+[15:36.35]But who knows what secrets it may hide?
+[15:39.08]The forest by night is a terrifying place, full of strange noises and shifting shadows.
+[15:43.85]You are certain something is following you.
+[15:46.84]But when you turn, there's nothing there.
+[15:51.87]I've played this game before.
+[15:53.53]I know what it is.
+[15:54.98]I know what it is.
+[15:56.02]I think.
+[15:58.72]I think I need to do this though, but do I have enough?
+[16:02.79]Do I have any healing potions?
+[16:09.23]Oh, we have a lot of goblin teeth, giant teeth.
+[16:11.15]We have a lot of the good magic items.
+[16:13.62]So most of the spells in the game you cannot cast unless you have a magical item.
+[16:19.65]These are kind of hard to come by and we did a really good job But I don't think I have any
+[16:30.66]I don't have any heals, do I?
+[16:41.10]I need to cook.
+[16:47.30]Tell the orchestra to stop!
+[16:51.07]That's what I mean by the mixing and the audio mixing is a little off because the music is fantastic.
+[16:56.68]But if I lower this.
+[16:59.46]then everything else will be lower.
+[17:02.12]It's alright.
+[17:03.32]And it's beautiful.
+[17:04.05]We're going to keep going.
+[17:09.16]Alright, we're going for it.
+[17:12.75]This is gonna be loud.
+[17:15.01]That part always is.
+[17:16.36]Just keep that in mind.
+[17:20.24]Alright, we can do Yaz, which is cause invisibility.
+[17:28.70]We can do fall, which is float in the air.
+[17:31.63]However, I think something's behind me.
+[17:38.49]There is obviously sus, which is sense danger.
+[17:42.31]The sun, which is create light.
+[17:46.28]I think we have to do it just because, right?
+[17:52.93]You cast the enchantment and a calm voice begins to speak to you.
+[17:56.79]This part of the forest is thick with Snattercats.
+[18:00.56]They're invisible unless they have their eyes open.
+[18:03.97]Their sense of smell is good enough to track you down.
+[18:06.63]Okay.
+[18:09.04]Okay.
+[18:14.23]I think we keep moving.
+[18:15.95]I have two health.
+[18:19.82]You pick up your pace.
+[18:20.83]If you walk for long enough after all, the sun will rise.
+[18:26.85]It's decision time.
+[18:28.90]Where we going?
+[18:30.51]VODs?
+[18:33.03]Put a two-minute poll up.
+[18:34.31]Are we going east or are we going south?
+[18:38.70]Very different directions, considering this is gonna have us go all over here.
+[18:43.19]This one's gonna have us go all over here.
+[18:45.09]Keep in mind, this is very important.
+[18:48.07]How many choices are in the game, really?
+[18:50.63]Uh, fuckload.
+[18:53.68]Uh, shitload.
+[18:56.94]So it's not like, oh, okay, this probably all connects to the same thing.
+[19:02.92]A lot.
+[19:13.36]That doesn't mean you can swear.
+[19:14.48]Oh yeah, when we play Sorcery, I gotta go PG-13 mode.
+[19:18.34]You're right.
+[19:23.30]Pretty much 50 50.
+[19:26.20]Every time I click out of here, you're going to see my background, but it's alright.
+[19:31.09]It is 50 50.
+[19:33.31]That means it's streamer's choice by the way.
+[19:41.67]50-50 is streamer's choice.
+[19:52.100]The game is like Elden Ring, but you're not allowed to leave the map screen.
+[19:55.93]Time that person out for six or seven months.
+[20:11.27]Alright, where are we going?
+[20:12.63]Maybe we'll make all the polls 60 seconds.
+[20:18.00]We're not gonna do a poll for every single choice.
+[20:19.91]I'm just, you know, showing that sometimes we do it.
+[20:25.95]You ever beat this one the try-hard way?
+[20:29.96]No, every time I've ever played Sorcery again, I kind of just casually play it.
+[20:33.32]I don't ever do any, like, the meta or, like...
+[20:36.97]I know there's a way you can get them all pretty quickly.
+[20:39.83]Is it still 50-50?
+[20:42.46]Well, something has to win.
+[20:44.06]There's no such thing as a tie on this Twitch poll.
+[20:50.30]This way.
+[20:51.44]Okay, south it is.
+[20:52.97]Thanks for playing.
+[20:57.29]You walk on between the trees, the dead of night is still and cold.
+[21:00.84]Something prowls close at hand.
+[21:03.32]Suddenly, you catch a pair of eyes in a low bush.
+[21:09.57]Look at the eyes.
+[21:10.33]Alright, this is a Schneider cat.
+[21:15.62]I think we need to just...
+[21:17.61]I don't know.
+[21:18.67]I'm gonna look.
+[21:23.53]The artwork is amazing in this, by the way.
+[21:26.14]They pull it, essentially they rip it right from the books.
+[21:32.55]The eyes are narrow with thin vertical pupils and orange irises.
+[21:37.47]A moment later, another pair of eyes appear, followed slowly by a body.
+[21:41.82]These creatures are becoming visible as you watch.
+[21:45.34]These must be Snattocats.
+[21:52.15]There they are.
+[21:53.97]Look at them.
+[21:54.75]Keep walking.
+[21:55.35]Alright, what if I just keep looking at them?
+[22:00.15]I'm gonna look at them more.
+[22:03.49]They are about the size of a large dog with ugly snub noses.
+[22:08.36]Their black fur is trimmed with yellow flashes.
+[22:12.31]One of the creatures steps out of the bushes to stand in front of you, then vanishes.
+[22:16.48]Oh, shit!
+[22:20.19]Maybe just listen.
+[22:23.46]You listen.
+[22:25.49]Footsteps across the leaves and branches cannot be disguised.
+[22:28.85]The cats are pacing towards you.
+[22:37.54]Cloud.
+[22:39.41]What can I do here?
+[22:42.69]Rock.
+[22:43.99]Turn to stone.
+[22:45.70]I don't have any stone dust.
+[22:50.63]Uh, gob.
+[22:52.48]Summon a goblin.
+[22:54.22]This is free, by the way.
+[22:56.67]This does not cost stamina.
+[22:58.59]We might get a goblin friend to come help us.
+[23:02.70]Gak is cause fear.
+[23:04.42]I don't have the face mask.
+[23:09.20]Gum is glue.
+[23:10.19]I don't have glue.
+[23:11.21]I think we have to have a goblin come out because it's free and I only have two.
+[23:14.31]Yeah, all these are going to cost at least one.
+[23:17.56]This one's three.
+[23:18.30]Yeah.
+[23:18.84]Let's see what a goblin's gonna do here.
+[23:21.02]I have five goblin teeth, so we're good.
+[23:22.55]Let's let it roll.
+[23:27.22]You pull a goblin tooth from your pack and drop it on the ground, casting your spell across it.
+[23:31.63]The tooth erupts into a column of smoke and a moment later, a goblin warrior is standing in front of you.
+[23:37.98]Order the goblin to attack or hide behind the goblin.
+[23:43.70]Attack!
+[23:45.50]You direct the goblin forward, ordering it to draw its sword, but the goblin is stupid and does not realize the Snaticat is even there.
+[23:53.56]A moment later, your little champion is dead in the mud.
+[23:56.90]It's little throat slit.
+[23:59.51]The body disappears in a puff of smoke and you draw your sword.
+[24:03.64]I should have...
+[24:04.81]Okay, this is bad.
+[24:09.06]So there is combat in this game.
+[24:10.47]For those of you that need to understand how this works, I will give a very brief overview.
+[24:15.26]It's just, like, bluffing the video game, because I have a stamina bar that's 9 points.
+[24:22.27]Snaticat has a stamina bar that's 7 points.
+[24:25.06]No, it's also it's probably eight because look at how big it is.
+[24:31.02]So how this works is if I hit defend, I won't do anything.
+[24:37.21]If this character attacks, I will always take one damage.
+[24:42.96]I will, yeah, this is health.
+[24:44.77]Stamina is health in this game.
+[24:46.05]This is like a different bar.
+[24:47.87]So, some people's bars are this tall, some people have
+[24:50.78]this big and some people this isn't gonna be hard.
+[24:54.26]So again, I have to make sure that if I am going to do this,
+[25:00.46]that it will be higher than what they do.
+[25:04.00]So if I go, okay, I'm gonna go 4.1 for strength.
+[25:07.53]and the Snaticat does 4.2, I lose and I take damage and it'll kill me because it's going to do like three or four damage.
+[25:15.57]If I defend, it'll always be one damage I take if they attack too.
+[25:20.62]Now, here's a very important thing for you to realize.
+[25:25.56]If I go full blast, it'll be fine, but then my bar is zero.
+[25:32.88]When the bar- it takes a few turns to recharge this.
+[25:37.53]So you can really get yourself in a lot of trouble.
+[25:41.35]Uh, I'm gonna say it's 1v1.
+[25:45.02]It's gonna be, I'm going full blast.
+[25:47.12]And it was a stupid idea because I just burnt almost my whole stamina bar and I did nothing.
+[25:54.91]Because the cat's invisible.
+[26:01.32]You can't even see it.
+[26:04.31]The Snaticat stares hard at you then closes its eyes and vanishes.
+[26:07.18]You take a risk and charge head on.
+[26:08.96]Okay.
+[26:13.94]I'm dead in one hit.
+[26:18.14]Your caution pays off as the slavering cat appears suddenly diving for your blood, eyes wide open, now staring with murderous intent.
+[26:26.40]You react on instinct, dodging behind a tree for cover.
+[26:29.14]You're shaken but mostly unharmed.
+[26:31.52]The Snattercat closes its eyes once more.
+[26:34.06]You see it is tensing, preparing to pounce.
+[26:37.78]I gotta go full blast on this.
+[26:39.50]Yep, got it.
+[26:42.79]Good.
+[26:45.13]OK.
+[26:45.43]I am.
+[26:45.99]I need to pray to the
+[26:51.27]We're good.
+[26:51.77]Alright.
+[26:52.40]I got five health from that.
+[26:54.78]He's gonna go away now, but I prayed to the ape.
+[26:57.21]Everything's good.
+[26:59.41]I have more health.
+[27:02.15]If something bad happens later, then that's just the way it is.
+[27:04.64]Alright, what did he do last?
+[27:06.18]Like, four?
+[27:08.14]How much bar does he have?
+[27:09.52]I'm going...
+[27:11.22]Okay.
+[27:13.91]This is going to be a huge full bar attack.
+[27:16.81]Snaticat does not reappear and your blade finds only empty air.
+[27:19.69]Alright, now I defend.
+[27:21.87]Oh, okay.
+[27:24.100]Nothing else happens.
+[27:25.78]You wait.
+[27:26.26]Eyes fixed on the empty air.
+[27:27.98]Again.
+[27:28.86]Yep.
+[27:31.70]Okay.
+[27:34.13]Snaticat runs for your throat.
+[27:35.31]Quick as a flash, you leap out of the way, but you cannot defend forever.
+[27:38.13]Alright, Snaticat just used full stamina bar.
+[27:44.81]I'm gonna defend.
+[27:49.97]You stay crouched.
+[27:51.54]You sense the Snaticat prowling.
+[27:53.22]It is somewhere very close.
+[27:54.58]You can almost feel its hot, wet breath.
+[27:58.39]You think it appears?
+[28:00.05]I'm going all in.
+[28:00.81]Got it.
+[28:09.07]You bring all your strength to bear on the creature's hide, the Staticat turns on the spot, prowling the space between you.
+[28:15.17]Snatic head fades from view as it turns about on the spot.
+[28:18.26]I'm going in again.
+[28:20.14]See you later.
+[28:21.57]Only one damage?
+[28:22.43]What?
+[28:25.64]Its fur seems to bristle with electricity.
+[28:28.11]You turn your grip about for a wild attack and the blow lands deep.
+[28:31.82]The Snaticat wails in agony with a keening, almost human sound.
+[28:40.25]Do I dare?
+[28:42.57]Oh, I did it!
+[28:43.29]With .1 damage.
+[28:46.00]I got it.
+[28:46.48]Nice.
+[28:48.95]You risk a swipe, your sword plunges deep into the creature's throat.
+[28:52.14]It drops to the ground and those delicate, powerful eyelids close.
+[28:57.51]Continue.
+[28:59.29]The other Snaticats prowl closer, slowly circling around you.
+[29:03.35]Uh-oh.
+[29:04.63]Did I gotta do this a few times?
+[29:08.32]Do I continue or do I fight or do I just try to get out?
+[29:12.36]Fight the next one.
+[29:12.94]Let's go.
+[29:15.59]You pick the next closest creature and ready your attack.
+[29:18.71]The remaining Snaticats look between each other.
+[29:21.35]Then close their eyes and vanish from view.
+[29:23.36]The leaves rustle as they disappear into the trees.
+[29:27.86]Oh, cowards.
+[29:30.82]Pry loose the dead cat's teeth.
+[29:33.31]Yeah, there's probably going to be magical items here.
+[29:36.40]Working with the tip of your blade, you pry free the creature's front two incisor teeth.
+[29:40.50]It's bloody work, and once done, that grass underfoot is sodden.
+[29:44.85]Then there's nothing more to do.
+[29:46.49]You walk away, wiping invisible blood from your blade.
+[29:49.64]Something massive looms between the trees south of here.
+[29:55.11]You must continue your journey, but you are weaker than you realize.
+[29:59.11]Perhaps you should simply rest here for a few hours and regain some strength.
+[30:04.99]Yeah.
+[30:08.21]gratefully you seat yourself and enter the meditative state taught to you by your masters.
+[30:13.38]A sensation of great peace enters your body.
+[30:17.32]Hours pass.
+[30:19.26]In the distance, the sun breaks over the horizon.
+[30:21.51]You've been awake all night and are weaker for it.
+[30:24.93]You stand once more.
+[30:29.44]Day 8, in the forest.
+[30:30.66]During the past day, you reached the forest of Snata and you defeated the Moon Serpent, the first of the seven serpents.
+[30:35.59]We did beat the Moon Serpent.
+[30:37.98]Okay.
+[30:38.10]Okay.
+[30:41.74]Did it take my stamina away?
+[30:42.86]Alright.
+[30:43.86]Well, obviously we're going to keep going south.
+[30:45.23]We're not going to go back up that way.
+[30:49.18]You follow what might be a path, and it might be an old river, through the trees of the forest.
+[30:53.52]As the morning moves on, the wind begins to rise.
+[30:56.61]you are standing in the shadow of some colossal stone structure that rises up from the trees and disappears into the clouds.
+[31:03.35]You stride forward.
+[31:04.67]You must reach Iklala and the road to lower Zamin.
+[31:09.59]Every passing day brings danger.
+[31:18.85]That bird is fucking loud.
+[31:23.19]Things rustle in the branches all around.
+[31:25.51]As the sun climbs towards Zenith, the wind picks up.
+[31:29.99]You emerge into something of a clearing with a stone pillar at its heart.
+[31:33.94]Not a tower, but one leg of an enormous arch,
+[31:37.54]built such an incredible thing.
+[31:39.57]And how long ago was it done?
+[31:40.95]Cool.
+[31:51.36]The trees are thinner, replaced by climbing weeds and shrubs that grow in and around the broken stones of the bridge.
+[31:56.94]You make your way to a point where the path splits.
+[32:00.53]Look up at the arch.
+[32:02.31]You crane your neck back to look at the stone pillar.
+[32:05.13]Made of bricks, each one of a normal size, but thousands upon thousands in number.
+[32:10.18]They climb up into the air in a stack no wider than a tree, but three times taller than the tallest in the forest.
+[32:17.78]Look higher.
+[32:20.25]Then, almost beyond what you can see, the stone begins to form a curve, branching into the beginning of an arch.
+[32:27.56]But the rest of the arch has crumbled into ruin.
+[32:30.49]And this single leg is all that remains.
+[32:32.97]The pillar might be climbable, otherwise several paths lead into the trees.
+[32:38.94]Alright, this is where it's going to get funky.
+[32:44.22]Uh, we're not, we're not leaving.
+[32:47.44]Climb the pillar, but where's that going to put us?
+[32:52.05]So we started here.
+[32:53.86]We couldn't go across.
+[32:55.36]This will get us on the top of the bridge.
+[32:58.26]Is there anything on the top of the bridge that's important?
+[33:01.22]Or do we just simply go down here?
+[33:07.97]Pray to the ape.
+[33:09.44]I can't, I already did.
+[33:12.33]Uh, yeah, whatever, let's climb it.
+[33:17.10]Intrigued, you approach one of the brick pillars to see if it might be climbable.
+[33:21.26]Indeed, the stones are worn and filled with pock-marked holes in finger grips.
+[33:25.96]But you cannot seem to manage the climb up while holding your sword.
+[33:29.76]You will have to unbuckle your blade if you want to climb up.
+[33:35.45]What do I have for a weapon?
+[33:37.15]Because if I lose this, I'm going to be fucking really mad.
+[33:43.30]Okay, I have a hewing axe.
+[33:50.36]I don't want to lose any items.
+[33:55.31]Thank you.
+[34:01.61]It's alright, it's just a generic sword.
+[34:03.91]I think the axe is the more important one though.
+[34:07.54]Alright, let's go.
+[34:08.40]Fine.
+[34:11.75]You unbuckle your weapon and leave them in a tidy pile at the foot of the pillar, covering them up with large leaves.
+[34:19.11]Then you begin to climb.
+[34:21.59]The going is tough, and once you start, you begin to understand quite how tall the stone pillar is.
+[34:27.30]You've barely reached the forest canopy when you need to stop for breath.
+[34:31.17]And at the same time, you are not even a third of the way to the top of the arch.
+[34:36.04]I have an opportunity to stop doing this.
+[34:41.38]Uh, we don't have the ape anymore.
+[34:42.68]Keep that in mind.
+[34:45.98]You keep climbing after five more minutes.
+[34:48.67]Your arms are aching with the effort, but you have an incredible view across the forest.
+[34:54.07]It fills this basin from the mountains in the east to those in the west.
+[34:58.04]Its canopy so tightly self-entwined, it is almost like a sea.
+[35:02.57]The top of the bridge is still some distance above you.
+[35:04.67]Okay.
+[35:09.50]Let's go.
+[35:13.52]You climb even higher until your arms begin to scream with pain.
+[35:17.65]You are so high up now that to drop would not simply be fatal,
+[35:23.04]It would be enough to bury you six feet into the Earth.
+[35:26.85]Before your arms give out, you swing yourself into one of the bridge's levels to rest.
+[35:33.43]Some wily coyote shit.
+[35:35.67]I'm losing stamina too, that's not good.
+[35:37.80]Alright, rest.
+[35:40.61]This is a lower roadway, one layer down from the top of the bridge.
+[35:44.57]Perhaps this was used for servants or goods trucks.
+[35:48.48]When the road above was for nobles,
+[35:51.22]At any rate, there seems to be no stairs or ramps to the higher level, but the view is incredible.
+[35:59.63]Maybe the bridge.
+[36:03.98]You pause to admire the arches holding up the layer above, graceful giant stones stacked with unerring precision.
+[36:12.28]Whoever built this must have been three times the size of the largest hill giant, and yet as dexterous as a weaver.
+[36:19.26]Scratched into the stone, you see a small insignia.
+[36:22.46]The wind blasts through the arches for a moment, making a fluting, moaning sound.
+[36:31.30]Whoa.
+[36:32.79]Looking.
+[36:40.34]Okay, what does it say?
+[36:44.31]The emblem forms the shape of a jagged peak.
+[36:47.51]You recognize it, of course, from your training.
+[36:50.15]It is the jagged rocks of High Zamen, on which stands the fortress of the Archmage.
+[36:57.36]These stones were set by Xamin magic then.
+[37:00.81]It is said the Archmage is old, but surely not so old as to have overseen this.
+[37:05.94]Something rustles in the weeds nearby.
+[37:08.87]What are the weeds?
+[37:11.96]You approach the bushes, then freeze.
+[37:13.88]A pair of eyes is staring back.
+[37:15.46]Uh-oh.
+[37:22.17]J- jump off the bridge?
+[37:27.64]But what if it- okay, what if it's not a Snaticat?
+[37:31.52]Jump off the bridge, I dare you.
+[37:35.23]You are trapped up here.
+[37:36.33]No way to escape and no way to fight.
+[37:37.89]There is little choice but to jump.
+[37:40.01]So without thinking too hard, you turn and fling yourself over the side.
+[37:44.56]It is a long way to fall.
+[37:53.72]You hit the ground with a neck-twisting thump.
+[37:56.99]You have fallen to your death.
+[37:58.58]Game over.
+[38:06.17]Alright, that was for fun.
+[38:07.64]That was for a joke.
+[38:10.52]We go back.
+[38:14.01]We're going back to here.
+[38:18.56]There is a rewind feature.
+[38:23.67]No rewinds.
+[38:24.49]Yeah, we...
+[38:25.74]Okay.
+[38:27.61]What's the rule for this playthrough here?
+[38:29.85]I forgot.
+[38:30.27]I think it was three.
+[38:34.30]Three per stream, right?
+[38:37.10]Doesn't matter.
+[38:37.56]Alright, so let's get back to where we were.
+[38:41.69]It was I searched the weeds.
+[38:45.24]There's a pair of eyes staring back.
+[38:46.54]But what kind of eyes?
+[38:47.64]Do I know?
+[38:48.14]A pair of eyes is staring back.
+[38:51.19]This could be a person.
+[38:52.59]This could be a different animal.
+[38:53.82]I'm gonna listen.
+[38:56.61]You've listened intently.
+[38:58.36]Something is crawling on its belly towards trying to stay hidden.
+[39:02.56]Whatever is lurking there, it is crawling closer.
+[39:12.91]Yeah, probably snake.
+[39:16.79]Curious.
+[39:23.59]Mud.
+[39:27.34]I could throw a fireball in there.
+[39:28.68]I could just whip a fireball in there.
+[39:32.53]But I don't know what it is.
+[39:36.85]Uh, walk is shield.
+[39:41.40]Wall, I believe it's wall, is create an invisible wall.
+[39:44.38]Too much stamina.
+[39:55.09]Float in the air.
+[39:57.54]Shield is probably good.
+[39:58.42]Yeah.
+[40:01.69]Walk is only one, but it does require something, doesn't it?
+[40:05.17]Requires one stamina and one gold piece.
+[40:09.32]Yeah, let's do it.
+[40:12.06]You place a gold piece on your...
+[40:13.55]I have 28 gold.
+[40:14.59]Plenty of money.
+[40:15.65]You place a gold piece on your wrist and cast a spell, and a moment later, the coin is gone.
+[40:19.15]You feel the weight of an invisible shield on your arm.
+[40:22.48]At least you will be somewhat defended.
+[40:24.44]The shape moves nearer still.
+[40:31.61]You go over to the bushes and spread them apart with one arm.
+[40:35.49]Lying a shadow inside shadow is a human figure on its front.
+[40:41.60]It looks up at you with eyes just visible through a cloth mask.
+[40:47.53]Now there is a face I have not forgotten.
+[41:00.23]I almost... That's not...
+[41:02.82]It's Flanker!
+[41:06.19]You stare in surprise.
+[41:07.09]It's Flanker.
+[41:09.11]Okay, we almost killed Flanker.
+[41:10.58]I almost threw a fireball at him.
+[41:12.73]The assassin jumps ably to his feet and then brushes himself down.
+[41:17.30]Well met.
+[41:19.88]Okay, we need some context.
+[41:21.96]Flanker is an assassin who tried to kill us in the first game.
+[41:26.36]Spoilers go watch or go play.
+[41:28.18]It's a go play it don't even watch it go
+[41:32.30]go buy this whole series and just get a cup of cocoa dim the lights a little
+[41:40.72]and play it.
+[41:42.00]It's such a wonderful experience.
+[41:46.75]It is so worth it.
+[41:48.58]This is, people that ask, what's your favorite game of all time?
+[41:51.60]This is like top five.
+[41:52.77]Sorcery, the whole series is like top five.
+[41:54.93]This one and the fourth game get kind of really hard and annoying in some places, but still I wouldn't take it off that list.
+[42:03.32]Sorcery, without a doubt.
+[42:05.32]This is probably top five.
+[42:06.51]Ever.
+[42:13.97]Unreal bad taste.
+[42:17.29]Steve Jackson is like the inspiration for a shitload of things that you probably play right now.
+[42:24.53]I'm just telling you, Steve Jackson's fantasy book series, they're the road that has been paved.
+[42:32.61]He paved the road.
+[42:34.03]This shit was made in like the 70s.
+[42:38.61]Ban that guy?
+[42:39.17]No.
+[42:39.90]No.
+[42:40.54]We're not gonna ban anybody.
+[42:42.44]I don't want to ban that person.
+[42:44.59]I want that person to say, hey, wait a minute.
+[42:47.89]Let me give this a chance.
+[42:49.96]They're already gone.
+[42:54.10]No, I'm telling you, it's a wonderful franchise.
+[43:00.31]No, I'm not banned for that.
+[43:02.47]That's an opinion.
+[43:04.06]You think that I have bad taste?
+[43:05.24]That's your opinion.
+[43:05.90]And that you, you can have that.
+[43:10.40]And I'm gonna do some unbearable voice acting, so it's actually probably a good thing that you left.
+[43:16.22]Alright, what are you doing here?
+[43:20.32]Oh, I'm making my way to High Salmon, where I'm needed.
+[43:24.66]You can see the wilds of the Backlands have been harsh on the assassin.
+[43:27.45]His eyes burn with a hollow fire.
+[43:34.36]How did you get here?
+[43:36.36]To this bridge?
+[43:39.46]I leapt across the batterback gorge.
+[43:41.73]I climbed the batterback ridge and used my climbing hooks to descend into the trees.
+[43:46.98]I've killed seven Snattercats before I found this bridge in which to shelter.
+[43:52.79]How have you made the journey?
+[43:54.77]I forget how Jorah Mormont talks.
+[43:58.54]It's supposed to be Jorah Mormont and it was way better like seven years ago.
+[44:03.46]I haven't seen any Game of Thrones in a long time.
+[44:07.05]Okay.
+[44:07.83]How have you made the journey?
+[44:11.05]Uh, I'll tell them about the beacons.
+[44:13.67]By means of the beacons.
+[44:15.92]The beacons?
+[44:17.42]You've used all the magic of the Archmage?
+[44:20.01]Then no doubt he's sending bird-men as we speak to have your head.
+[44:24.89]as he speaks he draws his sword and runs two gloved fingertips along its length honing the edge
+[44:36.90]I had no choice.
+[44:39.06]There is always a further choice.
+[44:41.37]You are reckless, Anilander, and foolish.
+[44:48.32]Will you travel with me?
+[44:51.05]I will not.
+[44:52.50]You are the target of the Archmage.
+[44:54.73]You're of the most powerful enemy in the land.
+[44:57.94]Anor Lander, I do not mean to kill you.
+[45:01.35]I would have done that in episode one.
+[45:02.79]I do not mean you ill, but time spent with you is dangerous.
+[45:10.10]Help me before you go.
+[45:13.03]Remember, you are in my debt.
+[45:16.94]In truth, I know something that may be of use.
+[45:19.96]A black elf whom I killed for her supplies told me that the goddess Throth...
+[45:24.66]is the mortal enemy of the Earth serpent, and can help you defeat him.
+[45:29.79]It may be true, it may not be.
+[45:32.04]I cannot be sure.
+[45:34.91]With a final salute, Two Fingers drawn across the neck in the manner of his guild, Flanker straps his sword to his back and swings himself onto a pillar.
+[45:44.57]With enviable speed, he scrambles up to the top of the bridge.
+[45:49.39]The last you see of him is a figure in black leaping away to the east.
+[45:56.92]Well, good to see a flanker.
+[46:00.69]Yeah, flanker is.
+[46:01.59]This game allows you to have.
+[46:05.43]a handful of characters that
+[46:09.13]you can party up with, if you want to call it that.
+[46:13.11]They all have their own stories, they all have their own stuff.
+[46:15.20]They all can die.
+[46:17.20]They all can die very early.
+[46:19.92]It's a wonderful franchise.
+[46:20.93]Just try it.
+[46:21.43]That's all I'm asking you to do.
+[46:23.03]Try it.
+[46:24.62]Some of you guys tell me that you sit down in the living room with your whole family and watch this stream.
+[46:31.26]Whoever's doing that right now, turn me off now.
+[46:34.59]Go get sorcery.
+[46:36.26]And the whole family can do this.
+[46:40.66]Sit down with your whole family.
+[46:42.55]You do that right now anyways.
+[46:43.61]Sit the whole family down.
+[46:45.01]Make some muffins.
+[46:48.36]Alright, let's climb.
+[46:54.82]How much is Sorcery on Steam?
+[46:57.61]I think each episode is like $5.
+[46:58.87]Maybe.
+[47:07.11]It's like $4 for one of these.
+[47:09.97]It's 15 bucks, like 15 for all of them.
+[47:17.38]There's like a hundred hours worth of content, by the way.
+[47:24.85]13 for 1 and 2, 10 for 3, and 10 for 4.
+[47:29.43]27 for all of them is worth it.
+[47:33.59]Alright, let's look down at the forest.
+[47:36.68]Let's really take it in.
+[47:39.22]Looking down at the forest, you can make out a tower through the treetops to the southeast.
+[47:44.25]Brass shines from its top.
+[47:45.92]Looking southwest, you see a flash of fire through the trees, squirming and moving in a curious way.
+[47:52.87]And in the northeast, you see curling smoke rising as though from a chimney stack, though you cannot see a house.
+[48:00.04]The giant stone pillars cast long shadows.
+[48:03.98]Interesting.
+[48:04.52]Let's go.
+[48:06.15]You look out at the side of the bridge for handholds to the top
+[48:10.84]but can find nothing that looks safe enough.
+[48:13.31]It seems this is as high as you will be able to climb.
+[48:19.18]Oh, maybe I should have casted a spell.
+[48:22.61]Float.
+[48:24.77]Shit.
+[48:30.97]Turning your eyes to the eastern mountains, you spy the end of the bridge, jutting a short way over the valley.
+[48:37.06]And beyond it, you catch the flash of water.
+[48:39.74]Lake Iklala.
+[48:42.31]Somehow then, you must climb those summits if you mean to continue your journey.
+[48:47.93]Birds wheel and turn between the stones above.
+[48:50.56]You swing yourself back off the bridge, onto the pillar,
+[48:53.70]Okay.
+[49:04.75]I'm not jumping, right?
+[49:11.56]Alright.
+[49:22.95]Go through the forest of Snata.
+[49:24.35]We know what is possible there.
+[49:28.84]Or head over towards this little pond?
+[49:32.57]Lake?
+[49:34.64]This also is one of those time travel beams.
+[49:38.34]It's going to be able to be aimed like this pretty much in any direction.
+[49:42.51]I think if it were me, I would want to head over here and activate this because we can probably go back in time and fix the bridge.
+[49:54.20]I think that's where I'm going.
+[49:55.92]Streamer's choice.
+[50:03.82]You head away from the bridge and into the forest.
+[50:07.73]Very cool.
+[50:10.57]The path winds torturously through the forest.
+[50:13.53]Your shield shimmers out of existence.
+[50:15.74]Oh, I still had the shield.
+[50:18.44]Ooh, alright, okay.
+[50:20.16]The sun has reached its highest point now.
+[50:23.39]The hot sun is shaded by the trees all around.
+[50:25.86]The smell of rotting leaf mulch fills your nostrils.
+[50:33.33]I think I wanna turn this on.
+[50:39.26]Oh, we can see the movements.
+[50:41.38]We know where you are.
+[50:43.84]As Flanker told us, we know where you are.
+[50:49.56]Yeah, I'm going easy.
+[50:56.10]You walk on between the trees.
+[50:58.18]The afternoon is starting to draw on.
+[51:00.19]The forest path curves past the shore of a deep, flat pool.
+[51:05.97]Forage for food, look across the water, cast a spell, make a move.
+[51:10.44]Forage for food.
+[51:12.63]You take a moment to forage through the nearby bushes for edible looking plants.
+[51:16.06]You find a couple of mushrooms and a handful of nuts.
+[51:19.76]Take the nuts or try a mushroom.
+[51:21.62]This is going to be drugs.
+[51:24.61]And I'm gonna like fucking pass out into the water.
+[51:36.06]You tear off one corner of the mushroom and put it into your tongue.
+[51:40.55]It tastes well enough.
+[51:45.06]You stuff the rest of the mushroom into your mouth.
+[51:47.52]A moment later, you find the corners of your vision are popping and discoloring.
+[51:52.13]It must be tiredness.
+[51:54.53]Drink some water.
+[51:55.82]Out of the pond?
+[51:57.90]You go to drink some water and collapse?
+[52:04.19]I just said it was going to happen.
+[52:06.57]Why did I do that?
+[52:08.31]You go to drink some water and collapse face down in the pool.
+[52:11.76]You feel unable to push yourself upright.
+[52:13.68]Strange things happen as you begin to drown.
+[52:17.45]Loud noises!
+[52:19.11]Explosions are going off close by your ears, making you jump from side to side.
+[52:23.78]The explosions match the rhythm of your heartbeat almost, but not quite precisely.
+[52:27.99]But that's not all.
+[52:30.28]fat worm made of firecrackers, seems to be crawling out of one of your eyes and crossing the bridge of your nose into your other eye.
+[52:38.50]It leaves a slime trail of pink fire in its wake.
+[52:42.67]You remember your mother, but she appears to have been a goldfish.
+[52:48.36]Strange, shadowy creatures, bats perhaps, have removed the top of your head.
+[52:53.87]One by one, they take out your memories, polish them and organize them into a better pattern within your skull.
+[52:59.100]Oh, thanks.
+[53:01.19]The dreams, Coletsins.
+[53:04.26]You are overcome by a vision of your future.
+[53:06.97]You stand in a clearing, halfway up a mountainside.
+[53:10.40]In the middle of the clearing is a tombstone.
+[53:12.91]You stand beside it with a vial of water in your hand.
+[53:16.44]What is happening?
+[53:19.21]Look at the vial or the water.
+[53:21.19]Stand back.
+[53:29.38]Look at the vial.
+[53:32.63]You look down at the vial to see that it shimmers with a strange internal glow.
+[53:39.53]pour it out.
+[53:40.87]You pour the water onto the Earth, and it seeps down through the soil.
+[53:45.69]There is magic in the air.
+[53:48.88]Something punches the Earth below where you stand.
+[53:52.57]Wait.
+[53:54.11]You wait, and a moment later, a skeletal hand erupts through the soil and grabs you around the ankle.
+[54:00.79]Something is hauling itself up from the ground, using your leg for purchase.
+[54:05.69]The vision fades.
+[54:06.49]The sun is sinking.
+[54:07.19]It will be dark soon.
+[54:09.71]My head hurts.
+[54:13.59]You stagger up to your feet, head beating and stomach feeling wretched, to find you have thrown up while you were unconscious.
+[54:22.12]Lucky that no animal has been attracted by the smell.
+[54:25.42]You quickly bathe your face and hands in the pool and get ready to move on.
+[54:31.32]I think I'll take a bite of this weird mushroom.
+[54:40.13]And then my eyes just roll in the back of my head and I fall face first into a pond.
+[54:44.12]I'm thirsty.
+[54:45.60]That was really stupid.
+[54:49.19]The water extends away to the southeast, towards the dark shadows of the next range of mountains.
+[54:54.36]It's not quite a lake, but large for a pool, and who knows how deep it is.
+[54:59.96]On the far side, you see another stone tower.
+[55:04.27]The ape here.
+[55:05.74]Ooh!
+[55:06.64]The ape is back.
+[55:09.85]Good old, good old ape.
+[55:13.59]Test the water?
+[55:19.54]What do I have access to?
+[55:22.40]I'm going to go in that water and I'm going to drop a bunch of fucking items.
+[55:25.18]I'm going to lose everything.
+[55:29.56]How?
+[55:30.61]Find safe passage.
+[55:31.59]Maybe it'll give me a good place to go.
+[55:37.31]Zen is hover.
+[55:38.15]I don't have the item.
+[55:41.14]Zip is teleport.
+[55:42.80]I don't have the ring.
+[55:44.46]By the way, all the games are connected.
+[55:49.02]So if you're wondering, what do you mean you need to have that item?
+[55:52.13]At some point over the first two parts of the campaign, you can get this.
+[55:56.48]You can also lose it too.
+[56:02.24]I don't know how.
+[56:04.29]How is cheap, right?
+[56:05.85]Yeah.
+[56:10.21]Looking to the constellations above, you craft the spell and a quiet voice speaks into your thoughts.
+[56:15.55]The voice tells you calmly,
+[56:17.55]that the water is too deep to walk through, but could be safely swum.
+[56:23.94]Okay, test the water.
+[56:30.00]The water must be freezing cold, but if you had to swim, you could probably survive it.
+[56:35.17]I don't want to lose anything though.
+[56:43.33]If I go across this, it's possible I lose items.
+[56:52.40]You stride down to the edge of the water, take a deep breath, and dive in.
+[56:56.88]Of course, all your water-damageable possessions have been ruined.
+[57:01.76]Thankfully, the pages of your spell book are protected.
+[57:04.89]What does that mean?
+[57:07.98]What did I have?
+[57:14.06]Did I have anything important that got ruined?
+[57:19.37]I don't know
+[57:23.12]I think I have everything still.
+[57:34.10]It was dude, the iPhone.
+[57:46.80]I think I'm OK.
+[57:47.28]I don't think I lost anything important.
+[57:59.73]You swim across the water and pull yourself up on the other shore.
+[58:02.57]The sun has all but gone.
+[58:04.55]Soon it will be dark.
+[58:06.47]Nestled in a curve of the eastern cliffs is a stone tower.
+[58:10.24]It is heavily overgrown with thorny branches, and its base is almost obscured by shrubs and tangled weeds.
+[58:19.52]Okay.
+[58:22.38]Let's take a look.
+[58:23.62]Looking up at the tower, it looks similar to the others you've seen, built from the same giant-sized blocks of stone.
+[58:28.93]The only differences are the tree branches that spill out through cracks in the mortar and the leaf canopy that erupts from the top.
+[58:37.77]Remember, your cigarettes are ruined.
+[58:39.27]It's alright.
+[58:41.46]I don't have the ape.
+[58:43.00]I don't have very much health.
+[58:44.24]So I'm just going to try to go through.
+[58:46.32]You have your hewing axe and cleave quickly through the branches that surround the base of the tower.
+[58:51.44]The axe's keen edge makes short work of the thorns, and you have soon cut a path to the tower's door.
+[58:57.74]Cool.
+[59:00.60]Something seems to rustle and move just inside the tower door.
+[59:12.31]He's finally playing Tears of the Kingdom.
+[59:16.05]You step up to the tower door and step inside into the shadows to be met by a soft,
+[59:22.37]Damp smell.
+[59:23.62]Tower.
+[59:27.70]You step into the dark interior of the tower.
+[59:31.05]Shadows loom from all sides, and though you can see nothing,
+[59:34.96]there is the sense that something dominates the space.
+[59:45.20]Feel my way forward or wait for my eyes to adjust.
+[59:48.87]Wait.
+[59:51.66]You hold back, waiting for your eyes to adjust.
+[59:55.11]Slowly, details filter in.
+[59:57.17]You're standing at the base of a gigantic tree.
+[60:00.10]By the girth it must be at least 500 years old.
+[60:03.29]A wooden staircase winds around the trunk and disappears into the canopy.
+[60:08.94]The tree is wider than your outstretched arms and has thick branches and leaves despite the dark.
+[60:13.83]Somewhere up above used by a metallic glint.
+[60:17.11]Time to explore.
+[60:19.12]Okay, we're good.
+[60:23.72]You climb the spiraling wooden stairs, picking your way through and over branches.
+[60:27.65]Someone has carved something into the bark of the tree here.
+[60:32.57]What's it say?
+[60:34.88]Whoa.
+[60:37.66]You regard the carving with some interest.
+[60:41.01]It is triangle formed from three stars, a spell.
+[60:45.56]Using your spell book as a reference, you match the stars and the carving to those you know until you have the spell memorized.
+[60:51.30]This is the SSS spell.
+[60:54.87]though from what you can make out of its alignment, it would need a focus to work, a ring most likely, with a curious coiled fashion, snake-like.
+[61:04.46]The SSS spell has been recorded in your spellbook.
+[61:08.40]Really?
+[61:16.62]Oh shit.
+[61:25.91]Thank you.
+[61:36.72]Six most useful spells.
+[61:37.68]Okay, so I need to get the ring.
+[61:40.49]Whatever that is.
+[61:50.84]Is shrimps?
+[61:51.52]Is bugs?
+[61:52.71]Um, no.
+[61:53.17]It's like a crustacean or some shit.
+[61:55.39]Alright, you emerge onto a stone walkway built in a ring that allows the tree to grow through.
+[62:00.95]Resting in its branches is a brass contraption much like the ones you've already seen.
+[62:04.33]Its gears and bearing carefully enmeshed between the limbs of the tree.
+[62:09.95]As leaves gust back and forth, something else brass glints from within.
+[62:16.33]What is it?
+[62:18.84]You reach out to bend in the branch from which the gleam is coming.
+[62:24.64]It is a ring.
+[62:25.90]Slipped over the tip of the branch.
+[62:27.80]The wood has grown into the metal somewhat, suggesting the ring was placed here when the tree was somewhat younger.
+[62:33.68]Is it a snake ring?
+[62:37.16]You stand on tiptoes to peer at the ring.
+[62:40.02]It is some kind of marking but you cannot quite make it out.
+[62:45.82]Take it.
+[62:48.43]You try to work the ring back up the branch but it's too firmly ingrown.
+[62:53.13]You cannot get it to move at all.
+[62:56.10]Break the branch.
+[62:59.03]The wood is still alive, so breaking it is hard work.
+[63:01.95]But in the end, the branch gives, snapping violently in two.
+[63:05.19]The ring pings off the end and disappears into the nearby trees.
+[63:09.28]Shit.
+[63:11.60]Climb down.
+[63:18.64]Make your way quickly to the wooden walkway.
+[63:19.97]Look for the drop ring.
+[63:22.82]The undergrowth here is quite thick, and despite thrashing at the bushes, you cannot see any hint of the ring that fell from the tower.
+[63:30.17]It may not even have fallen this close to the tower's base.
+[63:33.43]So it's most likely at the bottom of the pool by now.
+[63:38.42]No it's not.
+[63:40.48]I'll use magic.
+[63:48.15]See the future.
+[63:50.63]I need to know what fucking bet to put on what football team.
+[63:56.27]Alright, see the future?
+[63:57.41]I still- I do have a crystal orb.
+[64:08.25]Xanus hover.
+[64:10.45]I could probably float.
+[64:12.75]Force field.
+[64:25.87]I guess I can only do force.
+[64:27.07]I can only.
+[64:28.41]I can see the future.
+[64:30.75]Let's go for it.
+[64:32.88]I'm going to see the future.
+[64:38.48]You settle into a sitting position by the roots of a tree and take out the Orb of Crystal.
+[64:43.37]You weave the starlight into your design around you and suddenly you find yourself somewhere quite new.
+[64:49.10]The world seems to disappear, replaced by a vision, a ring of tall, shadowy stones in a desolate waste.
+[64:57.65]You stand at their center, holding above your head a long yellow feather taken from some colossal bird.
+[65:05.21]You are casting a spell of curious power.
+[65:12.39]See what happens.
+[65:16.13]The spell begins to take hold and the feather erupts into flame, as though you held a fiery sword.
+[65:21.94]The fire reaches down your arm and into your bones and you feel yourself swelling with great strength.
+[65:28.55]The vision fades.
+[65:30.67]Darkness closes in and you are exhausted.
+[65:33.01]You need to rest, especially after going all day without eating.
+[65:36.90]Shit.
+[65:39.87]Shit!
+[65:51.42]Damn it.
+[65:53.68]Can I not get the ring?
+[66:01.33]I need to eat something.
+[66:02.03]I don't have any food.
+[66:10.65]Rewind.
+[66:16.61]How far back do I need to go?
+[66:23.60]Okay, look at the brass glint.
+[66:26.82]Look at the ring.
+[66:29.49]Take the ring.
+[66:35.09]Break the branch.
+[66:36.80]Leave it?
+[66:40.43]Shit.
+[66:47.31]Let's activate the... shit.
+[66:54.43]I think I have to break it.
+[66:56.18]Maybe time rewind time first tree won't be grown.
+[67:02.95]Wait, so leave it.
+[67:05.48]Oh, you're very smart.
+[67:09.92]Leave it there.
+[67:11.92]We're going to go back into the past.
+[67:14.27]Is that going to work?
+[67:15.25]That's actually pretty smart.
+[67:16.77]Alright, I'm going to let's just do it.
+[67:17.78]Let's activate it.
+[67:21.52]Scan the forest.
+[67:24.90]Look at the mountains.
+[67:27.30]Yep.
+[67:27.72]Okay.
+[67:28.10]Activate the beacon.
+[67:31.01]Here we go.
+[67:38.47]I can aim at... Hmm.
+[67:44.18]I could go right here.
+[67:45.16]I wonder if that helps.
+[67:50.57]Oh!
+[67:51.65]No, this is going to work because I will pull it off.
+[67:54.27]We're in the present right now.
+[67:56.55]It'll pop off and land over on the ground over there.
+[68:01.12]You adjust the contraption's position and focus carefully, watching the lens shift and change under its light as you make your adjustment.
+[68:06.60]Finally,
+[68:08.62]Satisfied you set the lantern into one of the things and step back.
+[68:14.05]Okay.
+[68:18.35]So now I have to... Can I pull it off now?
+[68:27.34]Do I have to pull it off first?
+[68:32.50]I may have done it in the wrong order.
+[68:39.68]pronounce the word crenellations, crenellations.
+[68:48.40]Uh, let's climb down and see.
+[68:53.14]Outside the tower.
+[68:57.13]Okay, make a move.
+[69:01.54]I don't think so.
+[69:02.46]I think I have to do it in the other order.
+[69:03.68]I think I have to pull it off first, and then I go back.
+[69:10.26]Shine beam, then do the ring.
+[69:12.75]Alright, what if I go back up the tower?
+[69:14.13]Will it give me the option to do it?
+[69:15.05]Okay, climb up.
+[69:23.62]Shit, I lost the opportunity to do it.
+[69:25.58]Let me see what happens if I pull it off and then do this.
+[69:27.81]Yeah, because I want to know because I've never gotten this ring before.
+[69:31.48]Maybe I did in my other playthrough.
+[69:32.60]I don't know.
+[69:40.10]Okay, eyes adjust.
+[69:42.61]Make a move.
+[69:45.76]Very loose with the rewinds this run.
+[69:47.72]Yeah, I know.
+[69:50.62]Look at the carving.
+[69:51.42]Yep.
+[69:52.26]Now we know the snake spell.
+[69:55.73]Go up.
+[69:58.46]Okay.
+[69:59.86]Look at the brass glint.
+[70:02.37]Take the ring.
+[70:06.41]Look at the ring.
+[70:08.74]Break the branch.
+[70:13.52]Alright, branch is broken.
+[70:15.33]Activate the beam.
+[70:17.100]adjust the beam, get rid of the water.
+[70:21.03]So now the thought, the theory is that this will be probably like right outside, just sitting here.
+[70:26.58]Let's take a look.
+[70:30.89]Okay, climb down.
+[70:31.57]Does that do it?
+[70:38.76]Look for the dropped ring.
+[70:44.97]Shit.
+[70:49.28]It's, it's, yeah, it's, it's, I can't activate it here.
+[71:02.19]Let's go see if it's out here.
+[71:10.02]Alright, cross the pool.
+[71:15.29]You splash through the water, but after a while it seems to dry up, leaving only dry rock.
+[71:21.15]You make your way easily to the other side.
+[71:23.67]In all directions, the forest has been replaced by marsh, except for here, a small, bald plain of rock
+[71:31.03]A little way to the southeast, a little... At least the stone tower still rises though it is dwarfed by the violent mountains behind.
+[71:39.36]Shit.
+[71:41.76]Uh... Alright, I know, I know, I know, I know.
+[71:45.46]Rewind, rewind, Andy.
+[71:46.62]I know, I know, I know, I know, I know.
+[71:48.23]I know, I know, I know, I know, I know.
+[71:53.33]How do I get this?
+[71:54.25]Do I need that item?
+[71:56.53]Alright.
+[71:56.99]Get it in your playthrough.
+[71:58.40]I don't need it.
+[72:05.25]Beacon first.
+[72:08.11]Okay, beacon first.
+[72:10.34]Which should be, like, where should I aim it?
+[72:13.46]Just to cover the water?
+[72:17.80]I think that makes sense.
+[72:32.45]Touch the crystal.
+[72:34.04]So when we touch the crystal, we can teleport to another beacon.
+[72:39.07]So let's actually...
+[72:41.93]Hold on.
+[72:46.81]Can I aim?
+[72:48.04]No, I don't have any other one unlocked.
+[72:50.80]Because sometimes if you have another one, you can aim it at the tower.
+[72:54.51]Point another beacon at it.
+[72:55.37]Yeah, I don't have any.
+[72:58.36]I have to get this probably one here, like down here that I can aim up this way.
+[73:10.83]Hmm.
+[73:11.41]Okay.
+[73:14.29]It's alright.
+[73:16.05]It's alright.
+[73:18.66]This is not as funny as the Jerma compilations on YouTube.
+[73:23.38]Um...
+[73:28.04]I mean, I'm just streaming, man.
+[73:32.57]The whole stream can't be a funny moments compilation.
+[73:39.04]That compilation is probably like eight minutes.
+[73:41.42]I've been live for five hours.
+[73:43.75]There's probably like two times during this whole stream where one of those clips would come from.
+[73:56.86]Maybe one of those happens a stream.
+[73:59.61]Maybe.
+[74:00.61]Sometimes.
+[74:01.07]I'm not so sure.
+[74:02.55]Sometimes I'm not so sure.
+[74:13.50]Turn the wacky dial up.
+[74:15.73]No.
+[74:16.65]No, we don't turn the wacky dial up during sorcery.
+[74:22.51]Well, let's make a funny moment for the clip compilations, right?
+[74:39.57]That was kind of funny.
+[74:43.68]Okay.
+[74:47.46]I wanna fix the...
+[74:50.31]I wanna fix the bridge.
+[74:52.95]Because I want to go over there.
+[74:54.43]I want to go back here and walk across it.
+[74:58.13]I need two of these though.
+[75:05.00]Can I get the whole thing in one go?
+[75:11.89]I don't think so.
+[75:13.33]I'll get the first part.
+[75:19.45]Now let's teleport here.
+[75:23.34]And I'm going to come over this way because I want to see the public something here.
+[75:38.43]OK, adjust the beam.
+[75:41.04]I'm going to aim this one.
+[75:50.08]This way.
+[75:56.80]Alright.
+[75:57.10]So we are here.
+[75:59.43]You adjust the beam around its track, sweeping the glow across the land.
+[76:02.40]Tie rope ladder to battlement.
+[76:04.78]What?
+[76:09.02]You turn about on the spot, taking in the view in all directions.
+[76:14.73]The fissure in the land is now to the south and rushes with water.
+[76:19.35]And where the light from the cylinder falls, all is bright and green.
+[76:22.54]The effect makes your eyes water.
+[76:27.69]Should I tie a rope?
+[76:28.32]I have a rope.
+[76:37.19]Maybe I should just do it.
+[76:39.96]Let's try it.
+[76:41.68]You fasten the end of the rope ladder to the battlements of the tower and then toss the rungs over the side.
+[76:48.85]Alright, let's go.
+[76:52.55]What did that do?
+[76:53.05]I don't know.
+[77:01.59]The inside of the tower is cavernous and empty, but for a stone staircase.
+[77:05.12]Why did I do that?
+[77:07.54]I want my rope back.
+[77:09.03]Yeah, I want my rope back.
+[77:17.78]Alright, actually time the people out saying muted.
+[77:20.48]That's a joke from like fucking 2016.
+[77:23.75]Come on, guys.
+[77:25.78]That's not going in the compilation.
+[77:36.43]Okay.
+[77:43.62]Alright, so now I wanna go back this way.
+[77:47.01]Over here, because I want to see what happens here.
+[77:49.88]What happens?
+[77:50.56]Can I like jump off maybe?
+[77:51.76]I have no idea.
+[77:52.93]Let's go find out.
+[77:58.88]Alright, follow an old road.
+[77:59.84]Dark just closes in.
+[78:00.60]You need to rest, especially after going all the way without eating.
+[78:03.23]I need to go to a town or something.
+[78:08.45]This is where I was.
+[78:09.01]That's where I started.
+[78:12.59]The cold night lingers on.
+[78:15.67]Alright, here we go.
+[78:19.08]The bridge is now here.
+[78:22.99]He lost a little gold, met Flanker once more, and found one new clue.
+[78:33.06]Ever played 80 Days?
+[78:34.04]Same people who made Sorcery.
+[78:35.80]I have, actually.
+[78:36.62]Long time ago.
+[78:38.00]That one's really good, too.
+[78:39.68]I like sorcery more because I feel like it's a little more involved.
+[78:43.89]But 80 days is very good too.
+[78:47.01]Okay.
+[78:48.09]You return up the winding path to the top of the mountain.
+[78:50.92]In the distance, the sun breaks over the horizon.
+[78:53.66]You've been awake all night and are weaker for it.
+[78:56.44]At the peak of the mountain is a sudden plateau looking down across a fetid swampy valley to the east.
+[79:01.41]but you may not need to tramp through them as a magnificent stone bridge spans outwards from its peak.
+[79:08.04]Let's watch for a second.
+[79:09.90]Altered by some sixth sense, you hesitate behind a rocky outcrop, just a figure shambles, just a figure shambles into view, emerging from a small hut
+[79:20.03]Beside the bridge.
+[79:23.42]Uh, look at the figure.
+[79:28.63]You stare at the hunched figure.
+[79:30.87]He is aged, leaning heavily on a wizened stick, with one eye much larger than the other, and a hunch on his back.
+[79:41.07]The figure shambles onto the first stone of the bridge, sighing at the effort.
+[79:50.04]Wait for him to cross.
+[79:52.51]I think I want to announce myself.
+[80:04.21]You get to your feet.
+[80:08.14]The figure turns to you, leaning heavily on its stick.
+[80:12.17]An ugly sort, what brings you here?
+[80:15.27]If Vankes bridge you wish to cross, prepared be for dismay and fear.
+[80:22.58]You are Vancass.
+[80:24.76]You're Vancass.
+[80:27.09]Vancass is my name, it's true.
+[80:29.39]I give you that, what good it do?
+[80:35.09]What lies in the valley below?
+[80:37.68]Martian murder tower death.
+[80:40.11]Above it all, a drop to catch the breath.
+[80:46.08]Approach the bridge.
+[80:55.16]You approach the bridge.
+[80:57.34]This is my bridge.
+[80:58.88]It spans a rift.
+[81:00.49]To pass you must provide a gift.
+[81:03.56]The sudden image of the Orb of Crystal pops into your head.
+[81:12.20]You want my Orb of Crystal.
+[81:17.84]We can do better than that.
+[81:19.64]Your prize is too much, Rogue.
+[81:22.37]VanCast shakes his head without interest.
+[81:24.91]Then the hunchback looks up sharply.
+[81:28.30]Unless a simpler price you'd gladly pay.
+[81:31.12]An arm, a leg, finger, pray.
+[81:39.96]Take my leg, take a finger.
+[81:42.58]No.
+[81:42.82]No.
+[81:49.39]You shake your head.
+[81:50.26]VanCast shrugs.
+[81:52.02]Just as you please.
+[81:53.67]Patience is some man's disease.
+[81:57.04]With a thought, he gently reminds you of the original price.
+[82:00.26]The Orb.
+[82:11.01]Fuck away.
+[82:12.24]Your heart, you find, is pounding.
+[82:13.92]You turn and leave to the mountaintop.
+[82:20.60]God damn it.
+[82:30.66]Hold on.
+[82:31.08]I want to wait one.
+[82:45.19]Okay, we're good.
+[82:51.69]Rewind Ronald.
+[82:55.16]Yeah, but I know.
+[82:56.86]We don't have any rules today.
+[83:01.30]Look, there cannot be rewind rules when it's the first time I've played in the middle of an episode a year later.
+[83:10.66]We'll do that next time.
+[83:12.66]Okay, announce myself.
+[83:16.39]You are Vancass.
+[83:17.81]It's me, okay.
+[83:20.06]What lies in the valley below?
+[83:21.40]Martian mud.
+[83:22.22]Approach the bridge.
+[83:26.09]Cast a spell.
+[83:32.26]Okay.
+[83:35.13]I could zap.
+[83:36.23]I could literally just fucking zap.
+[83:37.96]I could zap.
+[83:41.21]That's the meme one.
+[83:42.78]Pop is throw a grenade.
+[83:44.65]I don't have a pebble.
+[83:52.35]Uh, this is magic protection.
+[83:59.92]Dim is cause stupidity.
+[84:03.23]Let's try it.
+[84:07.25]You weave the starlight into your design around you, but VanCast raises one arm, on which is a huge bone bracelet.
+[84:15.05]He utters something under his breath and a moment later your spell has evaporated.
+[84:19.89]Curses like chickens will round yon head be flocked, Lest you learn that every spell you cast Is by another blocked.
+[84:29.46]You recognize the spell he cast, so then the spell of stupidity is negated by that of illusion.
+[84:35.39]You've learned a new counter spell.
+[84:38.82]Oh, okay, well...
+[84:48.35]I think I'm gonna give him a finger.
+[84:50.84]Should I give him a leg?
+[84:52.68]Zap?
+[84:54.38]Fine.
+[84:59.48]See what happened.
+[85:03.75]Zap.
+[85:09.51]gathering a bolt of lightning in your palm, but VanCast pulls out some kind of jeweled medallion in return and begins to hover up into the air.
+[85:16.52]A moment later, he is on the ground, and the lightning in your palm is gone.
+[85:21.52]If you will not learn the rule, you must expect to be taken for a cretin.
+[85:26.00]This spell is familiar to you.
+[85:27.29]It seems the magic of lightning counters the pattern of levitation.
+[85:32.27]Okay.
+[85:37.72]He wants the orb.
+[85:39.52]I could give him a finger.
+[85:40.98]I would rather lose a finger.
+[85:44.65]Take a finger.
+[85:47.19]Finger, you reply boldly.
+[85:49.13]Very good.
+[85:49.75]The price is made.
+[85:51.18]The littlest one now conveyed.
+[85:54.21]And he does not seem to do anything.
+[85:56.07]But the little finger on your sword hand bends backwards until it snaps with a click.
+[86:00.56]and then detaches falling to the dirt.
+[86:02.60]You howl in pain.
+[86:04.75]And that is that.
+[86:05.97]With a last clear nod, the hunchback steps from the bridge and back into his hut, leaving the way clear for you to pass.
+[86:18.10]Hey.
+[86:24.63]You step onto the bridge, the air moves a little.
+[86:27.16]Still icy, but fresh.
+[86:29.64]The flagstones laid along the bridge top form the straightest, smoothest road you've ever seen.
+[86:35.15]Finer even than the King's Road of Anorland.
+[86:38.89]Look down.
+[86:40.48]You cast a look over the side of the walkway and your head immediately begins to swim.
+[86:44.58]The drop is immense, the ground lost far below in mist.
+[86:48.09]How was this bridge built?
+[86:49.85]How could it ever be repaired?
+[86:59.79]Ooh.
+[87:02.08]The rising winds pull at your hair and cloak.
+[87:04.46]You reach the middle of the bridge, and the stones begin to shimmer and ripple.
+[87:08.37]The smooth white flagstones become cracked and old, pocked with holes and puddles, some of which have burrowed right through the path.
+[87:16.72]The grand pillars left and right are now broken, and up ahead you see something worse.
+[87:21.02]A gap.
+[87:26.41]The edge.
+[87:32.96]You pick your way to the broken edge through the thin clouds.
+[87:35.46]You can make out the canopy of a forest far below.
+[87:40.57]Ooh, I can use the ladder here.
+[87:45.05]Look down.
+[87:46.16]You look over the edge, but there's nothing to be seen, merely fallen rocks and empty air.
+[87:53.39]I don't want to lose a gold piece for no reason.
+[87:59.82]I'm going to use the... Because this would be a good way to get back up.
+[88:04.07]Oh.
+[88:04.19]Uh...
+[88:11.84]Toss a gold piece over the edge.
+[88:15.21]It turns and turns in the air and eventually disappears.
+[88:17.59]The drop is dizzying.
+[88:18.91]Well, I just wasted a fucking gold piece.
+[88:25.20]Damn it.
+[88:27.81]Well, I can't rewind for that.
+[88:31.10]What about over here?
+[88:37.49]Oh, this is so I can, okay.
+[88:41.79]This is, I can climb down here again.
+[88:46.75]I need the bridge to be complete.
+[88:48.59]Alright, I'm gonna teleport back over here.
+[89:00.87]You lost a finger for this.
+[89:03.50]Yeah, well, when I come back, when I can do this again, I wanted to pay Two Fingers.
+[89:09.95]Feeling like Herm, god of cloud cover, who walks the heavens as the day rolls by.
+[89:15.60]It's a great pity whoever built this did not think to build a bridge all the way across Lake Iqalala.
+[89:22.85]Alright, I'm just gonna get back here and we'll teleport.
+[89:26.42]Back to here.
+[89:28.03]And then...
+[89:29.23]I want to go down here.
+[89:31.60]There's a town here.
+[89:32.38]I need to buy food and stuff.
+[89:34.89]Yeah, I'm gonna... Let's go this way.
+[89:42.59]Okay.
+[89:43.89]Look in the hut.
+[89:46.23]Overcome by curiosity, you approach the hut.
+[89:48.95]It takes two circles to find there is no apparent door at all.
+[89:53.66]Uh, call out for VanCast.
+[89:55.73]You call out for VanCast, but there's no reply, and your voice is carried away by the endless wind.
+[90:01.73]Knock on the hut.
+[90:03.57]You tap once, then quickly stop, as you feel your skin sticking to the hut walls.
+[90:09.65]There are now grazed patches on your knuckles.
+[90:13.28]Looking more closely, you see the hut itself seems to not
+[90:16.65]be not canvas but a thick layer of skin.
+[90:23.49]Okay.
+[90:25.60]That's a little gross.
+[90:29.41]Head back into the forest of Snato.
+[90:38.10]I could also go.
+[90:39.16]Here now we did a lot of this already.
+[90:42.75]Some of this up here was not explored, but.
+[90:45.59]We can come back.
+[90:49.82]Play this with your family, Jerma said earlier.
+[90:54.68]You climb down the mountain and join the old road.
+[90:57.44]Clouds rumble as they roll across the inky sky.
+[91:00.56]It will be night soon.
+[91:02.01]Suddenly the ground beneath you rumbles and begins to slide into itself.
+[91:05.15]There's no time for a spell.
+[91:06.43]Your arms are wide trying to maintain your balance.
+[91:09.30]Jump.
+[91:10.81]You try to jump clear, but gain no decent purchase on the shifting sand.
+[91:15.78]Meanwhile, the ground is moving away faster and faster from under your feet.
+[91:18.99]You fall backwards, spreading out your legs to reduce your pressure on the sand.
+[91:22.29]Then you scramble back as fast as possible, trying to escape the growing pit.
+[91:27.50]God damn it.
+[91:37.43]Summon a giant.
+[91:38.81]Giant can probably carry me.
+[91:41.67]Uh... Zip.
+[91:44.04]I don't have the ring to teleport.
+[91:47.74]I could float.
+[91:50.64]Float in air.
+[91:56.32]Wall is making visible wall.
+[91:58.73]Or walk is make a shield.
+[92:01.07]I'm going to say.
+[92:07.35]Did we get the giant?
+[92:17.20]Float is probably the simplest one.
+[92:18.64]I want to save the giant's teeth.
+[92:20.53]Let's float.
+[92:24.33]There's no time to waste to cast the spell lightening your body weight to a mere fraction of normal.
+[92:28.95]Should you fall, you'll be safe.
+[92:31.28]but the spell won't last long.
+[92:33.18]But though you are now floating above the ground, the ground is still moving downwards, and so are you.
+[92:40.19]As the ground slips further away, forming a pit in the ground, you slide helplessly in to where something is waiting.
+[92:48.67]Slowly fell very, very comfortably.
+[92:51.83]Uh...
+[93:05.22]I.
+[93:05.36]Let's get a giant.
+[93:13.00]Consulting the stars, you bind the magic, throwing a giant's tooth into the pit before you.
+[93:17.49]For a moment, there's a strong calling of smoke.
+[93:20.23]And a moment later, a giant is floundering in the quicksand in front of you.
+[93:25.57]Uh, climb onto the giant.
+[93:28.59]You scramble up onto the giant's shoulders and then onto its head until you are clear of the quicksand below.
+[93:35.14]Whatever is underneath is clearly finding the giant difficult to swallow because the land slip slows in speed.
+[93:44.95]Jump clear.
+[93:46.33]You jump clear of the landslip.
+[93:50.60]Watch.
+[93:53.39]At a safe distance, you watch as the sand trap continues to swirl.
+[93:56.86]A moment later, a creature has erupted from the surface.
+[94:00.11]It is a badu beetle.
+[94:14.19]Where's the giant?
+[94:21.16]cause lively dancing.
+[94:23.09]I don't need to see any others.
+[94:27.55]You pull out your pipe and begin to play.
+[94:30.18]The beetle freezes at its advance from the pit.
+[94:32.79]then rears up onto its back legs and begins to wave its front legs in the air in a rhythmic cycling motion.
+[94:41.45]The sand underneath the beetle begins to slide back down into the pit.
+[94:46.96]Play slower?
+[94:48.59]I wonder.
+[94:49.25]I'm gonna play slower.
+[94:51.84]You begin to play more slowly, and the Baidu Beetle responds.
+[94:55.03]The speed of its flailing becomes a stately crawl.
+[94:58.92]As its legs slow down, it can no longer hold itself up in the sandpit, and it begins to slide quietly out of sight.
+[95:07.70]Time to move on.
+[95:10.95]Well, that was dangerous.
+[95:13.46]OK.
+[95:18.23]Yeah, we kind of sacrificed the giant to the quicksand.
+[95:21.64]That was kind of terrible.
+[95:28.07]Alright.
+[95:29.63]Back up.
+[95:30.92]We're going to teleport.
+[95:33.14]I will probably move this to somewhere better as well.
+[95:39.58]There's actually a good place to sleep.
+[95:47.15]You settle down expecting a peaceful night.
+[95:49.24]You've eaten nothing today but there is nothing you can do to abate your hunger.
+[95:52.58]I have raw meat but I can't cook it.
+[95:55.01]Let's go to bed.
+[95:57.13]You lie back and try to forget your troubles.
+[95:58.91]You feel untouched by danger here.
+[96:01.18]And your slumber is unbroken by dreams.
+[96:06.78]You lost significant stamina, lost a bit of gold, walked on the ancient backlands bridge and found no new clues.
+[96:16.39]Okay.
+[96:17.97]Do this.
+[96:24.85]Adjust the beam to be, um...
+[96:30.51]Do I want to change it from the Forest of Snata to whatever it would be?
+[96:34.44]I'll leave it as it is.
+[96:37.29]Did I do that?
+[96:40.46]Have I done this town over here?
+[96:47.65]I don't think so.
+[96:49.25]Didn't remember.
+[96:53.40]Let's go check it out.
+[97:00.86]I don't remember going up that high.
+[97:05.86]I feel like there's just so many possibilities to go from this section.
+[97:08.10]Where do you even begin?
+[97:08.82]That's some of the most fun of this game.
+[97:14.42]OK, rest here for a few hours to regain.
+[97:16.70]Yeah, let me actually do that.
+[97:21.91]OK, yeah.
+[97:23.13]Got some stamina back, I'm alright.
+[97:25.98]Let's go up here.
+[97:28.84]It's a little hot here.
+[97:29.52]I think I've been to the hut.
+[97:33.72]It's also easier to be fair if you haven't taken a 297 day break.
+[97:36.13]That's true.
+[97:48.57]Alright, let's sit up to that top.
+[97:50.83]Okay.
+[97:55.60]Alright.
+[97:58.08]No, I don't think I have not been up here.
+[97:59.38]Let's go.
+[98:04.94]You pick your way carefully over the rocks to the edge of a road.
+[98:07.91]The wind picks up as the evening draws on.
+[98:10.09]Soon it will be dark.
+[98:17.97]it.
+[98:20.54]The path winds up through low foothills towards an open area in the mountains.
+[98:24.81]As you approach the foothills, you see a wooden palisade.
+[98:28.23]spiked trunks planted to form a fence with a single gate.
+[98:31.78]From beyond comes the sound of chatting and banter,
+[98:35.15]And dogs.
+[98:36.65]This must be the village the shepherd boy mentioned.
+[98:39.42]Remember that?
+[98:40.22]300 days ago?
+[98:46.10]The shepherd boy told us about this town up here, right?
+[98:51.99]Only a few weeks ago.
+[98:55.41]Seems to be a bustling, busy place.
+[98:57.73]Presumably this village owns the fields and farmland through which you have been walking.
+[99:02.02]You could go in or skirt around it.
+[99:06.82]We're going in.
+[99:10.67]You pause on the other side of the gate.
+[99:12.21]One hand on your sword hilt should anyone be foolish enough to spring a trap.
+[99:17.32]Nothing un...
+[99:18.63]Nothing weird happens.
+[99:20.09]Nothing untoward happens.
+[99:23.78]The village is a small collection of wooden huts built into a basin within the mountains at its back.
+[99:29.05]In the center is a fire pit surrounded by tables and benches.
+[99:32.20]Several groups are sitting and eating.
+[99:42.100]Pleasant smells drift over from the kitchen hut.
+[99:45.48]The sun is now in the lowest quarter of the sky.
+[99:48.88]Oh boy.
+[99:50.78]Alright.
+[99:51.88]The fire, the kitchens.
+[99:55.78]Wait for nightfall.
+[99:57.28]I'm gonna go... ...to the kitchens.
+[99:59.91]Because I need food.
+[100:02.16]Bad.
+[100:05.11]In one corner of the village is a cook's hut.
+[100:07.39]Inside, a lady is stirring a deep cauldron.
+[100:09.86]She looks up and nods to you through the doorway.
+[100:12.20]One second.
+[100:20.78]You step inside, greet the cook, look into the cauldron.
+[100:23.15]Let's greet the cook.
+[100:25.19]Greetings, you declare.
+[100:27.73]You're welcome.
+[100:29.51]If there's something you want.
+[100:31.08]If you don't want anything, there's the door.
+[100:33.64]The chef goes over to a shelf to collect some herbs from a jar.
+[100:38.24]Look into the cauldron.
+[100:40.54]You look into the cauldron, the cook is stirring.
+[100:43.20]Meat broth!
+[100:44.88]But if it looks like there isn't any meat, it's because it's Snaticat.
+[100:51.32]And they are invisible.
+[100:55.59]When they have their eyes closed, that's right.
+[100:58.18]And since some close their eyes when they die, you could end up with invisible meat.
+[101:04.25]Everyone says it tastes nicer than the invisible kind.
+[101:08.56]I'm not so sure.
+[101:10.06]It's certainly harder to cook right.
+[101:12.51]The lady pours a little oil into the soup from a flask above the cauldron.
+[101:18.47]Ask about the village.
+[101:20.81]Call... What call you?
+[101:23.22]What can you tell me of this village you are?
+[101:27.86]This is Karima, the main village in the fields of Ishtara.
+[101:32.18]Where are you from, if you don't know that already?
+[101:36.93]I am stupid.
+[101:38.42]You tell her lying unskillfully.
+[101:41.38]The chef raises an eyebrow but does not reply.
+[101:44.73]A thin smell of smoke wafts into the tent.
+[101:48.15]Oh, by through, the cook curses and disappears through a flap at the back.
+[101:52.79]For a moment, you are alone.
+[101:57.31]I mean, I'm taking a fucking free bowl of soup.
+[101:59.89]While she is gone, you fill a bowl with soup and begin to eat.
+[102:02.93]But it's too hot to finish all of it before she returns.
+[102:13.26]Eat it.
+[102:13.92]You keep eating.
+[102:14.96]She stares at you with surprise.
+[102:17.83]You did not pay for that!
+[102:19.47]She remarks.
+[102:24.92]Say nothing?
+[102:26.26]No.
+[102:31.05]I have- I gotta pay for it.
+[102:33.27]Here.
+[102:34.06]Throw her four gold pieces.
+[102:36.92]You throw down four gold pieces.
+[102:39.54]She takes them, but looks clearly quite unhappy.
+[102:43.81]There's nothing more of interest here.
+[102:45.40]You nod to the chef, then turn and leave the hut.
+[102:48.70]The sun is now in the lowest quarter of the sky.
+[102:50.43]It'll be dark.
+[102:52.27]Alright, well, whatever.
+[102:53.03]I'm
+[102:55.85]food I'm fine go to the fire
+[103:05.45]The fire pit is in the center of the village.
+[103:07.57]You walk past low huts.
+[103:09.62]A few figures glance at you, but they show little interest.
+[103:12.74]Fire is kept low and smoldering, ready to be reignited in the evening.
+[103:17.11]A few people surrounded watching and talking.
+[103:22.92]Cook my raw food.
+[103:25.05]You unwrap the portions of raw meat and fish you have been carrying and roast them in the fire.
+[103:29.40]Save it.
+[103:31.62]Um...
+[103:43.35]That's really good, actually.
+[103:44.36]I might just pass it on because is that...
+[103:50.61]Would they see that as, wow, that's really nice of you, because food is probably kind of scarce, or why did you refuse food, you piece of shit?
+[103:58.42]I'm gonna eat it.
+[103:59.78]You take a bite.
+[104:01.14]the meat is black and sooty but rich with flavors and spices eat the rest
+[104:09.31]Uh, I'm gonna pass it.
+[104:10.93]Having taken your share, you pass the joint onto the next person.
+[104:16.06]Let's see what you did there, Steve Jackson.
+[104:19.95]um let's introduce introduce myself greetings you declare to the people nearby they look up at you with some curiosity
+[104:30.41]The lounging woman answers.
+[104:35.99]Then they seem to lose interest in you, and return to staring at the fire and talking to each other in low voices.
+[104:45.51]Throw a stick on the fire.
+[104:46.63]I don't want to fuck with the fire.
+[104:49.08]Because this is their domain here.
+[104:52.14]In the base of the smoldering fire pit are a few pebbles and some sand.
+[104:57.30]Hmm, hold on a second here.
+[105:04.72]Ebbels are for grenades.
+[105:07.39]What is sand for?
+[105:16.82]I see pebbles for pop.
+[105:19.82]Is it for quicksand?
+[105:23.68]Ah.
+[105:27.77]I feel like both of these can be pretty effective.
+[105:34.67]But I think I'm taking the pebbles.
+[105:37.30]Take a pebble.
+[105:38.60]You move to reach into the pit and then pause.
+[105:40.32]There's still plenty of heat coming from the fire.
+[105:44.90]Take another one.
+[105:46.27]You reach in and close your fist around a pebble, but it is burning hot.
+[105:50.08]Snatch your hand back, a heavy red burn on your palm.
+[105:53.19]It's not only painful, but since this is your sword arm, it will lower your ability to fight.
+[105:57.94]And I don't have a finger.
+[106:00.16]Ranger!
+[106:01.32]One of the villagers declares.
+[106:03.27]We were having a discussion.
+[106:05.29]Who would be most likely to best the other in a fight?
+[106:08.97]A goblin or a wolf?
+[106:13.31]I have seen such a fight.
+[106:15.62]Surely the wolf.
+[106:16.99]The goblin.
+[106:21.32]Um...
+[106:22.62]It's probably the wolf.
+[106:24.77]Surely the wolf, you answered cheerfully, that has wild strength and claws.
+[106:30.32]For a goblin has cunning and swordsmanship.
+[106:33.99]I have killed many of both.
+[106:36.46]Wolves are fearful creatures at heart.
+[106:38.74]You'll have to try it.
+[106:41.09]I have killed many of both.
+[106:45.92]We will ask the archmage to deliver one of each, decides the villager with a sigh, in the name of learning and scholarship.
+[106:55.06]Uh-oh.
+[106:56.50]These are Archmage enthusiasts.
+[107:02.54]What is north of this village?
+[107:08.14]One replies.
+[107:08.64]A few others look uncomfortable.
+[107:11.28]There are tunnels.
+[107:13.51]We don't go in there.
+[107:17.12]Why not?
+[107:20.45]Because there's no need.
+[107:22.50]And there are some dangers.
+[107:25.89]Wolves?
+[107:26.73]Goblins?
+[107:28.33]Wolves?
+[107:32.60]Something lives there.
+[107:33.70]There's no danger here in Karayama.
+[107:37.18]The Archmage keeps us quite safe.
+[107:39.57]But under the mountain well...
+[107:43.55]They say magic doesn't work under the mountain.
+[107:49.48]Where do the tunnels lead?
+[107:52.36]The villagers shake their heads, one point sharply downwards, but beyond that they do not answer.
+[107:58.81]Enough questions.
+[108:00.48]Please don't go to the tunnels.
+[108:02.46]We have no wish to send you to your doom.
+[108:07.90]Okay.
+[108:09.09]Talk to someone.
+[108:11.25]You sit down beside the woman who spoke earlier.
+[108:13.84]She nods in acknowledgment, but says nothing.
+[108:22.38]The woman smiles, and then pauses to tighten a bootlace, a movement which casually flashes the marriage band on her wrist.
+[108:30.98]Thank you, stranger.
+[108:32.28]We all welcome you.
+[108:33.92]This village is Karayama, the most beautiful village in Ishtara.
+[108:39.15]Enough talk.
+[108:41.46]Give me that thing to drink wicked fast!
+[108:49.09]How might one cross the horns of Iqalala?
+[108:54.81]You are so eager to leave already.
+[108:57.48]There's the bridge.
+[108:58.56]You'll have to pay the bridgekeeper his toll, of course, but he rarely asks too much.
+[109:04.51]Is there another way?
+[109:06.80]I've heard it said that there are tunnels.
+[109:08.96]But they were all blocked up because of the pests.
+[109:11.97]What pests?
+[109:13.59]Invisible creatures, they came in the night and stole our goats.
+[109:17.85]She kicks at the fire with one foot.
+[109:20.36]You talk a lot.
+[109:21.50]Is that normal where you're from?
+[109:25.88]I rarely see people.
+[109:27.41]I'm just trying to get in my social meter up a little.
+[109:31.99]Uh... You're all strangely quiet.
+[109:35.53]Or so it seems to me.
+[109:38.23]We are a small village.
+[109:40.01]We see each other every day.
+[109:41.44]There's not that much to discuss.
+[109:44.92]You travel alone?
+[109:49.03]Uh...
+[109:53.12]I do.
+[109:57.25]Well, you are amongst us, should you wish to stay.
+[110:00.76]Ishtara is the center of the world.
+[110:03.84]We will survive forever.
+[110:07.60]I do not think so.
+[110:09.24]You reply thinking of the empty wastes you have already seen.
+[110:11.52]The woman looks at you curiously but does not reply.
+[110:16.05]Yeah, because this is back in the past.
+[110:17.47]So I know it's a wasteland now.
+[110:20.05]Survive.
+[110:20.87]Come on, I'm talking a lot.
+[110:23.60]What can you tell me about the backlands?
+[110:26.39]Backlands?
+[110:28.23]That name seems unfamiliar to her.
+[110:33.20]Oh, right.
+[110:33.54]Okay.
+[110:34.41]It is of no importance.
+[110:36.45]It seems wherever you are, this place is far removed from Kakabad.
+[110:39.95]At least for these people.
+[110:43.42]I'll throw a stick on the fire.
+[110:45.47]You toss a nearby stick into the fire and it begins to gently smoke and smolder.
+[110:48.80]There's a great sense of peace here.
+[110:52.06]Stand and nod to the woman as you head away from the fireside.
+[110:55.54]The sun is almost set and the sky has turned a deep purple.
+[111:00.05]Okay.
+[111:02.66]We've eaten, got a lot of rations.
+[111:04.98]Let's wait.
+[111:06.57]You pass a few hours in idling around the village until the sun dips behind the towering mountains and the air grows cold.
+[111:16.67]Sleeping Hut.
+[111:21.62]You head towards the large hut that is filled with mattresses and cots.
+[111:25.25]Seems to be not an inn, but a communal sleeping place.
+[111:29.87]A few people are already asleep here.
+[111:33.96]I feel like this is potentially dangerous.
+[111:35.78]Like someone's going to steal something or attack me.
+[111:38.79]But I think I take my chances.
+[111:42.78]You choose a mattress and settle down.
+[111:44.85]You lie still for a while with your eyes closed, listening to the murmured conversations of other people in the hut.
+[111:50.86]Amidst sundries about village life, one in particular stands out.
+[111:54.50]A young girl, murmuring to her friend, At least one of the tunnels is still open.
+[112:02.70]Don't be a fool, Mia, the other replies.
+[112:06.11]Why would there be tunnels?
+[112:07.60]So the goblins can come in?
+[112:11.32]Another voice nearby hisses at them to be quiet.
+[112:19.57]What do you kids know about tunnels?
+[112:24.89]You rise from your cot and find the one called Mia.
+[112:29.41]My apologies for overhearing your conversation.
+[112:32.33]These tunnels sound most interesting.
+[112:36.43]Do not be afraid, you assure her.
+[112:39.38]I'm merely an interested traveler.
+[112:42.72]The girl's friend has rolled over and is pretending to have been asleep all this time.
+[112:47.90]I don't know anything about tunnels.
+[112:50.07]Please leave me alone.
+[112:55.26]I'm sorry.
+[112:57.05]I have money.
+[112:57.51]It's important that you tell me.
+[113:12.77]I have money.
+[113:14.19]I can pay you for information, you tell her.
+[113:16.86]Her eyes grow round with fear.
+[113:19.88]Who are you?
+[113:20.58]What are you doing here?
+[113:23.43]I am a sorcerer of great power.
+[113:29.37]Are you working for the goblins?
+[113:32.32]Are you a goblin?
+[113:34.10]Are you leading an invasion?
+[113:35.28]What?
+[113:36.56]No.
+[113:39.52]Is an invasion expected?
+[113:42.53]My parents say the only reason we're still alive is that the mountains are tall and goblins are short.
+[113:47.58]But goblins dig, so they'll get us in the end.
+[113:52.45]Why are you asking about the tunnels?
+[113:56.29]I wish to protect the village.
+[113:58.67]The tunnels are a weakness that must be defended.
+[114:03.35]Okay, I'll take you tomorrow.
+[114:07.05]She kicks her friend.
+[114:08.37]I'll take both of you.
+[114:10.29]You nod and return to your cot.
+[114:13.36]There we go.
+[114:15.28]I'll eat something.
+[114:17.10]You eat a hunk of cooked meat and feel a little better.
+[114:19.13]Alright, now we're doing better.
+[114:21.49]Then you stretch out and rest.
+[114:23.21]You are unharmed here, and you do not dream.
+[114:28.16]Alright, we're going to get some information to go through tunnels.
+[114:34.25]You gained provisions, lost some gold, entered the village of Karayama, and found no new clues.
+[114:41.61]Follow them.
+[114:49.47]You follow them out of the hut and through the northern gate of the village.
+[114:55.42]Oh dear.
+[114:59.83]I hope I can protect these two.
+[115:02.82]The girl Mia leads you up to a tunnel mouth a short distance above the village, carefully hidden behind an outcrop of stone.
+[115:10.60]This used to be a mine.
+[115:12.73]Only they had to stop mining on account of the things.
+[115:17.57]You tell her.
+[115:19.61]The girl only shakes her head.
+[115:22.81]You think you're the first idiot with a sword to go in there?
+[115:26.46]But if you see my dog, give it a tickle for me.
+[115:30.21]Your dog?
+[115:34.02]Your dog lives in there?
+[115:37.85]My dog ran away in there, she says.
+[115:40.40]She never came back.
+[115:41.44]She sits down on a nearby rock.
+[115:43.10]Well, that's what I did.
+[115:44.18]I said it out loud.
+[115:46.77]Well?
+[115:52.68]OK.
+[115:56.83]Into the tunnel.
+[116:00.60]You approach the tunnel mouth and lift away the covering of vines.
+[116:04.10]The passage descends dank and dark into the bowels of the mountains beyond.
+[116:12.31]I think I need to strike a light here.
+[116:13.52]I have Tinder, don't I?
+[116:17.34]Yep.
+[116:18.26]Your tinderbox can provide a spark.
+[116:20.45]You look through your pack for something to catch a light.
+[116:24.21]Not doing that.
+[116:25.76]Burn the spell book.
+[116:27.70]By the way, it's gone forever and you can't get it back.
+[116:31.60]Why would I burn my snow?
+[116:33.17]Do something else.
+[116:34.26]That's so stupid that you can do that.
+[116:35.78]I love it.
+[116:42.47]Oh, I can't see.
+[116:43.31]Might as well burn the most important item in my backpack.
+[116:48.97]You cannot burn the spell book.
+[116:50.33]You'll have to find some other fuel.
+[116:52.62]Or go without flame.
+[116:53.74]Just go.
+[116:55.52]I think I have a sun jewel.
+[116:58.46]The mountains overhead create an imposing sight.
+[117:01.37]You walk as though into an ancient tomb.
+[117:04.67]Even the air smells musty and old.
+[117:07.49]But there is a breeze on your hand.
+[117:09.38]Does that mean that there is a way through?
+[117:10.76]Okay.
+[117:16.09]Below ground.
+[117:18.96]Magic doesn't work under here.
+[117:21.03]Oh, that's right.
+[117:24.44]You make your way slowly through the narrow entrance and into the cool dark of the tunnel.
+[117:29.07]You hold out a hand to feel your way forward.
+[117:33.31]Cast a spell.
+[117:34.55]You raise your eyes up, but it seems this deep below the mountain, the presence of the starlight, kid.
+[117:40.92]Cannot reach you.
+[117:42.82]You powerless dude.
+[117:47.23]You try to make out something of the tunnel walls.
+[117:50.74]But the darkness is absolute.
+[117:55.78]Call out.
+[117:57.57]Is anyone there?
+[118:00.43]There's no response.
+[118:01.33]Not even an echo.
+[118:03.28]You follow the cold stone with your fingertips.
+[118:08.28]I'm gonna get out of here.
+[118:11.82]You stumble onwards, squinting in the gloom.
+[118:15.15]The tunnel winds on a steady course, with occasional branches that lead to dead ends.
+[118:21.68]It becomes clear this is not a natural cavern.
+[118:24.42]wooden pillars line the walls creaking under the weight of stone test the pillars
+[118:31.23]You test one of the pillars for strength, applying a little pressure.
+[118:33.100]It responds with a crunching, cracking sound, and dust rains down in a spill.
+[118:41.07]Am I going to crush my head?
+[118:42.84]Push the pillar.
+[118:45.05]You put your weight against the pillar and heave.
+[118:47.93]The ancient wood cracks gratefully and rocks begin to tumble from the roof overhead.
+[118:52.67]You dash madly through the tunnel.
+[118:56.92]No, rewind, rewind, rewind, rewind.
+[119:00.20]That doesn't count.
+[119:04.47]Test the pillars.
+[119:06.27]OK, press on.
+[119:10.53]Deeper.
+[119:17.23]Being careful not to lean on the pillar.
+[119:20.99]You keep one hand on the wall to your left and allow it to guide you.
+[119:25.86]Then your foot strikes something hard.
+[119:28.85]Not a rock.
+[119:30.17]A length of metal, perhaps.
+[119:33.22]Reach for it.
+[119:35.27]You reach down and feel for the object.
+[119:37.51]A long metal spike with a wooden pole at its center.
+[119:40.86]A pickaxe.
+[119:42.18]Someone has been mining down here.
+[119:44.61]A few steps further on, you collide into a wooden wall that reaches from knee height to neck height.
+[119:50.61]It appears to be on wheels.
+[119:52.39]A minecart, then.
+[119:54.81]Feel inside the cart.
+[119:57.23]You reach over and into the cart, hoping to find some treasure or valuable metal.
+[120:01.15]But it is empty.
+[120:02.64]There's not even any discarded rock.
+[120:07.52]Let's push it.
+[120:09.84]You push at the cart, but it must have been here for an age.
+[120:13.45]It moves an inch and then the wheels stick fast.
+[120:16.62]The squeal of rusted iron echoes in the chamber like a scream.
+[120:21.64]Let's go.
+[120:23.04]You put your shoulder to the card and push hard.
+[120:26.09]It overcomes whatever was catching on the wheel and begins to roll quickly forward.
+[120:30.02]A moment later, it strikes something in the darkness.
+[120:33.52]One of the support pillars, perhaps?
+[120:35.51]Dust begins to trickle from the ceiling.
+[120:39.80]Wait to see what happens.
+[120:41.76]You stand frozen to the spot as the cavern echoes with ship-like yawns and creaks.
+[120:47.63]The stone shifts and fractures overhead and then falls silent
+[120:51.12]The roof does not collapse this time You inch on through the darkness moving more cautiously now We're good
+[121:03.04]You make your way slowly through the dark, soon your hand feels nothing but air.
+[121:06.14]A side passage.
+[121:11.73]At the passage.
+[121:14.34]Empty darkness leads in three directions.
+[121:18.55]Is the ape here?
+[121:19.75]The ape is here.
+[121:22.78]toss a stone into the passage, shout out or pray to the ape.
+[121:30.30]Okay, this is very clearly...
+[121:33.00]This is a boss room, right?
+[121:35.75]There's a fog door here.
+[121:37.25]This is a...
+[121:40.18]I'm going to go in there.
+[121:40.92]That's it.
+[121:41.77]You know, let's pray.
+[121:47.64]Pray for protection.
+[121:51.31]You close your eyes and raise a prayer to the ape.
+[121:54.28]Nothing happens.
+[121:56.11]Have you been forgotten in the dark?
+[121:58.77]But as your eyes adjust, you notice something dimly glowing at the end of the side passage.
+[122:08.01]Is it the ape?
+[122:14.43]Move towards the glowing object.
+[122:16.68]You edge down the passage, your footsteps muffled by thick sand.
+[122:28.22]You trip over more abandoned and broken tools.
+[122:31.47]Then you're close enough to see a curved, golden object pointing from a pile of rubble.
+[122:36.06]This is the source of the light, which is pulsing softly.
+[122:40.51]Beside the pile of rubble are two large shapes that look like jars.
+[122:47.00]Scream.
+[122:48.26]Open up one of the jars and scream into it.
+[122:55.65]Uh...
+[122:59.07]Get a closer look at the artifact.
+[123:04.91]You edge around the jars as you get closer to the artifact.
+[123:09.90]It is a horn.
+[123:11.86]The dim glow makes the rest of the cavern dark, and you trip and stumble as you approach.
+[123:17.53]Whatever it is, it is clear it is infused with magic and must be quite valuable.
+[123:23.88]but it seems to have been only halfway freed from the rock.
+[123:28.18]The wall feels smoother in places, like you're feeling a built wall instead of a tunnel.
+[123:32.87]The ground here also feels different.
+[123:38.03]I'm gonna grab the horn, it's gonna be attached to something.
+[123:45.47]Shift the rocks?
+[123:49.31]Move the jars aside.
+[123:52.67]Shift the rocks.
+[123:55.15]You squat down and move some rocks away from the artifact, all but dazzled by its light.
+[124:00.87]The glow is only gentle, but down here it is blinding.
+[124:04.95]It's pull it free.
+[124:06.72]It's going to be attached to something.
+[124:08.96]You grab the part of the horn that protrudes from the wall and pull, but it is firmly stuck.
+[124:14.60]Yank it.
+[124:16.02]You haul a little harder and it comes free suddenly, sending you sprawling back across the sandy floor.
+[124:22.34]Blow the horn.
+[124:25.51]Let's not do that immediately.
+[124:27.26]Let's look at it.
+[124:30.78]You waste no time in examining the horn.
+[124:32.49]It's hard to see any details as the glow blinds you in the darkness.
+[124:37.76]but you do make out some blocky script carved into it in a language you don't recognize.
+[124:43.74]The horn is also slightly warm to the touch.
+[124:47.87]Blow the horn.
+[124:50.92]You put the horn to your lips and blow.
+[124:54.44]Nothing happens.
+[124:56.39]It is as though the horn is blocked.
+[124:58.99]As you tip it up to empty it, you notice the nearest clay jar wobbling.
+[125:03.33]It rocks back and forth faster and faster.
+[125:06.00]Then the lid shoots off.
+[125:08.28]Cover my head.
+[125:09.57]You cover your head, but the lid strikes the low roof with such force it turns to powder.
+[125:15.34]But the real danger is just beginning.
+[125:17.50]Sand rushes out of the jar with tremendous force, whipping around the cavern, tripping you to the ground.
+[125:24.06]Scramble back.
+[125:26.56]You scramble backwards across the ground trying to get away as the sand forms into a whirlpool-like shape.
+[125:33.32]Two deep black vortices appear in its sides and roam queasily across the surface until they reach the top.
+[125:39.79]There they swivel, widen, and seem to focus on you.
+[125:46.44]Attack.
+[125:47.99]You deftly leap forward and swing your sword but it passes clean through the monster.
+[125:53.02]It barely even notices.
+[125:55.46]Uh, look for something to use.
+[125:59.19]The pickaxe.
+[126:00.99]You cast About looking for some advantage and your eye lands on a discarded pickaxe.
+[126:07.42]I can't hurt... That's not gonna do anything.
+[126:09.12]I gotta run.
+[126:10.85]Surely a pickaxe cannot harm this thing.
+[126:13.29]You turn, intending to run, and the creature follows you.
+[126:16.50]The vortex passes the discarded pickaxe and gathers it up until handle and head swirling around inside of its body at violent speed
+[126:24.84]before being smashed to pieces and spraying in all directions.
+[126:29.20]The sand vortex is very close now.
+[126:31.28]It is cornering you against a pillar.
+[126:33.95]Looking around wildly in the dark, you can't think of anything.
+[126:37.66]You take a few steps back and feel hard stone at your back.
+[126:40.49]The creature expands.
+[126:41.95]Is this how it ends?
+[126:44.34]Shield yourself.
+[126:46.56]You cover your head expecting the fatal blow, but before the creature can strike, the tunnel rumbles with holy vengeance.
+[126:55.19]Rocks crash down from the ceiling, burying it.
+[126:57.82]You've been saved by the ape!
+[127:00.44]But the tunnel rumble...
+[127:03.05]But the rumble is still there.
+[127:05.58]A few more boulders crash, narrowly, just barely missing your ass.
+[127:10.19]The tunnel is collapsing with you in it.
+[127:14.14]Good thing we prayed.
+[127:18.30]Run.
+[127:20.51]You dodge aside as rocks crash down around you.
+[127:23.12]The creature is close behind, but then the ceiling caves in at your heels, burying it.
+[127:27.79]In your haste,
+[127:28.87]You trip on a broken cart and the glowing horn goes flying.
+[127:31.92]It lands nearby, but the tunnel is still rumbling.
+[127:34.87]I have to get it.
+[127:36.95]You leap towards the horn, landing on your knees.
+[127:39.36]You reach out, but not before a massive rock slams on it, grinding the horn into fine powder.
+[127:45.35]What?
+[127:46.34]Whatever secrets the miners were looking for will have to stay buried now.
+[127:50.17]There's no time for disappointment.
+[127:52.21]Though as the ceiling is still caving in.
+[127:54.70]What?
+[127:55.16]Ro left.
+[127:56.60]You wince as the ceiling crashes down, missing you by inches.
+[127:58.96]Dust settles and you can't hear anything.
+[128:01.05]There's no turning back now.
+[128:02.05]You're trapped in the dark.
+[128:07.14]Snort the powder.
+[128:11.82]I have to have whatever secrets it is.
+[128:13.94]You slam your head as hard as you can into the ground and breathe in as deeply with your nostrils as possible.
+[128:24.06]A sense of wind fills inside of your stomach.
+[128:28.34]Uh, okay.
+[128:30.14]Can I still get a no?
+[128:31.90]It's over.
+[128:35.86]You are in pitch darkness.
+[128:37.78]Whether it is night or day, it is impossible to tell.
+[128:40.09]The air is freezing cold.
+[128:45.82]Strike a light.
+[128:46.52]I'm not gonna burn my spell book.
+[128:49.05]You feel about until you find the tunnel wall.
+[128:54.26]Cast a spell?
+[128:55.18]I can't cast spells down here.
+[129:00.17]I need to just follow.
+[129:03.12]You follow the rough stone wall, stumbling and tripping until you come to a blockage.
+[129:08.80]Feel the stones.
+[129:10.52]You feel your way across the stones, hoping to find a chinker hole, but there's nothing.
+[129:16.27]The sound of something groaning echoes down the tunnel length.
+[129:21.19]Strike a light.
+[129:23.47]I'm not burning the spell book.
+[129:27.09]You cannot burn the spell book.
+[129:27.99]You'll have to find some other fuel.
+[129:29.23]Alright.
+[129:30.24]The other way.
+[129:30.74]Am I stuck down here?
+[129:33.29]You trace the wall the other way.
+[129:34.23]The passageway curves and bends.
+[129:35.71]The going is difficult with lots of dead ends.
+[129:38.76]Then finally, a chunk of daylight appears.
+[129:40.86]It is like water after a long thirst.
+[129:43.25]You've found the tunnel mouth.
+[129:48.11]Leave the tunnel.
+[129:50.35]You hurried gratefully out of the tunnel into the soft, damp air.
+[129:52.41]Where are you?
+[129:54.07]Outside.
+[129:57.19]Ah!
+[130:00.76]This is- you can get up through this way, okay.
+[130:08.94]I want that horn so bad.
+[130:14.91]Oh, well.
+[130:16.61]You emerge, blinking from the underground tunnel to find yourself on the edge of a vast, deep forest.
+[130:22.19]From the position of the sun, you can see that you are on the other side of the Baadu Bak Ridge.
+[130:26.63]Only one way forward into the trees.
+[130:31.91]You could go this way.
+[130:32.93]You could also go all the way up here and do all this.
+[130:35.23]Didn't get the horn.
+[130:36.33]That's disappointing.
+[130:37.23]I wonder if there's anything else I missed up here.
+[130:39.62]But it is what it is.
+[130:43.03]The ape saved us.
+[130:44.05]Probably would have died.
+[130:45.80]So.
+[130:47.64]Very cool.
+[130:52.01]Can't go back to the village either.
+[130:53.07]We're going to move on this way.
+[130:58.10]I'm going to go check this out.
+[131:01.00]Very big town here.
+[131:09.15]Okay.
+[131:10.28]This way.
+[131:12.40]no horn and no dog yeah I didn't find the dog and I didn't um I didn't get the horn either
+[131:21.98]Forest turns to marsh, the ground underfoot turns to slop, until you are sinking a few fingers deep with every step.
+[131:28.66]The smell of rotten decay fills the air.
+[131:32.06]Let's keep going.
+[131:33.22]You keep up your pace, hoping the ground will grow firmer further on.
+[131:37.95]So we're going back to the present.
+[131:45.18]And no ring either.
+[131:46.14]I know.
+[131:47.04]What a failure.
+[131:50.65]So this was in the past.
+[131:53.66]And now we're back into the present.
+[131:56.57]So what is this?
+[131:59.32]No horn, no dog, no ring, no finger.
+[132:11.68]Uh, no.
+[132:20.59]I just spilled all over myself.
+[132:23.01]Okay.
+[132:25.38]You wade on through the marsh, which changes to firmer Earth beneath your feet.
+[132:29.71]Trees grow up around you, and suddenly you find yourself in the forest once more.
+[132:34.30]The sun has reached its highest point now.
+[132:37.32]Out of the shade, the air is baking hot.
+[132:40.37]By day the forest is still not a hospitable place, but it's beautiful in its own way.
+[132:45.24]Water drips down the leaves and along twisted vines.
+[132:47.80]Birds flutter through the bracken-like canopy.
+[132:51.67]Everything is moist and damp.
+[132:53.95]The path is winding and frequently disappears.
+[132:56.80]Perhaps it has been made by animals and not by people.
+[133:02.99]Let's climb a tree.
+[133:04.89]You find a suitable looking tree close at hand and swing yourself onto the lower branch.
+[133:08.84]From there, it is a reasonably straightforward climb up into the canopy.
+[133:14.46]Okay.
+[133:18.31]You reach the top of the tree, but there is no view.
+[133:21.26]From here, you can see nothing but more trees, stretching away into the distance.
+[133:25.33]The only exception is to the south where the stone arch of the bridge rises up in a dizzying height into the air There is little else to be done up here Look at the ground
+[133:36.49]You glance down the tree towards the ground just as something moves past on the path below.
+[133:41.80]Leave Ster, the shape is gone.
+[133:44.33]You make your way carefully back down to the ground, but halfway down, one of the branches cracks under your weight.
+[133:50.69]Cling on.
+[133:52.23]You cling on to the branch overhead as your foothold disappears.
+[133:56.02]For a moment you are dangling free.
+[133:59.71]Swing to a branch.
+[134:01.63]Moving like a monkey.
+[134:02.79]Thank you, ape.
+[134:05.53]You swing backwards and forwards until you have enough arc to try and catch another branch with your feet.
+[134:11.10]You hook yourself into position, and then move one of your hands closer until you are steadily placed once more.
+[134:19.69]You take a moment to gather your breath.
+[134:21.66]In the pause, the branch underneath you breaks and you fall.
+[134:27.22]Of course.
+[134:29.90]You hit the ground with a thump, but the Earth is soft.
+[134:33.43]You are fortunately unhurt.
+[134:36.20]Near the foot of the tree is a broken branch and a slightly bruised Bumba fruit.
+[134:41.45]Ooh.
+[134:43.35]You must have knocked it from the tree when you fell.
+[134:45.63]It's a little bruised, but still seems edible.
+[134:48.94]Uh, yeah.
+[134:49.98]Thank you.
+[134:51.74]Bomba fruit are particularly nutritious, and this one is in good shape despite its fall.
+[134:56.37]Pick it up and put it in your pack.
+[134:58.72]You are beginning to feel hungry.
+[135:02.82]I'm just gonna eat it.
+[135:07.61]Let's eat it.
+[135:12.16]Actually, maybe I should eat the meat first so it doesn't go bad.
+[135:26.58]Fruit will go bad sooner than meat?
+[135:28.74]Uh, oh well.
+[135:30.90]You trace what might be a path and might be an old river, though, through the trees of the forest.
+[135:35.97]Slowly the sun begins to lower in the sky.
+[135:38.75]The trees are alive with movement.
+[135:41.50]You catch a glimpse of a bright red snake through the trees.
+[135:45.92]It seems to be watching you.
+[135:50.49]Approach the snake.
+[135:53.21]You approach the snake, but it slips away between the trees.
+[135:57.14]A pile of boulders here is topped by a patch of curious bright yellow moss.
+[136:04.30]Gather the moss.
+[136:06.34]Intrigued, you grab a fistful of the moss.
+[136:08.64]It is juicy and extremely pungent.
+[136:13.36]Smell it, taste it, stash it, toss it, pop it, twist it, smell it, taste it, toss it, stash it.
+[136:23.26]Uh, what do I do?
+[136:26.83]I think I have a memory of this.
+[136:33.09]I feel like this is an incorrect one to do here.
+[136:36.50]I'm gonna...
+[136:37.28]I'll taste it.
+[136:38.88]You taste the moss with a tentative tongue.
+[136:42.51]The flavor is not pleasant, but it does not appear acrid.
+[136:47.29]Perhaps it is not poisonous.
+[136:50.78]Smell it.
+[136:52.41]You put your nose deep into the moss.
+[136:55.60]Why would you go that close?
+[136:58.36]The scent is like lemons and strong cheese and manure, all rolled together.
+[137:04.71]It reminds you of the smell of drinking water in Kare.
+[137:08.67]The effect is heady.
+[137:18.77]I'll stash it.
+[137:19.68]I'll stash it.
+[137:21.38]You stole the moss in your pack but it quickly dries and crumbles to dust.
+[137:24.46]What?
+[137:25.77]Rewind.
+[137:41.06]Okay, eat it.
+[137:43.66]Feeling bolder, you put the clump of moss into your mouth and chew.
+[137:47.61]Thick yellow juices run down your chin.
+[137:50.55]Swallowing the thick clump is hard, but almost as soon as you do you feel a great warmth spreading up from your stomach.
+[137:57.50]Whatever this moss is, it seems to be most beneficial.
+[138:00.72]Ooh.
+[138:02.29]Good thing I, um, save scummed.
+[138:10.62]Yeah, how we usually do it, I know it doesn't really matter, but typically I'll give myself like three or four rewinds a stream.
+[138:18.38]Makes it more fun.
+[138:20.90]Also, it is a feature of the game.
+[138:22.71]That's right.
+[138:25.25]Depends how I'm feeling.
+[138:28.48]Things move in the canopy all around you.
+[138:30.48]The sun is dropping down to the west.
+[138:32.39]It will be night soon.
+[138:34.19]You emerge from the trees into a clearing by a low hill.
+[138:37.32]This is an exposed place.
+[138:39.34]You would be unwise to stay long.
+[138:43.47]Uh huh.
+[138:52.76]You skirt around the north side of the hillock.
+[138:55.18]There's something quite artificial about its shape.
+[138:57.65]Its sides are almost perfectly smooth.
+[139:01.38]Look around.
+[139:03.79]There is definitely something strange about this hill.
+[139:06.64]You decide to make a full circuit to see what you can find.
+[139:10.60]As you pass the southeast side of the hillock, you come across an incongruous wooden doorway set into the curvature of the hill.
+[139:19.41]Look at the door.
+[139:21.13]You step over to the doorway to examine it more closely.
+[139:27.93]Wouldn't you like to know what's in there?
+[139:31.49]Wouldn't you be intrigued to know what could be inside of this?
+[139:35.72]What troubles do we see?
+[139:39.55]What difficulties do you imagine?
+[139:50.27]Mods?
+[139:51.64]Put a pole up, please.
+[139:54.27]Uh...
+[139:57.78]Into the stream voice.
+[139:59.77]Don't cliffhanger it.
+[140:00.97]I'm going to cliffhanger it.
+[140:03.90]I'm going to cliffhanger it because if you're interested, that means you'll come back.
+[140:13.90]The whole screen shifting?
+[140:15.08]Yeah, it's because I have... Yeah, there we go.
+[140:18.19]Alright, here's a pole.
+[140:21.17]I really want to continue playing this.
+[140:23.27]I also really want to continue playing Final Fantasy 16.
+[140:31.59]On Monday, would you prefer Final Fantasy 16 or Sorcery?
+[140:46.67]Could also do both.
+[140:48.49]That's true.
+[140:53.30]That's actually accurate.
+[140:55.30]Could just do both.
+[140:58.63]Yeah.
+[140:59.43]No, don't even do a pull.
+[141:00.53]Not even necessary.
+[141:03.02]We'll play Final Fantasy 16 for...
+[141:07.70]a little while, maybe like same thing, like two or three hours and then come over to here for two or three hours.
+[141:13.50]Plus, I think sorcery also is a fun, kind of more chilled out experience where I just kind of read.
+[141:20.89]That can happen later on in the nighttime.
+[141:27.45]Yeah, we don't even have to do a poll.
+[141:29.14]Both works.
+[141:31.46]Two or three hours each.
+[141:34.88]Everybody's playing Final Fantasy 16.
+[141:37.76]Yeah, but I...
+[141:39.39]If I don't play it on stream, I'm gonna play it off stream.
+[141:49.78]Yeah, we'll do both.
+[141:56.13]Only 5% want well here.
+[141:57.81]Well, I'll wait, wait, wait, wait.
+[142:01.60]I feel like all the people that are here.
+[142:04.52]want sorcery.
+[142:06.30]All the people that would want Final Fantasy 16 are probably not here right now.
+[142:10.50]But, you know.
+[142:18.86]I love this game.
+[142:20.72]Sorry it took me 295 days to come back to play it, but we're going to continue it on Monday.
+[142:38.12]What do you guys think?
+[142:39.90]I know you got kind of dropped right in the middle of that, but... What do you guys think?
+[142:46.90]For those of you that was your first experience seeing it.
+[142:49.27]I think it's...
+[142:52.11]I think it's cool.
+[142:56.37]I will tell you that I'm a little sad that you
+[143:00.16]You're involved in the third game.
+[143:04.07]Because I think the second game is like in top
+[143:10.63]It's the best one, without a doubt.
+[143:13.67]But if you like the characters, which the characters are all really cool, the third game just kind of keeps expanding on places to go.
+[143:21.63]I think there's more to see in the third game, but the second game I think has a lot more.
+[143:25.96]I like the second game the most.
+[143:28.82]I still very much enjoy them.
+[143:30.04]Third is probably up there, close to number two.
+[143:37.56]Yeah, we'll see you Monday.
+[143:39.88]Have a great rest of your weekend.
+[143:41.41]There's not much left of it, but...
+[143:43.67]Enjoy it.
+[143:45.94]I'll be here Monday around 4.
+[143:49.32]And then somewhere around like six to seven.
+[143:51.89]Maybe like around six-ish.
+[143:53.91]We'll do some chill sorcery vibes.
+[144:00.58]You actually like the second game more or do you just get burnt out by?
+[144:03.38]No, this I don't get burnt out from this game.
+[144:07.90]Part 2 is genuinely the best out of all of them, without a doubt.
+[144:10.93]Kari is just...
+[144:12.43]There's so much going on in Kari.
+[144:20.34]So we'll start for Final Fantasy 16.
+[144:23.95]And then we'll move to sorcery around like six or seven.
+[144:27.14]Or chill sorcery vibes.
+[144:30.06]Have a great night.
+[144:31.08]See you later.
+[144:31.50]See you in a couple days.
+[144:35.40]Have a great one.
+[144:37.95]Call your mother?
+[144:42.09]Eat a couple green vegetables today.
+[144:43.46]You know.
+[144:47.02]Substitute out the bacon for, you know, some greens.
+[144:49.53]Just today.
+[144:49.87]You know, once or twice a week.
+[144:55.09]Have a glass of water if you haven't had one.
+[144:58.76]Get some sleep.
+[145:06.88]You know.
+[145:11.42]I'm eating bacon right now.
+[145:15.52]Why would I eat vegetables right now?
+[145:16.80]It's like 1 AM.
+[145:17.84]It's midnight here.
+[145:18.92]It's 1 AM.
+[145:23.64]It's really windy where you are.
+[145:24.94]Yeah, it is.
+[145:25.40]Alright.
+[145:27.43]Take care, guys.
+[145:27.83]See you soon.
+[145:29.95]Have a good rest of your night.
+[145:45.81]you
+[146:20.67]you

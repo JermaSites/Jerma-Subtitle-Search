@@ -1,0 +1,926 @@
+[re:Lavf63.16.100]
+[ve:63.16.100]
+
+[00:26.42]Hey.
+[00:29.03]Good morning.
+[00:31.80]How are you?
+[00:36.94]We might be on the wrong microphone.
+[00:38.41]No, no, we're not.
+[00:42.56]How you doing?
+[00:43.58]Why does it sound so low?
+[00:45.58]Hello.
+[00:47.57]What's going on with my mic?
+[00:49.33]Does my mic sound fine?
+[00:54.56]Does it sound normal?
+[00:55.82]Why does it look so low?
+[01:02.59]What's going on here?
+[01:03.35]Let me test it.
+[01:04.81]Hello, hello!
+[01:05.56]Why is it doing that?
+[01:08.71]Hold on.
+[01:14.13]Let me swap it out.
+[01:19.86]One sec.
+[01:25.10]How's that?
+[01:27.33]Let me mess with the gain on it real quick.
+[01:31.59]How's that?
+[01:31.91]Better?
+[01:32.31]No?
+[01:32.96]Better?
+[01:33.32]No?
+[01:34.76]Better?
+[01:35.07]No?
+[01:37.79]That is very weird.
+[01:38.50]Why is it doing that?
+[01:40.16]Well, anyways, hi, welcome to another stream.
+[01:44.60]We've got an interesting one today.
+[01:48.20]Is there a limiter on it?
+[01:49.39]No, I don't know.
+[01:51.97]Maybe it like the did the game mess with my mic last night?
+[01:57.48]That didn't change anything.
+[01:59.36]Hold on.
+[02:05.59]That's very weird.
+[02:09.36]Um... Why is it doing this?
+[02:15.88]it's not like super low but I can see it's definitely way lower than it should be I streamed yesterday
+[02:28.06]Anyways, we've got some fun stuff today.
+[02:35.13]We've got, first of all, the House Flipper devs are here to do a Q&A.
+[02:45.66]So we're going to do that.
+[02:47.27]We're also going to do
+[02:50.67]Some other games.
+[02:51.44]I want to finish Dream Corps.
+[02:54.10]Dream Corps is something I want to get done.
+[02:57.46]It is...
+[02:59.24]Something I've been putting off for a long time.
+[03:03.56]But you know, I'm going to finish it.
+[03:10.07]Let me check one more thing before I do this because it's very odd.
+[03:17.88]I'm going to put the gain up on this and lower it somewhere else.
+[03:24.43]How's that?
+[03:25.05]Better?
+[03:25.51]Better?
+[03:27.24]Because it's very odd that this is happening.
+[03:29.99]Didn't change a single setting.
+[03:31.67]Alright.
+[03:31.91]Well, I have to drop a few other things, but that's fine.
+[03:36.35]I'll figure this out tomorrow.
+[03:40.69]But yeah, we've got house slipper devs waiting in the wings.
+[03:45.100]Uh, we took questions from the Discord and also from...
+[03:48.87]I think they were doing it too.
+[03:50.63]They were taking questions as well.
+[03:54.71]Though I'm very curious.
+[03:55.88]I've seen some of them.
+[03:56.80]I have gone through them.
+[03:58.67]We've got some pretty good questions.
+[04:01.03]So let's, I'm going to give him a call right now.
+[04:02.94]Oh, I got to start the game.
+[04:04.24]Should I start the game?
+[04:05.88]Because we're going to play House Flipper 2.
+[04:08.64]I'm not a great interviewer, by the way.
+[04:11.82]So we'll see how this goes.
+[04:13.18]I'm going to be like Mr. Interview.
+[04:18.69]I'm going to call them right now.
+[04:20.49]These are the House Flipper.
+[04:21.79]I think it's a dev and a kind of community manager.
+[04:27.24]Let's see.
+[04:30.94]Hello there.
+[04:31.50]Hi.
+[04:36.45]So who do we have?
+[04:38.05]Yeah, I can hear you fine.
+[04:40.31]Awesome.
+[04:41.87]You are with myself, Sufin, and... Regsburg, hello.
+[04:46.42]How you doing?
+[04:47.32]What's going on?
+[04:47.92]Ooh, how you doing?
+[04:50.98]Very well, thank you.
+[04:51.78]We've just finished our own summer update stream.
+[04:55.37]Oh yeah, that was cool.
+[04:56.59]Yeah, very nice.
+[04:57.79]So you guys were just live right now?
+[05:00.69]Yeah.
+[05:00.97]Oh, alright.
+[05:03.51]Cool.
+[05:05.23]So we're going to hang out for like 30, 40 minutes.
+[05:07.89]We'll just go until we can get through the questions or whatever.
+[05:11.98]Awesome.
+[05:13.08]Okay, awesome.
+[05:14.25]We do have dev in, not only dev in chat, by the way, dev in call to all of you watching, which is, that's crazy.
+[05:23.42]It's a pleasure to be here.
+[05:25.50]Thank you very much for having us on.
+[05:27.66]Hello, chat.
+[05:29.50]Can you guys see the chat?
+[05:30.44]Look at the chat.
+[05:30.98]Look at the chat.
+[05:31.36]It's going.
+[05:33.06]Do you want me to start the game or we have everybody in the game that's going to be playing?
+[05:38.87]Yeah, yeah, we're just...
+[05:41.12]It's not swift in playing, the game lies.
+[05:44.39]Yeah, there is a lie.
+[05:47.89]It's Regberg who will be playing even though it's my name on the screen.
+[05:51.82]That's right.
+[05:52.46]I'm just going to pick, I'll just do Sam.
+[05:54.23]Anywhere in particular you guys want to go?
+[05:57.21]No, let's just go crazy.
+[06:00.38]Dude, it's the middle of summer here.
+[06:01.96]How about snowy suburbs?
+[06:05.10]Oh, nice.
+[06:06.56]Alright.
+[06:07.48]snowy suburb sounds fun alright you guys loading in yep yeah alright so this is gonna be interesting because
+[06:16.87]You guys obviously know this game in and out.
+[06:21.11]I'm very curious to see what a dev does in the game.
+[06:26.24]Oh.
+[06:26.92]Uh-oh.
+[06:27.64]Uh-oh.
+[06:28.44]How does a dev play this game?
+[06:29.46]Okay.
+[06:29.62]Will I just...
+[06:34.34]First of all, mouse and keyboard only, right?
+[06:36.19]Like, let's not...
+[06:37.49]Wait, you don't play with a controller?
+[06:38.55]I thought you guys would play with a controller, right?
+[06:41.90]No, that's the wrong thing to do.
+[06:45.00]We have some very lovely House Flipper 2 controllers.
+[06:47.86]But we have some lovely House Flipper 2 controllers.
+[06:49.78]We're not using them.
+[06:52.46]It has controller support, right?
+[06:53.95]You can play with the controller if you want.
+[06:55.95]Yeah, of course.
+[06:57.92]okay cool yeah but yeah so are you a controller or a mouse and keyboard it depends on the game
+[07:05.14]Well, Frank, first question of the Q&A.
+[07:06.89]Look at that.
+[07:07.44]Alright.
+[07:08.57]uh I am hey I am a it depends on the game if it's a third person action game
+[07:16.81]I will be playing with controller.
+[07:20.67]If it's anything else, usually it'll be, if it's a first-person shooter, keyboard and mouse.
+[07:25.80]If it's a strategy game, keyboard and mouse.
+[07:28.84]Uh, it, wait, I'm supposed to be the one asking people that mad at me.
+[07:31.09]I'm supposed to be the one asking questions.
+[07:33.78]No, this is, this is an open forum where this is an open forum.
+[07:38.20]Exactly.
+[07:38.72]Yeah.
+[07:39.43]Open floor Q&A.
+[07:42.37]Now you guys, you do have a list, right?
+[07:44.23]You got a list of a bunch of questions to go through?
+[07:46.64]We've taken some best questions from our community and yours that we have prepared.
+[07:54.80]But we're happy to take any questions from yourself or from chat.
+[08:00.33]And we actually have some questions for you as well.
+[08:03.17]Okay.
+[08:03.85]Alright.
+[08:04.30]Hold on.
+[08:04.86]I should have brought a tie.
+[08:06.80]Maybe the first one, can we do a poll in the chat, mouse and keyboard versus controller?
+[08:13.52]Because I'm just really...
+[08:15.35]intrigued by the idea uh keyboard mouse is going to obliterate win that's good to hear that that's what I wanted to hear thank you chat
+[08:26.07]But yeah, I guess the, the, this is, this is, this build is curious already, but I guess my, my
+[08:34.55]My big question for you would first be about the House Flipper Invitational 3.
+[08:41.44]It was so much fun to
+[08:43.22]be a part of it and see it really become such a such a long and interesting contest.
+[08:50.71]It was really cool.
+[08:53.85]I was glad to do it.
+[08:54.65]I think I told you guys before that
+[08:57.91]I kind of like the idea of doing the competition that's not really... Is it a little different than other competitions?
+[09:04.98]How do you do a house build competition and not in real life?
+[09:08.82]Because I thought before it would be fun to do.
+[09:10.97]This is a long time ago.
+[09:12.67]to do a like house flipping IRL stream.
+[09:16.68]where, but getting that many people to actually do that is kind of, that's insane.
+[09:23.55]That's almost impossible to do.
+[09:25.34]But this game just lets you kind of just make whatever you want and just kind of put it out there.
+[09:32.49]And I figured that's like a kind of a fun thing to do.
+[09:35.17]And it was honestly just something, it was just a fun thing to do one day with some of my friends.
+[09:40.37]And now we're in the third one.
+[09:42.97]And I have fun every single time.
+[09:44.82]It's like the most fun I have on stream almost every time we do it.
+[09:48.15]Whoa, that's awesome to hear.
+[09:49.83]Yeah, it was so much fun as a viewer as well, just watching along and...
+[09:55.19]I think the excitement of every house, you have no idea what to expect.
+[10:00.72]And some of them weren't even houses.
+[10:03.93]I actually have a question from Rex, somebody called Rex from your Discord who asked us,
+[10:12.79]uh what houses from the House Flipper invitationals did the House Flipper team find the funniest
+[10:18.79]or what strategies were not expected.
+[10:22.94]For me personally, the most unexpected one was
+[10:26.91]Doug Doug Stans and Andre, who did the
+[10:31.75]casino oh yeah that was my yeah I love this one too and uh oh yeah that was great then the whole story of that was crazy
+[10:41.18]Exactly, the storytelling, what I loved about it.
+[10:45.29]Really, really great one.
+[10:46.69]Okay.
+[10:46.99]The thing about this game that I think grabs people when we do these events like that is.
+[10:53.10]because you can just kind of do whatever you want and not even including custom content because the first round had no custom content at all.
+[11:00.71]It was only that second round that allowed it.
+[11:03.10]But just being able to custom content alone for a lot of these, like the Scooby-Doo house and stuff was...
+[11:09.33]Being able just to put up random stuff on the walls, or just change whole wallpapers if you want, or...
+[11:16.40]You can kind of just tell a story.
+[11:18.25]It's almost like a little RP event that you can make in the game, which is weird.
+[11:22.73]I think it's the only game I've really...
+[11:24.59]played that allowed just sort of, hey, you can just kind of make an RP map that's not like something like a Garry's Mod or something.
+[11:32.31]It really does feel like it's a little...
+[11:34.01]like mini like map maker in the game which is fun yeah
+[11:39.56]The comparison to Gary's mod is exactly how I feel watching the House Slipper Invitational.
+[11:45.10]It feels like...
+[11:46.78]the it's so sandboxing that it's really really up to you like the rp one with
+[11:52.70]I believe it was RTGameCrickenAndLime who did the Scooby-Doo RP.
+[11:59.84]I loved that one because of the RP.
+[12:02.99]They got so into it.
+[12:03.93]You don't even really...
+[12:04.90]I guess I never really thought that...
+[12:07.66]this this game the sandbox mode itself really just kind of is like a map maker
+[12:12.93]Now there's, there's no, there's no script.
+[12:14.65]There's no scripting, right?
+[12:15.83]Like there's no, you can't do like, oh, like events that happened during this way if this happens, but it kind of, it's just like a fun little map maker.
+[12:23.61]It's actually being used as a mapmaker by our level designers.
+[12:26.87]That's like how we used to...
+[12:29.70]Like when we were just introducing it, we were like, hey guys, you're pretty much using the same tools as our team to build houses.
+[12:37.42]That's cool.
+[12:37.90]Which sounds pretty awesome, yeah.
+[12:41.76]Yeah, and on top of that too, at least for me, I...
+[12:46.91]one of the things I was gonna do that I kind of, I didn't do is I was gonna make a like,
+[12:51.74]Willy Wonka type house where... Like a choose your own adventure house where it was...
+[12:59.31]the map is was going to just kind of take you all over the place you would have to choose doors and I was going to have chat choose what door to go into and it'd be different things in each room uh so
+[13:09.29]the idea of making making a choose your own adventure game in a House Flipper sandbox mode
+[13:17.15]It's just, I never would have thought that that would be possible, but it is.
+[13:22.67]Yeah, that's a, it's a really good, a good point and I'm really excited
+[13:27.79]And for that reason, for the Scooby DLC, we had Jay, our UX designer, on stream with us.
+[13:37.09]sneaking at the fact that escape room mechanics will be coming alongside the
+[13:43.88]Scooby-Doo DLC.
+[13:45.12]Escape room mechanics?
+[13:46.42]What do you mean escape room mechanics?
+[13:48.94]So you'll have like, I mean, I can't talk too much details right now,
+[13:54.63]But things that you'd expect to find in an escape room like digital locks and the ability
+[14:00.80]to make puzzles and trap doors and things like that will be coming into the game.
+[14:05.15]Okay, that's pretty awesome.
+[14:07.100]Because I was just saying that, oh, there's no scripting in the making a house, but...
+[14:14.36]That's kind of like making events be able to happen if you do A then B happens in the actual game, in the map?
+[14:21.76]Yeah.
+[14:22.28]That's cool.
+[14:23.30]What's, what's the release date on all this potentially?
+[14:27.04]We don't have a concrete release date yet, but we've been saying
+[14:32.42]goobtober so we're hoping it will be October and we're aiming for October but
+[14:39.01]We we don't have a guarantee on it right now, but that's alright.
+[14:44.46]I'm laughing a little bit because I'm noticing that I'm just, I do this thing where I'm just putting up random walls while we're talking.
+[14:53.51]So relaxing.
+[14:54.92]I have not even thought my brain power has been like wall up, then go right.
+[14:59.97]And then click.
+[15:01.87]So I can't say I'm making the best house for us on this Q&A stream, but you know, it is what it is.
+[15:08.50]You're doing awesome, man.
+[15:10.37]It's beautiful.
+[15:11.91]In its own way.
+[15:15.96]I did have a question for you.
+[15:17.21]How was it as a player in the tournament as you...
+[15:22.96]You switched in the final round from host to contestant yourself.
+[15:27.47]How was that change of pace for you?
+[15:29.88]Well, it's fun because I've played this game a lot, obviously, right?
+[15:34.84]Over the years, House of Super 1, House of Super 2.
+[15:36.72]Yeah.
+[15:37.95]so playing I kind of didn't really want to play that much in the game because of my incredible experience you know and I it would have been unfair for me to have played uh for real
+[15:46.73]uh so but getting one of the things about watching people play that haven't really played before
+[15:54.52]I think that's some of the most fun in the world because people have to sit back
+[15:59.66]And first of all, the learning curve of this game is not very large, but it's still kind of there.
+[16:04.43]You need to know how to build a wall and you know what tool does what.
+[16:07.55]You need to know why the tool does what.
+[16:09.51]But throwing people into a scenario where they maybe don't know that much about like house design or house flipping or...
+[16:15.46]structural what what is and isn't interesting or good in a structural integrity for a house hey go build a house you have an hour
+[16:22.24]is from a viewer perspective, at least for me, because I was effectively just watching it over the course of the weeks after.
+[16:30.89]going to everybody's VODs and perspectives and just seeing how they handled, hey, build a house now.
+[16:36.91]Um, was great.
+[16:38.62]And I did playing in it though, the actual PVP thing, which I think we'll touch upon that a little bit later.
+[16:45.15]Uh,
+[16:48.83]There's a market there, guys.
+[16:50.36]There's a market there.
+[16:51.42]And I'm telling you, I feel like there's a market in there for like a PvP mode in the game.
+[16:59.47]It would be cool to see it, actually.
+[17:01.40]I know.
+[17:02.04]Esports, let's go.
+[17:03.10]House Slipper Esports.
+[17:04.93]House Slipper Esports.
+[17:07.04]I could die happy if there was a House Flipper esport event.
+[17:13.67]You'll be one of the main casters for sure.
+[17:19.21]Yeah, that would be really cool.
+[17:20.36]I mean the PvP ending of the tournament was a really nice twist on it.
+[17:25.99]And I like that the sky building was so clutch in the end.
+[17:31.76]Yeah, that adds like a whole other dynamic to the whole game.
+[17:35.39]I like when games...
+[17:38.63]can become a game that's not the game do you know what I mean doing even the tournament in the first place
+[17:45.94]that's like not this game from the ground up is a you build houses you flip them
+[17:52.30]and you clean stuff and you build interesting things and you can make a cool property, a like PVP competition between people
+[17:59.82]I like taking things and seeing things that are not really not supposed to do that.
+[18:04.14]And then you just do it anyways.
+[18:06.30]I have some of the most fun doing that.
+[18:11.35]Cool.
+[18:13.90]Alright.
+[18:15.70]We have a...
+[18:18.09]A funny question from Coco from your Discord who asked,
+[18:26.84]House Flipper devs will bessie the beaver ever respond to the illegal dam construction allegations
+[18:33.90]And I believe my colleague, I came up with a little announcement on this.
+[18:40.27]So here we go.
+[18:41.55]At this time,
+[18:44.15]Bessidy Beaver maintains her innocence and refuses to comment on any ongoing investigations.
+[18:52.28]The alleged illegal construction is something we, Frozen District,
+[18:57.35]have no comment on.
+[18:59.35]We would simply like to remind viewers that all beavers are innocent until proven guilty.
+[19:05.61]Guys.
+[19:06.17]That's something incriminating.
+[19:11.19]Our thoughts are with Bessie and beavers everywhere at this difficult and sensitive time.
+[19:17.83]Thank you.
+[19:18.67]Great question, Coco.
+[19:19.70]There you go.
+[19:20.18]There's your answer.
+[19:26.95]What else do we have?
+[19:28.27]Oh, we had a great question from Austin, also from your Discord, who asked...
+[19:36.34]Will you guys please consider making my ex's house as an option so I can sell all their furniture?
+[19:45.04]And our official answer to that is good news in sandbox mode.
+[19:49.82]You can totally do this by yourself.
+[19:52.01]You don't need an update.
+[19:53.97]You can recreate your ex's house and do with it as you please.
+[19:59.95]that's a that's a wild stuff you know making an x as a house to then like yeah I'm gonna sell that
+[20:06.97]You're not getting that.
+[20:08.29]I'm going to destroy this wall too.
+[20:09.71]I never liked that wall.
+[20:10.79]We always put that wallpaper up there.
+[20:12.58]I always hated.
+[20:13.98]That's wild.
+[20:15.48]That's wild.
+[20:18.50]Great question.
+[20:19.84]So thank you, Austin.
+[20:21.67]If Austin is here, that was a great one.
+[20:24.43]um my head we we had a a more sensible question for you also from kaylin risu
+[20:31.66]who asked, what content or one feature would you love to see be brought into House Flipper in the future?
+[20:39.81]I would say other than PvP.
+[20:44.06]I think.
+[20:44.54]Do you have any?
+[20:46.84]Okay, I do.
+[20:47.50]I do.
+[20:49.41]and I don't know the technical limitations on the game because obviously especially if there's more than two or three people building in one multiplayer game
+[20:57.72]Do you guys have any plans for a kind of we take no responsibility if this breaks, but no limitations at all
+[21:07.56]to building at all and having like a gigantic sandbox where you can actually kind of just make a huge map and a huge house with tons of rooms and everything.
+[21:16.11]Damn, I remember this coming up before we even released House of Batuu.
+[21:22.03]And I remember we were kind of thinking about putting a code for the console
+[21:27.80]oh that allows you to do that and we were like okay yeah we're not gonna you know take responsibility you can break your game but we
+[21:34.38]We were about to put this in the game, but I don't know what happened to it.
+[21:38.91]Honestly, I have
+[21:40.17]I have no idea.
+[21:41.65]But the idea was there already, so we might actually ask around and see if this can be done.
+[21:47.62]Because I guess that would be very useful for some bigger projects.
+[21:51.97]Even like content creation projects as well.
+[21:55.65]That would be amazing.
+[21:56.57]I think that
+[21:58.21]Obviously, as devs, you never...
+[22:00.98]I don't want to speak for you guys, but I'm sure this goes through your head, is if you put a feature into a game...
+[22:05.66]and it's messed up or it doesn't work or it breaks.
+[22:08.67]You're kind of like, people go, hey, why'd you put that in?
+[22:11.16]Why is it broken?
+[22:11.90]But you're like, we just did it because maybe you wanted it.
+[22:16.15]But having that kind of disclaimer that, hey, this thing is wide open.
+[22:20.03]You can build as far and wide as you want.
+[22:22.06]Your computer is going to explode.
+[22:25.22]Or it will crash.
+[22:26.40]Or it's probably going to crash.
+[22:28.23]Almost like the...
+[22:29.88]It is what it is.
+[22:31.08]We've implemented it and good luck because it might not work very well.
+[22:36.47]I think I just would love to see more
+[22:40.92]especially people making their own little custom RP events and stuff in here.
+[22:44.01]I feel in custom, even like custom neighborhoods, which again,
+[22:49.06]That's probably so difficult to do, and I'm not going to speak as an armchair game developer, but being able to build...
+[22:55.51]A neighborhood, right?
+[22:56.23]Like look at where I am right now, being across the street here.
+[22:58.96]If you could make your own, effectively your own little town would be kind of fun.
+[23:04.73]depending on the limitations, but because having like across the street, down the street, almost like a little zoomed in little diagram town world you can kind of have here.
+[23:16.43]Yeah.
+[23:17.93]Everybody in the tournament could have their own little house.
+[23:20.32]I would love to see that one day, something like that.
+[23:22.71]Yeah, that would be amazing.
+[23:27.98]What else have we got for you?
+[23:30.38]We did...
+[23:32.07]We did get a question about Scooby-Doo and we haven't actually released this information before.
+[23:40.20]So we're letting people know for the first time, how much will the Scooby-Doo DLC be
+[23:47.39]on release.
+[23:48.37]It will be the first paid DLC on House Liber 2.
+[23:54.86]And it will be $19.99 USD.
+[23:59.55]20 bucks.
+[24:00.05]So that was 20 bucks.
+[24:01.51]20 bucks.
+[24:03.11]So what is in the...
+[24:06.53]What is like the meat and potatoes of that DLC?
+[24:09.46]Like if you can speak on a little bit of it.
+[24:12.52]We can.
+[24:13.82]It will be several new jobs, several new items.
+[24:19.58]We just had...
+[24:21.03]Jay, one of our UX designers on stream with us, who was highlighting the fact that even if you aren't a fan of Scooby per se,
+[24:29.82]There is going to be so much like medieval and Gothic style
+[24:35.94]furniture and items, and like I said, the escape room mechanics.
+[24:40.06]There's a lot of stuff coming, even if you aren't a particularly big fan of
+[24:47.79]It's going to be over 500 items, actually.
+[24:49.65]I was going to say, do you have an item count number?
+[24:52.88]500, you said.
+[24:56.06]Yeah, over.
+[24:57.88]We might go for more, but for now we're keeping it at around 500.
+[25:02.36]How many items are in the game for you to place right now and use right now?
+[25:05.73]Out of curiosity.
+[25:07.17]I gotta find this.
+[25:08.05]Is it in some folder somewhere?
+[25:12.04]I know that since launch, we've added over 1.5K new items since launch, but that doesn't include the items that came out on launch.
+[25:22.46]So yeah.
+[25:26.02]It's four and a half thousand, actually.
+[25:29.01]Yes.
+[25:29.39]Four and a half thousand.
+[25:30.99]So with the DLC update, it'd be over 5,000.
+[25:35.11]Yeah, over 5,000.
+[25:36.37]Oh, well, that's a number we should use in our marketing.
+[25:39.44]Yeah.
+[25:40.46]That sounds good.
+[25:41.32]Over 5,000 items.
+[25:44.13]Yes, exactly.
+[25:48.49]So items, items, but then all the new mechanics and there is some content coming to the base game as well.
+[25:53.82]Yeah.
+[25:54.46]So that's pretty exciting.
+[25:56.82]And there's like, it's going to be a lot of new
+[26:01.17]customization options for the already existing items and stuff like that.
+[26:05.50]So it's just going to be a big update as well, more than just a DLC release.
+[26:10.49]Yeah.
+[26:11.71]Very cool.
+[26:14.23]We got another question from someone on your Discord called Grandpa, which...
+[26:20.11]Actually, let me address a little bit of a misconception that we have in the House Slipper community.
+[26:25.66]Oh, okay.
+[26:26.12]The question was, what's inspired a sequel so soon?
+[26:31.31]And we get this kind of question a lot, but there's five and a half years
+[26:37.45]between the release of House Flipper 1 and House Flipper 2, which is a long time in game dev.
+[26:43.83]So they're not...
+[26:44.83]It seems like they came out quite close together, but it's over half a decade.
+[26:50.37]between the two games.
+[26:51.52]So there is huge differences.
+[26:55.25]One of the big differences being, I've been told,
+[27:00.25]In the original game, you build in, everything is in columns, everything's based on columns, whereas in the sequel, it's all based on blocks.
+[27:09.71]which makes the sandbox mode.
+[27:13.08]possible and you can do a lot more in it based on the block system.
+[27:18.29]But yeah, five and a half years.
+[27:20.16]A lot of people think they came out right after each other.
+[27:22.98]It's interesting because I feel like time, this is just a...
+[27:26.97]I I keep on like jump scaring myself with the wallpaper I'm putting up so I'm gonna go over here um
+[27:32.17]The, I feel like time in general feels like it's going so much better.
+[27:35.59]Like you just said House for One came out when?
+[27:39.15]2018.
+[27:40.51]May 2018.
+[27:41.07]That just doesn't seem correct in my brain.
+[27:45.11]It's like...
+[27:46.17]didn't it come out like two years ago like I feel like time has gone so fast in the last like four or five six years
+[27:53.98]I think the pandemic added to that, right?
+[27:57.99]But yeah, over seven years old, House Flipper 1 now.
+[28:01.66]Crazy.
+[28:03.22]I, I know that any, any, you guys still do periodic updates to house for one.
+[28:07.81]Is that something that you guys still doing or.
+[28:11.59]or you guys kind of you guys solely kind of like want to put all the attention on the house slipper too
+[28:16.04]Yeah, we're slowly starting to... Yeah, yeah, we're just kind of like doing that right now.
+[28:21.15]But even after the launch of House of Batuu, we tried to...
+[28:25.46]not completely leave the House of One community because some people prefer House of One and we were like, okay guys, we get it.
+[28:33.66]So we brought up some new updates, but now we're focusing on the second one.
+[28:39.82]Cool.
+[28:40.03]100%.
+[28:40.31]Yeah.
+[28:44.57]I also had a question from us to you.
+[28:47.03]Have you ever visited Poland before, Czerma?
+[28:51.22]No, this might shock all of you in the call right now, but I have never left North America in my life and I'm 40 this year.
+[29:00.65]Wow.
+[29:02.50]Would you like to?
+[29:04.24]I've always wanted to do a full kind of European tour.
+[29:10.33]So I've wanted to do the whole go from, you know, start in Spain or start in France and just kind of go all the way and spend like a month doing it.
+[29:20.14]But every time I always think about doing it, I'm like, yeah, maybe this is the year.
+[29:24.55]And then something just happens.
+[29:26.24]where it's just like it's not this year it's next year and then something happens that year and it's like it's not this year it's next year so I I do there's also that I just want to go to Japan
+[29:34.35]I've had friends be like, hey, you want to come out to Japan?
+[29:37.26]It's great.
+[29:38.36]It's like, yeah, I would, yeah, next year.
+[29:41.15]And then I go, wait, I said next year for the EU.
+[29:43.83]And like, oh, wait, I can't, am I going to do them both?
+[29:46.80]So I need to get out of the United States travel-wise.
+[29:52.38]So I'm hoping to do that next year.
+[29:56.07]Cool.
+[29:57.16]Very nice.
+[29:58.86]One of the reasons I ask you, outside of my own curiosity,
+[30:03.20]is that we just launched the new community contest today and the grand prize is an all expenses paid trip
+[30:11.39]to Krakow, Poland to come and meet the devs and we'll take you, the winner, out on trips.
+[30:19.35]That's cool.
+[30:21.37]Any of your community would like to check it out, you can just go on House Leopard 2 page on mod.io.
+[30:28.60]And whoever wins, we're going to pay for them on a plus one to fly out
+[30:33.95]come stay in a hotel, spend some time with us and see a bit of medieval Europe.
+[30:40.42]That's cool.
+[30:41.03]What, what, what are the details of the, of the contest?
+[30:42.73]What is it?
+[30:43.31]Uh, certain builds or.
+[30:45.69]Yeah, we've got a shell map of a pool that our level designer Artec has made.
+[30:53.89]Basically, it's like the imagination is the limit.
+[30:57.70]As long as you don't modify the pool in the sandbox map itself,
+[31:05.24]You can do whatever you want.
+[31:07.49]The full rules and the list of everything is going to be on the
+[31:12.13]the mod.io page that we've got somewhere.
+[31:15.27]But if you just Google House Flipper 2 mod.io, you'll find it.
+[31:20.86]For anybody who's interested in applying, we'd love to meet the lucky winner.
+[31:28.36]Yeah.
+[31:30.32]Do you have a favorite place that you've been to in North America then?
+[31:34.71]I guess you've traveled a lot in North America.
+[31:36.96]Yeah, I'm kind of biased too.
+[31:39.63]I love New England.
+[31:40.69]I grew up in New England.
+[31:41.69]I love the Northeast.
+[31:43.28]you get every single season you get great summers you get great falls you get great the winter I you get everything if you want to experience every single type of weather it's new England
+[31:53.83]Um...
+[31:55.11]Also, parts of California are really wonderful too.
+[31:58.69]I live in Vegas right now, which I love Las Vegas for a lot of reasons, but the weather is...
+[32:04.82]Pretty extreme for a lot of people, so I feel like that wouldn't be, the weather wouldn't be the thing to say, but...
+[32:10.30]Yeah, I'm a sucker for New England.
+[32:12.68]I love Boston.
+[32:13.69]I love like New Hampshire, Vermont.
+[32:19.21]I've never been there, but I'd love to see it.
+[32:24.64]That whole area.
+[32:25.64]I've never been to any of the northeast coast actually.
+[32:31.61]Mainly Los Angeles for certain, where you guys usually have been.
+[32:35.11]Do you work?
+[32:36.68]Yeah, California for conventions, TwitchCon.
+[32:42.56]What's the other big one out there Ida went to?
+[32:45.47]GDC.
+[32:46.27]GDC.
+[32:46.48]Yeah, right.
+[32:50.74]Yeah, but I'd love to see more of the US.
+[32:55.40]Hopefully, I mean, it's not guaranteed, but hopefully we'll be at TwitchCon San Diego this year.
+[33:00.81]Very cool.
+[33:02.33]Awaiting confirmation
+[33:04.38]Yeah, just noticing right now that you, again, going back to how this is House Flipper, where you flip houses, but you are making a game to play in here.
+[33:14.45]And I think I remember Doug Doug and I think Doug Doug and Ludwig was it that decided to make like a huge.
+[33:22.100]game as one of their competition maps.
+[33:26.59]So they didn't even make a house.
+[33:30.07]That's what I love actually.
+[33:32.35]This update was probably my favorite one, Flores Lava.
+[33:35.04]Great update and I remember we
+[33:38.34]We kept playing the same three levels that we put in the game and we just kept speedrunning them in the office here.
+[33:44.07]You know, recording our speedruns.
+[33:46.95]That's so cool.
+[33:47.31]Yeah, that was cool.
+[33:49.19]Yeah.
+[33:49.39]And also the, uh, one of the, but just not talking about like, uh, favorites from the last tournament, but Joel, uh, Doug, Doug point crow.
+[33:57.92]They did that plane routine where there was just, we were in the airplane and they put in sound effects in and...
+[34:04.53]That wasn't a house.
+[34:06.23]That was not a home that you built and flipped.
+[34:09.88]Which is just, again, goes back to how I feel about the game in general.
+[34:14.67]I'd never seen anybody do a plane in house flip or two until that point.
+[34:19.08]That was true.
+[34:20.12]Yeah.
+[34:20.90]Hey, that's right.
+[34:22.89]I got a question for you guys.
+[34:23.89]Do you ever get anybody... You're talking about creative communities?
+[34:28.65]I feel like this game is great for staging stuff.
+[34:34.05]for like a TV shoot or a certain ideas for like a bit like a theater production or something buying the base game here
+[34:43.06]and staging something.
+[34:44.02]Do you guys ever, people ever use it for that purpose?
+[34:45.95]You ever hear about anything like that?
+[34:48.17]I haven't actually.
+[34:50.20]I'm not sure, yeah.
+[34:51.61]I'd be very curious to see it used for that reason.
+[34:53.89]True.
+[34:55.54]Because you could... Yeah, exactly.
+[34:58.14]I was going to say, people seem to be using it for...
+[35:02.82]At least in the tournaments that we do as these little sets.
+[35:06.45]And this game seems kind of perfect just to build a little quick set that you can visualize shots and stuff.
+[35:12.93]I feel like people would be using it for that.
+[35:14.35]If they're not, they probably should be.
+[35:17.20]Yeah, it's true.
+[35:18.69]I mean, I can't remember whose it was now, but somebody else had the underground
+[35:26.07]like drug lab.
+[35:28.05]I'd never seen it be used for that either, but it looked totally legit.
+[35:32.47]By the way, I do have to say, thank you, House Flipper, all of you House Flipper devs.
+[35:39.88]Some of the content of some of these houses have been...
+[35:43.29]outrageous and uh I it's funny it's fun that I told people oh hey well it's a sponsor stream hold on
+[35:51.91]It's like you guys were just on board with everything.
+[35:56.06]Yeah, I mean, it's sandbox, right?
+[35:58.40]Like whatever people do with it is what they
+[36:02.12]what they do with it.
+[36:03.43]I remember tuning into some VTubers streaming
+[36:08.04]I was Flipper 2 once, and I was like, oh, hey, guys.
+[36:12.29]Hi, we're the devs.
+[36:12.99]We just came to say hi.
+[36:14.78]went to see what they're doing and they were making a sex dungeon in the haunted house that's right
+[36:22.95]So like if you wish to do with the games up to you, I mean, if possible,
+[36:28.99]Creativity is there.
+[36:30.30]It's there.
+[36:31.36]The creativity is the limit, really.
+[36:34.78]Hey, well, no, no, it's okay.
+[36:35.96]Peggy's fine with that.
+[36:42.27]Hey, what is it?
+[36:43.53]Online interactions will differ, right?
+[36:45.81]Online interactions may differ from the original product.
+[36:48.36]Yep.
+[36:48.88]That's what it is, right?
+[36:49.94]That's what you say.
+[36:50.46]Yep.
+[36:55.84]What else have we got for you?
+[36:57.48]Oh, I did want to know if you have a favorite video game of all time.
+[37:02.46]Oh, hard question, isn't it?
+[37:04.98]Or any honorable mentions?
+[37:08.74]I can give you like the top five.
+[37:11.20]Okay, wow.
+[37:12.52]Diablo II.
+[37:14.81]Oh, wow.
+[37:17.23]Team Fortress 2.
+[37:19.25]Oh yeah!
+[37:23.87]Uh...
+[37:24.37]Okay, after the first Bloodborne...
+[37:27.91]That's one, two, three.
+[37:29.97]Then it gets messy.
+[37:32.33]Mario RPG?
+[37:35.56]Hold on.
+[37:35.88]It's fighting.
+[37:36.46]It's fighting.
+[37:36.90]It's fighting.
+[37:37.24]It's fighting.
+[37:38.29]Because...
+[37:40.58]I see people saying, um, sorcery, but sorcery was a book first.
+[37:45.71]So I don't, I guess that counts.
+[37:46.76]It was game book.
+[37:47.30]It was a treasure and adventure book.
+[37:49.08]That would definitely be up there.
+[37:51.11]And yep, Chrono Trigger.
+[37:53.02]I'd say that's probably top five.
+[37:55.88]Great list.
+[37:57.42]And Sorcery and House Flipper and House Flipper 2.
+[38:02.03]Hey!
+[38:03.21]That was the answer we were waiting for.
+[38:07.61]Good.
+[38:09.54]Yeah, our stream master is a huge Diablo fan and jumped for joy at your
+[38:17.30]Oh yeah.
+[38:18.94]True.
+[38:19.48]I think Diablo II is...
+[38:22.67]It's just the...
+[38:24.23]I determine how I feel about what the best game that I think is
+[38:30.15]by how many times I've come back to it and played it again.
+[38:34.44]And all the ones that I've said to you, at least in the top five there, I have beaten
+[38:39.59]and come back to dozens and dozens of times.
+[38:43.32]And some of them hundreds of times, for instance, like Team Fortress.
+[38:47.14]I have stopped playing Team Fortress.
+[38:48.77]Come back, play it again.
+[38:49.95]Stopped, come back, play it again.
+[38:51.07]For over a decade.
+[38:51.91]Almost 15 plus years of how long it's been out.
+[38:56.33]So I think that the more you go back to a game, the more you actually do like it, even if it might not even be
+[39:02.64]Doesn't need to be like the top acclaimed, highly acclaimed games.
+[39:05.55]Like those are.
+[39:07.01]But I think the list should always be how many times you can come back to it and love it again.
+[39:13.38]Yeah, true, true, true.
+[39:15.19]What about you guys?
+[39:16.28]What are some of your favorites?
+[39:18.86]Well, just before I answer you, I just wanted to mention your TF2 days.
+[39:23.74]We actually got a question from someone from your community, bluelion101.
+[39:28.93]who asked, how did we become aware of you and
+[39:36.00]How did this collaboration between us progress?
+[39:38.69]And it was actually one of our 3D artists called Fez.
+[39:44.16]He was a huge fan of your TF2 content and
+[39:50.46]one day suggested, somebody suggested to him
+[39:56.33]that you love House Flipper and he suggested it to the marketing team and here we are.
+[40:01.56]So it all came from
+[40:03.11]one of our 3D artists being obsessed with your TF2 content back in the days.
+[40:08.76]That's how we...
+[40:11.47]We originally reached out.
+[40:14.18]Well, that's awesome.
+[40:15.12]We're talking about time going fast.
+[40:17.86]It's crazy that that...
+[40:19.76]it's that's 15 years ago that's a long time ago so at I it's funny I hear about sometimes people
+[40:27.78]Especially when I started streaming.
+[40:29.40]Because I... People in this community, in my community, maybe some of you don't even know.
+[40:34.95]Maybe a lot of you do, but...
+[40:36.70]I was a YouTuber.
+[40:37.86]I was a YouTuber.
+[40:39.00]I made YouTube videos.
+[40:41.71]from 2011 on, uh, on through like 2015.
+[40:44.100]I'd probably even turn my stream on.
+[40:47.49]And, uh,
+[40:49.01]it's interesting to see people that kind of show up later, decade later, saying, oh,
+[40:55.62]wait a minute, you made those TF2 videos 15 years ago.
+[40:59.75]And it's like,
+[41:01.23]Oh yeah, I did.
+[41:02.26]Yeah.
+[41:02.80]Oh shit.
+[41:04.18]You know those?
+[41:05.43]So that's, it's cool to hear that.
+[41:07.98]Yeah.
+[41:09.31]Wow, that must be trippy.
+[41:10.93]15 years.
+[41:13.04]I can't believe there are people here right now.
+[41:15.20]Honestly, I've said this before.
+[41:18.87]There's people still here and we're still going and I'm just happy and grateful that people still think it's fun.
+[41:28.16]I have maybe one last question or last couple of questions to round the dump.
+[41:36.36]With Scooby-Doo being our first licensed collaboration, do you have any
+[41:43.05]other collabs that you'd love to see be brought into House Flipper?
+[41:47.89]Is there any other IPS that you think would make a great crossover?
+[41:57.61]People are saying, don't make me say this.
+[42:00.20]Don't make me say this.
+[42:01.00]I was going to say it anyways, but...
+[42:04.39]Okay, so there's a little bit of context to this answer.
+[42:06.96]I'm going to give you the context before I give the suggestion because I will be accused of trying to get
+[42:12.83]content in a game so I can prove to people that I was right about something.
+[42:19.26]Three Stooges.
+[42:22.58]The Three Stooges.
+[42:26.65]Don't put it in.
+[42:27.57]Don't even consider putting it in.
+[42:30.95]The actual, the real answer is
+[42:34.73]What put a lot of people, and this is, I imagine the licensing and the rating of the game too.
+[42:41.16]But the big thing that got people into the first kind of House Flipper stuff that I was doing years ago was Saw.
+[42:49.13]I was making saw rooms and saw traps and like horror games in like RPing in the game.
+[42:57.23]So, horror stuff?
+[43:00.46]I think a suggestion I would actually have, not necessarily an IP, but...
+[43:05.99]Being able to kind of make, you said that there might be something coming in here soon of being able to actually interact with stuff and have things happen, like digital number pads and escape room stuff.
+[43:15.46]Thank you.
+[43:16.30]Being able to make like a little horror map would be kind of fun.
+[43:19.13]Making like a haunted house.
+[43:20.81]Because that was sort of the idea when I said I wanted the ultimate haunted manor was...
+[43:25.93]how do they interpret that how do you make a haunted house in this game House Flipper
+[43:31.07]So I feel like more like spooky stuff, more scary stuff would be kind of fun.
+[43:35.54]I don't know how that changes the rating of the game if horror stuff is added like that.
+[43:42.98]Well, like you said, technically, if it's in sandbox mode, I think it wouldn't affect the rating.
+[43:49.97]I'm assuming not.
+[43:51.43]But that's a really good idea.
+[43:53.16]And maybe...
+[43:55.50]Maybe it could be the basis of House Flipper Invitational 4.
+[43:59.62]I'd love to...
+[44:02.57]Talk about potential tournaments in the future with you coming up second half of this year or next year.
+[44:12.10]I will be reaching out soon to you and your team about what we could be doing in the near future.
+[44:21.28]A scary round or a scary themed house slipper invitational would be fantastic actually.
+[44:28.85]I think that's a really good idea.
+[44:31.06]Saw?
+[44:33.40]Saw is the first thing that comes to mind, but...
+[44:37.13]Every time I ever wanted to do one of these, there always was like a theme kind of behind why I wanted to do it.
+[44:42.72]This one was obviously co-op related.
+[44:44.14]It was everyone's going to work together at the same time because the co-op update came out.
+[44:48.04]But...
+[44:49.35]Yeah, I like having a reason to have people do things and without spoiling potential future things.
+[44:56.23]I like it when they don't know either, too.
+[44:58.31]Where it's like, what are we building?
+[44:59.63]What are we doing?
+[45:00.11]And it's like, good luck.
+[45:02.29]So there is a lot of potential for future stuff.
+[45:04.32]So I'm open to it for sure.
+[45:07.43]Awesome.
+[45:08.45]Awesome.
+[45:09.47]Right.
+[45:09.89]Great.
+[45:10.42]Do you have any questions for us?
+[45:15.43]Yeah.
+[45:17.25]I've never, this is so cool.
+[45:18.45]I've never been in this position to just ask a dev anything I want about the game that I like.
+[45:22.78]Okay.
+[45:26.12]When you...
+[45:27.10]Okay, House Slipper 1.
+[45:28.04]What...
+[45:31.39]What did you guys do before House Slipper 1?
+[45:35.79]Any other games that you guys wanted to make or want to make besides something like this?
+[45:39.56]Why a...
+[45:40.36]game where you flip houses.
+[45:42.62]Was there other ideas that you guys had iterated on before locking in this?
+[45:48.97]Or this genre.
+[45:49.55]We had some niche games.
+[45:53.25]I remember some games that we used to work on, but they were very niche.
+[46:00.22]We had a game called, for example, Body of Evidence, which is like hiding bodies.
+[46:05.45]No, no, no.
+[46:05.93]It was like a murder scene cleanup.
+[46:09.79]Oh, cool.
+[46:12.30]Yeah.
+[46:12.64]It didn't reach any huge success.
+[46:15.80]So that was something.
+[46:17.44]What else?
+[46:19.49]I will say, what gravitated me towards this game is, it's funny you mention that, because I was on a kick for a while
+[46:26.14]The act of cleaning up an area, I love that.
+[46:30.57]I spent a ton of time playing games like that.
+[46:33.19]Like the viscera cleanup details.
+[46:35.49]I was on a big kick of that.
+[46:41.21]Seeing your game come out, I remember looking at the Steam page and it was this broken down
+[46:46.50]trash everywhere, bugs everywhere.
+[46:49.04]And it showed people cleaning up and scrubbing the windows.
+[46:52.61]And then putting in a piece of furniture and taking off the paint.
+[46:54.82]I was like, okay, I got to play this.
+[46:56.24]I have to play this game.
+[46:57.48]That was what gravitated me there in the first place.
+[46:59.72]So...
+[47:00.98]That's funny that you guys started there, because that's exactly why I even opened it for the first time.
+[47:07.95]Wow.
+[47:09.19]It all comes together.
+[47:12.29]I'm really enjoying watching, because I'm not actually playing, but I'm watching this house that you're building right now come together.
+[47:19.16]Yeah, I'm more of a participant.
+[47:23.11]I'm drinking the coffee and playing the level that he's making.
+[47:29.17]It's pretty good so far.
+[47:30.40]I'd rate this level.
+[47:32.16]I'd rate it an eight and a half out of 10.
+[47:34.70]You know, I'm actually looking at you going through this and I'm like, uh,
+[47:38.65]like iterating here.
+[47:41.07]I see.
+[47:41.79]Like, yeah, yeah, yeah.
+[47:43.27]Because I got to make this a little bit challenging.
+[47:45.69]So it really helps.
+[47:47.08]A live game where the developers of the game make the game while players are playing it in a server.
+[47:55.77]Boom.
+[47:57.30]Boom.
+[47:58.48]You can have that.
+[48:00.33]Wow.
+[48:00.69]Thank you.
+[48:02.25]Another RP event potential.
+[48:04.38]I see.
+[48:07.38]Alright, I believe that is all of our questions that we've chosen.
+[48:15.20]I'd like to say thank you to your Discord community for submitting so many
+[48:22.12]I mean, we had serious questions, total meme questions.
+[48:26.59]It was a really good selection there.
+[48:28.27]So thanks to everybody who got involved.
+[48:31.10]And well, thanks to you guys, because I'll tell you, when I first played this game, when I first loaded up House Flipper 1 for the first time,
+[48:39.95]I never would have thought in a million years that we'd be in this call right now talking about the things we're talking about.
+[48:47.45]I'm a huge fan of the franchise.
+[48:48.54]You guys obviously put a lot of time into it, a lot of work.
+[48:52.06]And you guys seem like really cool dudes, really fun team, so...
+[48:55.84]I'm happy to have you guys on, happy to do all this stuff and continue to collaborate and talk things.
+[49:01.13]And it's been a lot of fun.
+[49:03.25]So thanks.
+[49:05.51]Man, it's a pleasure.
+[49:06.57]It's a pleasure for us too, yeah, for sure.
+[49:08.71]Like, for us to have yourself...
+[49:13.38]Showing so much support and appreciation and enjoyment from our game and so much creativity and so much involvement is such a...
+[49:22.05]a pleasure and a privilege to have you connected with our IP.
+[49:26.18]It's so nice to get to
+[49:28.21]work with you, explore ideas with you and get these tournaments set up.
+[49:32.60]So it's really been an absolute highlight of getting to
+[49:37.85]to work on House of R2.
+[49:39.60]So thank you to you and your mods and your community.
+[49:44.69]It's been a really, really fun ride.
+[49:47.45]Yeah, I could say the same thing.
+[49:51.68]Anytime there's ever like a potential to talk to devs or have like a partnership or do anything like
+[49:55.57]this or do like a, you know, collaboration sponsor type stuff, whatever.
+[50:00.31]It's really cool to actually be able to be on the same wavelength as you guys.
+[50:04.90]So it's just, it all comes together perfectly, I think.
+[50:07.76]So I'm very happy about it.
+[50:09.24]You guys are great.
+[50:11.46]Aw, likewise.
+[50:12.85]Thank you.
+[50:14.15]Awesome.
+[50:14.85]Damn!
+[50:16.11]That's wholesome.
+[50:16.95]Yeah, what a wholesome way to end.
+[50:20.24]Thank you so much for your time and for having us as guests on your stream.
+[50:26.95]Thank you, thank you.
+[50:27.81]The release date for Scooby-Doo DLC is you got coming at some point?
+[50:32.71]You maybe got potential, you said?
+[50:35.76]We're aiming for October, you know, like Halloween themed, but we don't have any official release date.
+[50:45.56]Like we don't even know.
+[50:47.33]It's not like we're just- The nature of game development, right?
+[50:51.07]Yeah, exactly.
+[50:52.42]So we're really hoping for October.
+[50:57.40]you know, the Halloween the Halloween vibe, but but we'll see.
+[51:01.91]That's that and I don't have any any concrete date
+[51:06.39]But yeah, I'm looking forward to...
+[51:13.08]continuing working with you and seeing whatever we come up with on our next idea.
+[51:19.42]It's been such a pleasure.
+[51:21.74]yeah well thanks thanks for stopping by and I you guys just had your uh stream before hope it went well and yeah
+[51:29.77]Uh, we'll, we'll talk again.
+[51:31.89]Okay.
+[51:32.19]Yeah.
+[51:32.73]So thank you.
+[51:33.83]And thanks to thanks chat.
+[51:35.32]Thank you for being so, uh, active and participating and, uh,
+[51:40.24]I'll look forward to tuning into your stream again soon.
+[51:43.58]Exactly.
+[51:44.46]Thank you.
+[51:45.10]Thanks guys.
+[51:45.43]Thank you.
+[51:46.41]Have a wonderful day, everyone.
+[51:48.29]Bye.
+[51:54.14]The great group.
+[51:55.20]The great group.
+[51:57.98]That was cool.
+[51:59.87]I haven't really done a Q&A interview type thing with a dev in a very long time.
+[52:06.80]For these guys, yeah, of course.
+[52:12.39]But yeah, I'm going to switch now.
+[52:14.75]That was only like...
+[52:16.09]40 minutes, like an hour or so.
+[52:18.29]I'm not done streaming.
+[52:19.66]We are going to do...
+[52:20.66]I want to finish Dreamcore.
+[52:23.44]So...
+[52:26.50]What was your previous Q&A with devs?
+[52:30.41]Going to like PAX East and deciding that I was a journalist.
+[52:36.56]You know what I mean?
+[52:37.06]This is okay.
+[52:37.98]I gotta explain something to you guys.
+[52:40.81]10 to 15 years ago, everybody that was on YouTube that was doing any type of commentary videos or...
+[52:48.14]Oh, hey, I'm a YouTuber.
+[52:49.83]I'm a gaming YouTuber.
+[52:50.97]Of course I want to go talk to the press guy at the...
+[52:55.24]The League of Legends booth.
+[52:57.51]I didn't do that, by the way.
+[52:58.39]I never did that.
+[52:58.89]I don't think I ever did that.
+[53:00.91]But you'd find booths maybe that you would want to, hey, do you want to talk about your game?
+[53:06.41]It was kind of like journalist mode.
+[53:11.91]Uh, that's like kind of what I was like, maybe I should do that.
+[53:14.72]I did it like two or three times during some of those PAX videos.
+[53:17.78]And then I was like, yeah, I will not, not fucking doing this again.
+[53:25.28]Like, hey man, we're here with the devs of XYZ.
+[53:29.16]And I thought that that was like what you had to do.
+[53:33.67]But nowadays...
+[53:35.74]Hey, nowadays, we've reserved that for the fucking house slipper team.
+[53:41.11]No, they're great.
+[53:41.71]I was happy to do that.
+[53:42.83]That was a lot of fun.
+[53:44.82]Happy to continue the partnership and collaboration with them.
+[53:49.99]As you can see, I did say that they were cool, and I feel like they are.
+[53:54.50]They're really sweet.
+[53:56.88]I will be right back.
+[53:58.18]When I return, we will do Dream Corps.
+[54:02.25]So I'll be right back.
