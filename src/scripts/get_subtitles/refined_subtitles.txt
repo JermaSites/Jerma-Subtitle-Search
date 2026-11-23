@@ -262,6 +262,7 @@ Community_Content_Night.en.lrc
 Community_Content_Night_Part_2.en.lrc
 Community_Content_Night_Part_3.en.lrc
 Community_Content_Night_Part_4.en.lrc
+Community_Content_Night_Part_5.en.lrc
 Community_Content_Night_Part_6.en.lrc
 Community_Content_Night_Part_7.en.lrc
 Condemned_2_Bloodshot_Part_1.en.lrc
@@ -273,6 +274,7 @@ Contagion_Zombie_Stalkers.en.lrc
 Content_for_2024.en.lrc
 Cook_Serve_Delicious.en.lrc
 Cook_Serve_Delicious_2.en.lrc
+Cook_Serve_Delicious_Part_2.en.lrc
 Cooking_Mama_Cook_Off.en.lrc
 Cooking_Simulator_Part_1.en.lrc
 Cooking_Simulator_Part_2.en.lrc
@@ -335,6 +337,7 @@ Dark_Souls_Remastered_Part_8_Bonus.en.lrc
 Dark_Souls_Remastered_Randomizer.en.lrc
 Dark_and_Darker.en.lrc
 Dark_and_Darker_Part_2_With_Ster_Vinny_and_JustJoels.en.lrc
+Dark_and_Darker_Part_3_With_Etalyx_Pokelawls_Criken_Will_Neff_Nesua.en.lrc
 Darkest_Dungeon_II.en.lrc
 Darkest_Dungeon_Part_1.en.lrc
 Darkest_Dungeon_Part_2.en.lrc
@@ -740,6 +743,8 @@ Grab_Bag_Game_Night_Part_5_with_Ster_Poke_and_Vinny.en.lrc
 Grab_That_Auto_5.en.lrc
 Grand_Theft_Auto_VI.en.lrc
 Grand_Theft_Auto_VI_Part_2.en.lrc
+Grand_Theft_Auto_VI_Part_3.en.lrc
+Grand_Theft_Auto_VI_Part_4.en.lrc
 Grandpa_Invades_JermaCraft_Farm_Building_Episode_9.en.lrc
 Grandpa_Invades_JermaCraft_Who_Built_This_Episode_10..en.lrc
 Grandpa_Is_a_MLG_Pro_BF3_Noob_Episode_4_Battlefield_3_Gameplay_Commentary.en.lrc
@@ -872,6 +877,7 @@ House_Flipper_2.en.lrc
 House_Flipper_2_Invitational_Overview.en.lrc
 House_Flipper_2_Part_2.en.lrc
 House_Flipper_2_Part_3.en.lrc
+House_Flipper_Dev_Q_A.en.lrc
 House_Flipper_Invitational_with_DougDoug_Vinesauce_Vargskelethor_and_More.en.lrc
 House_Flipper_Part_10.en.lrc
 House_Flipper_Part_11.en.lrc
@@ -951,6 +957,7 @@ Jermaversary_An_Animated_Collab.en.lrc
 Jigsaw_Puzzle_Stream.en.lrc
 Judge_Jerma_I_am_The_Law.en.lrc
 Jump_King.en.lrc
+Jump_King_Part_2_Finale.en.lrc
 Jump_King_Part_3.en.lrc
 Jump_King_Part_4.en.lrc
 Jurassic_The_Hunted.en.lrc
@@ -1248,6 +1255,7 @@ NGU_and_Hot_Lava.en.lrc
 NIDHOGG.en.lrc
 Name_Your_Price_Part_2_with_Hasan_Pokimane_and_GeorgeNotFound.en.lrc
 Name_Your_Price_with_Ludwig_Mia_Malkova_and_Rich_Campbell.en.lrc
+Nancy_Drew_Ghost_of_Thornton_Hall.en.lrc
 Nancy_Drew_Ghost_of_Thornton_Hall_Part_2_Finale.en.lrc
 Nancy_Drew_Last_Train_to_Blue_Moon_Canyon.en.lrc
 Nancy_Drew_Midnight_in_Salem_Part_A.en.lrc
@@ -1520,6 +1528,7 @@ Resident_Evil_2_Remake_Part_2.en.lrc
 Resident_Evil_3_Nemesis_Trial_Version.en.lrc
 Resident_Evil_3_Remake.en.lrc
 Resident_Evil_4_Remake.en.lrc
+Resident_Evil_4_Remake_Part_2.en.lrc
 Resident_Evil_4_Remake_Part_3.en.lrc
 Resident_Evil_4_Remake_Part_4_Finale.en.lrc
 Resident_Evil_4_Remake_Part_5.en.lrc
@@ -1615,6 +1624,7 @@ Sea_Dogs.en.lrc
 Seaman.en.lrc
 Sega_CD_Games_Part_1.en.lrc
 Sega_CD_Games_Part_2.en.lrc
+Sega_CD_Games_Part_3.en.lrc
 Sega_CD_Games_Part_4_Halloween_Special.en.lrc
 Sega_CD_Games_Part_5.en.lrc
 Sega_CD_Games_Part_6.en.lrc
@@ -1686,6 +1696,7 @@ Sorcery_Part_4_2nd_Playthrough.en.lrc
 Sorcery_Part_5.en.lrc
 Sorcery_Part_5_2nd_Playthrough.en.lrc
 Sorcery_Part_6.en.lrc
+Sorcery_Part_6_2nd_Playthrough.en.lrc
 Sorcery_Part_7.en.lrc
 Sorcery_Part_7_2nd_Playthrough.en.lrc
 Sorcery_Part_8.en.lrc
@@ -1694,6 +1705,7 @@ Sorcery_Part_9.en.lrc
 Sorcery_Part_9_2nd_Playthrough.en.lrc
 Soulstone_Survivors.en.lrc
 Sp00n_and_I_Get_Mad_Then_Glad_D_SMITE_Anhur.en.lrc
+Space_Channel_5.en.lrc
 Space_Engine.en.lrc
 Space_Master.en.lrc
 Space_Warlord_Organ_Trading_Simulator.en.lrc
@@ -1734,6 +1746,7 @@ Stay_Dead_Contradiction.en.lrc
 Stay_Out_of_the_House.en.lrc
 Steam_Next_Fest_Demos.en.lrc
 Steam_Next_Fest_Demos_Part_2.en.lrc
+Steam_Next_Fest_Demos_Part_3.en.lrc
 Steam_Next_Fest_Demos_Part_4.en.lrc
 Steam_Next_Fest_Demos_Part_5.en.lrc
 Steelrising.en.lrc
@@ -2191,6 +2204,7 @@ The_Binding_of_Isaac_Episode_3_Here_we_go_again.en.lrc
 The_Binding_of_Isaac_Rebirth.en.lrc
 The_Binding_of_Isaac_Rebirth_Antibirth_mod_Part_1.en.lrc
 The_Binding_of_Isaac_Repentance.en.lrc
+The_Binding_of_Isaac_Repentance_Part_2.en.lrc
 The_Binding_of_Isaac_Repentance_Part_3.en.lrc
 The_Binding_of_Isaac_Wrath_of_the_Lamb_DLC_Breakdown_Review.en.lrc
 The_Binding_of_Issac_Rebirth.en.lrc
