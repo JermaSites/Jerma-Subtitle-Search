@@ -745,6 +745,7 @@ Grand_Theft_Auto_VI.en.lrc
 Grand_Theft_Auto_VI_Part_2.en.lrc
 Grand_Theft_Auto_VI_Part_3.en.lrc
 Grand_Theft_Auto_VI_Part_4.en.lrc
+Grand_Theft_Auto_VI_Part_5.en.lrc
 Grandpa_Invades_JermaCraft_Farm_Building_Episode_9.en.lrc
 Grandpa_Invades_JermaCraft_Who_Built_This_Episode_10..en.lrc
 Grandpa_Is_a_MLG_Pro_BF3_Noob_Episode_4_Battlefield_3_Gameplay_Commentary.en.lrc
